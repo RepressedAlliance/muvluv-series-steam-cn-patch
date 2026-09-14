@@ -1,6 +1,6 @@
 # Photon 文本、图片与路由证据
 
-[返回 rUGP 证据](../README.md) · [PF 项目](../../games/photonflowers/) · [PM 项目](../../games/photonmelodies/)
+[返回 rUGP 证据](../README.md) · [光子之花项目](../../games/photonflowers/) · [光子旋律项目](../../games/photonmelodies/)
 
 [CRmt／CRmti／CRimp 专项](crmt/README.md)另行整理当前 49 组图片、日英对应、全层身份和分级验证结果；
 不将它与历史 V6 图片数量相加，不分发官方或完整汉化图片。
@@ -33,7 +33,7 @@ photon/
 
 ## 2026-09-06 最新合并审计（草稿）
 
-PF 13,025 条、PM 44,698 条的最新中文快照保存在各游戏的
+光子之花 13,025 条、光子旋律 44,698 条的最新中文快照保存在各游戏的
 `text-data/layout-baseline/`，不覆盖上方历史 reviewed 表。
 参见[完整范围、宽度例外及未接入生产的颜色候选](../../docs/postmortems/pf-pm-layout-audit-20260906.md)。
 完整官方日英原文仅保留在本地审计；公开快照记录原文槽校验值。

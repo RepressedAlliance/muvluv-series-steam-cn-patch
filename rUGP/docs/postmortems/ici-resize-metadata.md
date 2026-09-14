@@ -6,7 +6,7 @@ A rebuilt Photon ICI passed the project's first static decoder, yet a full image
 
 ## Wrong assumption
 
-The first helper treated the encrypted wrapper as a generic length header whenever the plaintext length changed. That regenerated the second header word with low three bits set to `7`. The clean PF/PM files carried `3` in those metadata bits.
+The first helper treated the encrypted wrapper as a generic length header whenever the plaintext length changed. That regenerated the second header word with low three bits set to `7`. The clean 光子之花/光子旋律 files carried `3` in those metadata bits.
 
 The decoded `CInstallSource` object also stores the final RIO size twice. Updating only the obvious size field is therefore incomplete even when the object graph otherwise parses.
 

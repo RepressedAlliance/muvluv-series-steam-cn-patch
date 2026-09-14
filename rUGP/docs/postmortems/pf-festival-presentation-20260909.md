@@ -1,4 +1,4 @@
-# PF festival thumbnail translated, animated presentation missed
+# 光子之花 festival thumbnail translated, animated presentation missed
 
 The user observed Chinese in the album thumbnail G2498 (Cr6Ti, 210×123), but
 Japanese festival signs inside the animated presentation. The full background
@@ -19,10 +19,10 @@ clip both equal `(74,114)–(306,367)`, matching the archive's 232×253 draw ext
 Both use pitch 3200 and an 800×600 destination canvas. Native tracing was removed
 from the installed runtime after the capture; logs and game data remain local.
 
-The existing padding retry was restricted to 120–130 KB date-card payloads. PF
+The existing padding retry was restricted to 120–130 KB date-card payloads. 光子之花
 now retries exactly two/three trailing bytes for the same 800×600 canvas family,
 only accepting a complete remaining length/FNV identity in the sealed table. It
-does not scan for arbitrary prefixes. PM's prior extent policy is unchanged.
+does not scan for arbitrary prefixes. 光子旋律's prior extent policy is unchanged.
 
 For the observed G2019 identity and exact rectangle only, preparation authenticates
 the complete 800×600 sidecar and derives the canvas view, then retains only its
@@ -32,7 +32,7 @@ The entire caller buffer, including padding, is still hashed before and after
 the original decoder, preserving mutation detection.
 
 [`pf_festival_route.c`](../../tests/runtime/pf_festival_route.c) accepts a local
-bundle root and PF archive as arguments. It exercises the production preparation
+bundle root and 光子之花 archive as arguments. It exercises the production preparation
 and commit against the two actual archive payloads and installed sidecars, with
 zero/two/three padding bytes (including nonzero padding), both pitch signs,
 pre-commit no-write and outside-rectangle byte checks. Four-byte padding, changed
@@ -40,7 +40,7 @@ payloads and a shifted partial rectangle are rejected. It does not execute the
 proprietary decoder; private inputs are not shipped in Git or run in CI.
 
 The installed normal build is recorded in the current runtime sync evidence.
-PM rebuilt byte-for-byte identical to the user's already accepted album fix.
+光子旋律 rebuilt byte-for-byte identical to the user's already accepted album fix.
 The user replayed the same presentation after installation and confirmed that
 both the background and animated signs are now correct. This closes these two
 observed resources' live acceptance, not every CRip008 partial format.

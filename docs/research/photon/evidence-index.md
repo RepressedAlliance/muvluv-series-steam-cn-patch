@@ -79,13 +79,13 @@ JSON 保留原核查的数值，移除了本机绝对路径；`local-record/…`
 
 ### L11
 
-- 记录：PF 8 月 28 日清单
+- 记录：光子之花 8 月 28 日清单
 - 标识：`local-record/outputs/photon_patch_rootfix_v2/staging/packaging/pf_official_backing_repair_core_20260828_v2_titlefix/package_manifest.v1.json`
 - SHA-256：`A05DA49F7DAD55F24EDFBA749E271AAD9BA4F6A4ED010823C77DD149BAFBAAF1`
 
 ### L12
 
-- 记录：PM 8 月 30 日清单
+- 记录：光子旋律 8 月 30 日清单
 - 标识：`local-record/outputs/photon_patch_rootfix_v2/staging/packaging/pm_official_backing_runtime_observed_repair_core_20260830_v3/package_manifest.v1.json`
 - SHA-256：`33D8FDFEFFAE40396D2DF4DF097980222A5800176AC4B11D48557C8290D2E3A6`
 

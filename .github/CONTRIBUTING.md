@@ -43,8 +43,8 @@
 
 欢迎懂日语、愿意校对或修改译文的朋友加入
 [TDA](https://paratranz.cn/projects/19505)、[帝都燃烧篇](https://paratranz.cn/projects/20659)、
-[photonflowers](https://paratranz.cn/projects/20660) 或
-[photonmelodies](https://paratranz.cn/projects/20661) 的 ParaTranz 项目。
+[光子之花](https://paratranz.cn/projects/20660) 或
+[光子旋律](https://paratranz.cn/projects/20661) 的 ParaTranz 项目。
 即使不懂日语，也欢迎反馈错字、语句不通顺、显示异常或游玩问题，加入 **QQ 群：273626767** 交流。
 
 - [报告补丁或运行问题](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/issues/new?template=bug-report.yml)

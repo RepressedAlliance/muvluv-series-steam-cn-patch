@@ -1,8 +1,8 @@
-# photonflowers / photonmelodies 中文图片资源
+# 光子之花 / 光子旋律中文图片资源
 
 [返回 Photon 证据入口](../README.md) · [完整资产地图](../../../../docs/research/asset-map.md) · [图片制作流程](../../../../localization/image-workflow.md)
 
-这里保存 Muv-Luv photonflowers（PF）与 photonmelodies（PM）中文图片资源备份的公开清单与校验报告。完整图片包体积较大，作为 GitHub Release 附件保存，不进入 Git 历史。
+这里保存 Muv-Luv 光子之花与光子旋律中文图片资源备份的公开清单与校验报告。完整图片包体积较大，作为 GitHub Release 附件保存，不进入 Git 历史。
 
 > **分发整改未完成：**V6 的技术/本地化身份审核与分发权利审核不是一回事。清单中有 19 张 PNG 与官方来源文件字节完全相同；它们必须在下一份可分发资产中移除或改由合法本机输入重建。当前 Release 是历史研究资产，不是玩家补丁，也不代表通过现行[资产与发布政策](../../../../docs/project/asset-and-release-policy.md)。
 
@@ -11,13 +11,13 @@
 [当前静态图登记](static-review-20260909/README.md) 收录 1,791 项的分类、资源位置、
 处理状态和图片身份，不含图片文件。它区分人工登记、本地绑定、未安装修订和实机
 验收；不能与下面 V6 的历史 1,490 项混算。配套公开工具可用本地输入重建审核页
-与长图。PM 图片准入修复另有不依赖游戏资源的合成回归证据。
+与长图。光子旋律图片准入修复另有不依赖游戏资源的合成回归证据。
 
 ## V6（2026-08-24）
 
 - 技术/本地化审核集合：1,490 张 PNG；公开分发状态为 `pending-remediation`。
-- PF：见 [`manifest.json`](manifest.json) 的 `games` 统计。
-- PM：见 [`manifest.json`](manifest.json) 的 `games` 统计。
+- 光子之花：见 [`manifest.json`](manifest.json) 的 `games` 统计。
+- 光子旋律：见 [`manifest.json`](manifest.json) 的 `games` 统计。
 - 1,247 张：备份 PNG 文件字节与正式候选 SHA-256 完全一致。
 - 243 张：历史候选 PNG 曾在本地清理时删除；备份由已封存的游戏原生记录双解码物化，并在 Release 包中同时保存原生记录。封包时必须复用原生记录，禁止把解码预览 PNG 再编码一次。
 - 审核 JPG 从未作为备份源。
@@ -42,7 +42,7 @@
 `MuvLuv_Photon_PF_PM_CN_Images_1490_20260824_v6.zip.sha256` 用于直接校验 ZIP；
 ZIP 内部同名的 `SHA256SUMS.txt` 则是更长的逐成员校验表，不要把两者混为一谈。
 
-## PM 西瓜教程倒计时补充审核（2026-09-04）
+## 光子旋律西瓜教程倒计时补充审核（2026-09-04）
 
 [`pm-watermelon-timer-runtime-routes-20260904.json`](pm-watermelon-timer-runtime-routes-20260904.json)
 记录 11 个动态倒计时和 12 个整帧教程画面的逻辑/物理身份。动态项原本已在

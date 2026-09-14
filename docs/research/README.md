@@ -14,14 +14,14 @@
 | 研究 Photon 的 ICI、RIO、CRsa、RUO、Cr6Ti、CRip 与 Hook | [rUGP](../../rUGP/README.md) |
 | 了解 8311、字体、图片异色/撕裂/回退等问题怎样攻克 | [rUGP 复盘索引](../../rUGP/docs/postmortems/README.md) |
 | 查看我们从前人项目学了什么、又改进了什么 | [参考项目比较](references.md) |
-| 查看 PF／PM 直接移植、参考适配、自行实现的详细分类，以及七阶段完整路线 | [PF／PM 技术来源分类与完整蓝图](photon/README.md) |
+| 查看光子之花／光子旋律直接移植、参考适配、自行实现的详细分类，以及七阶段完整路线 | [光子之花／光子旋律技术来源分类与完整蓝图](photon/README.md) |
 
 ## 哪些来自前人，哪些是本项目完成的
 
 | 范围 | 主要参考 | 本项目实际增加的部分 |
 | --- | --- | --- |
-| rUGP 目录与对象定位 | [GARbro](https://github.com/morkt/GARbro) 的 RIO/ICI 读取实现 | 维护的 Python 目录读取器、PF/PM 卷映射、对象身份、父引用、路由普查和严格边界检查 |
-| rUGP 运行时思路 | [AFHook](https://github.com/eplightning/afhook)、历史 AGES 本地化经验、[rugptools](https://github.com/osmium76/rugptools) | 针对当前 PF/PM 构建的哈希锁定、字体策略、图片解码表面替换、失败关闭和可复现构建 |
+| rUGP 目录与对象定位 | [GARbro](https://github.com/morkt/GARbro) 的 RIO/ICI 读取实现 | 维护的 Python 目录读取器、光子之花/光子旋律卷映射、对象身份、父引用、路由普查和严格边界检查 |
+| rUGP 运行时思路 | [AFHook](https://github.com/eplightning/afhook)、历史 AGES 本地化经验、[rugptools](https://github.com/osmium76/rugptools) | 针对当前光子之花/光子旋律构建的哈希锁定、字体策略、图片解码表面替换、失败关闭和可复现构建 |
 | AGE2 `pack.bin`/FPD | [FatePackageManager](https://github.com/DaZombieKiller/FatePackageManager) 的格式注释和 Scrambler | 严格读取/筛选提取、TDA EGPACK 槽位写回、字节级验证、松散覆盖与逐作资产整理 |
 | 具体文本和图片格式 | 上述项目提供入口或局部先例 | CRsa/CVM 边界、8311 根因、RUO 使用边界、Cr6Ti/CRip007/CRip008 编码、1,490 图路由闭环等均按本项目样本和运行时重新验证 |
 

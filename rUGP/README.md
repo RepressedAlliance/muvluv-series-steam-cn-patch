@@ -1,8 +1,8 @@
-# rUGP：Photon Flowers 与 Photon Melodies
+# rUGP：光子之花与光子旋律
 
 [返回首页](../README.md) · [游戏与汉化资产](games/README.md) · [格式](formats/) · [运行时](runtime/) · [打包](packaging/) · [逆向复盘](docs/postmortems/README.md) · [测试](tests/)
 
-这里负责旧 rUGP／AGES 资源体系，与 [AGE2](../AGE2/README.md) 完全独立。当前目标是 Muv-Luv photonflowers（PF）和 photonmelodies（PM）。
+这里负责旧 rUGP／AGES 资源体系，与 [AGE2](../AGE2/README.md) 完全独立。当前目标是 Muv-Luv 光子之花和光子旋律。
 
 ## 先看懂资源层级
 
@@ -31,8 +31,8 @@ CRmt 家族的结构、日英对应、全层导出和替换验证请从[专项�
 
 | 游戏 | 已审校文本 | 精确运行时绑定表 | 图片资产状态 | 玩家包 |
 | --- | --- | --- | --- | --- |
-| [Photon Flowers](games/photonflowers/) | [13,025 条章节文本](games/photonflowers/translations/) | [69 行历史合同](games/photonflowers/text-data/runtime/zh-Hans.csv) | [636 项](games/photonflowers/images/) | [BETA 0.1.1](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/tag/pf-BETA-0.1.1) |
-| [Photon Melodies](games/photonmelodies/) | [44,698 条章节文本](games/photonmelodies/translations/) | [151 行历史合同](games/photonmelodies/text-data/runtime/zh-Hans.csv) | [854 项](games/photonmelodies/images/) | [BETA 0.1.1](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/tag/pm-BETA-0.1.1) |
+| [光子之花](games/photonflowers/) | [13,025 条章节文本](games/photonflowers/translations/) | [69 行历史合同](games/photonflowers/text-data/runtime/zh-Hans.csv) | [636 项](games/photonflowers/images/) | [BETA 0.1.1](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/tag/pf-BETA-0.1.1) |
+| [光子旋律](games/photonmelodies/) | [44,698 条章节文本](games/photonmelodies/translations/) | [151 行历史合同](games/photonmelodies/text-data/runtime/zh-Hans.csv) | [854 项](games/photonmelodies/images/) | [BETA 0.1.1](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/tag/pm-BETA-0.1.1) |
 
 上表图片数为 V6 历史集合。另见[当前 1,791 项静态审核选集](evidence/photon/images/static-review-20260909/README.md)
 及[审核页／长图工具](tools/images/README.md)：保留最新人工稿与待安装修订，不能与历史数相加。
@@ -50,7 +50,7 @@ CRmt 家族的结构、日英对应、全层导出和替换验证请从[专项�
 - [`formats/images/`](formats/images/)：Cr6Ti、CRip007、CRip008、CRmt／CRmti 编解码及 CRimp 类型属性。
 - [`formats/rio/`](formats/rio/)：RIO 加密、引用、RUO、CRsa 和 VM 字符串池。
 - [`tools/`](tools/)：ICI/RIO 目录、只读 CRsa 提取、图片检查、文本导出与来源验证。
-- [`runtime/`](runtime/)：PF/PM 分开构建、遇到未知 EXE/DLL 哈希即拒绝运行的 x86 代理。
+- [`runtime/`](runtime/)：光子之花/光子旋律分开构建、遇到未知 EXE/DLL 哈希即拒绝运行的 x86 代理。
 - [`packaging/`](packaging/)：从已经封存并锁定哈希的输入根构建候选包。
 - [`evidence/`](evidence/)：公开清单、哈希、路由闭环和可复核结论。
 - [`docs/postmortems/`](docs/postmortems/README.md)：8311、CRsa、RUO、Cr6Ti、CRip007/008、字体、shared/common 图片等完整攻克记录。
@@ -70,4 +70,4 @@ python -m unittest discover -s rUGP/tests -p "test_*.py" -v
 
 ## English summary
 
-This directory contains the legacy rUGP/AGES work for photonflowers and photonmelodies: reviewed translation tables, ICI/RIO/CRsa and image codecs, RUO primitives, a version-pinned runtime, packaging, evidence, tests and postmortems. It is independent from `AGE2/`; begin with the [workflow](docs/workflow.md).
+This directory contains the legacy rUGP/AGES work for 光子之花 and photonmelodies: reviewed translation tables, ICI/RIO/CRsa and image codecs, RUO primitives, a version-pinned runtime, packaging, evidence, tests and postmortems. It is independent from `AGE2/`; begin with the [workflow](docs/workflow.md).

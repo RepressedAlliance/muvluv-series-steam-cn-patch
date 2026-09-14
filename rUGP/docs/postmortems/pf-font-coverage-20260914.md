@@ -1,15 +1,15 @@
-# PF BETA 0.1.1: missing glyphs in body text and annotations
+# 光子之花 BETA 0.1.1: missing glyphs in body text and annotations
 
-PF BETA 0.1 included the correct Chinese strings for Rain Dancers, but its
+光子之花 BETA 0.1 included the correct Chinese strings for Rain Dancers, but its
 PhotonR2 font subset omitted characters used by the final reviewed text.
 At record `photonflowers11.rio:488271272`, order 98 uses `伶` in the annotation
 `首席女伶`, and order 103 uses `亟` in `国土亟待收复`. Windows GDI returned missing
-glyphs for both. This was a font coverage omission, separate from the PM
+glyphs for both. This was a font coverage omission, separate from the 光子旋律
 [special-text directive issue](pm-special-text-20260911.md).
 
-The audit covered the current 13,025 PF entries and 44,698 PM entries, including
-Chinese annotations. PF needed 11 absent characters: **亟伶抉捆涟淀漪箍绎菊诘**.
-PM had no missing characters within this scope. It does not establish that all
+The audit covered the current 13,025 光子之花 entries and 44,698 光子旋律 entries, including
+Chinese annotations. 光子之花 needed 11 absent characters: **亟伶抉捆涟淀漪箍绎菊诘**.
+光子旋律 had no missing characters within this scope. It does not establish that all
 other UI surfaces, images, runtime font choices, or complete routes are fault-free.
 
 ## Repair
@@ -23,14 +23,14 @@ the existing DLL. The font guard stays enabled, and font and DLL must ship toget
 
 | Input/output | SHA-256 |
 | --- | --- |
-| Public PF BETA 0.1 ZIP | `E8933FAB8D3E4285A82269653B3F58D738BA6B2803BC2C96B956D5D148EFCCC3` |
+| Public 光子之花 BETA 0.1 ZIP | `E8933FAB8D3E4285A82269653B3F58D738BA6B2803BC2C96B956D5D148EFCCC3` |
 | Original font | `AADF895003AE6452E1FBDCA1B64206B77D6F9A6EEBE226C31D46D1247AD4830B` |
 | OFL donor | `763146584CF0710223441356B4395E279021B0806C196614377A7A0174AE074A` |
 | Fixed font | `938A0046459DECF03FC11DC4D7FB9D440287EBE162C2F55F5964FAE661B0EC64` |
 | Original runtime | `80F311F3AC8FAEA4612C779CAF718E238FE0ACAADB8CB739A4917D8C44AFB684` |
 | Fixed runtime | `E7F3B5D1D3E6B63CBD2E69CA408C820FBBE5644DE4A371B49626F6EF1A06A9EC` |
 
-The complete PF package preserves all BETA 0.1 text, image, animation, and
+The complete 光子之花 package preserves all BETA 0.1 text, image, animation, and
 backlog-button payloads. Only the font, its companion DLL, manifest, and manifest
 seal change inside the installer. The manifest explicitly accepts the public
 BETA 0.1 fixed files for direct upgrades; backups remain disabled.
@@ -50,7 +50,7 @@ notices remain bundled. Internal build: `2026.09.14-r4`.
 
 ## Validation scope
 
-The fixed font covers every required PF body/annotation codepoint. Windows GDI
+The fixed font covers every required 光子之花 body/annotation codepoint. Windows GDI
 at 12, 24, and 36 pixels renders all 11 additions; representative existing
 body/annotation dimensions are unchanged. In-game checks confirmed `首席女伶`,
 `亟待收复`, and `积淀`. New empty-slot saves were made at the three exact lines;

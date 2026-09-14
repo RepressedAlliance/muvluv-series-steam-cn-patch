@@ -1,4 +1,4 @@
-# PM 术语与基线
+# 光子旋律术语与基线
 
 - [本作术语表](../../../../localization/glossaries/photonmelodies.ja-zh-Hans.csv)：745 条，须按 context 使用。
 - [本作基线](baseline.ja-zh-Hans.csv)：3656 条来源记录、2668 个去重日文键；含候选、语境限定、争议及退出记录，不表示全部已确认。

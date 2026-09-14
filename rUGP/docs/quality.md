@@ -1,6 +1,6 @@
 # rUGP quality gates
 
-PF/PM do not yet have a player-ready Release. These are mandatory gates for a future candidate and a description of narrow checks already enforced by individual components; their presence does not mean the complete route has passed.
+光子之花/光子旋律 do not yet have a player-ready Release. These are mandatory gates for a future candidate and a description of narrow checks already enforced by individual components; their presence does not mean the complete route has passed.
 
 ## Static structure
 
@@ -22,9 +22,9 @@ PF/PM do not yet have a player-ready Release. These are mandatory gates for a fu
 
 ## Release
 
-- PF and PM pass independently;
+- 光子之花 and 光子旋律 pass independently;
 - reproducible runtime build hash and package member hashes;
 - no workstation path, credential, PDB, source archive, or rejected candidate;
 - installer refuses unknown inputs and supports exact rollback/Steam recovery;
-- PF/PM installer validates the confirmed Steam `english` route in both locale fields and rechecks the same manifest seal immediately before its first write;
+- 光子之花/光子旋律 installer validates the confirmed Steam `english` route in both locale fields and rechecks the same manifest seal immediately before its first write;
 - image/text/font manifests bind every installed byte.
