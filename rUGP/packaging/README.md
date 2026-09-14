@@ -1,10 +1,12 @@
 # Photon packaging
 
-## BETA 0.1 release
+## BETA 0.1.1 releases
 
 The public player packages use uppercase **BETA** as ordinary releases.
-PF remains **BETA 0.1**, internal build `2026.09.10-r3` (accepted R2 plus the
-[backlog button action correction](../docs/postmortems/backlog-return-action-20260910.md)).
+PF **BETA 0.1.1**, internal build `2026.09.14-r4`, preserves the accepted R2
+and [backlog button correction](../docs/postmortems/backlog-return-action-20260910.md),
+and adds 11 missing glyphs to the font with a matching DLL digest update.
+See the [font coverage correction and build command](../docs/postmortems/pf-font-coverage-20260914.md).
 PF and PM remain separate ZIPs, each containing one executable and a short
 player guide. PM **BETA 0.1.1**, internal build `2026.09.11-r4`, additionally
 replaces seven CRsa records to render 297 affected text entries in the ordinary
