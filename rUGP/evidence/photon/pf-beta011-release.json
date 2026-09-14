@@ -1,0 +1,43 @@
+{
+  "game": "pf",
+  "version": "BETA 0.1.1",
+  "build_id": "2026.09.14-r4",
+  "tag": "pf-BETA-0.1.1",
+  "asset": "MuvLuv_PF_CN_Patch_BETA_0.1.1.zip",
+  "sha256": "BE7E3FB423C414CB5C6E03C3F4BA7EFADBB864C4D3FCE6213B1E6751243F7332",
+  "bytes": 112876347,
+  "exe_sha256": "11B87BD56583FBD5BF5A61F8040B50711D38DC4FBA209EE1C1015165DD0ED614",
+  "font_sha256": "938A0046459DECF03FC11DC4D7FB9D440287EBE162C2F55F5964FAE661B0EC64",
+  "runtime_sha256": "E7F3B5D1D3E6B63CBD2E69CA408C820FBBE5644DE4A371B49626F6EF1A06A9EC",
+  "added_characters": "亟伶抉捆涟淀漪箍绎菊诘",
+  "old_zip_sha256": "E8933FAB8D3E4285A82269653B3F58D738BA6B2803BC2C96B956D5D148EFCCC3",
+  "changed_package_members": [
+    "package_manifest.20260910.json",
+    "package_seal.20260910.json",
+    "files/Ages3ResT.dll",
+    "files/PhotonR2-Regular.ttf"
+  ],
+  "normalized_rebuild_match": true,
+  "build": {
+    "executable": "PF_汉化补丁_BETA_0.1.1.exe",
+    "bytes": 113106944,
+    "sha256": "11B87BD56583FBD5BF5A61F8040B50711D38DC4FBA209EE1C1015165DD0ED614",
+    "source_sha256": "9D7249D98278EA208B9C6131D0014EB834196DA21B076AD9F65082CBF891932C",
+    "payload_sha256": "60C97AC8F534EE6DA9D10129BA48F7F1F35C52AA9C372707B4197C85A160D3CE",
+    "manifest_sha256": "59175BA7A54AFDF6D4DB4F771B077545DC086D5E628D93BDDE1F18C8BE009229"
+  },
+  "source_commit": "180af792265e2a710afb555b967b69c47ed6d58a",
+  "installation_checks": [
+    "clean",
+    "published-beta01-upgrade",
+    "repeat"
+  ],
+  "body_and_annotation_rows": 13025,
+  "missing_glyphs_after": 0,
+  "in_game_checked": [
+    "首席女伶",
+    "亟待收复",
+    "积淀"
+  ],
+  "full_route_tested": false
+}

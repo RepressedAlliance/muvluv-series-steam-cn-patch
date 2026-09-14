@@ -28,7 +28,7 @@
 | TDA02 | 历史测试版 beta0.1 | **[下载补丁 ZIP](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/download/tda02-beta0.1/MuvLuv_TDA02_CN_Patch_beta0.1.zip)** · [发布说明](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/tag/tda02-beta0.1) |
 | TDA03 | 历史测试版 beta0.1.6 | **[下载补丁 ZIP](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/download/tda03-beta0.1.6/MuvLuv_TDA03_CN_Patch_beta0.1.6_full_achievement_fix.zip)** · [发布说明](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/tag/tda03-beta0.1.6) |
 | 帝都燃烧篇 | 历史测试版 beta0.1 | **[下载补丁 ZIP](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/download/imperial-capital-burns-beta0.1/MuvLuv_Imperial_Capital_Burns_CN_Patch_beta0.1.zip)** · [发布说明](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/tag/imperial-capital-burns-beta0.1) |
-| photonflowers（PF） | **BETA 0.1** | **[下载补丁 ZIP](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/download/pf-BETA-0.1/MuvLuv_PF_CN_Patch_BETA_0.1.zip)** · [发布说明](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/tag/pf-BETA-0.1) |
+| photonflowers（PF） | **BETA 0.1.1** | **[下载补丁 ZIP](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/download/pf-BETA-0.1.1/MuvLuv_PF_CN_Patch_BETA_0.1.1.zip)** · [发布说明](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/tag/pf-BETA-0.1.1) |
 | photonmelodies（PM） | **BETA 0.1.1** | **[下载补丁 ZIP](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/download/pm-BETA-0.1.1/MuvLuv_PM_CN_Patch_BETA_0.1.1.zip)** · [发布说明](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/tag/pm-BETA-0.1.1) |
 
 ### PF / PM 安装
@@ -53,7 +53,7 @@ PF／PM 的技术来源分类、上游版本、82 项技术职责与完整路线
 
 - **TDA00—03、帝都燃烧篇：**已有上述历史测试包，正在整理可维护文本、版本校验、字体和
   安全回滚，为后续更新做准备。
-- **photonflowers、photonmelodies：**已正式公开发布 **BETA 0.1**，PF、PM 各有独立安装包。旧 Photon 图片研究资产仍不是游戏安装包。
+- **photonflowers、photonmelodies：**已正式公开发布 **BETA 0.1.1**，PF、PM 各有独立安装包。旧 Photon 图片研究资产仍不是游戏安装包。
 
 ### 问题反馈
 
