@@ -3,21 +3,21 @@
 ## BETA 0.1.1 releases
 
 The public player packages use uppercase **BETA** as ordinary releases.
-PF **BETA 0.1.1**, internal build `2026.09.14-r4`, preserves the accepted R2
+光子之花 **BETA 0.1.1**, internal build `2026.09.14-r4`, preserves the accepted R2
 and [backlog button correction](../docs/postmortems/backlog-return-action-20260910.md),
 and adds 11 missing glyphs to the font with a matching DLL digest update.
 See the [font coverage correction and build command](../docs/postmortems/pf-font-coverage-20260914.md).
-PF and PM remain separate ZIPs, each containing one executable and a short
-player guide. PM **BETA 0.1.1**, internal build `2026.09.11-r4`, additionally
+光子之花 and 光子旋律 remain separate ZIPs, each containing one executable and a short
+player guide. 光子旋律 **BETA 0.1.1**, internal build `2026.09.11-r4`, additionally
 replaces seven CRsa records to render 297 affected text entries in the ordinary
-font. All other r3 game payloads are unchanged; the old public PM r3 archive
+font. All other r3 game payloads are unchanged; the old public 光子旋律 r3 archive
 identities are admitted for direct upgrades. See the
 [special-text correction](../docs/postmortems/pm-special-text-20260911.md).
 `build_photon_player.py` rejects translated or rebound backlog action arguments.
 
 ## 2026.09.10 player installer candidate
 
-`build_photon_player.py` consumes a separately assembled and verified PF/PM
+`build_photon_player.py` consumes a separately assembled and verified 光子之花/光子旋律
 snapshot, builds the union of changes needed by stock and known previous bases,
 and verifies the complete virtual result from every admitted base. It emits one
 game per directory. It does not select, translate, or approve input artwork.
@@ -61,9 +61,9 @@ been played. See the [Beta0.1 follow-up audit](../docs/postmortems/beta01-follow
 
 ## Historical Beta0.1 builder
 
-`build_photon_cn_beta01.py` produces separate PF and PM full-patch ZIPs from explicitly supplied, hash-locked roots. It never discovers an installed game through a developer-specific path.
+`build_photon_cn_beta01.py` produces separate 光子之花 and 光子旋律 full-patch ZIPs from explicitly supplied, hash-locked roots. It never discovers an installed game through a developer-specific path.
 
-Required inputs are a sealed clean archive root, sealed runtime inputs, stock fixed-file root, and independently approved final PF/PM roots. The builder verifies exact archive/fixed-file identities, creates block deltas, binds every member in a manifest, rejects absolute paths, fixes ZIP timestamps, and refuses unexpected content.
+Required inputs are a sealed clean archive root, sealed runtime inputs, stock fixed-file root, and independently approved final 光子之花/光子旋律 roots. The builder verifies exact archive/fixed-file identities, creates block deltas, binds every member in a manifest, rejects absolute paths, fixes ZIP timestamps, and refuses unexpected content.
 
 One fixed file has a deliberately narrow named-identity policy. For
 `Ages3ResT.dll` only, the approved final root may contain a listed historical
@@ -110,7 +110,7 @@ installations produce byte-identical DEFLATE streams.
 
 [`steam_locale_preflight.py`](steam_locale_preflight.py) is the public,
 read-only gate for the two Photon routes this project has actually observed:
-Photon Flowers (`pf`) and Photon Melodies (`pm`) must both be on Steam's
+光子之花 (`pf`) and 光子旋律 (`pm`) must both be on Steam's
 `english` route because the patch targets authenticated translation endpoints.
 It validates the exact app ID plus both `UserConfig.language` and
 `MountedConfig.language`, rejects malformed/duplicate KeyValues, and keeps an

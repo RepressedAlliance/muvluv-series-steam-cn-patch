@@ -8,7 +8,7 @@ not a repacker. This project implemented its own strict decoder and encoder,
 then verified the production profile through a second, deliberately narrow
 reference decoder.
 
-Four audited PF/PM source records were byte-identical 800×600 black-background
+Four audited 光子之花/光子旋律 source records were byte-identical 800×600 black-background
 white-text images. Their structure was exactly:
 
 ```text
@@ -31,7 +31,7 @@ not append a fake trailer or count placement padding as payload.
 Both the complete audited CRip007 decoder and an independent 8-bit/no-residual
 grayscale decoder consumed the replacement payload exactly and produced RGBA
 bytes identical to the approved candidate: zero channel error, zero changed
-pixels and zero alpha error. Header bounds and PF/PM unit-4 redirect keys were
+pixels and zero alpha error. Header bounds and 光子之花/光子旋律 unit-4 redirect keys were
 checked separately.
 
 The public decoder/encoder and synthetic tests are in

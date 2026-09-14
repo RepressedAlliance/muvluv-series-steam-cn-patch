@@ -4,22 +4,22 @@ This file records repository and public-patch changes. Downloadable packages and
 
 ## Unreleased — repository architecture
 
-- 完成 PF／PM 全量 CRsa 漏项复核：补译并写回 40 处对白／提示，逐项审校 265 个批注字段，保持 260 个兵装名参数不变；加入哈希锁定的 PM 固定长度分卷构建器，并记录 PF／PM 实机字体、排版和 831／8311 验收。
+- 完成光子之花／光子旋律全量 CRsa 漏项复核：补译并写回 40 处对白／提示，逐项审校 265 个批注字段，保持 260 个兵装名参数不变；加入哈希锁定的光子旋律固定长度分卷构建器，并记录光子之花／光子旋律实机字体、排版和 831／8311 验收。
 - 将仓库首页收束为普通玩家与研究/本地化制作者两个独立入口，下载细节完整下沉到玩家 README，并加入可见的中英文切换按钮。
-- 新增中英文文本/术语/图片/字体资产地图，明确 `localization/`、各游戏目录、本仓库 Releases 与本地忽略工作区的边界，并同时索引五作 730 个 AGE2 WebP 路径与 PF/PM 1,490 项图片权威。
+- 新增中英文文本/术语/图片/字体资产地图，明确 `localization/`、各游戏目录、本仓库 Releases 与本地忽略工作区的边界，并同时索引五作 730 个 AGE2 WebP 路径与光子之花/光子旋律 1,490 项图片权威。
 - 新增完整英文两轮本地化工作流，使韩语、俄语等团队不必依赖中文摘要即可复现剧情/术语、初译、`keep/revise/question`、写回、QA 与玩家反馈闭环。
 - 更新 Codex 贡献说明为 GitHub 可识别的 `Co-authored-by: Codex <codex@openai.com>`，并重写对主任保护协会的致谢，准确表达其 AGES 汉化思路是本项目开始制作补丁的起点。
 - 重新逐项比较 GARbro、AFHook、rugptools、FatePackageManager 与成熟翻译项目，把采用的优点和主动补足的缺点写入长期参考文档。
 - 建立中文优先的四类入口：玩家、AGE2 研究者、rUGP 研究者和其他语言本地化制作者。
 - 为七部游戏加入统一 `project.toml`，明确引擎、Steam App ID、文本、图片与字体权威。
-- 从五个 AGE2 历史 Release 机械生成 730 个 WebP 路径的可复核清单；PF/PM 继续分别索引 636/854 项共用 Photon 图片权威。
+- 从五个 AGE2 历史 Release 机械生成 730 个 WebP 路径的可复核清单；光子之花/光子旋律继续分别索引 636/854 项共用 Photon 图片权威。
 - 公开“剧情与术语 → 第一次翻译 → 第二次 `keep/revise/question` 审核 → 技术写回 → 实机与玩家反馈”的完整工作流。
 - 新增贡献者与具体致谢页，记录人类维护责任、OpenAI Codex 的受监督辅助，以及主任保护协会、GARbro、AFHook、rugptools 与 FatePackageManager 的准确贡献边界。
 - 将活动证据目录改为稳定语义路径，版本留在 schema、Git 历史和 Release tag 中。
 - 规定新表的规范字段，同时保留已有哈希封存表的历史表头，避免为表面统一破坏来源证明。
 
 - Split the unrelated AGE2 and legacy rUGP implementations into independent top-level systems.
-- Completed the PF/PM CRsa omission review: wrote 40 dialogue/prompt fields, reviewed 265 annotation fields, preserved all 260 armament-name parameters, added hash-locked fixed-extent PM volume staging, and recorded PF/PM runtime layout and 831/8311 checks.
+- Completed the 光子之花/光子旋律 CRsa omission review: wrote 40 dialogue/prompt fields, reviewed 265 annotation fields, preserved all 260 armament-name parameters, added hash-locked fixed-extent 光子旋律 volume staging, and recorded 光子之花/光子旋律 runtime layout and 831/8311 checks.
 - Promoted stable translation tables, format libraries, runtime source, packaging code, tests, and release evidence; removed one-off workstation probes from the public tool surface.
 - Added English and Chinese player/developer entry points, rights boundaries, provenance guidance, and reusable image-localization documentation.
 - Added direct player-package links, exact LocalAppData destinations, checksum instructions and explicit rollback/Steam Verify boundaries for all five historical AGE2 betas.
@@ -35,7 +35,7 @@ This file records repository and public-patch changes. Downloadable packages and
 - Fixed the Imperial phase-one builder's previously unreachable installer path and made a valid font-license input mandatory when packaging its font.
 - Added a strict local-source-to-EGPACK change builder, portable AGE2 text exporter, engine-neutral locale-template generator, font coverage audit, deterministic image authoring tools and tests.
 - Added a read-only, synthetic-tested Steam depot-manifest content checker so AGE2 and rUGP builders can bind selected legal local inputs to a reviewed file/chunk map without publishing workstation paths.
-- Added a strict PF/PM Steam locale preflight with app-ID, dual-language-field and apply-time manifest-seal checks for future Photon installers; other rUGP games remain fail-closed.
+- Added a strict 光子之花/光子旋律 Steam locale preflight with app-ID, dual-language-field and apply-time manifest-seal checks for future Photon installers; other rUGP games remain fail-closed.
 - Added an exact machine-readable index for all five historical player ZIPs and the reviewed Photon image asset, including hashes, sizes, install roots and known safety limitations.
 - Hardened public artifact writers, the Photon runtime builder, Imperial image routes and rUGP evidence exporters against partial output, overwrite races, path escape, target swaps, malformed identities and case-insensitive collisions.
 - Removed the obsolete lossy Chinese-to-Japanese glyph substitution helper rather than presenting it as font support.

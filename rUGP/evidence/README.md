@@ -7,7 +7,7 @@ Git；经过审核的结论则不能只留在聊天或本地 `outputs/` 中。
 
 当前公开范围集中在 [`photon/`](photon/)：
 
-- `text/runtime/manifest.json`：绑定 PF 69 行、PM 151 行精确运行时文本表；
+- `text/runtime/manifest.json`：绑定光子之花 69 行、光子旋律 151 行精确运行时文本表；
 - `text/reviewed/`：绑定四组故事共 57,547 行已审校中文；
 - `images/`：绑定 1,490 项图片权威及研究资产 Release；
 - `routes/`：证明 1,448 个 translation peer 与 42 个 shared/common 端点。

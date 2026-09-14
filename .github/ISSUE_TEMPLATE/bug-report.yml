@@ -13,15 +13,15 @@ body:
         - TDA02
         - TDA03
         - The Imperial Capital Burns
-        - Photon Flowers（仅开发版本 / development build only）
-        - Photon Melodies（仅开发版本 / development build only）
+        - 光子之花
+        - 光子旋律
     validations:
       required: true
   - type: input
     id: release
     attributes:
       label: 补丁版本或源码提交 / Release tag or source commit
-      description: AGE2 玩家包填写 Release tag；Photon 开发版本填写完整 commit SHA。Use a Release tag for an AGE2 package or the full commit SHA for a Photon development build.
+      description: 已发布的补丁填写版本或 Release tag；开发版本填写完整 commit SHA。Use the patch version or Release tag, or a full commit SHA for a development build.
       placeholder: tda01-beta0.2.2，或 Photon 开发版本的完整 commit SHA
     validations:
       required: true

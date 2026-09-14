@@ -1,10 +1,10 @@
-# PM Extra → Album terminates on a remembered CInt address
+# 光子旋律 Extra → Album terminates on a remembered CInt address
 
 Two local user-triggered crashes on 2026-09-09 reported exception `0xC0000602`
 at `Ages3ResT.dll+0xCEB0`. The installed DLL was
 `2259884FF2CC52C3A94D917BCC5508D5951340FF8461612D89C270CE3FFC525E`,
 reproducible from commit `6c0b790`. Disassembly identifies the return from
-`RaiseFailFastException` in the PM selector's `relevant_setter_failure`, with
+`RaiseFailFastException` in the 光子旋律 selector's `relevant_setter_failure`, with
 termination code `0xE0005841`.
 
 The newer dump preserves a remembered CInt address and owner matching the current
@@ -34,10 +34,10 @@ actual selector dispatcher but does not execute a real game action or prove that
 all album images are translated. After installing the repaired DLL, the user
 confirmed that the album-entry crash was fixed. Crash dumps remain local.
 
-Separately, the user's PF festival screenshot shows a translated thumbnail and
+Separately, the user's 光子之花 festival screenshot shows a translated thumbnail and
 Japanese signs during the animated presentation. The thumbnail G2498 is Cr6Ti
 210×123; background G2018 is CRip008 800×600, and a partial G2019 variant also
 exists. All three have installed sidecars. A separate
-[PF padding/partial-frame fix](pf-festival-presentation-20260909.md) was installed
+[光子之花 padding/partial-frame fix](pf-festival-presentation-20260909.md) was installed
 and confirmed by the user. File presence and gallery thumbnails alone did not
 prove presentation coverage.

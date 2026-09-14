@@ -6,7 +6,7 @@ CRip008 support was not guessed solely by comparing a compressed byte string wit
 
 - GARbro/AFHook/rUGP work established the wider AGES resource model and related image semantics.
 - Cr6Ti and CRip008 share the serialized-object prefix `00 04 45`, proving that the first three bytes are not a unique format magic.
-- PF/PM official records supplied repeatable headers, payload extents, kinds, draw rectangles and decoded images.
+- 光子之花/光子旋律 official records supplied repeatable headers, payload extents, kinds, draw rectangles and decoded images.
 - Native decoder/disassembly behavior supplied the MSB bit-reader, variable-length integer table, predictor flags, channel state and kind-specific alpha rules.
 
 ## Reconstruction sequence

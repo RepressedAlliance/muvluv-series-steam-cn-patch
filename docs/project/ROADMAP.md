@@ -39,7 +39,7 @@ current policy-compliant download.
   selected local input files when a reviewed clear-name manifest is available;
 - a machine-readable index for the five historical player packages, including
   exact archive identities, install roots and known safety limitations.
-- a strict, path-redacted PF/PM Steam locale preflight and apply-time recheck
+- a strict, path-redacted 光子之花/光子旋律 Steam locale preflight and apply-time recheck
   contract for a future player installer.
 
 ## AGE2 priorities
@@ -55,10 +55,10 @@ current policy-compliant download.
 
 ## Photon priorities
 
-1. Convert a legally owned clean PF installation into every reviewed
-   text/image/font binding and the sealed PF package roots with no workstation
+1. Convert a legally owned clean 光子之花 installation into every reviewed
+   text/image/font binding and the sealed 光子之花 package roots with no workstation
    paths or undocumented staging step.
-2. Repeat that proof independently for PM; shared libraries do not transfer
+2. Repeat that proof independently for 光子旋律; shared libraries do not transfer
    package identity, hashes, installer approval or runtime evidence.
 3. Build, audit, install, roll back and fully test the downloaded ZIP before
    publishing either game as a player patch.

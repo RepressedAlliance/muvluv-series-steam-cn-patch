@@ -13,8 +13,8 @@
 | TDA02 | [tda02.ja-zh-Hans.csv](tda02.ja-zh-Hans.csv) | 86 |
 | TDA03 | [tda03.ja-zh-Hans.csv](tda03.ja-zh-Hans.csv) | 102 |
 | 帝都燃烧篇 | [imperial-capital-burns.ja-zh-Hans.csv](imperial-capital-burns.ja-zh-Hans.csv) | 183 |
-| photonflowers | [photonflowers.ja-zh-Hans.csv](photonflowers.ja-zh-Hans.csv) | 313 |
-| photonmelodies | [photonmelodies.ja-zh-Hans.csv](photonmelodies.ja-zh-Hans.csv) | 750 |
+| 光子之花 | [photonflowers.ja-zh-Hans.csv](photonflowers.ja-zh-Hans.csv) | 313 |
+| 光子旋律 | [photonmelodies.ja-zh-Hans.csv](photonmelodies.ja-zh-Hans.csv) | 750 |
 
 每张表使用 `jp`（日文）、`cn`（中文）、`context`（适用语境）三列。
 同一词在不同作品中的人物、称谓或场景可能不同，请连同语境阅读；各作专表不互相继承。

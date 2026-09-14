@@ -20,7 +20,7 @@ This checklist governs new releases. The five AGE2 beta packages currently linke
 - Reject absolute local paths, credentials, logs, debug symbols, caches, original complete archives, and unapproved candidates.
 - Confirm font licenses and third-party notices travel with their binaries.
 - Confirm the installer touches only the named game and that restoration is documented.
-- For PF/PM, require the confirmed Steam locale/app-ID preflight and revalidate its in-memory manifest seal immediately before the first write; a saved report alone is not authorization.
+- For 光子之花/光子旋律, require the confirmed Steam locale/app-ID preflight and revalidate its in-memory manifest seal immediately before the first write; a saved report alone is not authorization.
 
 ## 4. Publish
 

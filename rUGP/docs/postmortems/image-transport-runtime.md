@@ -21,9 +21,9 @@ The directory and parent audit separated semantic routing from transport:
 - A source and target can have different geometry, and several localized sources can alias one physical target or collide with different desired states.
 - In the first native-capacity census, only 118 distinct targets fit their official extents, 1,317 were oversized and four remained unresolved. A strict decoder accepting a larger record did not make it safe to overwrite the next object.
 
-Controlled one-record probes then separated the routes. A native translation-slot replacement for the PM “Voice Skip” label displayed and remained interactive. Other tested RUO parent/leaf arrangements either blanked the child, triggered 8311 through an unrelated bad text container, or left the official English child selected. Later full batches exposed parent/state and decoded-surface timing that a single successful child could not prove.
+Controlled one-record probes then separated the routes. A native translation-slot replacement for the 光子旋律 “Voice Skip” label displayed and remained interactive. Other tested RUO parent/leaf arrangements either blanked the child, triggered 8311 through an unrelated bad text container, or left the official English child selected. Later full batches exposed parent/state and decoded-surface timing that a single successful child could not prove.
 
-## PM watermelon tutorial follow-up
+## 光子旋律 watermelon tutorial follow-up
 
 The tutorial timer exposed two distinct failures behind the same Japanese-looking
 screen. The first captured Options screen had Japanese image language selected
@@ -36,7 +36,7 @@ An identity audit separated the timer routes. All eleven dynamic counters from
 300 through 0 seconds were already bound to their official Translation-field
 payloads in the ordinary exact-RGBA table. The twelve full tutorial frames were
 absent; they resolve to eleven unique Translation-field physical payloads because
-two logical frames share one payload. The fix preserves the existing 39 PM
+two logical frames share one payload. The fix preserves the existing 39 光子旋律
 special identities and appends only those eleven full-frame identities. Each
 sidecar starts from the decoded Translation-field frame and changes the reviewed
 timer band, so unrelated pixels and the dimmed `SOUND ONLY` state stay intact.
@@ -52,7 +52,7 @@ supersampling. The ellipse has 1,498 core pixels, one connected component, an
 enclosed interior, and zero visible-support overlap with the text. The other ten
 unique tutorial sidecars and their duplicate remain byte-identical.
 
-The PM image-language setter had a second fault. Its callsite still matched, but
+The 光子旋律 image-language setter had a second fault. Its callsite still matched, but
 the stored parent-stack fingerprint did not match the current executable. A trace
 of three real Options actions established command `0x237`, the VM/CInt identities,
 and parent RVAs `0x43132`, `0x42409`, `0x122EB8`, and `0x12D327`. Loading directly

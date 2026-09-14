@@ -2,17 +2,17 @@
 
 ## Why copying a font was insufficient
 
-PF/PM use several AGES registry font routes and also create fonts through the host's GDI import. First launch can rewrite route values, different routes can name different families, Windows may resolve a colliding installed family, and a correct font file does not affect text already rasterized into images.
+光子之花/光子旋律 use several AGES registry font routes and also create fonts through the host's GDI import. First launch can rewrite route values, different routes can name different families, Windows may resolve a colliding installed family, and a correct font file does not affect text already rasterized into images.
 
 This produced apparently inconsistent outcomes: Chinese worked in one surface but fell back elsewhere; a route looked correct before launch but changed; an old RUO caused an unrelated Internal Error and contaminated a font test.
 
 ## Investigative stages
 
-1. Audit all four PF and four PM route values and the actual GDI family requested by the 32-bit process.
+1. Audit all four 光子之花 and four 光子旋律 route values and the actual GDI family requested by the 32-bit process.
 2. Build a uniquely named OFL font rather than relying on a common system family.
 3. Add the zero-width `U+2060` glyph required by the explicitly capacity-padded runtime text and test it through FreeType plus 32-bit GDI.
 4. Install/rollback the font and registry routes transactionally, keeping an exact ledger and refusing mixed unknown states.
-5. Isolate font tests from both old RUOs; the known PM RUO independently reproduced the error and was not evidence against the font.
+5. Isolate font tests from both old RUOs; the known 光子旋律 RUO independently reproduced the error and was not evidence against the font.
 6. Integrate the proven behavior into the production `Ages3ResT.dll` proxy so the package is self-contained and version-gated.
 
 ## Current solution

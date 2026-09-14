@@ -198,7 +198,7 @@
   "research_assets": [
     {
       "asset_id": "photon-images-v6",
-      "title": "Photon Flowers / Photon Melodies reviewed localized images",
+      "title": "光子之花 / 光子旋律 reviewed localized images",
       "engine": "rugp",
       "locale": "zh-Hans",
       "status": "reviewed-research-asset-rights-review-pending",
@@ -219,7 +219,7 @@
   "photon_player_packages": [
     {
       "game_id": "pf",
-      "title": "Muv-Luv photonflowers",
+      "title": "Muv-Luv 光子之花",
       "engine": "rugp",
       "locale": "zh-Hans",
       "status": "published",
@@ -248,7 +248,7 @@
     },
     {
       "game_id": "pm",
-      "title": "Muv-Luv photonmelodies",
+      "title": "Muv-Luv 光子旋律",
       "engine": "rugp",
       "locale": "zh-Hans",
       "status": "published",
