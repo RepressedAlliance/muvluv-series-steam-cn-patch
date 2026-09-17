@@ -74,7 +74,7 @@ scene.egpack,game_t00000,jp,「原文」\p,「中文」\p
 - `replacement_text` 默认不能为空；所有 `--append` 表遵守同一门禁。
   `--allow-empty` 只保留给没有 `record_kind` 的显式旧式清空操作；它不能
   绕过现行正文表中 `text` / `structural_empty` 的一致性规则。
-- 中文 `replacement_text` 禁止包含字面 `\n`、`\r` 或真实 CR/LF；游戏会按文本框宽度自动换行。
+- 普通五列变更表默认拒绝字面 `\n`、`\r` 或真实 CR/LF。特定中文正文的字面 `\n` 可使用下述逐条复核格式；真实 CR/LF 和字面 `\r` 仍禁止。
 - `\p`、`\w`、`\f` 不属于手动换行。工具不会从原槽自动复制控制符，变更表必须明确写出最终值。
 - 不支持模糊匹配、EN 兜底或旧中文兜底。
 
@@ -89,6 +89,20 @@ python AGE2/tools/egpack/repack_egpack.py "X:\input\localized" `
 ```
 
 写回器不会覆盖原文件，也不会覆盖已经存在的输出文件。它重新解析目标 EGPACK，通过 `relative_path + id + slot` 定位，并用 `expected_text` 锁定原值。
+
+### 特定中文正文的显式换行
+
+需要主动分段时，可直接为 `repack_egpack.py` 提供六列表，列顺序为：
+
+```text
+relative_path,id,slot,expected_text,replacement_text,line_break_reason
+```
+
+`line_break_reason` 填写该条为何需要分段及复核记录位置。非空说明仅允许当前条目的 `zh_hans` 场景正文使用字面 `\n`，不扩展到 JP、EN、角色名、注音或片尾表，也不要求与日文换行数一致。普通条目将此列留空，继续执行默认规则。不要把真实换行粘贴进 `replacement_text`。
+
+现有 `build_changes.py` 仍生成普通五列表，不会自动决定手动断点；六列表是具体条目人工复核后的写回输入。`verify_egpack.py` 支持同一六列表并验证完整输出字节。
+
+说明字段用于记录修改意图，不是实机通过凭证。写回成功只说明 EGPACK 可以重新解析、改动范围正确，仍须检查对应正文的行高、底部余量、切句和 Log。已有 TM 实验表明字面 `\n` 与真实 LF 的正文效果不同，不能相互替换。
 
 ## 4. 验证输出
 

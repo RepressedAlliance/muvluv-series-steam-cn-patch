@@ -24,6 +24,7 @@ CHANGE_COLUMNS = (
     "expected_text",
     "replacement_text",
 )
+REVIEWED_BREAK_COLUMNS = CHANGE_COLUMNS + ("line_break_reason",)
 
 
 def _normalize_relative_path(value: str) -> str:
@@ -39,9 +40,10 @@ def _normalize_relative_path(value: str) -> str:
 def load_changes(path: Path) -> list[EgpackChange]:
     with path.open("r", encoding="utf-8-sig", newline="") as stream:
         reader = csv.DictReader(stream)
-        if tuple(reader.fieldnames or ()) != CHANGE_COLUMNS:
+        if tuple(reader.fieldnames or ()) not in (CHANGE_COLUMNS, REVIEWED_BREAK_COLUMNS):
             raise EgpackChangeError(
                 f"{path}: columns must be exactly {','.join(CHANGE_COLUMNS)}"
+                " with optional final line_break_reason column"
             )
         changes = [
             EgpackChange(
@@ -50,6 +52,7 @@ def load_changes(path: Path) -> list[EgpackChange]:
                 slot=row["slot"],
                 expected_text=row["expected_text"],
                 replacement_text=row["replacement_text"],
+                line_break_reason=row.get("line_break_reason", "") or "",
             )
             for row in reader
         ]

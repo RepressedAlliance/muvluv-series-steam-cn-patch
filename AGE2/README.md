@@ -4,10 +4,17 @@
 
 这里负责较新的 AGE2 移植体系，与 [rUGP](../rUGP/README.md) 完全独立。当前涉及 THE DAY AFTER episode:00–03 与 The Imperial Capital Burns／帝都燃烧篇。
 
+## 独立中文通道与运行时修正
+
+2026-09-17 更新：[中文运行时技术说明](runtime/README.md)介绍中文语言通道、独立图片与
+字体选择、正文排版保护、语言切换缓存以及存档中文摘要修正；
+[Windows 安装工具](packaging/windows/README.md)提供版本校验、程序差分和安装恢复。
+本次公开技术源码，未发布新的玩家安装包，也不代表五部全路线已经实机验收。
+
 ## 先看懂资源层级
 
 ```text
-pack.bin                         FPD v2 外层容器
+pack.bin                         FPD 外层容器（TDA00 为 v1，其余本轮样本为 v2）
 └─ root/assets/...
    ├─ localized/*.egpack        多语言正文与结构字段
    ├─ gui/**/*.webp             可直接查看的图片

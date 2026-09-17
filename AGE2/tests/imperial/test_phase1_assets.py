@@ -35,7 +35,7 @@ BUILD_SPEC.loader.exec_module(build_phase1)
 
 
 class ImageSlotTests(unittest.TestCase):
-    def test_telop_position_patch_changes_only_shifted_runtime_overlays(self):
+    def test_telop_position_patch_restores_original_simultaneous_caption_positions(self):
         with tempfile.TemporaryDirectory() as td:
             root = Path(td)
             source = root / "localized"
@@ -59,13 +59,7 @@ class ImageSlotTests(unittest.TestCase):
 
             patched = (output / "scene.xml").read_bytes()
             self.assertEqual({"scene.xml": 1}, result)
-            self.assertEqual(
-                original.replace(
-                    b'img_base="00no_text_telop/add_telop_73" pos="0,-2145,723"',
-                    b'img_base="00no_text_telop/add_telop_73" pos="0,-1550,723"',
-                ),
-                patched,
-            )
+            self.assertEqual(original, patched)
             self.assertIn(b'id="game_t00001"', patched)
             self.assertIn(b'voice="JP_001"', patched)
             self.assertIn(b'img_base="character/yui" pos="0,-2145,723"', patched)
@@ -159,7 +153,7 @@ class ImageSlotTests(unittest.TestCase):
         with tempfile.TemporaryDirectory() as td:
             output = Path(td) / "add_telop_01.webp"
             build_phase1.render_telop(
-                "这是中文字幕位置测试",
+                "宇宙并非由死亡统治的绝望荒野，|地球生命也并不孤独。",
                 RENDER_TEST_FONT,
                 output,
             )
@@ -171,7 +165,23 @@ class ImageSlotTests(unittest.TestCase):
         self.assertIsNotNone(bbox)
         assert bbox is not None
         self.assertEqual(673, bbox[3])
-        self.assertLessEqual(abs(((bbox[0] + bbox[2]) / 2) - 640), 12)
+        self.assertLessEqual(abs(((bbox[0] + bbox[2]) / 2) - 640), 0.5)
+
+    @unittest.skipUnless(RENDER_TEST_FONT.is_file(), "pixel geometry requires the Windows release font")
+    def test_raised_caption_fits_original_ink_height_without_manual_extra_line(self):
+        with tempfile.TemporaryDirectory() as td:
+            output = Path(td) / "raised.webp"
+            build_phase1.render_telop(
+                "诶，你真说了？|还当着本人说了？", RENDER_TEST_FONT,
+                output, max_ink_height=34,
+            )
+            with Image.open(output) as image:
+                box = image.convert("RGBA").getchannel("A").getbbox()
+            self.assertIsNotNone(box)
+            self.assertEqual(box[3], 673)
+            self.assertLessEqual(box[3] - box[1], 34)
+            self.assertGreaterEqual(box[0], 50)
+            self.assertLessEqual(box[2], 1230)
 
     def test_telop_call_audit_enumerates_actual_xml_attributes_and_chapters(self):
         with tempfile.TemporaryDirectory() as td:
@@ -193,6 +203,7 @@ class ImageSlotTests(unittest.TestCase):
                     "xml_line": "123",
                     "attribute": "img_base",
                     "resource": "path/add_telop_01",
+                    "position": "",
                 },
                 {
                     "asset_id": "24a",
@@ -201,6 +212,7 @@ class ImageSlotTests(unittest.TestCase):
                     "xml_line": "456",
                     "attribute": "img_base",
                     "resource": "path/add_telop_24a_en",
+                    "position": "",
                 },
             ],
             calls,

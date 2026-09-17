@@ -1,0 +1,3 @@
+# Optional dependencies for PE loader construction; not needed by players.
+lief==0.17.6
+pefile>=2023.2.7

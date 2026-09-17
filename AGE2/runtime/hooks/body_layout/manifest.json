@@ -1,0 +1,85 @@
+[
+  {
+    "game": "tm",
+    "scope": "Native width and positioning; Chinese boundary segmentation only",
+    "state": "Integrated and locally deployed; verification scope is documented in AGE2/runtime/README.md",
+    "runtime_module": "AGE2/runtime/hooks/body_layout/tm.js",
+    "module_sha256": "7a8ca004700b5e9280114771be9152023f829d66c87dbca2c40e0ba7bfc1c28b"
+  },
+  {
+    "game": "tda00",
+    "scope": "Native width and positioning; Chinese boundary segmentation only",
+    "state": "Integrated and locally deployed; verification scope is documented in AGE2/runtime/README.md",
+    "runtime_module": "AGE2/runtime/hooks/body_layout/tda00.js",
+    "module_sha256": "abcf1bbf79451de78e9b57ab45fad2590b541a8b605443f661dc84c90c31f386"
+  },
+  {
+    "game": "tda01",
+    "apply": true,
+    "keep_together": [
+      "酩酊大醉",
+      "殿下"
+    ],
+    "font": "BWCKKT-Bold.ttf",
+    "font_sha256": "9cd231ded039b40bd3e568f220d9a208bb23a890f4375e5d649fe1b367e59c4b",
+    "scope": "Calibrated ordinary body planning, otherwise native-width Chinese segmentation; opaque records preserved",
+    "native_width_fallback": [
+      "multiple records",
+      "explicit area",
+      "other geometry",
+      "opaque controls",
+      "ruby",
+      "mixed metadata",
+      "missing advance"
+    ],
+    "runtime_module": "AGE2/runtime/hooks/body_layout/tda01.js",
+    "module_sha256": "fbe782b09927e695bf14cc04ceb8adfe57528afc30c89f18efd61c80606610e1",
+    "state": "Integrated and locally deployed; verification scope is documented in AGE2/runtime/README.md"
+  },
+  {
+    "game": "tda02",
+    "apply": true,
+    "keep_together": [
+      "酩酊大醉",
+      "殿下"
+    ],
+    "font": "BWCKKT-Bold.ttf",
+    "font_sha256": "9cd231ded039b40bd3e568f220d9a208bb23a890f4375e5d649fe1b367e59c4b",
+    "scope": "Calibrated ordinary body planning, otherwise native-width Chinese segmentation; opaque records preserved",
+    "native_width_fallback": [
+      "multiple records",
+      "explicit area",
+      "other geometry",
+      "opaque controls",
+      "ruby",
+      "mixed metadata",
+      "missing advance"
+    ],
+    "runtime_module": "AGE2/runtime/hooks/body_layout/tda02.js",
+    "module_sha256": "a8e145aaf6797d259b1620ded3c1c0081d76621d00f177d987d632a6a2aa938c",
+    "state": "Integrated and locally deployed; verification scope is documented in AGE2/runtime/README.md"
+  },
+  {
+    "game": "tda03",
+    "apply": true,
+    "keep_together": [
+      "酩酊大醉",
+      "殿下"
+    ],
+    "font": "BWCKKT-Bold.ttf",
+    "font_sha256": "9cd231ded039b40bd3e568f220d9a208bb23a890f4375e5d649fe1b367e59c4b",
+    "scope": "Calibrated ordinary body planning, otherwise native-width Chinese segmentation; opaque records preserved",
+    "native_width_fallback": [
+      "multiple records",
+      "explicit area",
+      "other geometry",
+      "opaque controls",
+      "ruby",
+      "mixed metadata",
+      "missing advance"
+    ],
+    "runtime_module": "AGE2/runtime/hooks/body_layout/tda03.js",
+    "module_sha256": "d1e35a2871c4a6d4bc9d54d8b7b230dd78733182b3cf164d3dad348f9a39ac6b",
+    "state": "Integrated and locally deployed; verification scope is documented in AGE2/runtime/README.md"
+  }
+]

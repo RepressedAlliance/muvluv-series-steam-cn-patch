@@ -17,6 +17,25 @@ from AGE2.tools.fpd.fpd_codec import (
 
 
 class FpdCodecTests(unittest.TestCase):
+    def test_v1_absolute_name_offsets(self) -> None:
+        keys = [0x123456789ABCDEF]
+        names = b"root/first.webp\0root/second.egpack\0"
+        names_start = HEADER_SIZE + 2 * ENTRY_SIZE
+        data_start = names_start + len(names)
+        entries = b"".join(
+            struct.pack(">QQQQ", names_start + offset, i, 1, 0)
+            for i, offset in enumerate((0, len(b"root/first.webp\0")))
+        )
+        header = b"FPD\0" + struct.pack(">IQQ", 1, 2, data_start)
+        header += bytes(HEADER_SIZE - len(header))
+        with tempfile.TemporaryDirectory() as temporary:
+            package = Path(temporary) / "pack.bin"
+            package.write_bytes(header + xor_bytes(entries + names, keys) + b"ab")
+            version, parsed_start, parsed = parse_pack(package, keys)
+        self.assertEqual((version, parsed_start), (1, data_start))
+        self.assertEqual(parsed, [FpdEntry("root/first.webp", 0, 1, 0),
+                                  FpdEntry("root/second.egpack", 1, 1, 0)])
+
     def test_synthetic_index_roundtrip(self) -> None:
         keys = [0x00112233445566778899AABBCCDDEEFF]
         name = b"root/assets/example.egpack\0"

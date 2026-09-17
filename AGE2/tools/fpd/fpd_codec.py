@@ -103,7 +103,11 @@ def parse_pack(
     for i in range(file_count):
         row = index[i * ENTRY_SIZE : (i + 1) * ENTRY_SIZE]
         name_off, data_off, data_len, full_len = struct.unpack(">QQQQ", row)
-        if name_off >= len(names):
+        # V1 stores an absolute offset into the uncompressed file index;
+        # V2 stores an offset relative to the (possibly compressed) name pool.
+        if version == 1:
+            name_off -= HEADER_SIZE + names_start
+        if not 0 <= name_off < len(names):
             raise RuntimeError(f"FPD entry {i} has an invalid name offset")
         try:
             end = names.index(0, name_off)
