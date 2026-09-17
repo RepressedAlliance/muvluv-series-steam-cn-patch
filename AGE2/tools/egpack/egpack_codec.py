@@ -72,6 +72,8 @@ class EgpackChange:
     slot: str
     expected_text: str
     replacement_text: str
+    # Per-entry review note; never a global switch permitting arbitrary CR/LF.
+    line_break_reason: str = ""
 
 
 def _fail(source: str, message: str) -> EgpackFormatError:
@@ -187,6 +189,8 @@ def apply_changes(
     data: bytes,
     changes: Sequence[EgpackChange],
     source: str = "<memory>",
+    *,
+    preserve_native_line_breaks: bool = False,
 ) -> bytes:
     if not changes:
         return data
@@ -217,7 +221,27 @@ def apply_changes(
             raise EgpackChangeError(
                 f"{source}: replacement_text for {change.text_id}/{change.slot} contains NUL"
             )
-        if has_manual_newline(change.replacement_text):
+        if change.line_break_reason and (
+            not change.line_break_reason.strip()
+            or change.slot != "zh_hans"
+            or classify_resource(change.relative_path, change.text_id) != "scene"
+            or r"\n" not in change.replacement_text
+        ):
+            raise EgpackChangeError(
+                f"{source}: line_break_reason requires a reviewed zh_hans scene with literal \\n"
+            )
+        reviewed_breaks = (
+            bool(change.line_break_reason)
+            and not has_manual_newline(change.replacement_text.replace(r"\n", ""))
+        )
+        native_breaks = (
+            preserve_native_line_breaks
+            and change.slot == "zh_hans"
+            and change.replacement_text.count(r"\n") > 0
+            and change.replacement_text.count(r"\n") == record.slots["jp"].text.count(r"\n")
+            and not has_manual_newline(change.replacement_text.replace(r"\n", ""))
+        )
+        if has_manual_newline(change.replacement_text) and not (native_breaks or reviewed_breaks):
             raise EgpackChangeError(
                 f"{source}: replacement_text for {change.text_id}/{change.slot} contains a manual newline"
             )

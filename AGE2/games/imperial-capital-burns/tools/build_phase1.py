@@ -429,17 +429,19 @@ def collect_telop_calls(script_root: Path) -> list[dict[str, str]]:
                             "xml_line": element.get("__line__", ""),
                             "attribute": attribute,
                             "resource": resource,
+                            "position": element.get("pos", ""),
                         }
                     )
     return calls
 
 
 def patch_telop_positions(source_root: Path, output_root: Path) -> dict[str, int]:
-    """Normalize only shifted runtime add_telop coordinates.
+    """Restore original scripts containing raised, simultaneous-dialogue telops.
 
-    The localized XML remains byte-identical except for the ``pos`` value in
-    ``chara`` tags that actually reference ``add_telop_*``.  Files without a
-    required change are deliberately omitted from the loose overlay.
+    These positions are intentional: normalizing them to the solo-caption
+    plane overlaps narration. Copy the original XML byte-for-byte so an older
+    loose position override is replaced as well. The return values count the
+    raised calls restored, not numeric coordinates modified.
     """
 
     changed_files: dict[str, int] = {}
@@ -462,13 +464,8 @@ def patch_telop_positions(source_root: Path, output_root: Path) -> dict[str, int
                 raise RuntimeError(
                     f"unexpected add_telop position {position!r}: {source}"
                 )
-            patched, count = TELOP_POS_BYTES_RE.subn(
-                b'pos="' + TELOP_STANDARD_POSITION + b'"', tag, count=1
-            )
-            if count != 1:
-                raise RuntimeError(f"failed to patch add_telop position: {source}")
             replacements += 1
-            return patched
+            return tag
 
         patched = TELOP_TAG_BYTES_RE.sub(patch_tag, original)
         if replacements:
@@ -476,8 +473,7 @@ def patch_telop_positions(source_root: Path, output_root: Path) -> dict[str, int
             target = output_root / relative
             target.parent.mkdir(parents=True, exist_ok=True)
             target.write_bytes(patched)
-            if patched == original:
-                raise RuntimeError(f"reported unchanged telop script: {source}")
+            assert patched == original
             changed_files[relative.as_posix()] = replacements
     return changed_files
 
@@ -507,6 +503,7 @@ def write_telop_chapter_checklist(
         "xml_line",
         "attribute",
         "resource",
+        "position",
         "speaker_jp",
         "jp_voice",
         "source_text_sha256",
@@ -780,6 +777,7 @@ def render_telop(
     output: Path,
     canvas_size: tuple[int, int] = (1280, 720),
     bottom_y: int = 673,
+    max_ink_height: int | None = None,
 ) -> None:
     try:
         from PIL import Image, ImageDraw, ImageFont
@@ -788,16 +786,26 @@ def render_telop(
 
     canvas = Image.new("RGBA", canvas_size, (0, 0, 0, 0))
     draw = ImageDraw.Draw(canvas)
-    font = ImageFont.truetype(str(font_path), 32)
-    lines: list[str] = []
-    for manual_line in text.split("|"):
-        lines.extend(_wrap_line(draw, manual_line, font, canvas.width - 120))
-    rendered = "\n".join(lines)
     spacing = 4
-    stroke = 4
-    bbox = draw.multiline_textbbox(
-        (0, 0), rendered, font=font, spacing=spacing, align="center", stroke_width=stroke
-    )
+    stroke = 2
+    # Raised captions share the screen with dialogue. Their English ink height
+    # is also a viewport constraint; extra Chinese lines can clip at the top.
+    # Use one size for every caption. Fitting each sentence independently made
+    # short/raised subtitles visibly smaller than adjacent narration overlays.
+    for size in (24,):
+        font = ImageFont.truetype(str(font_path), size)
+        lines: list[str] = []
+        copy = text.replace("|", "") if max_ink_height is not None else text
+        for manual_line in copy.split("|"):
+            lines.extend(_wrap_line(draw, manual_line, font, canvas.width - 120))
+        rendered = "\n".join(lines)
+        bbox = draw.multiline_textbbox(
+            (0, 0), rendered, font=font, spacing=spacing, align="center", stroke_width=stroke
+        )
+        if max_ink_height is None or bbox[3] - bbox[1] <= max_ink_height:
+            break
+    else:
+        raise ValueError("raised telop cannot fit at the shared 24px size; revise its line breaks")
     height = bbox[3] - bbox[1]
     y = bottom_y - height - bbox[1]
     draw.multiline_text(
@@ -811,6 +819,18 @@ def render_telop(
         align="center",
         anchor="ma",
     )
+    # Font advance widths include side bearings and trailing punctuation space.
+    # Anchor the visible ink, not those metrics, to the engine's caption plane.
+    ink_box = canvas.getchannel("A").getbbox()
+    if ink_box is None:
+        raise ValueError("telop rendered no visible text")
+    ink = canvas.crop(ink_box)
+    left = (canvas.width - ink.width) // 2
+    top = bottom_y - ink.height
+    if left < 0 or top < 0 or bottom_y > canvas.height:
+        raise ValueError("telop exceeds its native canvas")
+    canvas = Image.new("RGBA", canvas_size, (0, 0, 0, 0))
+    canvas.alpha_composite(ink, (left, top))
     output.parent.mkdir(parents=True, exist_ok=True)
     canvas.save(output, format="WEBP", lossless=True, method=6)
 
@@ -1335,6 +1355,8 @@ def main() -> int:
         extra = sorted(manifest_telops - referenced_telops)
         raise RuntimeError(f"telop reference mismatch: missing={missing} extra={extra}")
     calls = collect_telop_calls(args.jp_script_root)
+    raised_telops = {row["asset_id"] for row in calls
+                     if row["position"].encode() in TELOP_SHIFTED_POSITIONS}
     canvas_size, bottom_y, invalid_references = infer_telop_reference_layout(
         args.telop_reference_root, telop_rows
     )
@@ -1342,7 +1364,15 @@ def main() -> int:
     for row in telop_rows:
         asset_id = row["asset_id"]
         base = telop_dir / f"add_telop_{asset_id}.webp"
-        render_telop(row["zh_cn"], font_path, base, canvas_size, bottom_y)
+        max_ink_height = None
+        if asset_id in raised_telops:
+            from PIL import Image
+            with Image.open(args.telop_reference_root / f"add_telop_{asset_id}_en.webp") as reference:
+                box = reference.convert("RGBA").getchannel("A").getbbox()
+                if box is None:
+                    raise ValueError(f"empty raised telop reference: {asset_id}")
+                max_ink_height = box[3] - box[1]
+        render_telop(row["zh_cn"], font_path, base, canvas_size, bottom_y, max_ink_height)
         shutil.copyfile(base, telop_dir / f"add_telop_{asset_id}_en.webp")
 
     location_date_rows = read_tsv(image_copy / "location-date-cards.ja-zh-Hans.tsv")

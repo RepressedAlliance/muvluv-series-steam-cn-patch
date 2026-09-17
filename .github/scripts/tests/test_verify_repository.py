@@ -57,7 +57,7 @@ class RepositoryPolicyHelperTests(unittest.TestCase):
         ):
             with self.subTest(name=name):
                 self.assertFalse(MODULE.is_allowed_public_path(Path(name)))
-        for name in ("tool.py", "table.csv", "README.md", ".gitignore", "LICENSE"):
+        for name in ("tool.py", "hook.js", "test_hook.cjs", "table.csv", "README.md", ".gitignore", "LICENSE"):
             with self.subTest(name=name):
                 self.assertTrue(MODULE.is_allowed_public_path(Path(name)))
 
