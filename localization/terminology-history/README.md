@@ -20,8 +20,8 @@
 | TDA02 | [86 条](../glossaries/tda02.ja-zh-Hans.csv) | [534 条](../../AGE2/games/tda02/terminology/baseline.ja-zh-Hans.csv) | 198 |
 | TDA03 | [102 条](../glossaries/tda03.ja-zh-Hans.csv) | [616 条](../../AGE2/games/tda03/terminology/baseline.ja-zh-Hans.csv) | 236 |
 | 帝都燃烧 | [183 条](../glossaries/imperial-capital-burns.ja-zh-Hans.csv) | [264 条](../../AGE2/games/imperial-capital-burns/terminology/baseline.ja-zh-Hans.csv) | 185 |
-| PF | [298 条](../glossaries/photonflowers.ja-zh-Hans.csv) | [1561 条](../../rUGP/games/photonflowers/terminology/baseline.ja-zh-Hans.csv) | 1178 |
-| PM | [745 条](../glossaries/photonmelodies.ja-zh-Hans.csv) | [3656 条](../../rUGP/games/photonmelodies/terminology/baseline.ja-zh-Hans.csv) | 2668 |
+| 光子之花 | [298 条](../glossaries/photonflowers.ja-zh-Hans.csv) | [1561 条](../../rUGP/games/photonflowers/terminology/baseline.ja-zh-Hans.csv) | 1178 |
+| 光子旋律 | [745 条](../glossaries/photonmelodies.ja-zh-Hans.csv) | [3656 条](../../rUGP/games/photonmelodies/terminology/baseline.ja-zh-Hans.csv) | 2668 |
 
 基线保留同一词的不同来源、不同状态和语境，**记录数不等于已确认术语数**。同一个词也可在通用表和专表有各自的使用依据，两表行数不能直接相加。TDA01–03 是依据旧词库及本作日文重建的基线，不冒充旧的完整人工审定表。
 
@@ -40,7 +40,7 @@
 
 [恢复说明](recovery-20260908.md)记录原表规模、TDA 重建方法和未完成的语义确认；[恢复清单](recovery-20260908.json)记录原文件提交号、哈希和逐作计数。
 
-完整恢复的独立输入包括：帝都燃烧 185 条、PF EX 表 88 条及基线 945 条、PF AL 表 98 条、PM 时空的欠片表 417 条及基线 2,321 条、PM 憧憬／再诞表 341 条，以及 TDA00 草案 369 条。不同表间有重复，不相加当作独立词总量。
+完整恢复的独立输入包括：帝都燃烧 185 条、光子之花 EX 表 88 条及基线 945 条、光子之花 AL 表 98 条、光子旋律时空的欠片表 417 条及基线 2,321 条、光子旋律憧憬／再诞表 341 条，以及 TDA00 草案 369 条。不同表间有重复，不相加当作独立词总量。
 
 [首次审计](scope-audit-20260908.md)已撤回“资料齐全／完成”结论，仅保留为历史。[旧混合表](mixed-20260908.csv)和[帝都旧表](imperial-20260908.csv)是历史校验副本，不参与加载。官方完整日英例句不重新公开，保留术语和来源定位。
 

@@ -13,7 +13,7 @@ CRsa is an encrypted serialized-object record. “Search the RIO for readable Ja
 
 The public [read-only extraction CLI](../../tools/text/README.md) now implements a conservative subset of steps 2–5 for CRsa extents supplied by the ICI/RIO catalog. It emits local source rows and a hash-only, unreviewed template; it does not infer capacity, writer mode, runtime authorization or perform step 6 automatically.
 
-This approach was informed by public rUGP/GARbro behavior, but the PF/PM CString/CVM layouts, capacity census, write routes and runtime probes were independently derived for this project.
+This approach was informed by public rUGP/GARbro behavior, but the 光子之花/光子旋律 CString/CVM layouts, capacity census, write routes and runtime probes were independently derived for this project.
 
 ## Writing
 

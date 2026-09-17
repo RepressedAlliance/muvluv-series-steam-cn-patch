@@ -1,6 +1,6 @@
 # rUGP workflow
 
-This is the required investigation/build sequence, not a claim that one public command currently performs every step. The read-only catalog and supported CRsa extraction stages are public, but the repository does not yet bind every PF/PM payload into the final approved staging roots; [the research index](../../docs/research/README.md) records the exact boundary.
+This is the required investigation/build sequence, not a claim that one public command currently performs every step. The read-only catalog and supported CRsa extraction stages are public, but the repository does not yet bind every 光子之花/光子旋律 payload into the final approved staging roots; [the research index](../../docs/research/README.md) records the exact boundary.
 
 ## 1. Freeze a clean installation
 
@@ -14,7 +14,7 @@ map. This is a content check, not Steam-signature authentication; see the
 
 ## 2. Decode the catalog
 
-When an exact reader build is known to accept the target, use a verified ICI/RIO reader such as GARbro for an initial listing, then preserve the decoded class, logical path, volume, offset, extent, and parent/reference identity. The public [`rio_inventory.py`](../tools/catalog/README.md) supplies a read-only, portable catalog route for its supported ICI schema. Stock GARbro can reject PF/PM archives or lack a target class; that is a compatibility result, not permission to guess offsets. A listing is a map, not an extracted final asset.
+When an exact reader build is known to accept the target, use a verified ICI/RIO reader such as GARbro for an initial listing, then preserve the decoded class, logical path, volume, offset, extent, and parent/reference identity. The public [`rio_inventory.py`](../tools/catalog/README.md) supplies a read-only, portable catalog route for its supported ICI schema. Stock GARbro can reject 光子之花/光子旋律 archives or lack a target class; that is a compatibility result, not permission to guess offsets. A listing is a map, not an extracted final asset.
 
 ## 3. Decode by record type
 
@@ -38,4 +38,4 @@ Prefer a native/in-place or RUO route where the authenticated translation/common
 
 ## 7. Package from a clean root
 
-The Photon builder accepts explicit clean, sealed-runtime, stock-fixed, final-PF and final-PM roots. It validates pinned hashes, requires a fixed `SOURCE_DATE_EPOCH`, records the Python/NumPy/zlib environment, creates deterministic block deltas and ZIP metadata, and emits PF/PM as separate packages. A future player installer must additionally run and immediately revalidate the strict [Steam locale preflight](../packaging/README.md#steam-locale-preflight-for-a-future-installer); a saved JSON report alone is not write authorization. See [`../packaging/README.md`](../packaging/README.md).
+The Photon builder accepts explicit clean, sealed-runtime, stock-fixed, final-PF and final-PM roots. It validates pinned hashes, requires a fixed `SOURCE_DATE_EPOCH`, records the Python/NumPy/zlib environment, creates deterministic block deltas and ZIP metadata, and emits 光子之花/光子旋律 as separate packages. A future player installer must additionally run and immediately revalidate the strict [Steam locale preflight](../packaging/README.md#steam-locale-preflight-for-a-future-installer); a saved JSON report alone is not write authorization. See [`../packaging/README.md`](../packaging/README.md).

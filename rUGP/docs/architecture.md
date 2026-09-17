@@ -4,7 +4,7 @@
 
 An ICI is a small encrypted serialized catalog. Once decoded, its object/reference graph supplies names, classes, encoded offsets and extents. The payload may live in the base RIO or a numbered continuation volume. The ICI is not a ZIP central directory with ordinary files and it is not the image decoder.
 
-`CodeArcRef` is the engine's serialized archive-reference concept: it binds an object to an encoded archive position/extent. It was not invented by this project. GARbro, AFHook/rUGP research and direct executable/runtime observation supplied the vocabulary; this project independently audited the exact PF/PM instances and their parent bindings.
+`CodeArcRef` is the engine's serialized archive-reference concept: it binds an object to an encoded archive position/extent. It was not invented by this project. GARbro, AFHook/rUGP research and direct executable/runtime observation supplied the vocabulary; this project independently audited the exact 光子之花/光子旋律 instances and their parent bindings.
 
 ## Typed records
 

@@ -19,17 +19,17 @@ redirect = source_raw_offset, target_raw_offset, replacement_raw_size
 The loader reads `N` from EOF, rejects only implausibly large counts, then
 loads the preceding `N * 12` bytes. There is no RUO magic, header, version,
 checksum or separate TOC. Encoded offsets/sizes use the same bias and archive
-unit contract as the base game; PF/PM use four-byte units, while the audited
+unit contract as the base game; 光子之花/光子旋律 use four-byte units, while the audited
 Muv/Alternative builds use two-byte units.
 
 ## How this was established
 
 Static executable analysis identified the wildcard scan, RUO loader and
-redirect resolver. A one-record PF overlay was then decoded back field by
+redirect resolver. A one-record 光子之花 overlay was then decoded back field by
 field. In an isolated runtime test the exact redirect appeared once in the
 process's private redirect-map memory and the RUO filename appeared in private
 memory, proving that the running loader opened the file and copied its footer.
-An independent file-open probe also observed the real PF process opening the
+An independent file-open probe also observed the real 光子之花 process opening the
 matching RUO basename.
 
 ## The multiple-RUO trap
@@ -39,8 +39,8 @@ archive ID. The manager retains one final RUO archive index while the redirect
 map is global; every entry is resolved against that last archive. Independent
 RUO files are therefore not safely stackable.
 
-- PF originally has no RUO: deploy one cumulative `base.rio.ruo1`.
-- PM native CRsa records in later split volumes are not deployed through RUO.
+- 光子之花 originally has no RUO: deploy one cumulative `base.rio.ruo1`.
+- 光子旋律 native CRsa records in later split volumes are not deployed through RUO.
   A byte-identical redirect reproduced `InternalError(831)`, while the same
   record in its original fixed extent passed; use the hash-gated volume staging
   route documented in the [native-field increment](crsa-native-increment-20260904.md).

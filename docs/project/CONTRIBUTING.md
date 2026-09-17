@@ -64,7 +64,7 @@ python -m compileall -q AGE2 rUGP localization .github/scripts
 python .github/scripts/verify_repository.py
 ```
 
-Native Photon runtime changes also require Zig 0.16.0 and both pinned PF/PM builds described in [`rUGP/runtime/README.md`](../../rUGP/runtime/README.md).
+Native Photon runtime changes also require Zig 0.16.0 and both pinned 光子之花/光子旋律 builds described in [`rUGP/runtime/README.md`](../../rUGP/runtime/README.md).
 
 ## Pull requests
 

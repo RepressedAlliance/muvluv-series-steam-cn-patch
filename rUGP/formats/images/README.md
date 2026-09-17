@@ -3,7 +3,7 @@
 | Format | Public support |
 | --- | --- |
 | Cr6Ti | strict standard decoder; reviewed kind 2/3 encoder profiles |
-| CRip007 | narrow q=0 legacy RGB decoder/encoder for the four audited PF/PM records |
+| CRip007 | narrow q=0 legacy RGB decoder/encoder for the four audited 光子之花/光子旋律 records |
 | CRip008 | bounded kind 2 and kind 3 decode for the documented header/flag profiles; simple literal-run encoders intended for RUO/runtime transport |
 | CRmt / CRmti | five observed parent layouts; 5/6/7-bit RGB profiles and both observed bit orders; bounded inline and standalone framing, capacity-aware encoding and independent readback |
 | CRimp | strict typed property map reader/writer; not a raster codec |

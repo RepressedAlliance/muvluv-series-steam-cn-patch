@@ -13,7 +13,7 @@ This repository contains reusable localization components, but it does **not** y
 | Family | Games currently represented | Reusable pieces | Work still required for a new language |
 | --- | --- | --- | --- |
 | AGE2 | TDA00–03 and Imperial Capital Burns | EGPACK/FPD helpers, strict local-source/table joins for supported TDA layouts, shared QA rules, selected game builders and release notes | Establish a legal source baseline; adapt the table join to the game's schema; supply language-specific images/fonts; validate loose-overlay behavior and build-specific paths |
-| rUGP / AGES | Photon Flowers and Photon Melodies | Read-only ICI/RIO catalogue and conservative CRsa extractor, narrow tested CRsa/RUO record primitives, selected Cr6Ti/CRip007/CRip008 codecs, guarded runtime components, stable public translation manifests, tests | Run the catalogue/text extraction against a legally owned supported build; bind the new translation to stable IDs/hashes; prove a safe writer and RUO/runtime route for each resource; perform real-game text/image/font QA |
+| rUGP / AGES | 光子之花 and 光子旋律 | Read-only ICI/RIO catalogue and conservative CRsa extractor, narrow tested CRsa/RUO record primitives, selected Cr6Ti/CRip007/CRip008 codecs, guarded runtime components, stable public translation manifests, tests | Run the catalogue/text extraction against a legally owned supported build; bind the new translation to stable IDs/hashes; prove a safe writer and RUO/runtime route for each resource; perform real-game text/image/font QA |
 
 Read the relevant workflow before creating files: [AGE2](../AGE2/docs/workflow.md) or [rUGP](../rUGP/docs/workflow.md). The current reproducibility boundary is summarized in the [research index](../docs/research/README.md).
 

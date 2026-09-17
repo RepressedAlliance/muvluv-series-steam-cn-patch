@@ -1,4 +1,4 @@
-# Muv-Luv photonflowers*
+# Muv-Luv 光子之花*
 
 [返回 rUGP 游戏](../README.md) · [项目清单](project.toml) · [文本](translations/) · [图片](images/) · [完整工作流](../../../localization/workflow.md)
 
@@ -8,7 +8,7 @@
 - 最新章节编辑表：13,025 条（包含系统文本与补提取消息）
 - 历史已审校文本：Alternative 6,033 行、Extra 6,931 行，共 12,964 行
 - 当前精确运行时绑定表：69 行
-- Photon 图片权威：PF 636 项
+- Photon 图片权威：光子之花 636 项
 
 [按章节命名的 CSV](translations/README.md) 是最新人工编辑入口。
 `text-data/history/reviewed/` 保留早期审校中文、稳定 ID 和日文源哈希，作为封存证据，不再人工编辑。
@@ -16,14 +16,14 @@
 写入合同。章节 CSV 读取接口不会把全部审校文本自动变成可安全写回的原生字段。
 
 公开表故意不批量镜像完整官方日文。贡献者从合法游戏提取源文本后，通过稳定 ID 与
-源哈希连接。图片使用 PF/PM 共用的 [Photon 清单](../../evidence/photon/README.md)，但
-PF 有自己的输入哈希、运行时配置、安装包和实机 QA；PM 的成功不能替代 PF。
+源哈希连接。图片使用光子之花/光子旋律共用的 [Photon 清单](../../evidence/photon/README.md)，但
+光子之花有自己的输入哈希、运行时配置、安装包和实机 QA；光子旋律的成功不能替代光子之花。
 
 源码树和 1,490 图研究资产 Release 都不是玩家安装包。正式发布前仍需完成干净克隆
 构建、准确输入版本门、图片/字体许可、下载后安装与回滚，以及完整路线检查。
 
 ## English summary
 
-Photon Flowers has 13,025 latest review entries in chapter CSVs, a sealed legacy
+光子之花 has 13,025 latest review entries in chapter CSVs, a sealed legacy
 12,964-row review dataset, 69 existing runtime contracts and 636 image authorities.
 The chapter editing surface is not a player package or a native write contract.

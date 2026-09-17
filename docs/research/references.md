@@ -11,8 +11,8 @@
 
 | 项目 | 值得采用 | 本项目主动补足 |
 | --- | --- | --- |
-| [GARbro](https://github.com/morkt/GARbro) | 首页先给下载和 GUI 操作；`ArcFormats/` 与界面分层；RIO/ICI 目录读取和具体资源解码分开 | GARbro 不是 Photon 万能重封器。本项目把 PF/PM 目录读取移植来源隔离并保留 MIT 声明，再增加严格 extent、卷、父引用、稳定身份、清单和合成测试 |
-| [AFHook](https://github.com/eplightning/afhook) | `editor/` 与 `plugin/` 直接体现“制作端”和“游戏运行端”是两件事 | 上游文档很少且不覆盖当前 PF/PM 版本。本项目补上准确构建哈希、失败关闭、字体/图片路由、可复现构建、遥测和逐问题复盘 |
+| [GARbro](https://github.com/morkt/GARbro) | 首页先给下载和 GUI 操作；`ArcFormats/` 与界面分层；RIO/ICI 目录读取和具体资源解码分开 | GARbro 不是 Photon 万能重封器。本项目把光子之花/光子旋律目录读取移植来源隔离并保留 MIT 声明，再增加严格 extent、卷、父引用、稳定身份、清单和合成测试 |
+| [AFHook](https://github.com/eplightning/afhook) | `editor/` 与 `plugin/` 直接体现“制作端”和“游戏运行端”是两件事 | 上游文档很少且不覆盖当前光子之花/光子旋律版本。本项目补上准确构建哈希、失败关闭、字体/图片路由、可复现构建、遥测和逐问题复盘 |
 | [rugptools](https://github.com/osmium76/rugptools) | GUI 与 `.rio` 访问库分层，并诚实声明只支持特定 MLA DVD 版本、对象反序列化仍不完整 | 历史 alterdec 转录部分的许可证边界需谨慎，因此只研究行为，不复制不清楚的源码；当前实现以独立样本、测试和来源说明重新建立 |
 | AFEditor（AFHook 制作端） | Cr6Ti 的 C# 编解码行为参考，与 AFHook C++ 解码器对照 | 具体采用范围记载于本项目的 Cr6Ti 编码器；不代表直接使用了整套编辑器 |
 | alterdec 历史资料 | rUGP 对象、Cr6Ti C++ 解码状态机及 CRmti 预测基础 | 实际参考的 tsudoko/chinesize 副本已固定为 `ad5bdad900e31edf2a17640d1d243470a58b29a8`（现重定向至 tsdko）；文件哈希和采用边界见[详细来源](photon/provenance.md)，不将副本提交冒充原作者最初版本 |

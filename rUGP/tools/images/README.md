@@ -25,7 +25,7 @@ must match the complete row set; an omitted row cannot silently retain stale tot
 The atlas streams horizontal strips; `--columns` accepts 1–10. Derived PNGs and
 HTML are local-only artifacts. The HTML uses no external service or library.
 
-The PM regression requires Windows and Zig 0.16.0. It exercises real production
+The 光子旋律 regression requires Windows and Zig 0.16.0. It exercises real production
 admission and sidecar surface transactions; it does not execute the proprietary
 decoder or run a game. See the [failure analysis](../../docs/postmortems/pm-image-admission-20260909.md).
 
@@ -92,7 +92,7 @@ separate. See the [completed offline audit](../../docs/postmortems/offline-hook-
 
 ### Other tools
 
-- [`trace_pending_script_references.py`](trace_pending_script_references.py) re-reads the 13 source-archive owners of the first capture's 40 CRip008 and four PM load-only follow-ups. It verifies typed resource fields, bounded helper calls, mapping-table bytes and source-hash-matched Chinese scene cues. Run with `--census-root <private-census-directory> --output <report.json>`. Static registration does not establish a runtime draw; see the [entry-point report](../../docs/postmortems/pending-hook-entry-points-20260909.md).
+- [`trace_pending_script_references.py`](trace_pending_script_references.py) re-reads the 13 source-archive owners of the first capture's 40 CRip008 and four 光子旋律 load-only follow-ups. It verifies typed resource fields, bounded helper calls, mapping-table bytes and source-hash-matched Chinese scene cues. Run with `--census-root <private-census-directory> --output <report.json>`. Static registration does not establish a runtime draw; see the [entry-point report](../../docs/postmortems/pending-hook-entry-points-20260909.md).
 - [`decode_record.py`](decode_record.py) is the read-only first-step tool: combine an exact ICI-catalogued volume/offset/extent with the matching supported codec and create a review PNG plus portable JSON evidence.
 - [`export_crmt_layers.py`](export_crmt_layers.py) exports **all inline CRmti layers** from an exact, SHA-256-locked CRmt extent to a new directory. It does not fetch external references or treat mips as animation frames.
 - [`decode_crmti.py`](decode_crmti.py) handles a class-confirmed standalone CRmti extent at its full serialized dimensions; its framing differs from an inline child.
@@ -102,7 +102,7 @@ separate. See the [completed offline audit](../../docs/postmortems/offline-hook-
 - [`sanitize_route_closure.py`](sanitize_route_closure.py) projects a private route-working set into the path-redacted public route contract.
 - [`verify_route_closure.py`](verify_route_closure.py) verifies the frozen 1,490-row Photon route closure.
 - [`build_static_review.py`](build_static_review.py) verifies a portable current catalog against explicit local images, then generates categorized HTML cards and an optional streamed full PNG atlas.
-- [`verify_pm_production.py`](verify_pm_production.py) reproduces the PM 7/9-hook admission failure and verifies the repair using only a synthetic Windows host and artwork.
+- [`verify_pm_production.py`](verify_pm_production.py) reproduces the 光子旋律 7/9-hook admission failure and verifies the repair using only a synthetic Windows host and artwork.
 
 Codec implementations and their proven boundaries live in [`rUGP/formats/images`](../../formats/images/README.md). These tools do not infer a locale peer, choose a writer or authorize a package merely because an image decodes successfully.
 

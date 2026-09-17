@@ -1,10 +1,10 @@
-name: ParaTranz PF PM TDA
+name: ParaTranz 光子之花 光子旋律 TDA
 
 on:
   workflow_dispatch:
     inputs:
       project:
-        description: '选择项目：pf / pm / tda（TDA00–03 共用项目）'
+        description: '选择项目：pf＝光子之花，pm＝光子旋律，tda＝TDA00–03 共用项目'
         type: choice
         options: [pf, pm, tda]
         required: true
