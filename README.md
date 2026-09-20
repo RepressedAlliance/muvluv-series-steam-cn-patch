@@ -1,13 +1,26 @@
-# Muv-Luv 系列 Steam 中文补丁
+# Muv-Luv 系列 Steam 版汉化补完计划
 
 <p align="center">
-  <strong><a href="#游戏下载">游戏下载</a></strong> ·
+  <strong><a href="#游戏下载">补丁下载</a></strong> ·
+  <a href="#其他作者的汉化入口">ATE 汉化（其他作者）</a> ·
   <a href="docs/player/README.md">安装、卸载与排错</a> ·
   <a href="#research">制作与研究 / Research · English</a> ·
   <a href="#问题反馈">问题反馈</a>
 </p>
 
-这是一个非官方、非商业的 Muv-Luv 系列 Steam 简体中文补丁项目。
+提供帝都燃烧、TDA00—03、光子之花、光子旋律的 Steam 简体中文汉化补丁。
+**七部作品均已有 BETA 补丁下载**，持续完善译文、中文界面、字体与排版，并通过玩家反馈和协作校对更新。
+本项目非官方、非商业；另收录主任保护协会制作的 ATE 汉化原发布入口，方便查找。
+
+当前提供 **TDA00—03（Muv-Luv UNLIMITED: The Day After）、帝都燃烧篇
+（The Imperial Capital Burns）、光子之花（photonflowers*）、光子旋律（photonmelodies*）**
+的独立补丁。系列日文名为 **マブラヴ**，也常写作 **MuvLuv / Muv Luv**；各作适用版本与安装方式不同。
+见[作品名称与版本对照](docs/player/game-names.md)。补丁仍为 BETA，持续接受反馈与协作校对。
+
+Unofficial Simplified Chinese (zh-Hans) patches for the Windows Steam releases of
+Muv-Luv UNLIMITED: The Day After episodes 00–03, The Imperial Capital Burns,
+Muv-Luv photonflowers* and photonmelodies*. See the download table below for each game's release.
+These are Chinese localization patches, not English patches or full games.
 
 > [!IMPORTANT]
 > 使用补丁必须拥有对应游戏正版。本仓库不提供游戏本体、破解或完整原始资源。
@@ -16,19 +29,48 @@
 
 ## 第一部分 · 玩家下载与反馈
 
-### 游戏下载
+<a id="游戏下载"></a>
+
+### 补丁下载
 
 请选择与你拥有的游戏完全对应的补丁。AGE2 下载表中的安装 EXE，PF／PM 下载补丁 ZIP；不要下载 GitHub 自动生成的 Source code ZIP。
 
 | 游戏 | 当前公开版本 | 下载与说明 |
 | --- | --- | --- |
-| TDA00 | **BETA 0.2.0** | [安装程序 EXE](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/download/tda00-BETA-0.2.0/tda00-CN-BETA-0.2.0-Setup.exe) · [发布说明](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/tag/tda00-BETA-0.2.0) |
-| TDA01 | **BETA 0.3.2** | [安装程序 EXE](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/download/tda01-BETA-0.3.2/tda01-CN-BETA-0.3.2-Setup.exe) · [发布说明](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/tag/tda01-BETA-0.3.2) |
-| TDA02 | **BETA 0.2.0** | [安装程序 EXE](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/download/tda02-BETA-0.2.0/tda02-CN-BETA-0.2.0-Setup.exe) · [发布说明](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/tag/tda02-BETA-0.2.0) |
-| TDA03 | **BETA 0.2.6** | [安装程序 EXE](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/download/tda03-BETA-0.2.6/tda03-CN-BETA-0.2.6-Setup.exe) · [发布说明](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/tag/tda03-BETA-0.2.6) |
-| 帝都燃烧篇 | **BETA 0.2.0** | [安装程序 EXE](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/download/imperial-capital-burns-BETA-0.2.0/tm-CN-BETA-0.2.0-Setup.exe) · [发布说明](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/tag/imperial-capital-burns-BETA-0.2.0) |
-| 光子之花 | **BETA 0.1.1** | **[下载补丁 ZIP](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/download/pf-BETA-0.1.1/MuvLuv_PF_CN_Patch_BETA_0.1.1.zip)** · [发布说明](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/tag/pf-BETA-0.1.1) |
-| 光子旋律 | **BETA 0.1.1** | **[下载补丁 ZIP](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/download/pm-BETA-0.1.1/MuvLuv_PM_CN_Patch_BETA_0.1.1.zip)** · [发布说明](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/tag/pm-BETA-0.1.1) |
+| TDA00 | **BETA 0.2.0** | [安装程序 EXE](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/download/tda00-BETA-0.2.0/tda00-CN-BETA-0.2.0-Setup.exe) · [发布说明](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/tag/tda00-BETA-0.2.0) |
+| TDA01 | **BETA 0.3.2** | [安装程序 EXE](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/download/tda01-BETA-0.3.2/tda01-CN-BETA-0.3.2-Setup.exe) · [发布说明](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/tag/tda01-BETA-0.3.2) |
+| TDA02 | **BETA 0.2.0** | [安装程序 EXE](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/download/tda02-BETA-0.2.0/tda02-CN-BETA-0.2.0-Setup.exe) · [发布说明](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/tag/tda02-BETA-0.2.0) |
+| TDA03 | **BETA 0.2.6** | [安装程序 EXE](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/download/tda03-BETA-0.2.6/tda03-CN-BETA-0.2.6-Setup.exe) · [发布说明](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/tag/tda03-BETA-0.2.6) |
+| 帝都燃烧篇 | **BETA 0.2.0** | [安装程序 EXE](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/download/imperial-capital-burns-BETA-0.2.0/tm-CN-BETA-0.2.0-Setup.exe) · [发布说明](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/tag/imperial-capital-burns-BETA-0.2.0) |
+| 光子之花 | **BETA 0.1.1** | **[下载补丁 ZIP](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/download/pf-BETA-0.1.1/MuvLuv_PF_CN_Patch_BETA_0.1.1.zip)** · [发布说明](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/tag/pf-BETA-0.1.1) |
+| 光子旋律 | **BETA 0.1.1** | **[下载补丁 ZIP](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/download/pm-BETA-0.1.1/MuvLuv_PM_CN_Patch_BETA_0.1.1.zip)** · [发布说明](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/tag/pm-BETA-0.1.1) |
+
+### 作品名称与常用简称
+
+| 中文名与简称 | 英文名／日文名及常见写法 |
+| --- | --- |
+| TDA00、TDA01、TDA02、TDA03 | Muv-Luv UNLIMITED: The Day After；TDA 00–03、episode:00–03；マブラヴ アンリミテッド ザ・デイアフター |
+| 帝都燃烧、帝都燃烧篇 | The Imperial Capital Burns - Muv-Luv Alternative Total Eclipse；帝都燃ゆ；Teito Moyu |
+| 光子之花、PF | Muv-Luv photonflowers*；マブラヴ photonflowers* |
+| 光子旋律、PM | Muv-Luv photonmelodies*；マブラヴ photonmelodies* |
+
+各作对应不同补丁，请按作品下载。[完整名称与版本区别](docs/player/game-names.md)。
+
+### 其他作者的汉化入口
+
+**ATE／TE（Muv-Luv Alternative Total Eclipse Remastered，全蚀／全蚀篇）**
+的 Steam 汉化由 **主任保护协会** 制作与发布，不计入本项目制作的七部补丁。
+日文作品名为「マブラヴ オルタネイティヴ トータル・イクリプス」。
+
+→ **[前往鲲 Galgame 原发布入口下载 ATE 汉化](https://www.moyu.moe/galgame/5364?tab=resource)**
+· [作者补丁说明页](https://www.moyu.moe/resource/9330)
+
+2026-09-20 核对时，作者发布的版本为 **v2.1**；原说明标注适用于 Steam Remastered
+**V1.027 及以下版本**，不兼容旧光盘版。作者说明其采用 AI 翻译与人工 N1 精修。
+具体适用条件、安装方法、更新与使用限制均以原发布页为准，问题请在原发布页反馈。
+
+此处仅提供原页面链接，不在本仓库上传、修改或重新打包该补丁。
+**ATE 正篇与帝都燃烧是不同作品，两者补丁不能混用。**
 
 ### 光子之花 / 光子旋律安装
 
@@ -54,8 +96,8 @@ Steam 语言设为 **English（英语）**，等待下载完成并退出游戏�
 安装遇到问题、发现错字或想交流，欢迎加入 **QQ 交流群：273626767**。
 不熟悉 GitHub 也可以直接进群反馈，尽量附上游戏名、补丁版本、截图和前后台词。
 
-- [报告安装、启动、文本、图片或字体问题](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/issues/new?template=bug-report.yml)
-- [提交有日文原文依据的翻译修正](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/issues/new?template=translation-review.yml)
+- [报告安装、启动、文本、图片或字体问题](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/issues/new?template=bug-report.yml)
+- [提交有日文原文依据的翻译修正](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/issues/new?template=translation-review.yml)
 - [查看参与方式、贡献者与致谢](.github/CONTRIBUTING.md)
 
 ### 关于 AI 翻译与人工校对
@@ -72,13 +114,7 @@ Steam 语言设为 **English（英语）**，等待下载完成并退出游戏�
 采用方案，并跟进修正结果，再将修改纳入对应发布包。AI 协助分析与执行，具体取舍和
 最终发布由我负责；发布后也会继续收集反馈、修正问题。
 
-这些修改已有发布记录：
-[TDA01 beta0.2.2](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/tag/tda01-beta0.2.2)
-已收录实机游玩反馈修复；
-[TDA02 beta0.1](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/tag/tda02-beta0.1)
-已包含说话人军衔、台词错位、术语及部分语序修正；
-[TDA00 beta0.1](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/tag/tda00-beta0.1)
-的下载包已更新说话人中文名称。
+已确认的审核与纠错会纳入对应发布包；具体变化见各作当前发布说明。
 
 详细步骤见 **[按顺序阅读的翻译规范](localization/standards/README.md)** 和
 [完整工作流](localization/workflow.md)。这些是制作流程，不代表每个历史测试包都已完成
@@ -104,7 +140,7 @@ TDA 的部分文本已经过人工校对。已发布版本包含上述审核与�
 | 校对范围 | 在线项目 |
 | --- | --- |
 | TDA00—03 | [加入 TDA 校对](https://paratranz.cn/projects/19505) |
-| 帝都燃烧篇 | **BETA 0.2.0** | [安装程序 EXE](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/download/imperial-capital-burns-BETA-0.2.0/tm-CN-BETA-0.2.0-Setup.exe) · [发布说明](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/tag/imperial-capital-burns-BETA-0.2.0) |
+| 帝都燃烧篇 | [加入帝都燃烧篇校对](https://paratranz.cn/projects/20659) |
 | 光子之花 | [加入光子之花校对](https://paratranz.cn/projects/20660) |
 | 光子旋律 | [加入光子旋律校对](https://paratranz.cn/projects/20661) |
 
