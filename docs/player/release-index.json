@@ -275,5 +275,148 @@
         "No automatic rollback"
       ]
     }
-  ]
+  ],
+  "age2_player_packages": [
+    {
+      "game_id": "tda00",
+      "version": "BETA 0.2.0",
+      "release_tag": "tda00-BETA-0.2.0",
+      "asset_name": "tda00-CN-BETA-0.2.0-Setup.exe",
+      "asset_url": "https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/download/tda00-BETA-0.2.0/tda00-CN-BETA-0.2.0-Setup.exe",
+      "asset_bytes": 86909952,
+      "asset_sha256": "a8aade90eabe3017278e57e694480349b81f64ca544d8b3bc062fc0d40ed43f1",
+      "source_commit": "4486b827d854b2199ff95f7415ae9ce2e5c181b1",
+      "installer_target": "Steam game directory + %LOCALAPPDATA%\\ancr\\tda00\\data\\root",
+      "overlay_root": "%LOCALAPPDATA%\\ancr\\tda00\\data\\root",
+      "status": "BETA",
+      "prerelease": true,
+      "player_installable": true,
+      "checksum_url": "https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/download/tda00-BETA-0.2.0/tda00-SHA256SUMS.txt",
+      "manifest_url": "https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/download/tda00-BETA-0.2.0/tda00-release-manifest.json",
+      "steam_input": {
+        "appid": "1407100",
+        "buildid": "7713868",
+        "pack_bin_sha256": "ff2db9036cfd817b884837c8bfb0278fdb781a399d64f66835ad3cff8dfd15c5",
+        "exe_sha256": "35c19eae2ca9497bf3aae975b990b65992e492ed9a2a39c65558342832a9dce5"
+      },
+      "known_limitations": [
+        "BETA: not a full-route playthrough",
+        "Windows x64 only; Steam Deck/Proton unverified",
+        "Installer gates the executable; recorded pack hash is reference evidence, not an installer-enforced pack gate"
+      ]
+    },
+    {
+      "game_id": "tda01",
+      "version": "BETA 0.3.2",
+      "release_tag": "tda01-BETA-0.3.2",
+      "asset_name": "tda01-CN-BETA-0.3.2-Setup.exe",
+      "asset_url": "https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/download/tda01-BETA-0.3.2/tda01-CN-BETA-0.3.2-Setup.exe",
+      "asset_bytes": 90075648,
+      "asset_sha256": "f75b840b511382c613ac2bcad537d3f76b3a916a5fd44befb7db34fabcaac388",
+      "source_commit": "4486b827d854b2199ff95f7415ae9ce2e5c181b1",
+      "installer_target": "Steam game directory + %LOCALAPPDATA%\\ancr\\tda01\\data\\root",
+      "overlay_root": "%LOCALAPPDATA%\\ancr\\tda01\\data\\root",
+      "status": "BETA",
+      "prerelease": true,
+      "player_installable": true,
+      "checksum_url": "https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/download/tda01-BETA-0.3.2/tda01-SHA256SUMS.txt",
+      "manifest_url": "https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/download/tda01-BETA-0.3.2/tda01-release-manifest.json",
+      "steam_input": {
+        "appid": "1407090",
+        "buildid": "7714198",
+        "pack_bin_sha256": "41bdde0448571fb816a4323aac9c821aa45c797091d5c302ec1e5bcce9020e01",
+        "exe_sha256": "588779f6d3a9b8d6e175ef824e97817d3390f06e207c263f95c79c53915d79e5"
+      },
+      "known_limitations": [
+        "BETA: not a full-route playthrough",
+        "Windows x64 only; Steam Deck/Proton unverified",
+        "Installer gates the executable; recorded pack hash is reference evidence, not an installer-enforced pack gate"
+      ]
+    },
+    {
+      "game_id": "tda02",
+      "version": "BETA 0.2.0",
+      "release_tag": "tda02-BETA-0.2.0",
+      "asset_name": "tda02-CN-BETA-0.2.0-Setup.exe",
+      "asset_url": "https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/download/tda02-BETA-0.2.0/tda02-CN-BETA-0.2.0-Setup.exe",
+      "asset_bytes": 89756672,
+      "asset_sha256": "a7f973b1fe063ed93bdd39aa5354272f411872a2cdba9baf226058ca5293c84e",
+      "source_commit": "4486b827d854b2199ff95f7415ae9ce2e5c181b1",
+      "installer_target": "Steam game directory + %LOCALAPPDATA%\\ancr\\tda02\\data\\root",
+      "overlay_root": "%LOCALAPPDATA%\\ancr\\tda02\\data\\root",
+      "status": "BETA",
+      "prerelease": true,
+      "player_installable": true,
+      "checksum_url": "https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/download/tda02-BETA-0.2.0/tda02-SHA256SUMS.txt",
+      "manifest_url": "https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/download/tda02-BETA-0.2.0/tda02-release-manifest.json",
+      "steam_input": {
+        "appid": "1342410",
+        "buildid": "7719569",
+        "pack_bin_sha256": "d56f44e9957ebdd45f34917d249aba013897edf58dce8f4c256c9e8fad13ca4d",
+        "exe_sha256": "5c0275fd17e1218153af61d8019fd8424d0fa365f989ced41f78422da10ed697"
+      },
+      "known_limitations": [
+        "BETA: not a full-route playthrough",
+        "Windows x64 only; Steam Deck/Proton unverified",
+        "Installer gates the executable; recorded pack hash is reference evidence, not an installer-enforced pack gate"
+      ]
+    },
+    {
+      "game_id": "tda03",
+      "version": "BETA 0.2.6",
+      "release_tag": "tda03-BETA-0.2.6",
+      "asset_name": "tda03-CN-BETA-0.2.6-Setup.exe",
+      "asset_url": "https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/download/tda03-BETA-0.2.6/tda03-CN-BETA-0.2.6-Setup.exe",
+      "asset_bytes": 90535424,
+      "asset_sha256": "b4e533f4a7e11f6e9c69572143c069bcb82a3c180effc4a6f66fc1cd9aedc55d",
+      "source_commit": "4486b827d854b2199ff95f7415ae9ce2e5c181b1",
+      "installer_target": "Steam game directory + %LOCALAPPDATA%\\ancr\\tda03\\data\\root",
+      "overlay_root": "%LOCALAPPDATA%\\ancr\\tda03\\data\\root",
+      "status": "BETA",
+      "prerelease": true,
+      "player_installable": true,
+      "checksum_url": "https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/download/tda03-BETA-0.2.6/tda03-SHA256SUMS.txt",
+      "manifest_url": "https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/download/tda03-BETA-0.2.6/tda03-release-manifest.json",
+      "steam_input": {
+        "appid": "789830",
+        "buildid": "7719701",
+        "pack_bin_sha256": "8cf2cfae4eb624c1443666c513695466e1db5b8fc981bf3d58e2f37f5ef322b2",
+        "exe_sha256": "aa3fd9e0c383a4e7733a9d17e663d201183fcb8d2dc04906b6448ade83753374"
+      },
+      "known_limitations": [
+        "BETA: not a full-route playthrough",
+        "Windows x64 only; Steam Deck/Proton unverified",
+        "Installer gates the executable; recorded pack hash is reference evidence, not an installer-enforced pack gate"
+      ]
+    },
+    {
+      "game_id": "imperial-capital-burns",
+      "version": "BETA 0.2.0",
+      "release_tag": "imperial-capital-burns-BETA-0.2.0",
+      "asset_name": "tm-CN-BETA-0.2.0-Setup.exe",
+      "asset_url": "https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/download/imperial-capital-burns-BETA-0.2.0/tm-CN-BETA-0.2.0-Setup.exe",
+      "asset_bytes": 125877760,
+      "asset_sha256": "9e5008b28c0c58ff8b49777cd07516cd6e0d5fbd61941ca4ba16bc9df3abb540",
+      "source_commit": "4486b827d854b2199ff95f7415ae9ce2e5c181b1",
+      "installer_target": "Steam game directory + %LOCALAPPDATA%\\ancr\\tm\\data\\root",
+      "overlay_root": "%LOCALAPPDATA%\\ancr\\tm\\data\\root",
+      "status": "BETA",
+      "prerelease": true,
+      "player_installable": true,
+      "checksum_url": "https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/download/imperial-capital-burns-BETA-0.2.0/tm-SHA256SUMS.txt",
+      "manifest_url": "https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/download/imperial-capital-burns-BETA-0.2.0/tm-release-manifest.json",
+      "steam_input": {
+        "appid": "2630300",
+        "buildid": "12696612",
+        "pack_bin_sha256": "1d749713c01ae4e825a82fa2e75bf232303b1510708bbc9b7b98275315f7344f",
+        "exe_sha256": "a8b4338129f416025e7de219f32dc60807b41d8a2f21d3145dfb2a3872416e46"
+      },
+      "known_limitations": [
+        "BETA: not a full-route playthrough",
+        "Windows x64 only; Steam Deck/Proton unverified",
+        "Installer gates the executable; recorded pack hash is reference evidence, not an installer-enforced pack gate"
+      ]
+    }
+  ],
+  "age2_updated_date": "2026-09-20"
 }
