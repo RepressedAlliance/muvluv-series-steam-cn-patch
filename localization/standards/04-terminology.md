@@ -8,7 +8,7 @@
 
 - 当前简体中文公共表：[`../glossaries/muv-luv.ja-zh-Hans.csv`](../glossaries/muv-luv.ja-zh-Hans.csv)
 - 生效表使用 `jp,cn,context` 三列；新语言必须新建独立文件和目标列，不能覆盖简体中文表。
-- 每作仅加载公共表和本作 `project.toml` 指定的专表；TDA00、01、02、03、帝都燃烧、PF、PM 互不继承专表。入口和历史边界见[术语目录](../glossaries/README.md)。
+- 每作仅加载公共表和本作 `project.toml` 指定的专表；TDA00、01、02、03、帝都燃烧、光子之花、光子旋律互不继承专表。入口和历史边界见[术语目录](../glossaries/README.md)。
 - 拟声片段、普通词和句子片段不是强制术语。`context` 的人物/机型/完整说话人限制必须遵守，严禁对正文进行无语境的批量替换。
 - 公共表只保留稳定术语对；理由、状态、来源和审核讨论保存在候选记录或 pull request 中。
 - 本作公开基线由 project.toml 的 terminology_baseline 指定，保存候选、理由、来源行号、原状态和篇章范围；完整官方例句留在本地，不随基线公开。

@@ -1,6 +1,6 @@
 # Photon 1,490 图语义路由闭环
 
-[`routes.json`](routes.json) 把每个 PF/PM 日文/源图片身份映射到游戏实际选择的本地化
+[`routes.json`](routes.json) 把每个光子之花/光子旋律日文/源图片身份映射到游戏实际选择的本地化
 端点：1,448 个经过认证的 translation peer，以及 42 个经过认证的 shared/common
 端点。
 

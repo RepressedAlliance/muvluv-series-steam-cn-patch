@@ -13,7 +13,7 @@
 | --- | --- | --- |
 | 两轮翻译方法、审核状态、语言命名、共用术语、图片与字体通用工具 | `localization/` | 不依赖某个引擎或某个资源槽，可由其他语言和其他游戏复用 |
 | 某作正文、选项、说话人、UI 译文和作内术语 | `AGE2/games/<game>/` 或 `rUGP/games/<game>/` | 稳定 ID、源哈希、场景、语言槽和写回契约都绑定具体游戏 |
-| 某作图片文案、路径、尺寸、源图锁和成品身份 | 对应游戏的 `images/`；跨 PF/PM 的联合权威放 `rUGP/evidence/photon/` | 图片是否显示由游戏路径、父对象、语言端点和编码共同决定，不能脱离引擎保存 |
+| 某作图片文案、路径、尺寸、源图锁和成品身份 | 对应游戏的 `images/`；跨光子之花/光子旋律的联合权威放 `rUGP/evidence/photon/` | 图片是否显示由游戏路径、父对象、语言端点和编码共同决定，不能脱离引擎保存 |
 | FPD、EGPACK、ICI、RIO、CRsa、RUO、Cr6Ti、CRip 和 Hook | 对应的 `AGE2/` 或 `rUGP/` | 这些是完全不同的格式与运行时体系 |
 | 大型、已审核且允许分发的成品图片或玩家包 | 同一 GitHub 仓库的 Releases，并在 Git 中保存 manifest、哈希和来源说明 | 避免数千个二进制膨胀 Git 历史，同时保持版本、下载和源码集中在一个仓库 |
 | 完整官方原文、原始图片、游戏容器、临时候选、失败批次、模型原始响应 | 贡献者本地、受 `.gitignore` 保护的 `work/` 等目录 | 合法输入和制作中间物不是公开项目资产；可复现结论应提升为工具、清单、配方或复盘 |
@@ -31,8 +31,8 @@ SHA-256；制作者从自己合法拥有的游戏重新提取日文/源图，在
 | TDA02 | [`translations/ja-zh-Hans.csv`](../../AGE2/games/tda02/translations/ja-zh-Hans.csv) | 6,589 行 |
 | TDA03 | [`translations/ja-zh-Hans.csv`](../../AGE2/games/tda03/translations/ja-zh-Hans.csv) | 6,913 行 |
 | 帝都燃烧篇 | [`translations/`](../../AGE2/games/imperial-capital-burns/translations/) | 5,564 行正文，另有 21 行辅助文字、18 个选项、91 个说话人和 UI 字符串表 |
-| photonflowers | [`translations/`](../../rUGP/games/photonflowers/translations/) | 12,964 行 reviewed 文本；另有 69 行精确运行时绑定表，不把二者冒充成同一写入权威 |
-| photonmelodies | [`translations/`](../../rUGP/games/photonmelodies/translations/) | 44,583 行 reviewed 文本；另有 151 行精确运行时绑定表 |
+| 光子之花 | [`translations/`](../../rUGP/games/photonflowers/translations/) | 12,964 行 reviewed 文本；另有 69 行精确运行时绑定表，不把二者冒充成同一写入权威 |
+| 光子旋律 | [`translations/`](../../rUGP/games/photonmelodies/translations/) | 44,583 行 reviewed 文本；另有 151 行精确运行时绑定表 |
 
 这些计数描述公开表中的记录，不自动等于“独立台词数”“全部已实机通过”或“可直接
 写回”。每个游戏 README 会说明其表是审校来源、精确 writer 输入还是历史快照。
@@ -51,10 +51,10 @@ SHA-256；制作者从自己合法拥有的游戏重新提取日文/源图，在
 | TDA02 | 100 个路径、80 份唯一内容 | 历史玩家 Release | [逐项清单](../../AGE2/games/tda02/images/) |
 | TDA03 | 152 个路径、90 份唯一内容 | 历史玩家 Release | [逐项清单](../../AGE2/games/tda03/images/) |
 | 帝都燃烧篇 | 315 个路径、232 份唯一内容 | 历史玩家 Release | [逐项清单与可维护文案](../../AGE2/games/imperial-capital-burns/images/) |
-| photonflowers | 636 项权威 | Photon V6 研究 Release | [图片权威](../../rUGP/evidence/photon/images/)与[游戏入口](../../rUGP/games/photonflowers/images/) |
-| photonmelodies | 854 项权威 | Photon V6 研究 Release | [图片权威](../../rUGP/evidence/photon/images/)与[游戏入口](../../rUGP/games/photonmelodies/images/) |
+| 光子之花 | 636 项权威 | Photon V6 研究 Release | [图片权威](../../rUGP/evidence/photon/images/)与[游戏入口](../../rUGP/games/photonflowers/images/) |
+| 光子旋律 | 854 项权威 | Photon V6 研究 Release | [图片权威](../../rUGP/evidence/photon/images/)与[游戏入口](../../rUGP/games/photonmelodies/images/) |
 
-五个 AGE2 历史包合计 **730 个 WebP 路径**；PF/PM 合计 **1,490 项**。路径数不等于
+五个 AGE2 历史包合计 **730 个 WebP 路径**；光子之花/光子旋律合计 **1,490 项**。路径数不等于
 独立绘制数：同一内容可能服务多个语言后缀或状态，也可能是官方 fallback。Photon V6
 目前还包含 19 张与官方源文件字节完全相同的 PNG，因此保持“研究资产、整改中”，不能
 当成可自由镜像的玩家补丁。

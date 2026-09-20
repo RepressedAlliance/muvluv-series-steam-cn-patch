@@ -1,9 +1,9 @@
-# PF / PM 章节 CSV 维护
+# 光子之花 / 光子旋律章节 CSV 维护
 
 ## 唯一人工编辑入口
 
-- [PF：13,025 条，13 份 CSV](../games/photonflowers/translations/README.md)
-- [PM：44,698 条，45 份 CSV](../games/photonmelodies/translations/README.md)
+- [光子之花：13,025 条，13 份 CSV](../games/photonflowers/translations/README.md)
+- [光子旋律：44,698 条，45 份 CSV](../games/photonmelodies/translations/README.md)
 
 这次从 2026-09-06 最新合并审计重组 **57,723 条**，不是拆分旧译文。
 正文、姓名、标点、空格、现有换行及其他控制字符均不改动。
@@ -11,7 +11,7 @@
 公开表只含中文及日英源文哈希，完整官方日英槽仍留在本地三语审计中。
 
 `chapters.json` 显式列出每份 CSV 的条数、RIO 和 CRsa 块，不凭文件邻近关系推断归属。
-PF 使用现有章节菜单及各故事开头、续接人物和情境分组。PM 从历史长短篇数据集划分，
+光子之花使用现有章节菜单及各故事开头、续接人物和情境分组。光子旋律从历史长短篇数据集划分，
 再将清十郎的《憧憬》和西尔维奥的《再诞》分开。穿插简报仍属于其原故事。
 《时空的欠片》按 42 个原生脚本块分开，场景内分支不被任意拆断。
 同一脚本块的选项和补提取文字随正文一起保存。全局章节菜单不重复放入每个篇章。
@@ -92,7 +92,7 @@ python -m rUGP.tools.text.local_chapter_review import rUGP/games/photonflowers/t
 python -m rUGP.tools.text.local_chapter_review import rUGP/games/photonflowers/translations local-internal/three-language/session-01/PF --apply
 ```
 
-PM 对应更换目录。回写仅更新中文与注释；按唯一 ID 对齐，允许同章排序，拒绝跨章移动、
+光子旋律对应更换目录。回写仅更新中文与注释；按唯一 ID 对齐，允许同章排序，拒绝跨章移动、
 漏行、重复行、日英改动、只读元数据改动和不合规控制符。所有章节先校验通过才写入。
 `base_edit_sha256` 用于拒绝旧审核覆盖较新的公开中文，请勿修改。
 无改动导入不重写文件；重复导入相同结果也不产生新改动。

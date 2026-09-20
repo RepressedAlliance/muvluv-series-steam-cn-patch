@@ -2,19 +2,19 @@
 
 ## Installed snapshots synchronized on 2026-09-09
 
-The ordinary tables now contain 1,197 PF routes and 1,598 PM routes in the PM
-build; the PF build retains its installed companion PM table of 1,594 entries.
+The ordinary tables now contain 1,197 光子之花 routes and 1,598 光子旋律 routes in the 光子旋律
+build; the 光子之花 build retains its installed companion 光子旋律 table of 1,594 entries.
 Both binaries contain cross-game identities, even when a game does not use
-those routes, so the PM table uses explicit `PHOTON_BUILD_PM` conditionals to
+those routes, so the 光子旋律 table uses explicit `PHOTON_BUILD_PM` conditionals to
 preserve each installed binary's inputs. The special table contains 68 entries
-(17 PF / 51 PM, including PM-only tutorial entries).
+(17 光子之花 / 51 光子旋律, including tutorial entries exclusive to 光子旋律).
 
-The authority audit used the PF follow-up build's actual **headers** directory,
-not its stale `source/generated` copy, and the later PM manual-adoption build's
+The authority audit used the 光子之花 follow-up build's actual **headers** directory,
+not its stale `source/generated` copy, and the later 光子旋律 manual-adoption build's
 generated directory. Their raw source hashes are recorded per game in
 `provenance.json`; header bytes in Git use LF. All 2,795 selected ordinary rows
 match their sealed manifests, and local readback verified 2,791 eligible
-ordinary PNG/RGBA identities plus 68 special identities. Four reserved PM
+ordinary PNG/RGBA identities plus 68 special identities. Four reserved 光子旋律
 identities were retained without probing their images.
 
 The [synchronization evidence](../../evidence/photon/images/static-review-20260909/runtime-sync.json)

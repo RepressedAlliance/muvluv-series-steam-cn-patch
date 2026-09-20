@@ -15,7 +15,7 @@
 
 | 工具 | 贡献范围 | 责任边界 |
 | --- | --- | --- |
-| [OpenAI Codex](https://openai.com/codex) | 在维护者指挥下协助仓库架构、代码实现、格式分析、日文语境翻译与逐项复核、术语整理、测试、文档、清单生成及故障复盘；包括 PF／PM CRsa 漏提取字段审计和批注绑定修复 | AI 辅助工作与人工复核分别记录，不宣称完成未实际执行的人工听校或全路线验证；维护者负责最终审核与发布 |
+| [OpenAI Codex](https://openai.com/codex) | 在维护者指挥下协助仓库架构、代码实现、格式分析、日文语境翻译与逐项复核、术语整理、测试、文档、清单生成及故障复盘；包括光子之花／光子旋律 CRsa 漏提取字段审计和批注绑定修复 | AI 辅助工作与人工复核分别记录，不宣称完成未实际执行的人工听校或全路线验证；维护者负责最终审核与发布 |
 | OpenAI 图像模型／GPT Image 系列 | 在部分图片工作中辅助生成无字底或候选视觉修改 | 仅是图片制作的一步；文案、布局、身份、像素检查和最终入包仍须人工审核，具体可复现边界见[图片工作流](../../localization/image-workflow.md) |
 
 GitHub 已为 OpenAI Codex 提供可识别的 [`@codex`](https://github.com/codex) 身份。由
@@ -53,19 +53,19 @@ TDA 部分文本已经人工校对，感谢 ScRemilia、Tsubaki-G、X1AOFEI 及�
 | 项目 | 本项目具体受益 |
 | --- | --- |
 | [GARbro](https://github.com/morkt/GARbro) | 提供 RIO/ICI 目录读取先例；本项目的 Python 目录读取器明确移植其 MIT 许可的 `ArcRIO.cs` 思路并保留完整版权声明。GARbro 负责“找到对象”，不是 Photon 万能重封工具。 |
-| [AFHook／AFEditor](https://github.com/eplightning/afhook) | 提供“补丁制作工具与实机运行时分离”的 AGES/rUGP Hook 架构先例，以及 Cr6Ti C++ 解码与 C# 编解码行为参考；PF/PM 的版本门、字体和图片运行时由本项目按自身目标重新实现。 |
+| [AFHook／AFEditor](https://github.com/eplightning/afhook) | 提供“补丁制作工具与实机运行时分离”的 AGES/rUGP Hook 架构先例，以及 Cr6Ti C++ 解码与 C# 编解码行为参考；光子之花/光子旋律的版本门、字体和图片运行时由本项目按自身目标重新实现。 |
 | [rugptools](https://github.com/osmium76/rugptools) | 提供历史 rUGP、alterdec 与对象行为术语参考；因仓库整体许可证边界不够明确，本项目不复制其源码。 |
 | alterdec | 早期 rUGP 对象与图片行为资料；Cr6Ti 编码器和独立回读器明确记录了其 C++ 解码行为与状态机参考。 |
 | RioX／muzhi | 已核实实际参考版本 **1.2.143.810**（随包 readme 日期 2013-10-08）；反汇编用于 CRmti 位流、整数、行范围、透明段及颜色预测规则。原始下载渠道未查实；不列作当前构建依赖。 |
 
-PF／PM 各组件的直接移植、参考适配和本项目实现，详细请见[技术来源分类与完整蓝图](../research/photon/README.md)，其中列出实际版本、哈希、七阶段路线及正式包构成。
+光子之花／光子旋律各组件的直接移植、参考适配和本项目实现，详细请见[技术来源分类与完整蓝图](../research/photon/README.md)，其中列出实际版本、哈希、七阶段路线及正式包构成。
 
 上述参考的仓库证据见[研究参考](../research/references.md)、
 [Cr6Ti 编码器说明](../../rUGP/formats/images/cr6ti_encode.py)和
 [独立回读器说明](../../rUGP/formats/images/cr6ti_reference.py)。
 
 CRsa/CVM 边界、8311、RUO 使用限制、Cr6Ti/CRip007/CRip008 编码、42 个
-shared/common 端点和 PF/PM 1,490 图闭环均由本项目针对自己的样本继续实验、测试和实机
+shared/common 端点和光子之花/光子旋律 1,490 图闭环均由本项目针对自己的样本继续实验、测试和实机
 验证；参考前人入口不等于照抄最终实现。
 
 ## AGE2／FPD 前人

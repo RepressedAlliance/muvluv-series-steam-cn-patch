@@ -4,11 +4,11 @@ The observed dialog says **AGES Internal Error 8311**. Some working notes and co
 
 ## Symptom
 
-A Photon Melodies RUO passed every static CRsa check but the game rejected it during startup with Internal Error 8311. Early hypotheses blamed Chinese glyphs, CRsa encryption/checksums, a changed record extent, self/parent references, or a missing nested-footer update.
+A 光子旋律 RUO passed every static CRsa check but the game rejected it during startup with Internal Error 8311. Early hypotheses blamed Chinese glyphs, CRsa encryption/checksums, a changed record extent, self/parent references, or a missing nested-footer update.
 
 ## Controlled differential
 
-The final experiment used PM record ordinal 2 and held everything structural constant:
+The final experiment used 光子旋律 record ordinal 2 and held everything structural constant:
 
 - native position/ordinal unchanged;
 - record extent `3821` bytes and plaintext extent `3578` bytes unchanged;
@@ -32,7 +32,7 @@ An independent census of all 151 official counted CStrings found zero with an em
 Within this controlled 8311 experiment, the failure was therefore **not** caused
 by Chinese text, the held-constant record/RUO route, CRsa encryption, checksum
 drift, record growth, or missing parent closure. Those hypotheses were useful but
-were falsified by the M/N controls. A later, separate PM experiment found
+were falsified by the M/N controls. A later, separate 光子旋律 experiment found
 `InternalError(831)` for an identity CRsa redirect into a later split volume;
 that transport boundary is recorded in the
 [native-field increment](crsa-native-increment-20260904.md) and does not change

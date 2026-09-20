@@ -104,7 +104,7 @@ Pass it with `--seeds`. Decimal and `0x`-prefixed offsets are accepted. Seeds ar
 
 The scanner reports ambiguous ASCII display pairs and unresolved CVM layouts. It does not guess a pool base, treat every readable UTF-16 run as dialogue, scan uncatalogued encrypted chunks, infer the active locale route, decide whether a value is safe to rewrite, or generate RUO/runtime files.
 
-The portable template is an **unreviewed extraction template**, not a replacement for the maintained PF/PM production CSVs. A localization team must still verify source hashes, scene/route meaning, target locale, writer mode, capacity/control contract, runtime binding and in-game behavior.
+The portable template is an **unreviewed extraction template**, not a replacement for the maintained 光子之花/光子旋律 production CSVs. A localization team must still verify source hashes, scene/route meaning, target locale, writer mode, capacity/control contract, runtime binding and in-game behavior.
 All SHA-256 fields use 64-character upper-case hexadecimal, matching the other
 public translation/evidence contracts. In this extractor,
 `source_field_sha256` commits to the exact serialized source-field bytes between
@@ -146,13 +146,13 @@ Use a current, reconciled base; a frozen overlay must not silently replace newer
 routes. Existing reviewed IDs describe their original payload generation: do
 not join them to new extraction coordinates without matching source hashes.
 
-## Complete native-field audit for the pinned PF/PM builds
+## Complete native-field audit for the pinned 光子之花/光子旋律 builds
 
 `audit_crsa_native_text` sequentially parses every command, native operation,
 shared object cache, CString, pool cell and trailing reference. It consumes the
 decrypted `.plain` files and `census.json` from the full-volume display-gap scan,
 checks their exact block set, lengths and hashes, and uses the executable-bound
-PF/PM descriptor catalog in `crsa_vm_schema.json`. Unknown classes, versions,
+光子之花/光子旋律 descriptor catalog in `crsa_vm_schema.json`. Unknown classes, versions,
 field types, invalid primary references or unexplained nonzero suffix bytes
 fail the audit without resynchronizing to a later readable string.
 
@@ -185,7 +185,7 @@ the stale native index, its actual target, and body-key matching evidence; it
 does not silently repair bindings or prove runtime reachability.
 
 All generated ledgers contain retail text and belong in ignored local storage.
-The default reviewed inputs are the six maintained PF/PM CSVs. Their identities
+The default reviewed inputs are the six maintained 光子之花/光子旋律 CSVs. Their identities
 are checked against genuine source fields in the same block using the original
 UTF-8/control-escaping hash contracts. New audit `field_id` values do not replace
 existing stable IDs. The tool changes neither reviewed files nor game files.
@@ -195,9 +195,9 @@ records 565 candidate field occurrences, including the first-round 40. The
 maintainer-scoped work comprises 40 dialogue/prompt fields plus 265 annotation
 fields; 260 armament-name parameters remain byte-identical and are excluded from
 omission counts and write actions. The superseded 40-item manifests are rejected
-by their old builder. `build_crsa_native_increment` builds the reviewed PF
+by their old builder. `build_crsa_native_increment` builds the reviewed 光子之花
 cumulative RUO. `build_crsa_native_volume_patch` stages the reviewed fixed-extent
-PM records in new copies of the affected clean volumes; it rejects inherited RUOs,
+光子旋律 records in new copies of the affected clean volumes; it rejects inherited RUOs,
 record growth and changes outside the selected record extents. The shared writer
 uses fixed native or zero-filled pool storage first; a non-empty orphan slot or
 pool extension must be named explicitly in the entry and is checked during full
