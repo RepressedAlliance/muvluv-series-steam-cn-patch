@@ -1,0 +1,354 @@
+[
+  {
+    "game": "tm",
+    "source_relative": "assets/data_spec/adv/game/bg/30イベント絵/010_TEイベント絵/050_帝都燃ゆ/130_MAP/帝都燃ゆ73_1998年07月14日_京都駅構内説明a.avif",
+    "source_sha256": "c72faab1edf33ba31d63f47190c8fea7ad3471d50732d2c687b85c110be4219d",
+    "layout_basis": "沿用原英文双语加注位置，保留站内图、路线和FANG呼号；各图同类文字固定字号。",
+    "labels": [
+      {
+        "jp": "京都駅 平面図",
+        "zh_hans": "（京都站平面图）",
+        "font_size": 20,
+        "cn_box": [
+          254,
+          24,
+          414,
+          43
+        ],
+        "native_en_box": [
+          254,
+          22,
+          529,
+          45
+        ]
+      }
+    ],
+    "runtime_review": "pending"
+  },
+  {
+    "game": "tm",
+    "source_relative": "assets/data_spec/adv/game/bg/30イベント絵/010_TEイベント絵/050_帝都燃ゆ/130_MAP/帝都燃ゆ73_1998年07月14日_京都駅構内説明b.avif",
+    "source_sha256": "c6bc4b554426825ea1d4df06f640c2eaf792276b12bf1a005a674831f216165e",
+    "layout_basis": "沿用原英文双语加注位置，保留站内图、路线和FANG呼号；各图同类文字固定字号。",
+    "labels": [
+      {
+        "jp": "京都駅 平面図",
+        "zh_hans": "（京都站平面图）",
+        "font_size": 20,
+        "cn_box": [
+          254,
+          24,
+          414,
+          43
+        ],
+        "native_en_box": [
+          254,
+          22,
+          529,
+          45
+        ]
+      },
+      {
+        "jp": "大空広場",
+        "zh_hans": "（天空广场）",
+        "font_size": 20,
+        "cn_box": [
+          854,
+          216,
+          974,
+          235
+        ],
+        "native_en_box": [
+          878,
+          217,
+          950,
+          233
+        ]
+      }
+    ],
+    "runtime_review": "pending"
+  },
+  {
+    "game": "tm",
+    "source_relative": "assets/data_spec/adv/game/bg/30イベント絵/010_TEイベント絵/050_帝都燃ゆ/130_MAP/帝都燃ゆ73_1998年07月14日_京都駅構内説明c.avif",
+    "source_sha256": "cd947ae0e162a0a9b9d125665755f52021e3883a28ff223643c8831ed6391c6e",
+    "layout_basis": "沿用原英文双语加注位置，保留站内图、路线和FANG呼号；各图同类文字固定字号。",
+    "labels": [
+      {
+        "jp": "京都駅 平面図",
+        "zh_hans": "（京都站平面图）",
+        "font_size": 20,
+        "cn_box": [
+          254,
+          24,
+          414,
+          43
+        ],
+        "native_en_box": [
+          254,
+          22,
+          529,
+          45
+        ]
+      }
+    ],
+    "runtime_review": "pending"
+  },
+  {
+    "game": "tm",
+    "source_relative": "assets/data_spec/adv/game/bg/30イベント絵/010_TEイベント絵/050_帝都燃ゆ/130_MAP/帝都燃ゆ73_1998年07月14日_京都駅構内説明d.avif",
+    "source_sha256": "da25a688e90abe7d8bf2a32e0e56da483f30014e3a071c2b7fdfd7c87d14df48",
+    "layout_basis": "沿用原英文双语加注位置，保留站内图、路线和FANG呼号；各图同类文字固定字号。",
+    "labels": [
+      {
+        "jp": "京都駅 平面図 4階",
+        "zh_hans": "（京都站平面图　4层）",
+        "font_size": 20,
+        "cn_box": [
+          316,
+          24,
+          528,
+          43
+        ],
+        "native_en_box": [
+          316,
+          22,
+          629,
+          45
+        ]
+      }
+    ],
+    "runtime_review": "pending"
+  },
+  {
+    "game": "tm",
+    "source_relative": "assets/data_spec/adv/game/bg/30イベント絵/010_TEイベント絵/050_帝都燃ゆ/130_MAP/帝都燃ゆ73_1998年07月14日_京都駅構内説明e.avif",
+    "source_sha256": "0703c250d9dcd42d20b48f8c33736947f1743c476434e0eeb32b5e655826a7fa",
+    "layout_basis": "沿用原英文双语加注位置，保留站内图、路线和FANG呼号；各图同类文字固定字号。",
+    "labels": [
+      {
+        "jp": "京都駅 平面図 4階",
+        "zh_hans": "（京都站平面图　4层）",
+        "font_size": 20,
+        "cn_box": [
+          316,
+          24,
+          528,
+          43
+        ],
+        "native_en_box": [
+          316,
+          22,
+          629,
+          45
+        ]
+      },
+      {
+        "jp": "大階段",
+        "zh_hans": "（大阶梯）",
+        "font_size": 20,
+        "cn_box": [
+          378,
+          396,
+          478,
+          415
+        ],
+        "native_en_box": [
+          384,
+          395,
+          472,
+          415
+        ]
+      },
+      {
+        "jp": "中央コンコース",
+        "zh_hans": "（中央大厅）",
+        "font_size": 20,
+        "cn_box": [
+          696,
+          364,
+          816,
+          383
+        ],
+        "native_en_box": [
+          670,
+          365,
+          843,
+          382
+        ]
+      }
+    ],
+    "runtime_review": "pending"
+  },
+  {
+    "game": "tm",
+    "source_relative": "assets/data_spec/adv/game/bg/30イベント絵/010_TEイベント絵/050_帝都燃ゆ/130_MAP/帝都燃ゆ73_1998年07月14日_京都駅構内説明g.avif",
+    "source_sha256": "8a16f56e10839670b915000ca5d4f414a5e48b8ca957da246a78cc94324bbf96",
+    "layout_basis": "沿用原英文双语加注位置，保留站内图、路线和FANG呼号；各图同类文字固定字号。",
+    "labels": [
+      {
+        "jp": "京都駅 平面図 4階",
+        "zh_hans": "（京都站平面图　4层）",
+        "font_size": 20,
+        "cn_box": [
+          316,
+          24,
+          528,
+          43
+        ],
+        "native_en_box": [
+          316,
+          22,
+          629,
+          45
+        ]
+      },
+      {
+        "jp": "大階段",
+        "zh_hans": "（大阶梯）",
+        "font_size": 32,
+        "cn_box": [
+          683,
+          278,
+          843,
+          309
+        ],
+        "native_en_box": [
+          683,
+          280,
+          807,
+          306
+        ]
+      },
+      {
+        "jp": "全長70m",
+        "zh_hans": "（全长70m）",
+        "font_size": 32,
+        "cn_box": [
+          756,
+          314,
+          951,
+          345
+        ],
+        "native_en_box": [
+          756,
+          317,
+          982,
+          343
+        ]
+      },
+      {
+        "jp": "総段数171段",
+        "zh_hans": "（共171级）",
+        "font_size": 32,
+        "cn_box": [
+          804,
+          352,
+          987,
+          383
+        ],
+        "native_en_box": [
+          804,
+          354,
+          1005,
+          380
+        ]
+      },
+      {
+        "jp": "高低差35m",
+        "zh_hans": "（高差35m）",
+        "font_size": 32,
+        "cn_box": [
+          788,
+          388,
+          983,
+          419
+        ],
+        "native_en_box": [
+          788,
+          390,
+          1073,
+          416
+        ]
+      }
+    ],
+    "runtime_review": "pending"
+  },
+  {
+    "game": "tm",
+    "source_relative": "assets/data_spec/adv/game/bg/30イベント絵/010_TEイベント絵/050_帝都燃ゆ/130_MAP/帝都燃ゆ73_1998年07月14日_京都駅構内説明h.avif",
+    "source_sha256": "f04d3b30be28525b95ffbca8c979473c86932c3df62a5adcbd3bb2b8d3eabe74",
+    "layout_basis": "沿用原英文双语加注位置，保留站内图、路线和FANG呼号；各图同类文字固定字号。",
+    "labels": [
+      {
+        "jp": "京都駅 平面図 4階",
+        "zh_hans": "（京都站平面图　4层）",
+        "font_size": 20,
+        "cn_box": [
+          316,
+          24,
+          528,
+          43
+        ],
+        "native_en_box": [
+          316,
+          22,
+          629,
+          45
+        ]
+      },
+      {
+        "jp": "大階段",
+        "zh_hans": "（大阶梯）",
+        "font_size": 20,
+        "cn_box": [
+          378,
+          396,
+          478,
+          415
+        ],
+        "native_en_box": [
+          384,
+          395,
+          472,
+          415
+        ]
+      },
+      {
+        "jp": "南広場",
+        "zh_hans": "（南广场）",
+        "font_size": 20,
+        "cn_box": [
+          700,
+          460,
+          800,
+          479
+        ],
+        "native_en_box": [
+          688,
+          459,
+          813,
+          479
+        ]
+      },
+      {
+        "jp": "東広場",
+        "zh_hans": "（东广场）",
+        "font_size": 20,
+        "cn_box": [
+          1042,
+          390,
+          1142,
+          409
+        ],
+        "native_en_box": [
+          1036,
+          390,
+          1148,
+          410
+        ]
+      }
+    ],
+    "runtime_review": "pending"
+  }
+]

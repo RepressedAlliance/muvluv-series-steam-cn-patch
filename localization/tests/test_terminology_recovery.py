@@ -18,11 +18,21 @@ class RecoveryTests(unittest.TestCase):
     def setUpClass(cls):
         cls.manifest=json.loads((ROOT/'localization/terminology-history/recovery-20260908.json').read_text(encoding='utf-8'))
         cls.baselines={}
+        cls.revision=json.loads((ROOT/'localization/terminology-history/revision-20260920.json').read_text(encoding='utf-8'))
         for game,engine in GAMES.items():
             with (ROOT/engine/'games'/game/'terminology/baseline.ja-zh-Hans.csv').open(encoding='utf-8',newline='') as stream:
                 reader=csv.DictReader(stream)
                 assert reader.fieldnames==COLS
                 cls.baselines[game]=list(reader)
+            # Validate each explicitly reviewed change, then reconstruct the
+            # sealed historical projection. Never rewrite its old hashes.
+            if game in cls.revision['games']:
+                current=cls.baselines[game]
+                for change in cls.revision['games'][game]['baseline_changes']:
+                    assert current.count(change['after']) == 1
+                    position=current.index(change['after'])
+                    if change['before'] is None: current.pop(position)
+                    else: current[position]=change['before']
 
     def test_all_seven_baselines_are_explicit_and_counts_reconcile(self):
         for game,engine in GAMES.items():
@@ -43,6 +53,8 @@ class RecoveryTests(unittest.TestCase):
             if game in later:
                 self.assertEqual(later[game]['before'],expected_terms)
                 expected_terms=later[game]['after']
+            if game in self.revision['games']:
+                expected_terms=self.revision['games'][game]['current_terms']
             self.assertEqual(len(read_table(ROOT/'localization/glossaries'/f'{game}.ja-zh-Hans.csv')),expected_terms)
             for row in rows:
                 self.assertIn(row['source'],{s['name'] for s in self.manifest['sources']})

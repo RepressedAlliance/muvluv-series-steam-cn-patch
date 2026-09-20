@@ -504,12 +504,12 @@ jp,cn,status,chapter,source,source_row,source_status,occurrences,basis
 隊長,队长,candidate,020_UAF_DAY91_01.egpack,tda00-draft,4,沿用已有,77,；历史候选草案，confirmed_translation 列有值不视作审核通过；原章定位 game_t00104
 少尉,少尉,candidate,020_UAF_DAY91_01.egpack,tda00-draft,5,沿用已有,70,；历史候选草案，confirmed_translation 列有值不视作审核通过；原章定位 game_t00039
 ＪＦＫ,JFK,candidate,020_UAF_DAY91_01.egpack,tda00-draft,6,沿用已有,59,；历史候选草案，confirmed_translation 列有值不视作审核通过；原章定位 game_t00281
-ナイヴス２,黑刃2,candidate,020_UAF_DAY91_01.egpack,tda00-draft,7,建议,53,；历史候选草案，confirmed_translation 列有值不视作审核通过；原章定位 game_t00020
+ナイヴス２,黑刀2,confirmed,020_UAF_DAY91_01.egpack,tda00-draft,7,建议,53,历史候选草案，confirmed_translation 列有值不视作审核通过；原章定位 game_t00020；2026-09-20 用户确认；localization/reviews/age2-terminology-20260920.json；仅在对应专名语境使用。
 ＢＥＴＡ,BETA,candidate,020_UAF_DAY91_01.egpack,tda00-draft,8,沿用已有,50,；历史候选草案，confirmed_translation 列有值不视作审核通过；原章定位 game_t00527
 海兵隊,海军陆战队,candidate,020_UAF_DAY91_01.egpack,tda00-draft,9,沿用已有,38,；历史候选草案，confirmed_translation 列有值不视作审核通过；原章定位 game_t00213
-ナイヴス１,黑刃1,candidate,020_UAF_DAY91_01.egpack,tda00-draft,10,建议,35,；历史候选草案，confirmed_translation 列有值不视作审核通过；原章定位 game_t00020
+ナイヴス１,黑刀1,confirmed,020_UAF_DAY91_01.egpack,tda00-draft,10,建议,35,历史候选草案，confirmed_translation 列有值不视作审核通过；原章定位 game_t00020；2026-09-20 用户确认；localization/reviews/age2-terminology-20260920.json；仅在对应专名语境使用。
 中尉,中尉,candidate,020_UAF_DAY91_01.egpack,tda00-draft,11,沿用已有,32,；历史候选草案，confirmed_translation 列有值不视作审核通过；原章定位 game_t00031
-ナイヴス３,黑刃3,candidate,040_UAF_DAY94_01.egpack,tda00-draft,12,建议,30,；历史候选草案，confirmed_translation 列有值不视作审核通过；原章定位 game_t01250
+ナイヴス３,黑刀3,confirmed,040_UAF_DAY94_01.egpack,tda00-draft,12,建议,30,历史候选草案，confirmed_translation 列有值不视作审核通过；原章定位 game_t01250；2026-09-20 用户确认；localization/reviews/age2-terminology-20260920.json；仅在对应专名语境使用。
 艦長,舰长,candidate,030_UAF_DAY93_01.egpack,tda00-draft,13,沿用已有,26,；历史候选草案，confirmed_translation 列有值不视作审核通过；原章定位 game_t00582
 海兵隊員,海军陆战队员,candidate,020_UAF_DAY91_01.egpack,tda00-draft,14,沿用已有,23,；历史候选草案，confirmed_translation 列有值不视作审核通过；原章定位 game_t00086
 ソルティ・ベース,索尔蒂基地,candidate,020_UAF_DAY91_01.egpack,tda00-draft,15,沿用已有,19,；历史候选草案，confirmed_translation 列有值不视作审核通过；原章定位 game_t00112
@@ -551,7 +551,7 @@ jp,cn,status,chapter,source,source_row,source_status,occurrences,basis
 戦術歩行戦闘機隊,战术步行战斗机队,candidate,020_UAF_DAY91_01.egpack,tda00-draft,51,沿用已有,6,；历史候选草案，confirmed_translation 列有值不视作审核通过；原章定位 game_t00152
 第３１８戦術歩行戦闘機隊,第318战术步行战斗机队,candidate,020_UAF_DAY91_01.egpack,tda00-draft,52,沿用已有,6,；历史候选草案，confirmed_translation 列有值不视作审核通过；原章定位 game_t00152
 米国海兵隊第,美国海军陆战队第,candidate,020_UAF_DAY91_01.egpack,tda00-draft,53,沿用已有,6,；历史候选草案，confirmed_translation 列有值不视作审核通过；原章定位 game_t00152
-ナイヴス,黑刃,candidate,020_UAF_DAY91_01.egpack,tda00-draft,54,建议,6,；历史候选草案，confirmed_translation 列有值不视作审核通过；原章定位 game_t00115
+ナイヴス,黑刀,confirmed,020_UAF_DAY91_01.egpack,tda00-draft,54,建议,6,历史候选草案，confirmed_translation 列有值不视作审核通过；原章定位 game_t00115；2026-09-20 用户确认；localization/reviews/age2-terminology-20260920.json；仅在对应专名语境使用。
 バスターズ,破坏者队,candidate,090_UAF_DAY99_01.egpack,tda00-draft,55,沿用已有,6,；历史候选草案，confirmed_translation 列有值不视作审核通过；原章定位 game_t03278
 インド,印度,candidate,020_UAF_DAY91_01.egpack,tda00-draft,56,沿用已有,6,；历史候选草案，confirmed_translation 列有值不视作审核通过；原章定位 game_t00058
 フライング・ブーム,飞杆,candidate,050_UAF_DAY95_01.egpack,tda00-draft,57,沿用已有,6,；历史候选草案，confirmed_translation 列有值不视作审核通过；原章定位 game_t01636
@@ -600,8 +600,8 @@ jp,cn,status,chapter,source,source_row,source_status,occurrences,basis
 太平洋,太平洋,candidate,030_UAF_DAY93_01.egpack,tda00-draft,100,沿用已有,3,；历史候选草案，confirmed_translation 列有值不视作审核通过；原章定位 game_t00823
 陸地,陆地,candidate,020_UAF_DAY91_01.egpack,tda00-draft,101,沿用已有,3,；历史候选草案，confirmed_translation 列有值不视作审核通过；原章定位 game_t00442
 静止衛星,静止卫星,candidate,020_UAF_DAY91_01.egpack,tda00-draft,102,沿用已有,3,；历史候选草案，confirmed_translation 列有值不视作审核通过；原章定位 game_t00090
-オール・ナイヴス,黑刃全机,candidate,090_UAF_DAY99_01.egpack,tda00-draft,103,沿用已有,3,；历史候选草案，confirmed_translation 列有值不视作审核通过；原章定位 game_t03280
-ナイヴス・リード,黑刃长机,candidate,020_UAF_DAY91_01.egpack,tda00-draft,104,沿用已有,3,；历史候选草案，confirmed_translation 列有值不视作审核通过；原章定位 game_t00533
+オール・ナイヴス,黑刀全机,confirmed,090_UAF_DAY99_01.egpack,tda00-draft,103,沿用已有,3,历史候选草案，confirmed_translation 列有值不视作审核通过；原章定位 game_t03280；2026-09-20 用户确认；localization/reviews/age2-terminology-20260920.json；仅在对应专名语境使用。
+ナイヴス・リード,黑刀长机,confirmed,020_UAF_DAY91_01.egpack,tda00-draft,104,沿用已有,3,历史候选草案，confirmed_translation 列有值不视作审核通过；原章定位 game_t00533；2026-09-20 用户确认；localization/reviews/age2-terminology-20260920.json；仅在对应专名语境使用。
 カタパルト,弹射器,candidate,090_UAF_DAY99_03.egpack,tda00-draft,105,沿用已有,3,；历史候选草案，confirmed_translation 列有值不视作审核通过；原章定位 game_t03585
 ゴーファー・ステート,戈弗州,candidate,090_UAF_DAY99_01.egpack,tda00-draft,106,沿用已有,3,；历史候选草案，confirmed_translation 列有值不视作审核通过；原章定位 game_t03134
 センサー,传感器,candidate,050_UAF_DAY95_01.egpack,tda00-draft,107,沿用已有,3,；历史候选草案，confirmed_translation 列有值不视作审核通过；原章定位 game_t01687
@@ -650,7 +650,7 @@ jp,cn,status,chapter,source,source_row,source_status,occurrences,basis
 要領,要领,candidate,050_UAF_DAY95_01.egpack,tda00-draft,150,沿用已有,2,；历史候选草案，confirmed_translation 列有值不视作审核通过；原章定位 game_t01597
 豪州,澳洲,candidate,040_UAF_DAY94_01.egpack,tda00-draft,151,沿用已有,2,；历史候选草案，confirmed_translation 列有值不视作审核通过；原章定位 game_t01225
 集結予定地,预定集结地点,candidate,030_UAF_DAY93_01.egpack,tda00-draft,152,沿用已有,2,；历史候选草案，confirmed_translation 列有值不视作审核通过；原章定位 game_t00723
-ナイヴス３カタパルト,黑刃3弹射器,candidate,090_UAF_DAY99_03.egpack,tda00-draft,153,沿用已有,2,；历史候选草案，confirmed_translation 列有值不视作审核通过；原章定位 game_t03646
+ナイヴス３カタパルト,黑刀3弹射器,confirmed,090_UAF_DAY99_03.egpack,tda00-draft,153,沿用已有,2,历史候选草案，confirmed_translation 列有值不视作审核通过；原章定位 game_t03646；2026-09-20 用户确认；localization/reviews/age2-terminology-20260920.json；仅在对应专名语境使用。
 バスター２,破坏者2,candidate,090_UAF_DAY99_02.egpack,tda00-draft,154,沿用已有,2,；历史候选草案，confirmed_translation 列有值不视作审核通过；原章定位 game_t03384
 ァァ,啊啊,excluded,090_UAF_DAY99_01.egpack,tda00-draft,155,沿用已有,2,；历史候选草案，confirmed_translation 列有值不视作审核通过；原章定位 game_t03046
 エリア,区域,candidate,030_UAF_DAY93_01.egpack,tda00-draft,156,沿用已有,2,；历史候选草案，confirmed_translation 列有值不视作审核通过；原章定位 game_t00561
@@ -705,7 +705,7 @@ jp,cn,status,chapter,source,source_row,source_status,occurrences,basis
 ドッグタグ,身份牌,candidate,050_UAF_DAY95_01.egpack,tda00-draft,205,沿用已有,2,；历史候选草案，confirmed_translation 列有值不视作审核通过；原章定位 game_t01896_ruby
 ビッグマム,Big Mom,candidate,040_UAF_DAY94_01.egpack,tda00-draft,206,沿用已有,2,；历史候选草案，confirmed_translation 列有值不视作审核通过；原章定位 game_t00948_ruby
 ビッグ・マム,Big Mom,candidate,020_UAF_DAY91_01.egpack,tda00-draft,207,沿用已有,2,；历史候选草案，confirmed_translation 列有值不视作审核通过；原章定位 game_t00217_ruby
-ブラック・ナイヴス,黑刃,candidate,030_UAF_DAY93_01.egpack,tda00-draft,208,建议,2,；历史候选草案，confirmed_translation 列有值不视作审核通过；原章定位 game_t00738_ruby
+ブラック・ナイヴス,黑刀,confirmed,030_UAF_DAY93_01.egpack,tda00-draft,208,建议,2,历史候选草案，confirmed_translation 列有值不视作审核通过；原章定位 game_t00738_ruby；2026-09-20 用户确认；localization/reviews/age2-terminology-20260920.json；仅在对应专名语境使用。
 メモリアル・デイ,阵亡将士纪念日,candidate,060_UAF_DAY96_01.egpack,tda00-draft,209,沿用已有,2,；历史候选草案，confirmed_translation 列有值不视作审核通过；原章定位 game_t02704_ruby
 リソース,资源,candidate,060_UAF_DAY96_01.egpack,tda00-draft,210,沿用已有,2,；历史候选草案，confirmed_translation 列有值不视作审核通过；原章定位 game_t02221_ruby
 僚機,僚机,candidate,040_UAF_DAY94_01.egpack,tda00-draft,211,沿用已有,2,；历史候选草案，confirmed_translation 列有值不视作审核通过；原章定位 game_t01276_ruby
@@ -789,7 +789,7 @@ jp,cn,status,chapter,source,source_row,source_status,occurrences,basis
 ビッグ・ケネディ,大肯尼迪,candidate,040_UAF_DAY94_01.egpack,tda00-draft,289,沿用已有,1,；历史候选草案，confirmed_translation 列有值不视作审核通过；原章定位 game_t00936_ruby
 ビンゴ・フュエル,返航燃料,candidate,050_UAF_DAY95_01.egpack,tda00-draft,290,沿用已有,1,；历史候选草案，confirmed_translation 列有值不视作审核通过；原章定位 game_t01791_ruby
 フネ,船,candidate,030_UAF_DAY93_01.egpack,tda00-draft,291,沿用已有,1,；历史候选草案，confirmed_translation 列有值不视作审核通过；原章定位 game_t00626_ruby
-ブラック・ナイヴス・ドント・クイット,黑刃永不放弃,candidate,020_UAF_DAY91_01.egpack,tda00-draft,292,沿用已有,1,；历史候选草案，confirmed_translation 列有值不视作审核通过；原章定位 game_t00086_ruby
+ブラック・ナイヴス・ドント・クイット,黑刀永不放弃,confirmed,020_UAF_DAY91_01.egpack,tda00-draft,292,沿用已有,1,历史候选草案，confirmed_translation 列有值不视作审核通过；原章定位 game_t00086_ruby；2026-09-20 用户确认；localization/reviews/age2-terminology-20260920.json；仅在对应专名语境使用。
 ブラディ・ナイトメア,血色噩梦,candidate,040_UAF_DAY94_01.egpack,tda00-draft,293,沿用已有,1,；历史候选草案，confirmed_translation 列有值不视作审核通过；原章定位 game_t00994_ruby
 ボデイバッグ,尸袋,candidate,050_UAF_DAY95_01.egpack,tda00-draft,294,沿用已有,1,；历史候选草案，confirmed_translation 列有值不视作审核通过；原章定位 game_t01889_ruby
 レイジング・バスターズ,狂怒破坏者队,candidate,090_UAF_DAY99_01.egpack,tda00-draft,295,沿用已有,1,；历史候选草案，confirmed_translation 列有值不视作审核通过；原章定位 game_t03199_ruby
@@ -869,3 +869,4 @@ jp,cn,status,chapter,source,source_row,source_status,occurrences,basis
 ＪＦＫオペレーター２,JFK操作员2,candidate,__speakers__.egpack,tda00-draft,369,沿用已有,1,；历史候选草案，confirmed_translation 列有值不视作审核通过；原章定位 game_s00020
 ゴルフセット,高尔夫套件,candidate,090_UAF_DAY99_01.egpack,tda00-draft,370,用户确认,2,TDA00 user decision 20260620；历史候选草案，confirmed_translation 列有值不视作审核通过；原章定位 game_t03066
 ウォードッグ,战犬,confirmed,100_UAF_DAY100_01,tda-shared-decisions,7,documented-user-decision,1,旧 TDA 交接记录已确认；仅在本作命中范围使用。
+ブラックナイヴス,黑刀,confirmed,tda00,maintainer-20260920,1,confirmed,,2026-09-20 用户确认；localization/reviews/age2-terminology-20260920.json；仅在对应专名语境使用。

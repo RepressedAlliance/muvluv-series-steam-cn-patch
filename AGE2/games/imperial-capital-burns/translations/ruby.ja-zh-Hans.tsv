@@ -1,0 +1,128 @@
+id	source_text_sha256	zh_cn	reason
+game_t00052_ruby	44DB8DC52E37FF611DC120ACC033FBFD4B6310069EFB13FA1169926600363264		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t00087_ruby	1BD47E7255AE4C537000C7ECF9D09129FE5822142A011630FD2DD7C3A0A60E7D		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t00088_ruby	99BC5B9540C3DD89D23D3574398BFD4134448B10B8AC27A96E8132F6352E7576		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t00121_ruby	24ECC3AE41E1F64C6AC68EA8FCBF87B765016CA3C93BE9FE514D3346E79B15AC	明明大家都是高中生:・・・・・・・・・	Retarget emphasis dots to exact Chinese body substring.
+game_t00148_ruby	1BD47E7255AE4C537000C7ECF9D09129FE5822142A011630FD2DD7C3A0A60E7D		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t00149_ruby	99BC5B9540C3DD89D23D3574398BFD4134448B10B8AC27A96E8132F6352E7576		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t00197_ruby	C30B0715A0953A84BAA77A923B4131CA8E2E7994DD8AFD64DA679C5B1CDF767F		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t00203_ruby	2B399A7436C879493D33F21A0D5F893645D78BB63B769574E2BBCFD9FEEC8AD0		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t00208_ruby	04B96E3C8A6395C19585B2CA205C0587B1B04905C7DEE5499FF7323C7E018123		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t00232_ruby	3A72C81422B1CB6A38F67B0B3E4DAE7161C57DB7F06DF447B11B0FBCCB3EDE4A		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t00233_ruby	07B83533AC1C92A5191D93B3A6DE48F80C80AED487649F5D24E05E25497A6603	击震:77式	Preserve additional meaning/model/abbreviation; bind to exact Chinese body substring.
+game_t00234_ruby	EC6B16DA792795DC8B74CFE46034E53FFEBF5BF37A033D85F7022D81883B59C3		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t00235_ruby	43763CBA2B3E0FD5399554EE289246872ADB03C2B591E58C6CD90873229BB353		Japanese phonetic/loanword reading; meaning is already present in the Chinese body. No Japanese reading in Chinese slot.
+game_t00236_ruby	5DA5DCE57852A36BA2858740B34AD34C46F3F328012E467932CD9E4D22651E81		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t00348_ruby	D2C5D069317F5302246F386B599EC9D87379BD5EEBB044A175A4F76830F29CD0	那件事:・・・	Retarget emphasis dots to exact Chinese body substring.
+game_t00354_ruby	9DDB37A579DB5B2F8E87987EB5B1B58A54DA6BAA34887B2F3CE33ACEE9CF9FE0		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t00359_ruby	008F1DEE28126A8E7ED7F66EC7568DFCF2062BE33D94ADA958B316E72ECA9BF8		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t00438_ruby	1BD47E7255AE4C537000C7ECF9D09129FE5822142A011630FD2DD7C3A0A60E7D		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t00439_ruby	99BC5B9540C3DD89D23D3574398BFD4134448B10B8AC27A96E8132F6352E7576		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t00477_ruby	D04116EC9535BFD965DA0A3F6A3F63DC2FBEAC25617078DA49ED8CA73EFB8311		Japanese phonetic/loanword reading; meaning is already present in the Chinese body. No Japanese reading in Chinese slot.
+game_t00598_ruby	D9FA40B8720591B32D1147A940724E4BB77CCC6FB70B688796824A9ADB93FD6B	敌我识别装置:IFF	Preserve additional meaning/model/abbreviation; bind to exact Chinese body substring.
+game_t00600_ruby	D9FA40B8720591B32D1147A940724E4BB77CCC6FB70B688796824A9ADB93FD6B	敌我识别装置:IFF	Preserve additional meaning/model/abbreviation; bind to exact Chinese body substring.
+game_t00630_ruby	5984A5DFA3050B522C3BCAC2DFCC677187D903B0D6575E4F973DD50865DB8A19		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t00680_ruby	91BAA851617502968824B81724B91AC64B9EB05714641083A4EAA7DEDCE6D0F4		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t00716_ruby	AFC25888EEB967EBD1551056826289E041100CF1164DEA17A6E0D1BFEEEC2B39		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t00765_ruby	ED65F62ED4253AB522126238C7BDF7EF0A292DED2EE845D8AD1D722A648C9ABA		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t01002_ruby	F9548646792923429EA77A796933772BE2A8C8CD9C8FFE3395BCEF7D897ABD62		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t01051_ruby	C9F8DA3BD7B9E86E026DB1098DF0A639F141C05BF8BF3A4370CD0E35892F5194		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t01087_ruby	43FEA5D1F30B05BACACD5D6DE47A895B7364A76920291E5A6624CE3E27CB47CD		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t01088_ruby	93A7A1BBD540C39D93BA8072CC3F94003C2334B2DEE328264CD3035E5439E2A4		Japanese phonetic/loanword reading; meaning is already present in the Chinese body. No Japanese reading in Chinese slot.
+game_t01137_ruby	9DDB37A579DB5B2F8E87987EB5B1B58A54DA6BAA34887B2F3CE33ACEE9CF9FE0		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t01195_ruby	3C231F2267B19D53B4EE75421DE555AA16D61A2C9637726A3C7E9ACDB03F5C65		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t01257_ruby	E134DA6758C704AE82DACF69115F6A768CC6BB574637B0FD4FB0B84906E71EB7		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t01335_ruby	1BD47E7255AE4C537000C7ECF9D09129FE5822142A011630FD2DD7C3A0A60E7D		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t01353_ruby	9BEECA282FF1BD4898C637559B30B751C8CD409887AE34754DF725E9B53A39E9		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t01354_ruby	E5895788D73D45F3AA522D296440F53C10AD56B0875CD24E96D9E157AFB530A4		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t01378_ruby	553DD90B9A4C3F217ECB385051BDF551313D17813D9B91A4E47287203B8A4E5C		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t01382_ruby	C30B0715A0953A84BAA77A923B4131CA8E2E7994DD8AFD64DA679C5B1CDF767F		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t01447_ruby	510EED7FBD97D876E797AEC79D415FCDFF129251FBBF95EB2370CA006DBB572D		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t01452_ruby	C30B0715A0953A84BAA77A923B4131CA8E2E7994DD8AFD64DA679C5B1CDF767F		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t01497_ruby	2C6595B903692EF894DDAD34B0EEC97E9BDE130810CBBC008AF7EAB25E438819		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t01499_ruby	2421C5E28BAA7A8DFF7E68D5EB3DCF91A03E259742A3D296E6219D24EC6A3D2F		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t01500_ruby	9BE997C916F8B3231F3D7DBAA358CFC279AB29F4FCD9ADB351768BA1001BB35F		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t01672_ruby	F91A8D0EE4FDDA11A8623FE22B573034AB0A748E33AD27163A6B2B34E9B1FCF5		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t01789_ruby	A38816DA60A2D20BDE5F64F9B015D76C92EA9D6622397B2F8151EA8F74B01B5D		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t01821_ruby	6647377F293772BCC8A5EE0F27ABF5946D01E6AA73EEEA54DF94F9022945C6F9		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t01903_ruby	2195B17FE98BE48E5B5ED9D9DFB51E50776978D41496E7567D23CA801CEF7687		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t01906_ruby	3C2F9D2120AFEBFC8FD7FBC7AD738EA766D397BAD599616FC0688AE48148CA26		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t01938_ruby	0490CE4E7A804CC637C224DEAAA307C3B9A271C61A2AE05F47270C85A4F79799		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t01939_ruby	6572B6F5BB5BBED3B085A2346724E7B0A99AE98420196620DAD5F452AB4A060A		Japanese phonetic/loanword reading; meaning is already present in the Chinese body. No Japanese reading in Chinese slot.
+game_t01972_ruby	B89880DA9EAFB407EB961A38A5A0284D08A55FBA34F8C20CFF933E10FC7C8E60		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t01985_ruby	889BE89766257A6F24502CB597DDB2A1F5E12F5D16755424AC4574C5C4763692		Japanese phonetic/loanword reading; meaning is already present in the Chinese body. No Japanese reading in Chinese slot.
+game_t02049_ruby	1DFD7FA9B0CCE1B2E6DAC2A78411F81E576B57C32316C6160C0A2571F76BD173		Japanese phonetic/loanword reading; meaning is already present in the Chinese body. No Japanese reading in Chinese slot.
+game_t02084_ruby	686BF30735CC49965E6571B0898C8A35C123F70B45B8286EC19137F026F87490		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t02127_ruby	4B5DE65136B5BF09088E3B6DDD9F65CD0DE6637EB12E0D6E8F145F88D369F0EA		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t02168_ruby	32D13E7A1739512A51D7261D5228AD47D805C2A0ED000E04531148A64D24CD7A		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t02170_ruby	EA076BCAFC2B2790253B49E79EC2F69155389CD644FEDE4E9F499ED4DBB80CB0	女人:・・	Retarget emphasis dots to exact Chinese body substring.
+game_t02274_ruby	3C2F9D2120AFEBFC8FD7FBC7AD738EA766D397BAD599616FC0688AE48148CA26		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t02322_ruby	E22E19A53675C5AA99DDC207FBCB8309C675F658AF49D701D46410CAB0FAE3D8		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t02345_ruby	20D5C900BAE006F127D0C3E82EF6F7837B162DC3BD267930F19A770CEF8CFCE1		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t02404_ruby	7A9EEFFA04EBD832E6C5DBBB3CA6A76AC8631875A6B1B027C2E54D59B24867B7		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t02434_ruby	DA5E8CD70818B4087261C1910B8E3FDB758E61F84700DE5A0CC628D4EF94D98A		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t02472_ruby	0DC0CFB0FE26EF6DA15EAD074A050D23E1BBAA60E87082B521469F4533288B1B		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t02550_ruby	A70DED1615AE3F042B651DBA4DFD50AA0A2E3E46C3781629DB593F5CAD045E4D		Japanese phonetic/loanword reading; meaning is already present in the Chinese body. No Japanese reading in Chinese slot.
+game_t02574_ruby	A58EE118A445810642B8F1FB33C7DFB0D0BDAA82C273879C8C904C165C90CC0B		Japanese phonetic/loanword reading; meaning is already present in the Chinese body. No Japanese reading in Chinese slot.
+game_t02580_ruby	B54BF5124D5B1FE70C5D1D64B964C862E33BD2C7C8A35D834D052DB5A2471638		Japanese phonetic/loanword reading; meaning is already present in the Chinese body. No Japanese reading in Chinese slot.
+game_t02587_ruby	8FB474C7E81FA0391FD52BCC81F0D5F43ADB7C279E163197877C4754CE366AA9		Japanese phonetic/loanword reading; meaning is already present in the Chinese body. No Japanese reading in Chinese slot.
+game_t02595_ruby	A4BAFB92041684430FBCE54B1DABDB19DB2F7A8575111D545C3364F440578ABE		Japanese phonetic/loanword reading; meaning is already present in the Chinese body. No Japanese reading in Chinese slot.
+game_t02686_ruby	B9F35C7423C562B8DF883BD438120EE3985AA40AEF849ABBCB583CAF7AB9F789		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t02721_ruby	59E3C0788C07E0E74C873A10E5BC434D3F6125737381DE5DFE560FB55D8E84F9	好歹:・・	Retarget emphasis dots to exact Chinese body substring.
+game_t02892_ruby	1BD47E7255AE4C537000C7ECF9D09129FE5822142A011630FD2DD7C3A0A60E7D		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t02893_ruby	99BC5B9540C3DD89D23D3574398BFD4134448B10B8AC27A96E8132F6352E7576		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t02955_ruby	D4AB3242E9645D20D5EEC42555B0ED2F75D949B8DFC8AA4DAEB22BAF0309B690		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t03058_ruby	F51FB4DD84EC33DA066B3D7A73B05C2A7C6E70213252AC8DDCA9EDD3AFC78AF8		Japanese phonetic/loanword reading; meaning is already present in the Chinese body. No Japanese reading in Chinese slot.
+game_t03097_ruby	2916D9F63F95DF410C8D60B8DAFE7C4ABA717152112483CF8581D70E2DD46D12	综合虚拟信息训练系统:JIVES	Preserve additional meaning/model/abbreviation; bind to exact Chinese body substring.
+game_t03114_ruby	49A8CB55DCA6E428392FCBE663505730B7ED281D3752FD724E82BBF43E37CB64		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t03173_ruby	25A53A785DF4A65D4F986A70BD806C2DF3FE9576F4270A1972E9625B7309D279		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t03250_ruby	5CF14A397BE65F2D95AD7CCC6A1B17D75A6A1E5C073463D320875941F00F1000		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t03544_ruby	768EA2EC9B02D1E7849E1BB17AC38FE95090B7C80ADE68E6D9080FD353664844		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t03550_ruby	4B7B2D89348745FD7E5E28B6734CB28641E8C29FD4BD727D1F1DBA8823A3EDF5		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t03591_ruby	627A9C4BB33278857A4CEAA093258BC3FF4DCD1AAA553BF46DEFF223F6687B39	冷静地:・・・	Retarget emphasis dots to exact Chinese body substring.
+game_t03599_ruby	A21B86F95223D696508ECCC94F73337EF73F1FE938C0506E42A95258DFBE2664		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t03601_ruby	41BCBF8FC9E77E8A5BBE8E90570316433CBCB3878074D8FDCDCF966E9F790465		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t03604_ruby	38454F1150A1D5A911BEB343181A3CEDECF11DA7D23939B1E2F36A6723B6EA78		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t03605_ruby	A83A9B426B95D4676069656BF92C2F8C00B09FBEA315D6494AD886AA67EE91AA		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t03606_ruby	D4AB3242E9645D20D5EEC42555B0ED2F75D949B8DFC8AA4DAEB22BAF0309B690		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t03784_ruby	DD483F6DB0F4E38325ADCEF467A429EA6CBF0D16DFD0F6712D8199635815E612		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t03827_ruby	E7DE344CAFF9BB833DCF919BC143BEEC4AC7AF0085B404C8895987694A06F206		Japanese phonetic/loanword reading; meaning is already present in the Chinese body. No Japanese reading in Chinese slot.
+game_t03836_ruby	FB95C277E6A8773A5BDBEEAA5E862BDFB3FB871F96BF617348B7E588CF30A04C		Japanese phonetic/loanword reading; meaning is already present in the Chinese body. No Japanese reading in Chinese slot.
+game_t03862_ruby	3C2F9D2120AFEBFC8FD7FBC7AD738EA766D397BAD599616FC0688AE48148CA26		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t03897_ruby	E326B364D60D7F478C57CFF929C83E42DB061A0F9A2833E697346CD459E4C105	媒体:鬣狗	Preserve additional meaning/model/abbreviation; bind to exact Chinese body substring.
+game_t03907_ruby	787B8A551DE553A4E58AD6399EC91EC52BC02774FF94B45E59FC8E415AEE9914		Japanese phonetic/loanword reading; meaning is already present in the Chinese body. No Japanese reading in Chinese slot.
+game_t03916_ruby	787B8A551DE553A4E58AD6399EC91EC52BC02774FF94B45E59FC8E415AEE9914		Japanese phonetic/loanword reading; meaning is already present in the Chinese body. No Japanese reading in Chinese slot.
+game_t03955_ruby	29C857103A0FA45E9D77F6F3B062C45D4FA9FEE20916F0A16A27DC52EB5BFF88		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t03957_ruby	6607336B8FD0E50A8DBC3496FDD0AD461C5A2B820D8EA48AFEB381B3BE7C03D7		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t03986_ruby	75F2529EE2489816EA81349C70777B6CFD23DDC90D11BBA4D5B0C9B83DC0A70E		Japanese phonetic/loanword reading; meaning is already present in the Chinese body. No Japanese reading in Chinese slot.
+game_t03987_ruby	787B8A551DE553A4E58AD6399EC91EC52BC02774FF94B45E59FC8E415AEE9914		Japanese phonetic/loanword reading; meaning is already present in the Chinese body. No Japanese reading in Chinese slot.
+game_t03993_ruby	75F2529EE2489816EA81349C70777B6CFD23DDC90D11BBA4D5B0C9B83DC0A70E		Japanese phonetic/loanword reading; meaning is already present in the Chinese body. No Japanese reading in Chinese slot.
+game_t03995_ruby	787B8A551DE553A4E58AD6399EC91EC52BC02774FF94B45E59FC8E415AEE9914		Japanese phonetic/loanword reading; meaning is already present in the Chinese body. No Japanese reading in Chinese slot.
+game_t04007_ruby	75F2529EE2489816EA81349C70777B6CFD23DDC90D11BBA4D5B0C9B83DC0A70E		Japanese phonetic/loanword reading; meaning is already present in the Chinese body. No Japanese reading in Chinese slot.
+game_t04130_ruby	B1019FB24B4E71F9898D1A8AF55277CDC0C9D596AEBCB84273EF74FD89749787		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t04166_ruby	85DB213B32ABB8BFF5C021C2AEC122E6B8305DCE646C1F43380E2E5600414EB2		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t04324_ruby	D22A7279FE65EFF8D913D773EA57C4C2D3E8A72C2BFE7FBB44B7615C98825C7F	那边:美国第七舰队	Preserve additional meaning/model/abbreviation; bind to exact Chinese body substring.
+game_t04371_ruby	2D6E50E60548F6B0B8770CEEBCEC782892B342685E9E8A3E3CE9B28493DAEF29	瑞鹤:象征	Preserve additional meaning/model/abbreviation; bind to exact Chinese body substring.
+game_t04412_ruby	A70DED1615AE3F042B651DBA4DFD50AA0A2E3E46C3781629DB593F5CAD045E4D		Japanese phonetic/loanword reading; meaning is already present in the Chinese body. No Japanese reading in Chinese slot.
+game_t04413_ruby	C643C81CAB78A182D38781216B9E857787981462DDEFE123FDF46088FC3262AD		Japanese phonetic/loanword reading; meaning is already present in the Chinese body. No Japanese reading in Chinese slot.
+game_t04414_ruby	9A049C9B53C73AAC2107C60834D7BBD58313B8FE5FE912EFCF83023F3EBBAC97	匍匐飞行:NOE	Preserve additional meaning/model/abbreviation; bind to exact Chinese body substring.
+game_t04503_ruby	D4620D319BF67C4662AE7CDCDF167516535C4801C2B6B0E4122E058D382C9C99		Japanese phonetic/loanword reading; meaning is already present in the Chinese body. No Japanese reading in Chinese slot.
+game_t04530_ruby	320409DFEEF07BDA20E96E4472D68E2D73CCE09432E87CE1640874EBBEDA1044		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t04578_ruby	1C28B8E8C4991CF4B4BCBC70B7FB00FD860B786994A5FC2166F63C341D6CA808		Japanese phonetic/loanword reading; meaning is already present in the Chinese body. No Japanese reading in Chinese slot.
+game_t04582_ruby	A2400397B202B322D9C4C8678C4CFCF219E2DE3BE6A4D97E2A269508C326C616		Japanese phonetic/loanword reading; meaning is already present in the Chinese body. No Japanese reading in Chinese slot.
+game_t04618_ruby	D4AB3242E9645D20D5EEC42555B0ED2F75D949B8DFC8AA4DAEB22BAF0309B690		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t04739_ruby	46408E378C8EF854D3CB0F0BB95C1B101483A6B5E942507825BA61CCE9E35335	匍匐飞行:NOE	Preserve additional meaning/model/abbreviation; bind to exact Chinese body substring.
+game_t04805_ruby	8EA78F2C2F6C67243B5543A53C17E08EC2981A70E7A044FDA3F411FB4C26AE24		Japanese phonetic/loanword reading; meaning is already present in the Chinese body. No Japanese reading in Chinese slot.
+game_t04811_ruby	C65CE0FEBF24AB81FD5CEB7ACB3BAB46DCA0DAC9F2F3BDC39678CD49D252FB25		Japanese phonetic/loanword reading; meaning is already present in the Chinese body. No Japanese reading in Chinese slot.
+game_t04826_ruby	638A9180C611934EFA79E80B4501842E6EA1B8003B56E0AEE2D818544A0F425C		Japanese phonetic/loanword reading; meaning is already present in the Chinese body. No Japanese reading in Chinese slot.
+game_t04854_ruby	D8F5497FDCF09EA9503D71B17CE76FBB73EFD71BA856E66A7B7ED4BC9524CC29		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t04866_ruby	AAF15874E46A95FF4A169EAAEC37E251B87F1545D42927E4F22CF13C2E564472		Japanese phonetic/loanword reading; meaning is already present in the Chinese body. No Japanese reading in Chinese slot.
+game_t04888_ruby	79F7B9320B784A15ED57C5C902A54EC398AF3C2D12EE9A2A5F45C42505517747		Japanese phonetic/loanword reading; meaning is already present in the Chinese body. No Japanese reading in Chinese slot.
+game_t04895_ruby	BF23343B085AE8F6B5FCBC7278A119A6311163AC77C1AA0AA0CF157FF34ABB69		Japanese phonetic/loanword reading; meaning is already present in the Chinese body. No Japanese reading in Chinese slot.
+game_t04920_ruby	C65CE0FEBF24AB81FD5CEB7ACB3BAB46DCA0DAC9F2F3BDC39678CD49D252FB25		Japanese phonetic/loanword reading; meaning is already present in the Chinese body. No Japanese reading in Chinese slot.
+game_t05116_ruby	C9F8DA3BD7B9E86E026DB1098DF0A639F141C05BF8BF3A4370CD0E35892F5194		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t05118_ruby	3C2F9D2120AFEBFC8FD7FBC7AD738EA766D397BAD599616FC0688AE48148CA26		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t05142_ruby	C9F8DA3BD7B9E86E026DB1098DF0A639F141C05BF8BF3A4370CD0E35892F5194		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t05423_ruby	26CDD0CEEC178E4D9829568682C011667A4B6186DBBBE443536D9423EDFC0E26		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t05499_ruby	26CDD0CEEC178E4D9829568682C011667A4B6186DBBBE443536D9423EDFC0E26		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.
+game_t05575_ruby	26CDD0CEEC178E4D9829568682C011667A4B6186DBBBE443536D9423EDFC0E26		Empty-reading/quotation marker; Chinese body already carries the translated phrase and its prose or quotation emphasis.

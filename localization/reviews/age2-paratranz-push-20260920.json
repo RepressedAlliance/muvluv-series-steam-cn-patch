@@ -1,0 +1,2926 @@
+{
+  "remote_strings": 888,
+  "verified_files": [
+    3131310,
+    3131311,
+    3388061,
+    3131312,
+    3388063,
+    3131313,
+    3388047,
+    3387942,
+    3387971,
+    3387984,
+    3388035,
+    3388036,
+    3388037
+  ],
+  "local_short_edits": 483,
+  "term_operations": 34,
+  "additional_ui_term_updates": 1,
+  "term_pairs_verified": 45,
+  "source_identity_entries_held": 295,
+  "stage_preserved": true,
+  "baseline_rows_advanced": 888,
+  "game_deployed": false,
+  "local_edits": [
+    {
+      "key": "TDA00|020_UAF_DAY91_01.egpack|game_t00127",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "…\\w…\\w…\\w…\\w！"
+    },
+    {
+      "key": "TDA00|020_UAF_DAY91_01.egpack|game_t00159",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "…\\w…\\w…\\w…\\w！"
+    },
+    {
+      "key": "TDA00|020_UAF_DAY91_01.egpack|game_t00262",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "…\\w…\\w…\\w…\\w！"
+    },
+    {
+      "key": "TDA00|020_UAF_DAY91_01.egpack|game_t00466",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "…\\w…\\w…\\w…\\w！"
+    },
+    {
+      "key": "TDA00|050_UAF_DAY95_01.egpack|game_t01685",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "…\\w…\\w…\\w…\\w！"
+    },
+    {
+      "key": "TDA00|050_UAF_DAY95_01.egpack|game_t01772",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "…\\w…\\w…\\w…\\w！"
+    },
+    {
+      "key": "TDA00|050_UAF_DAY95_01.egpack|game_t01829",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "…\\w…\\w…\\w…\\w！"
+    },
+    {
+      "key": "TDA00|050_UAF_DAY95_01.egpack|game_t01871",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "――！"
+    },
+    {
+      "key": "TDA00|050_UAF_DAY95_01.egpack|game_t01898",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "…\\w…\\w…\\w…\\w！"
+    },
+    {
+      "key": "TDA00|050_UAF_DAY95_01.egpack|game_t01983",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "…\\w…\\w…\\w…\\w！"
+    },
+    {
+      "key": "TDA00|060_UAF_DAY96_01.egpack|game_t02395",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "…\\w…\\w…\\w…\\w！"
+    },
+    {
+      "key": "TDA00|060_UAF_DAY96_01.egpack|game_t02413",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "…\\w…\\w…\\w…\\w！"
+    },
+    {
+      "key": "TDA00|060_UAF_DAY96_01.egpack|game_t02467",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "…\\w…\\w…\\w…\\w！"
+    },
+    {
+      "key": "TDA00|060_UAF_DAY96_01.egpack|game_t02556",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "…\\w…\\w…\\w…\\w！"
+    },
+    {
+      "key": "TDA00|060_UAF_DAY96_01.egpack|game_t02688",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "…\\w…\\w…\\w…\\w！"
+    },
+    {
+      "key": "TDA00|060_UAF_DAY96_01.egpack|game_t02699",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "…\\w…\\w…\\w…\\w！"
+    },
+    {
+      "key": "TDA00|090_UAF_DAY99_01.egpack|game_t03011",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "…\\w…\\w…\\w…\\w！"
+    },
+    {
+      "key": "TDA00|090_UAF_DAY99_01.egpack|game_t03228",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "…\\w…\\w…\\w…\\w！"
+    },
+    {
+      "key": "TDA00|090_UAF_DAY99_01.egpack|game_t03270",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "…\\w…\\w…\\w…\\w！"
+    },
+    {
+      "key": "TDA00|090_UAF_DAY99_01.egpack|game_t03301",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "…\\w…\\w…\\w…\\w！"
+    },
+    {
+      "key": "TDA00|090_UAF_DAY99_01.egpack|game_t03316",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "…………！"
+    },
+    {
+      "key": "TDA00|090_UAF_DAY99_02.egpack|game_t03430",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "――！"
+    },
+    {
+      "key": "TDA00|090_UAF_DAY99_03.egpack|game_t03515",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "――！"
+    },
+    {
+      "key": "TDA00|090_UAF_DAY99_03.egpack|game_t03533",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "…\\w…\\w…\\w…\\w！"
+    },
+    {
+      "key": "TDA01|020_起_第６次シアトル防衛線01.egpack|game_t00032",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|020_起_第６次シアトル防衛線01.egpack|game_t00035",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|020_起_第６次シアトル防衛線01.egpack|game_t00073",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "――！"
+    },
+    {
+      "key": "TDA01|020_起_第６次シアトル防衛線01.egpack|game_t00355",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "…\\w…\\w…\\w…\\w！"
+    },
+    {
+      "key": "TDA01|020_起_第６次シアトル防衛線01.egpack|game_t00513",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "――！"
+    },
+    {
+      "key": "TDA01|040_承_2005_10_07 デブリーフィング・顔合わせ01.egpack|game_t00621",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|040_承_2005_10_07 デブリーフィング・顔合わせ01.egpack|game_t00642",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|040_承_2005_10_07 デブリーフィング・顔合わせ01.egpack|game_t01131",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|040_承_2005_10_07 デブリーフィング・顔合わせ01.egpack|game_t01137",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|040_承_2005_10_07 デブリーフィング・顔合わせ01.egpack|game_t01166",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|040_承_2005_10_07 デブリーフィング・顔合わせ01.egpack|game_t01219",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "…\\w…\\w…\\w…\\w！"
+    },
+    {
+      "key": "TDA01|040_承_2005_10_07 デブリーフィング・顔合わせ01.egpack|game_t01226",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|040_承_2005_10_07 デブリーフィング・顔合わせ01.egpack|game_t01261",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|040_承_2005_10_07 デブリーフィング・顔合わせ01.egpack|game_t01266",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|040_承_2005_10_07 デブリーフィング・顔合わせ01.egpack|game_t01269",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|040_承_2005_10_07 デブリーフィング・顔合わせ01.egpack|game_t01387",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|050_承_2005_10_08 軍葬・ハンガー・宿舎01.egpack|game_t01799",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|050_承_2005_10_08 軍葬・ハンガー・宿舎01.egpack|game_t02449",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|050_承_2005_10_08 軍葬・ハンガー・宿舎01.egpack|game_t02453",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|050_承_2005_10_08 軍葬・ハンガー・宿舎01.egpack|game_t02516",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|050_承_2005_10_08 軍葬・ハンガー・宿舎01.egpack|game_t02578",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|050_承_2005_10_08 軍葬・ハンガー・宿舎01.egpack|game_t02636",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "？",
+      "after": "…\\w…\\w…\\w…\\w？"
+    },
+    {
+      "key": "TDA01|050_承_2005_10_08 軍葬・ハンガー・宿舎01.egpack|game_t02679",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|050_承_2005_10_08 軍葬・ハンガー・宿舎01.egpack|game_t02710",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|050_承_2005_10_08 軍葬・ハンガー・宿舎01.egpack|game_t02771",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|050_承_2005_10_08 軍葬・ハンガー・宿舎01.egpack|game_t02782",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|060_承_2005_10_10 まりも・警備任務プレ01.egpack|game_t03028",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|060_承_2005_10_10 まりも・警備任務プレ01.egpack|game_t03119",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|060_承_2005_10_10 まりも・警備任務プレ01.egpack|game_t03121",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "――！"
+    },
+    {
+      "key": "TDA01|060_承_2005_10_10 まりも・警備任務プレ01.egpack|game_t03130",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|060_承_2005_10_10 まりも・警備任務プレ01.egpack|game_t03155",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "？",
+      "after": "…\\w…\\w…\\w…\\w？"
+    },
+    {
+      "key": "TDA01|060_承_2005_10_10 まりも・警備任務プレ01.egpack|game_t03179",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "――――！"
+    },
+    {
+      "key": "TDA01|060_承_2005_10_10 まりも・警備任務プレ01.egpack|game_t03219",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "――！"
+    },
+    {
+      "key": "TDA01|060_承_2005_10_10 まりも・警備任務プレ01.egpack|game_t03242",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "――――！"
+    },
+    {
+      "key": "TDA01|060_承_2005_10_10 まりも・警備任務プレ01.egpack|game_t03337",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|060_承_2005_10_10 まりも・警備任務プレ01.egpack|game_t03540",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|060_承_2005_10_10 まりも・警備任務プレ01.egpack|game_t03575",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "？",
+      "after": "――？"
+    },
+    {
+      "key": "TDA01|060_承_2005_10_10 まりも・警備任務プレ01.egpack|game_t03578",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|060_承_2005_10_10 まりも・警備任務プレ01.egpack|game_t03602",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|060_承_2005_10_10 まりも・警備任務プレ01.egpack|game_t03619",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|060_承_2005_10_10 まりも・警備任務プレ01.egpack|game_t03652",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "！！",
+      "after": "――！！"
+    },
+    {
+      "key": "TDA01|060_承_2005_10_10 まりも・警備任務プレ01.egpack|game_t03718",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|060_承_2005_10_10 まりも・警備任務プレ01.egpack|game_t03737",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|060_承_2005_10_10 まりも・警備任務プレ01.egpack|game_t03738",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|060_承_2005_10_10 まりも・警備任務プレ01.egpack|game_t03755",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w好了。"
+    },
+    {
+      "key": "TDA01|060_承_2005_10_10 まりも・警備任務プレ01.egpack|game_t03757",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|060_承_2005_10_10 まりも・警備任務プレ01.egpack|game_t03780",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "！？",
+      "after": "――！？"
+    },
+    {
+      "key": "TDA01|060_承_2005_10_10 まりも・警備任務プレ01.egpack|game_t03835",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "――――！"
+    },
+    {
+      "key": "TDA01|060_承_2005_10_10 まりも・警備任務プレ01.egpack|game_t03895",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|060_承_2005_10_10 まりも・警備任務プレ01.egpack|game_t03940",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|060_承_2005_10_10 まりも・警備任務プレ01.egpack|game_t03941",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|070_承_2005_10_11 物資受取・雫・エレン01.egpack|game_t04297",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "――！"
+    },
+    {
+      "key": "TDA01|070_承_2005_10_11 物資受取・雫・エレン01.egpack|game_t04320",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "――――！"
+    },
+    {
+      "key": "TDA01|070_承_2005_10_11 物資受取・雫・エレン01.egpack|game_t04444",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|070_承_2005_10_11 物資受取・雫・エレン01.egpack|game_t04565",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|070_承_2005_10_11 物資受取・雫・エレン01.egpack|game_t04571",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|070_承_2005_10_11 物資受取・雫・エレン01.egpack|game_t04633",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "――！"
+    },
+    {
+      "key": "TDA01|070_承_2005_10_11 物資受取・雫・エレン01.egpack|game_t04681",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "？",
+      "after": "…\\w…\\w…\\w…\\w？"
+    },
+    {
+      "key": "TDA01|070_承_2005_10_11 物資受取・雫・エレン01.egpack|game_t04718",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "――――！"
+    },
+    {
+      "key": "TDA01|080_承_2005_10_12 孤児院1回目・まりも不在01.egpack|game_t04788",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|080_承_2005_10_12 孤児院1回目・まりも不在01.egpack|game_t04798",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "！！",
+      "after": "――！！"
+    },
+    {
+      "key": "TDA01|080_承_2005_10_12 孤児院1回目・まりも不在01.egpack|game_t04805",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "！！",
+      "after": "――！！"
+    },
+    {
+      "key": "TDA01|080_承_2005_10_12 孤児院1回目・まりも不在01.egpack|game_t04859",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|080_承_2005_10_12 孤児院1回目・まりも不在01.egpack|game_t04870",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|080_承_2005_10_12 孤児院1回目・まりも不在01.egpack|game_t05040",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|080_承_2005_10_12 孤児院1回目・まりも不在01.egpack|game_t05055",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|080_承_2005_10_12 孤児院1回目・まりも不在01.egpack|game_t05083",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|080_承_2005_10_12 孤児院1回目・まりも不在01.egpack|game_t05089",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|080_承_2005_10_12 孤児院1回目・まりも不在01.egpack|game_t05090",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|080_承_2005_10_12 孤児院1回目・まりも不在01.egpack|game_t05139",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|080_承_2005_10_12 孤児院1回目・まりも不在01.egpack|game_t05163",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "？",
+      "after": "…\\w…\\w…\\w…\\w？"
+    },
+    {
+      "key": "TDA01|080_承_2005_10_12 孤児院1回目・まりも不在01.egpack|game_t05212",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "？",
+      "after": "…\\w…\\w…\\w…\\w？"
+    },
+    {
+      "key": "TDA01|080_承_2005_10_12 孤児院1回目・まりも不在01.egpack|game_t05220",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "！！",
+      "after": "――！！"
+    },
+    {
+      "key": "TDA01|080_承_2005_10_12 孤児院1回目・まりも不在01.egpack|game_t05225",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|080_承_2005_10_12 孤児院1回目・まりも不在01.egpack|game_t05229",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|080_承_2005_10_12 孤児院1回目・まりも不在01.egpack|game_t05240",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|080_承_2005_10_12 孤児院1回目・まりも不在01.egpack|game_t05260",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|080_承_2005_10_12 孤児院1回目・まりも不在01.egpack|game_t05288",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "！！",
+      "after": "――！！"
+    },
+    {
+      "key": "TDA01|080_承_2005_10_12 孤児院1回目・まりも不在01.egpack|game_t05295",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|090_承_2005_10_13 まりも日米会議・ハンガートーク01.egpack|game_t05336",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|090_承_2005_10_13 まりも日米会議・ハンガートーク01.egpack|game_t05341",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|090_承_2005_10_13 まりも日米会議・ハンガートーク01.egpack|game_t05351",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|090_承_2005_10_13 まりも日米会議・ハンガートーク01.egpack|game_t05352",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|090_承_2005_10_13 まりも日米会議・ハンガートーク01.egpack|game_t05375",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "！！",
+      "after": "――！"
+    },
+    {
+      "key": "TDA01|090_承_2005_10_13 まりも日米会議・ハンガートーク01.egpack|game_t05385",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "――――！"
+    },
+    {
+      "key": "TDA01|090_承_2005_10_13 まりも日米会議・ハンガートーク01.egpack|game_t05389",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|090_承_2005_10_13 まりも日米会議・ハンガートーク01.egpack|game_t05393",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|090_承_2005_10_13 まりも日米会議・ハンガートーク01.egpack|game_t05400",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|090_承_2005_10_13 まりも日米会議・ハンガートーク01.egpack|game_t05404",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|090_承_2005_10_13 まりも日米会議・ハンガートーク01.egpack|game_t05410",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|090_承_2005_10_13 まりも日米会議・ハンガートーク01.egpack|game_t05411",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|090_承_2005_10_13 まりも日米会議・ハンガートーク01.egpack|game_t05434",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|090_承_2005_10_13 まりも日米会議・ハンガートーク01.egpack|game_t05493",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|090_承_2005_10_13 まりも日米会議・ハンガートーク01.egpack|game_t05557",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|090_承_2005_10_13 まりも日米会議・ハンガートーク01.egpack|game_t05646",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|090_承_2005_10_13 まりも日米会議・ハンガートーク01.egpack|game_t05658",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "――――！"
+    },
+    {
+      "key": "TDA01|090_承_2005_10_13 まりも日米会議・ハンガートーク01.egpack|game_t05677",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "――――！"
+    },
+    {
+      "key": "TDA01|090_承_2005_10_13 まりも日米会議・ハンガートーク01.egpack|game_t05692",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|090_承_2005_10_13 まりも日米会議・ハンガートーク01.egpack|game_t05696",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|090_承_2005_10_13 まりも日米会議・ハンガートーク01.egpack|game_t05751",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "――――！"
+    },
+    {
+      "key": "TDA01|090_承_2005_10_13 まりも日米会議・ハンガートーク01.egpack|game_t05756",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|090_承_2005_10_13 まりも日米会議・ハンガートーク01.egpack|game_t05758",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "――――！"
+    },
+    {
+      "key": "TDA01|090_承_2005_10_13 まりも日米会議・ハンガートーク01.egpack|game_t05771",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|090_承_2005_10_13 まりも日米会議・ハンガートーク01.egpack|game_t05791",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|090_承_2005_10_13 まりも日米会議・ハンガートーク01.egpack|game_t05808",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "――――！"
+    },
+    {
+      "key": "TDA01|090_承_2005_10_13 まりも日米会議・ハンガートーク01.egpack|game_t05862",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|090_承_2005_10_13 まりも日米会議・ハンガートーク01.egpack|game_t06046",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "？",
+      "after": "…\\w…\\w…\\w…\\w？"
+    },
+    {
+      "key": "TDA01|090_承_2005_10_13 まりも日米会議・ハンガートーク01.egpack|game_t06076",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|100_承_2005_10_14 居住区休日・孤児院2回目01.egpack|game_t06099",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|100_承_2005_10_14 居住区休日・孤児院2回目01.egpack|game_t06103",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|100_承_2005_10_14 居住区休日・孤児院2回目01.egpack|game_t06118",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|100_承_2005_10_14 居住区休日・孤児院2回目01.egpack|game_t06120",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|100_承_2005_10_14 居住区休日・孤児院2回目01.egpack|game_t06151",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|100_承_2005_10_14 居住区休日・孤児院2回目01.egpack|game_t06167",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "！！",
+      "after": "――！！"
+    },
+    {
+      "key": "TDA01|100_承_2005_10_14 居住区休日・孤児院2回目01.egpack|game_t06181",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|100_承_2005_10_14 居住区休日・孤児院2回目01.egpack|game_t06196",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|100_承_2005_10_14 居住区休日・孤児院2回目01.egpack|game_t06203",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "！！",
+      "after": "――！！"
+    },
+    {
+      "key": "TDA01|100_承_2005_10_14 居住区休日・孤児院2回目01.egpack|game_t06233",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|100_承_2005_10_14 居住区休日・孤児院2回目01.egpack|game_t06274",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "？",
+      "after": "…\\w…\\w…\\w…\\w？"
+    },
+    {
+      "key": "TDA01|100_承_2005_10_14 居住区休日・孤児院2回目01.egpack|game_t06294",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|100_承_2005_10_14 居住区休日・孤児院2回目01.egpack|game_t06298",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|100_承_2005_10_14 居住区休日・孤児院2回目01.egpack|game_t06329",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "――――！"
+    },
+    {
+      "key": "TDA01|100_承_2005_10_14 居住区休日・孤児院2回目01.egpack|game_t06354",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "――――！"
+    },
+    {
+      "key": "TDA01|100_承_2005_10_14 居住区休日・孤児院2回目01.egpack|game_t06424",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|100_承_2005_10_14 居住区休日・孤児院2回目01.egpack|game_t06433",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|100_承_2005_10_14 居住区休日・孤児院2回目01.egpack|game_t06458",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "――――！"
+    },
+    {
+      "key": "TDA01|100_承_2005_10_14 居住区休日・孤児院2回目01.egpack|game_t06470",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|100_承_2005_10_14 居住区休日・孤児院2回目01.egpack|game_t06478",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|100_承_2005_10_14 居住区休日・孤児院2回目01.egpack|game_t06497",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "――――！"
+    },
+    {
+      "key": "TDA01|100_承_2005_10_14 居住区休日・孤児院2回目01.egpack|game_t06545",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "…\\w…\\w…\\w…\\w！"
+    },
+    {
+      "key": "TDA01|110_承_2005_10_18 市街地警護任務1・空振り01.egpack|game_t06614",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|110_承_2005_10_18 市街地警護任務1・空振り01.egpack|game_t06621",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "――――！"
+    },
+    {
+      "key": "TDA01|110_承_2005_10_18 市街地警護任務1・空振り01.egpack|game_t06639",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "――――！"
+    },
+    {
+      "key": "TDA01|110_承_2005_10_18 市街地警護任務1・空振り01.egpack|game_t06644",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "――――！"
+    },
+    {
+      "key": "TDA01|110_承_2005_10_18 市街地警護任務1・空振り01.egpack|game_t06653",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|110_承_2005_10_18 市街地警護任務1・空振り01.egpack|game_t06690",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "――――！"
+    },
+    {
+      "key": "TDA01|110_承_2005_10_18 市街地警護任務1・空振り01.egpack|game_t06700",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|110_承_2005_10_18 市街地警護任務1・空振り01.egpack|game_t06707",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|110_承_2005_10_18 市街地警護任務1・空振り01.egpack|game_t06711",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|110_承_2005_10_18 市街地警護任務1・空振り01.egpack|game_t06729",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|110_承_2005_10_18 市街地警護任務1・空振り01.egpack|game_t06766",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|110_承_2005_10_18 市街地警護任務1・空振り01.egpack|game_t06784",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|110_承_2005_10_18 市街地警護任務1・空振り01.egpack|game_t06789",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "――――！"
+    },
+    {
+      "key": "TDA01|110_承_2005_10_18 市街地警護任務1・空振り01.egpack|game_t06793",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "？",
+      "after": "…\\w…\\w…\\w…\\w？"
+    },
+    {
+      "key": "TDA01|110_承_2005_10_18 市街地警護任務1・空振り01.egpack|game_t06994",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|110_承_2005_10_18 市街地警護任務1・空振り01.egpack|game_t07036",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|110_承_2005_10_18 市街地警護任務1・空振り01.egpack|game_t07180",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|110_承_2005_10_18 市街地警護任務1・空振り01.egpack|game_t07205",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "――――！"
+    },
+    {
+      "key": "TDA01|120_承_2005_10_19 デモ隊との交渉01.egpack|game_t07234",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|120_承_2005_10_19 デモ隊との交渉01.egpack|game_t07238",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "――――！"
+    },
+    {
+      "key": "TDA01|120_承_2005_10_19 デモ隊との交渉01.egpack|game_t07278",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|120_承_2005_10_19 デモ隊との交渉01.egpack|game_t07289",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "――――！"
+    },
+    {
+      "key": "TDA01|120_承_2005_10_19 デモ隊との交渉01.egpack|game_t07390",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "…\\w…\\w…\\w…\\w！"
+    },
+    {
+      "key": "TDA01|120_承_2005_10_19 デモ隊との交渉01.egpack|game_t07427",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "――――！"
+    },
+    {
+      "key": "TDA01|120_承_2005_10_19 デモ隊との交渉01.egpack|game_t07466",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "――――！"
+    },
+    {
+      "key": "TDA01|120_承_2005_10_19 デモ隊との交渉01.egpack|game_t07481",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "…\\w…\\w…\\w…\\w！"
+    },
+    {
+      "key": "TDA01|130_転_BETA大規模再襲撃01.egpack|game_t07531",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "――――！"
+    },
+    {
+      "key": "TDA01|130_転_BETA大規模再襲撃01.egpack|game_t07612",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "――――！"
+    },
+    {
+      "key": "TDA01|130_転_BETA大規模再襲撃01.egpack|game_t07617",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "――――！"
+    },
+    {
+      "key": "TDA01|130_転_BETA大規模再襲撃01.egpack|game_t07646",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "――――！"
+    },
+    {
+      "key": "TDA01|130_転_BETA大規模再襲撃01.egpack|game_t07668",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "…\\w…\\w…\\w…\\w！"
+    },
+    {
+      "key": "TDA01|130_転_BETA大規模再襲撃01.egpack|game_t07688",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|130_転_BETA大規模再襲撃01.egpack|game_t07707",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|130_転_BETA大規模再襲撃01.egpack|game_t07731",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "――――！"
+    },
+    {
+      "key": "TDA01|130_転_BETA大規模再襲撃01.egpack|game_t07747",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "――――！"
+    },
+    {
+      "key": "TDA01|130_転_BETA大規模再襲撃01.egpack|game_t07754",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|130_転_BETA大規模再襲撃01.egpack|game_t07764",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "――――！"
+    },
+    {
+      "key": "TDA01|130_転_BETA大規模再襲撃01.egpack|game_t07856",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "――――！"
+    },
+    {
+      "key": "TDA01|130_転_BETA大規模再襲撃01.egpack|game_t07872",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "――――！"
+    },
+    {
+      "key": "TDA01|130_転_BETA大規模再襲撃01.egpack|game_t07880",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "――――！"
+    },
+    {
+      "key": "TDA01|130_転_BETA大規模再襲撃01.egpack|game_t07887",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "――――！"
+    },
+    {
+      "key": "TDA01|130_転_BETA大規模再襲撃02.egpack|game_t08013",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "――――！"
+    },
+    {
+      "key": "TDA01|130_転_BETA大規模再襲撃02.egpack|game_t08035",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "――――！"
+    },
+    {
+      "key": "TDA01|130_転_BETA大規模再襲撃02.egpack|game_t08075",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "――――！"
+    },
+    {
+      "key": "TDA01|130_転_BETA大規模再襲撃02.egpack|game_t08093",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|130_転_BETA大規模再襲撃02.egpack|game_t08128",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "――――！"
+    },
+    {
+      "key": "TDA01|130_転_BETA大規模再襲撃02.egpack|game_t08136",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "――――！"
+    },
+    {
+      "key": "TDA01|130_転_BETA大規模再襲撃02.egpack|game_t08169",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|130_転_BETA大規模再襲撃02.egpack|game_t08176",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|130_転_BETA大規模再襲撃02.egpack|game_t08186",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "――――！"
+    },
+    {
+      "key": "TDA01|130_転_BETA大規模再襲撃02.egpack|game_t08202",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "――――！"
+    },
+    {
+      "key": "TDA01|130_転_BETA大規模再襲撃02.egpack|game_t08206",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "――――！"
+    },
+    {
+      "key": "TDA01|130_転_BETA大規模再襲撃02.egpack|game_t08222",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "――――！"
+    },
+    {
+      "key": "TDA01|130_転_BETA大規模再襲撃02.egpack|game_t08226",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "――――！"
+    },
+    {
+      "key": "TDA01|130_転_BETA大規模再襲撃03.egpack|game_t08272",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA01|130_転_BETA大規模再襲撃03.egpack|game_t08275",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "――――！"
+    },
+    {
+      "key": "TDA01|130_転_BETA大規模再襲撃03.egpack|game_t08297",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "――――！"
+    },
+    {
+      "key": "TDA01|130_転_BETA大規模再襲撃03.egpack|game_t08309",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "――――！"
+    },
+    {
+      "key": "TDA01|130_転_BETA大規模再襲撃03.egpack|game_t08397",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "――――！"
+    },
+    {
+      "key": "TDA01|130_転_BETA大規模再襲撃03.egpack|game_t08408",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "――――！"
+    },
+    {
+      "key": "TDA01|130_転_BETA大規模再襲撃03.egpack|game_t08429",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "――――！"
+    },
+    {
+      "key": "TDA01|130_転_BETA大規模再襲撃03.egpack|game_t08516",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA02|010_プロローグ_011_プロローグ　神宮司まりも更迭.egpack|game_t00012",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|010_プロローグ_011_プロローグ　神宮司まりも更迭.egpack|game_t00014",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|010_プロローグ_011_プロローグ　神宮司まりも更迭.egpack|game_t00017",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|010_プロローグ_011_プロローグ　神宮司まりも更迭.egpack|game_t00021",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|010_プロローグ_011_プロローグ　神宮司まりも更迭.egpack|game_t00023",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|010_プロローグ_011_プロローグ　神宮司まりも更迭.egpack|game_t00025",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|010_プロローグ_011_プロローグ　神宮司まりも更迭.egpack|game_t00027",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|020_２００５年１２月０１日（木）_020_インタビュー後半.egpack|game_t00105",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|020_２００５年１２月０１日（木）_020_インタビュー後半.egpack|game_t00107",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|020_２００５年１２月０１日（木）_020_インタビュー後半.egpack|game_t00109",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|020_２００５年１２月０１日（木）_020_インタビュー後半.egpack|game_t00129",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "啊！",
+      "after": "――――！"
+    },
+    {
+      "key": "TDA02|020_２００５年１２月０１日（木）_020_インタビュー後半.egpack|game_t00136",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "啊！",
+      "after": "――――！"
+    },
+    {
+      "key": "TDA02|020_２００５年１２月０１日（木）_020_インタビュー後半.egpack|game_t00138",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|020_２００５年１２月０１日（木）_020_インタビュー後半.egpack|game_t00149",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|020_２００５年１２月０１日（木）_020_インタビュー後半.egpack|game_t00154",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|020_２００５年１２月０１日（木）_020_インタビュー後半.egpack|game_t00189",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|020_２００５年１２月０１日（木）_021_格納庫にて.egpack|game_t00217",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|020_２００５年１２月０１日（木）_021_格納庫にて.egpack|game_t00326",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|030_２００５年１２月０２日（金）_030_悪夢　大陸放浪.egpack|game_t00338",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|030_２００５年１２月０２日（金）_030_悪夢　大陸放浪.egpack|game_t00344",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|030_２００５年１２月０２日（金）_030_悪夢　大陸放浪.egpack|game_t00346",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|030_２００５年１２月０２日（金）_030_悪夢　大陸放浪.egpack|game_t00349",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|030_２００５年１２月０２日（金）_030_悪夢　大陸放浪.egpack|game_t00352",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|030_２００５年１２月０２日（金）_030_悪夢　大陸放浪.egpack|game_t00354",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|030_２００５年１２月０２日（金）_030_悪夢　大陸放浪.egpack|game_t00359",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|030_２００５年１２月０２日（金）_030_悪夢　大陸放浪.egpack|game_t00361",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|030_２００５年１２月０２日（金）_030_悪夢　大陸放浪.egpack|game_t00385",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA02|030_２００５年１２月０２日（金）_031_私室での目覚め.egpack|game_t00431",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|030_２００５年１２月０２日（金）_031_私室での目覚め.egpack|game_t00436",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|030_２００５年１２月０２日（金）_032_食堂.egpack|game_t00512",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……？」",
+      "after": "「…\\w…\\w…\\w…\\w？」"
+    },
+    {
+      "key": "TDA02|030_２００５年１２月０２日（金）_032_食堂.egpack|game_t00529",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|030_２００５年１２月０２日（金）_032_食堂.egpack|game_t00539",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|030_２００５年１２月０２日（金）_032_食堂.egpack|game_t00560",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|030_２００５年１２月０２日（金）_032_食堂.egpack|game_t00587",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|030_２００５年１２月０２日（金）_032_食堂.egpack|game_t00594",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|030_２００５年１２月０２日（金）_034_演習後デブリーフィング.egpack|game_t00680",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|030_２００５年１２月０２日（金）_034_演習後デブリーフィング.egpack|game_t00706",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|030_２００５年１２月０２日（金）_034_演習後デブリーフィング.egpack|game_t00707",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|030_２００５年１２月０２日（金）_034_演習後デブリーフィング.egpack|game_t00714",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|030_２００５年１２月０２日（金）_035_格納庫で落ち込む雫＆律子登場.egpack|game_t00837",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|030_２００５年１２月０２日（金）_035_格納庫で落ち込む雫＆律子登場.egpack|game_t00841",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|030_２００５年１２月０２日（金）_035_格納庫で落ち込む雫＆律子登場.egpack|game_t00910",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|030_２００５年１２月０２日（金）_036_丘の上で柚香、エレンと.egpack|game_t00987",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|030_２００５年１２月０２日（金）_036_丘の上で柚香、エレンと.egpack|game_t00992",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|030_２００５年１２月０２日（金）_036_丘の上で柚香、エレンと.egpack|game_t00999",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|030_２００５年１２月０２日（金）_036_丘の上で柚香、エレンと.egpack|game_t01015",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|030_２００５年１２月０２日（金）_036_丘の上で柚香、エレンと.egpack|game_t01022",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|030_２００５年１２月０２日（金）_036_丘の上で柚香、エレンと.egpack|game_t01025",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|030_２００５年１２月０２日（金）_036_丘の上で柚香、エレンと.egpack|game_t01035",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|030_２００５年１２月０２日（金）_036_丘の上で柚香、エレンと.egpack|game_t01043",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|030_２００５年１２月０２日（金）_036_丘の上で柚香、エレンと.egpack|game_t01067",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|030_２００５年１２月０２日（金）_036_丘の上で柚香、エレンと.egpack|game_t01086",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……？」",
+      "after": "「…\\w…\\w…\\w…\\w？」"
+    },
+    {
+      "key": "TDA02|030_２００５年１２月０２日（金）_036_丘の上で柚香、エレンと.egpack|game_t01098",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|040_２００５年１２月０３日（土）_040_忙しい男.egpack|game_t01110",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「如果像前几天的战斗那样的事情在西雅图成为家常便饭的话，那就更是如此了。」",
+      "after": "「哦、\\w哦…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|040_２００５年１２月０３日（土）_040_忙しい男.egpack|game_t01141",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|040_２００５年１２月０３日（土）_040_忙しい男.egpack|game_t01169",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "唔………。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA02|040_２００５年１２月０３日（土）_040_忙しい男.egpack|game_t01178",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|050_２００５年１２月０４日（日）_050_悪夢の始まり：大海崩後の世界.egpack|game_t01247",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|050_２００５年１２月０４日（日）_052_欧州派遣軍参戦.egpack|game_t01281",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|050_２００５年１２月０４日（日）_053_響の過去.egpack|game_t01314",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "啊！",
+      "after": "――！"
+    },
+    {
+      "key": "TDA02|050_２００５年１２月０４日（日）_054_カナダ軍特攻.egpack|game_t01318",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "啊！",
+      "after": "――――！"
+    },
+    {
+      "key": "TDA02|050_２００５年１２月０４日（日）_054_カナダ軍特攻.egpack|game_t01349",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|050_２００５年１２月０４日（日）_055_悪夢は続くよ、いつまでも.egpack|game_t01369",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "嗯。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA02|050_２００５年１２月０４日（日）_055_悪夢は続くよ、いつまでも.egpack|game_t01374",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|050_２００５年１２月０４日（日）_055_悪夢は続くよ、いつまでも.egpack|game_t01380",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|050_２００５年１２月０４日（日）_055_悪夢は続くよ、いつまでも.egpack|game_t01384",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "啊！",
+      "after": "――――！"
+    },
+    {
+      "key": "TDA02|050_２００５年１２月０４日（日）_055_悪夢は続くよ、いつまでも.egpack|game_t01393",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|050_２００５年１２月０４日（日）_055_悪夢は続くよ、いつまでも.egpack|game_t01408",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|050_２００５年１２月０４日（日）_055_悪夢は続くよ、いつまでも.egpack|game_t01411",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|050_２００５年１２月０４日（日）_055_悪夢は続くよ、いつまでも.egpack|game_t01412",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "嗯。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA02|050_２００５年１２月０４日（日）_056_演習後に叱責を受ける響.egpack|game_t01430",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|050_２００５年１２月０４日（日）_057_律子と特訓.egpack|game_t01476",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "啊！",
+      "after": "――――！"
+    },
+    {
+      "key": "TDA02|050_２００５年１２月０４日（日）_057_律子と特訓.egpack|game_t01491",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|050_２００５年１２月０４日（日）_058_シミュレーター特訓後のデブリーフィング.egpack|game_t01493",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "噗…………。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA02|050_２００５年１２月０４日（日）_058_シミュレーター特訓後のデブリーフィング.egpack|game_t01524",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "啊！",
+      "after": "――――！"
+    },
+    {
+      "key": "TDA02|050_２００５年１２月０４日（日）_058_シミュレーター特訓後のデブリーフィング.egpack|game_t01527",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|050_２００５年１２月０４日（日）_058_シミュレーター特訓後のデブリーフィング.egpack|game_t01541",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|050_２００５年１２月０４日（日）_059_龍浪と律子.egpack|game_t01599",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|050_２００５年１２月０４日（日）_059_龍浪と律子.egpack|game_t01616",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|050_２００５年１２月０４日（日）_059_龍浪と律子.egpack|game_t01619",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|050_２００５年１２月０４日（日）_059_龍浪と律子.egpack|game_t01626",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|050_２００５年１２月０４日（日）_059_龍浪と律子.egpack|game_t01644",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|060_２００５年１２月０５日（月）_060_プラントへ向かう道.egpack|game_t01701",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "嗯……？",
+      "after": "…\\w…\\w？"
+    },
+    {
+      "key": "TDA02|060_２００５年１２月０５日（月）_061_プラント警備.egpack|game_t01745",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|060_２００５年１２月０５日（月）_061_プラント警備.egpack|game_t01759",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "比起忍受无端的歧视活下去，我们选择了在这片盐沙漠中生存……",
+      "after": "美樱乃…\\w…\\w。"
+    },
+    {
+      "key": "TDA02|060_２００５年１２月０５日（月）_061_プラント警備.egpack|game_t01769",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|060_２００５年１２月０５日（月）_061_プラント警備.egpack|game_t01778",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|060_２００５年１２月０５日（月）_061_プラント警備.egpack|game_t01781",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|060_２００５年１２月０５日（月）_061_プラント警備.egpack|game_t01786",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|060_２００５年１２月０５日（月）_062_孤児施設.egpack|game_t01898",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|060_２００５年１２月０５日（月）_063_ハンガー＆食堂.egpack|game_t01935",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|070_２００５年１２月０７日（水）_070_悪夢　尊厳.egpack|game_t01956",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|070_２００５年１２月０７日（水）_070_悪夢　尊厳.egpack|game_t01962",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|070_２００５年１２月０７日（水）_070_悪夢　尊厳.egpack|game_t01970",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "咦！？",
+      "after": "――！？"
+    },
+    {
+      "key": "TDA02|070_２００５年１２月０７日（水）_070_悪夢　尊厳.egpack|game_t01974",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|070_２００５年１２月０７日（水）_070_悪夢　尊厳.egpack|game_t01976",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "嗯……",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA02|070_２００５年１２月０７日（水）_071_私室にて.egpack|game_t01998",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|070_２００５年１２月０７日（水）_071_私室にて.egpack|game_t01999",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|070_２００５年１２月０７日（水）_071_私室にて.egpack|game_t02014",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|070_２００５年１２月０７日（水）_071_私室にて.egpack|game_t02023",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|080_２００５年１２月０８日（木）_080_悪夢　追跡.egpack|game_t02026",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|080_２００５年１２月０８日（木）_080_悪夢　追跡.egpack|game_t02027",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|080_２００５年１２月０８日（木）_080_悪夢　追跡.egpack|game_t02031",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|080_２００５年１２月０８日（木）_080_悪夢　追跡.egpack|game_t02038",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|080_２００５年１２月０８日（木）_081_悪夢　浅葱と響.egpack|game_t02043",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|080_２００５年１２月０８日（木）_081_悪夢　浅葱と響.egpack|game_t02059",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|080_２００５年１２月０８日（木）_081_悪夢　浅葱と響.egpack|game_t02061",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|080_２００５年１２月０８日（木）_081_悪夢　浅葱と響.egpack|game_t02064",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|080_２００５年１２月０８日（木）_081_悪夢　浅葱と響.egpack|game_t02066",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|080_２００５年１２月０８日（木）_081_悪夢　浅葱と響.egpack|game_t02068",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|080_２００５年１２月０８日（木）_081_悪夢　浅葱と響.egpack|game_t02076",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|080_２００５年１２月０８日（木）_081_悪夢　浅葱と響.egpack|game_t02091",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|080_２００５年１２月０８日（木）_082_私室　静かな目覚め.egpack|game_t02094",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "呜…………。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA02|080_２００５年１２月０８日（木）_082_私室　静かな目覚め.egpack|game_t02102",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|080_２００５年１２月０８日（木）_082_私室　静かな目覚め.egpack|game_t02115",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|080_２００５年１２月０８日（木）_084_シミュレーションバトル.egpack|game_t02188",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "嗯。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA02|080_２００５年１２月０８日（木）_085_ウォードッグの戦い.egpack|game_t02243",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "――！"
+    },
+    {
+      "key": "TDA02|080_２００５年１２月０８日（木）_086_米軍デブリーフィング.egpack|game_t02277",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "嗯。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA02|080_２００５年１２月０８日（木）_086_米軍デブリーフィング.egpack|game_t02300",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|080_２００５年１２月０８日（木）_086_米軍デブリーフィング.egpack|game_t02349",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|080_２００５年１２月０８日（木）_086_米軍デブリーフィング.egpack|game_t02358",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|080_２００５年１２月０８日（木）_086_米軍デブリーフィング.egpack|game_t02370",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|080_２００５年１２月０８日（木）_086_米軍デブリーフィング.egpack|game_t02373",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|080_２００５年１２月０８日（木）_086_米軍デブリーフィング.egpack|game_t02380",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|080_２００５年１２月０８日（木）_087_落ち込む雫.egpack|game_t02397",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|080_２００５年１２月０８日（木）_087_落ち込む雫.egpack|game_t02407",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|080_２００５年１２月０８日（木）_087_落ち込む雫.egpack|game_t02416",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|080_２００５年１２月０８日（木）_087_落ち込む雫.egpack|game_t02438",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|080_２００５年１２月０８日（木）_087_落ち込む雫.egpack|game_t02441",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|080_２００５年１２月０８日（木）_087_落ち込む雫.egpack|game_t02444",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|090_２００５年１２月０９日（金）_090_駒木との会談.egpack|game_t02461",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|090_２００５年１２月０９日（金）_090_駒木との会談.egpack|game_t02475",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|090_２００５年１２月０９日（金）_090_駒木との会談.egpack|game_t02484",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "啊！",
+      "after": "――――！"
+    },
+    {
+      "key": "TDA02|090_２００５年１２月０９日（金）_091_医局にて診察を受ける雫.egpack|game_t02526",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|090_２００５年１２月０９日（金）_092_まりもと柚香.egpack|game_t02548",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|090_２００５年１２月０９日（金）_093_丘の上にてエレンと.egpack|game_t02631",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|090_２００５年１２月０９日（金）_093_丘の上にてエレンと.egpack|game_t02635",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|090_２００５年１２月０９日（金）_093_丘の上にてエレンと.egpack|game_t02657",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|090_２００５年１２月０９日（金）_093_丘の上にてエレンと.egpack|game_t02661",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|090_２００５年１２月０９日（金）_093_丘の上にてエレンと.egpack|game_t02677",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|090_２００５年１２月０９日（金）_093_丘の上にてエレンと.egpack|game_t02707",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|090_２００５年１２月０９日（金）_093_丘の上にてエレンと.egpack|game_t02718",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|090_２００５年１２月０９日（金）_093_丘の上にてエレンと.egpack|game_t02733",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|100_２００５年１２月１０日（土）_100_エレン私室.egpack|game_t02747",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|100_２００５年１２月１０日（土）_101_管理局民政課にてまりもと.egpack|game_t02768",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「啊——！」",
+      "after": "「――――！」"
+    },
+    {
+      "key": "TDA02|100_２００５年１２月１０日（土）_101_管理局民政課にてまりもと.egpack|game_t02794",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……？」",
+      "after": "「…\\w…\\w…\\w…\\w？」"
+    },
+    {
+      "key": "TDA02|100_２００５年１２月１０日（土）_102_まりもと食事.egpack|game_t02797",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|100_２００５年１２月１０日（土）_102_まりもと食事.egpack|game_t02849",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "嗯……",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA02|100_２００５年１２月１０日（土）_102_まりもと食事.egpack|game_t02873",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|100_２００５年１２月１０日（土）_102_まりもと食事.egpack|game_t02943",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|100_２００５年１２月１０日（土）_102_まりもと食事.egpack|game_t02951",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|100_２００５年１２月１０日（土）_102_まりもと食事.egpack|game_t02958",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "啊！",
+      "after": "――！"
+    },
+    {
+      "key": "TDA02|110_２００５年１２月１１日（日）_110_生産プラントで決意する響.egpack|game_t03028",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……？」",
+      "after": "「……？」"
+    },
+    {
+      "key": "TDA02|110_２００５年１２月１１日（日）_110_生産プラントで決意する響.egpack|game_t03052",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|110_２００５年１２月１１日（日）_110_生産プラントで決意する響.egpack|game_t03055",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|110_２００５年１２月１１日（日）_110_生産プラントで決意する響.egpack|game_t03061",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……？」",
+      "after": "「…\\w…\\w…\\w…\\w？」"
+    },
+    {
+      "key": "TDA02|110_２００５年１２月１１日（日）_110_生産プラントで決意する響.egpack|game_t03070",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|110_２００５年１２月１１日（日）_110_生産プラントで決意する響.egpack|game_t03077",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|110_２００５年１２月１１日（日）_110_生産プラントで決意する響.egpack|game_t03093",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|110_２００５年１２月１１日（日）_110_生産プラントで決意する響.egpack|game_t03107",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|110_２００５年１２月１１日（日）_111_同時刻・律子と雫.egpack|game_t03116",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|110_２００５年１２月１１日（日）_111_同時刻・律子と雫.egpack|game_t03120",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|110_２００５年１２月１１日（日）_111_同時刻・律子と雫.egpack|game_t03140",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「唔……！」",
+      "after": "「…\\w…\\w…\\w…\\w！」"
+    },
+    {
+      "key": "TDA02|110_２００５年１２月１１日（日）_111_同時刻・律子と雫.egpack|game_t03156",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「唔——！」",
+      "after": "「――――！」"
+    },
+    {
+      "key": "TDA02|110_２００５年１２月１１日（日）_111_同時刻・律子と雫.egpack|game_t03163",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|110_２００５年１２月１１日（日）_111_同時刻・律子と雫.egpack|game_t03167",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|110_２００５年１２月１１日（日）_111_同時刻・律子と雫.egpack|game_t03176",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|110_２００５年１２月１１日（日）_111_同時刻・律子と雫.egpack|game_t03184",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|110_２００５年１２月１１日（日）_113_記憶遡行.egpack|game_t03263",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|110_２００５年１２月１１日（日）_113_記憶遡行.egpack|game_t03269",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|110_２００５年１２月１１日（日）_113_記憶遡行.egpack|game_t03282",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|110_２００５年１２月１１日（日）_113_記憶遡行.egpack|game_t03298",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "哇……",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA02|110_２００５年１２月１１日（日）_113_記憶遡行.egpack|game_t03301",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "啊！",
+      "after": "――――！"
+    },
+    {
+      "key": "TDA02|110_２００５年１２月１１日（日）_113_記憶遡行.egpack|game_t03314",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|110_２００５年１２月１１日（日）_113_記憶遡行.egpack|game_t03318",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|110_２００５年１２月１１日（日）_113_記憶遡行.egpack|game_t03323",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「啊——！」",
+      "after": "「――！」"
+    },
+    {
+      "key": "TDA02|110_２００５年１２月１１日（日）_113_記憶遡行.egpack|game_t03324",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「唔……！」",
+      "after": "「…\\w…\\w！」"
+    },
+    {
+      "key": "TDA02|110_２００５年１２月１１日（日）_113_記憶遡行.egpack|game_t03332",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|110_２００５年１２月１１日（日）_113_記憶遡行.egpack|game_t03334",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|110_２００５年１２月１１日（日）_114_大陸横断.egpack|game_t03342",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|110_２００５年１２月１１日（日）_114_大陸横断.egpack|game_t03345",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|110_２００５年１２月１１日（日）_114_大陸横断.egpack|game_t03347",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|110_２００５年１２月１１日（日）_114_大陸横断.egpack|game_t03356",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|110_２００５年１２月１１日（日）_114_大陸横断.egpack|game_t03358",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|110_２００５年１２月１１日（日）_114_大陸横断.egpack|game_t03366",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|110_２００５年１２月１１日（日）_114_大陸横断.egpack|game_t03368",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|110_２００５年１２月１１日（日）_114_大陸横断.egpack|game_t03373",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|110_２００５年１２月１１日（日）_114_大陸横断.egpack|game_t03380",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|110_２００５年１２月１１日（日）_114_大陸横断.egpack|game_t03383",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|110_２００５年１２月１１日（日）_114_大陸横断.egpack|game_t03384",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|110_２００５年１２月１１日（日）_114_大陸横断.egpack|game_t03386",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|110_２００５年１２月１１日（日）_114_大陸横断.egpack|game_t03388",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|110_２００５年１２月１１日（日）_114_大陸横断.egpack|game_t03393",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|110_２００５年１２月１１日（日）_114_大陸横断.egpack|game_t03395",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|110_２００５年１２月１１日（日）_114_大陸横断.egpack|game_t03397",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|110_２００５年１２月１１日（日）_114_大陸横断.egpack|game_t03399",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|110_２００５年１２月１１日（日）_114_大陸横断.egpack|game_t03401",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|110_２００５年１２月１１日（日）_114_大陸横断.egpack|game_t03403",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|110_２００５年１２月１１日（日）_114_大陸横断.egpack|game_t03406",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|110_２００５年１２月１１日（日）_114_大陸横断.egpack|game_t03413",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|110_２００５年１２月１１日（日）_114_大陸横断.egpack|game_t03416",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|110_２００５年１２月１１日（日）_114_大陸横断.egpack|game_t03418",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|110_２００５年１２月１１日（日）_114_大陸横断.egpack|game_t03421",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|110_２００５年１２月１１日（日）_114_大陸横断.egpack|game_t03423",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|110_２００５年１２月１１日（日）_114_大陸横断.egpack|game_t03426",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|110_２００５年１２月１１日（日）_114_大陸横断.egpack|game_t03428",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|110_２００５年１２月１１日（日）_114_大陸横断.egpack|game_t03433",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|110_２００５年１２月１１日（日）_114_大陸横断.egpack|game_t03435",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|110_２００５年１２月１１日（日）_114_大陸横断.egpack|game_t03439",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|110_２００５年１２月１１日（日）_114_大陸横断.egpack|game_t03455",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "嗯。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA02|110_２００５年１２月１１日（日）_114_大陸横断.egpack|game_t03457",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "嗯。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA02|110_２００５年１２月１１日（日）_114_大陸横断.egpack|game_t03462",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "嗯。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA02|110_２００５年１２月１１日（日）_114_大陸横断.egpack|game_t03464",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "嗯。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA02|110_２００５年１２月１１日（日）_114_大陸横断.egpack|game_t03465",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "嗯。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA02|110_２００５年１２月１１日（日）_114_大陸横断.egpack|game_t03471",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|110_２００５年１２月１１日（日）_115_医局にて目を覚ます響.egpack|game_t03499",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|110_２００５年１２月１１日（日）_115_医局にて目を覚ます響.egpack|game_t03515",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|110_２００５年１２月１１日（日）_115_医局にて目を覚ます響.egpack|game_t03520",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「啊——！」",
+      "after": "「――――！」"
+    },
+    {
+      "key": "TDA02|110_２００５年１２月１１日（日）_116_丘の上・駒木、まりもとの会話を回想.egpack|game_t03537",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|110_２００５年１２月１１日（日）_116_丘の上・駒木、まりもとの会話を回想.egpack|game_t03562",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|110_２００５年１２月１１日（日）_116_丘の上・駒木、まりもとの会話を回想.egpack|game_t03573",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|110_２００５年１２月１１日（日）_117_丘の上・断固たる決意.egpack|game_t03581",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|110_２００５年１２月１１日（日）_117_丘の上・断固たる決意.egpack|game_t03606",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|110_２００５年１２月１１日（日）_117_丘の上・断固たる決意.egpack|game_t03614",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|110_２００５年１２月１１日（日）_117_丘の上・断固たる決意.egpack|game_t03620",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|110_２００５年１２月１１日（日）_117_丘の上・断固たる決意.egpack|game_t03629",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "嗯………。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA02|110_２００５年１２月１１日（日）_118_夜の柚香.egpack|game_t03646",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|120_２００５年１２月２２日（木）_121_レセプション・ウォーケン登場.egpack|game_t03739",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|120_２００５年１２月２２日（木）_121_レセプション・ウォーケン登場.egpack|game_t03742",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|120_２００５年１２月２２日（木）_121_レセプション・ウォーケン登場.egpack|game_t03756",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|120_２００５年１２月２２日（木）_121_レセプション・ウォーケン登場.egpack|game_t03782",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|120_２００５年１２月２２日（木）_121_レセプション・ウォーケン登場.egpack|game_t03821",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|120_２００５年１２月２２日（木）_121_レセプション・ウォーケン登場.egpack|game_t03825",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "「嗯……」",
+      "after": "「…\\w…\\w…\\w…\\w」"
+    },
+    {
+      "key": "TDA02|120_２００５年１２月２２日（木）_123_悠陽登場.egpack|game_t03919",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA02|120_２００５年１２月２２日（木）_127_ブリーフィングルームにて作戦説明.egpack|game_t04145",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "――――！"
+    },
+    {
+      "key": "TDA02|120_２００５年１２月２２日（木）_127_ブリーフィングルームにて作戦説明.egpack|game_t04155",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "――――！"
+    },
+    {
+      "key": "TDA02|120_２００５年１２月２２日（木）_131_序盤戦.egpack|game_t04303",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "――！"
+    },
+    {
+      "key": "TDA02|120_２００５年１２月２２日（木）_133_総攻撃開始.egpack|game_t04386",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "――――！"
+    },
+    {
+      "key": "TDA02|120_２００５年１２月２２日（木）_134_窮地.egpack|game_t04398",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "――――！"
+    },
+    {
+      "key": "TDA02|120_２００５年１２月２２日（木）_134_窮地.egpack|game_t04450",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "――！"
+    },
+    {
+      "key": "TDA02|120_２００５年１２月２２日（木）_138_生産プラントに侵入した響.egpack|game_t04575",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w。"
+    },
+    {
+      "key": "TDA02|120_２００５年１２月２２日（木）_138_生産プラントに侵入した響.egpack|game_t04576",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA02|120_２００５年１２月２２日（木）_138_生産プラントに侵入した響.egpack|game_t04584",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "――――！"
+    },
+    {
+      "key": "TDA02|120_２００５年１２月２２日（木）_140_まりもと合流.egpack|game_t04611",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w。"
+    },
+    {
+      "key": "TDA02|120_２００５年１２月２２日（木）_140_まりもと合流.egpack|game_t04612",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA02|120_２００５年１２月２２日（木）_140_まりもと合流.egpack|game_t04620",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w。"
+    },
+    {
+      "key": "TDA02|120_２００５年１２月２２日（木）_144_プラント内、合流.egpack|game_t04779",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "！？",
+      "after": "――！？"
+    },
+    {
+      "key": "TDA02|150_２００５年１２月２４日（土）_157_悠陽宿舎にて密談.egpack|game_t05367",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "？",
+      "after": "…\\w…\\w…\\w…\\w？"
+    },
+    {
+      "key": "TDA02|150_２００５年１２月２４日（土）_159_悠陽と響.egpack|game_t05558",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w。"
+    },
+    {
+      "key": "TDA02|150_２００５年１２月２４日（土）_167_格納庫にて出撃準備.egpack|game_t05862",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "before": "！！！",
+      "after": "――！！"
+    },
+    {
+      "key": "TDA03|2005年12月29日_07：深夜：自室.egpack|tda03_t01237",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "before": "嗯。",
+      "after": "……。"
+    },
+    {
+      "key": "TDA03|2005年12月29日_07：深夜：自室.egpack|tda03_t01238",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "before": "嗯。",
+      "after": "…………。"
+    },
+    {
+      "key": "TDA03|2005年12月29日_07：深夜：自室.egpack|tda03_t01239",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "before": "嗯。",
+      "after": "………………。"
+    },
+    {
+      "key": "TDA03|2005年12月29日_07：深夜：自室.egpack|tda03_t01242",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "before": "嗯。",
+      "after": "…………。"
+    },
+    {
+      "key": "TDA03|2005年12月30日_03：日中・駒木と千堂父.egpack|tda03_t01456",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "before": "嗯？",
+      "after": "――？"
+    },
+    {
+      "key": "TDA03|2005年12月31日_05：道中.egpack|tda03_t02385",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "before": "嗯？",
+      "after": "…\\w…\\w…\\w？"
+    },
+    {
+      "key": "TDA03|2005年12月31日_05：道中.egpack|tda03_t02387",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "before": "嗯？",
+      "after": "…\\w…\\w…\\w？"
+    },
+    {
+      "key": "TDA03|2006年01月01日_01：北米航空宇宙防衛司令部攻防戦開始.egpack|tda03_t02473",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "before": "「啊——！」",
+      "after": "「――――！」"
+    },
+    {
+      "key": "TDA03|2006年01月01日_07：斯衛登場.egpack|tda03_t02686",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "before": "啊！",
+      "after": "――――！"
+    },
+    {
+      "key": "TDA03|2006年01月01日_14：起爆前のOSP-1400.egpack|tda03_t02897",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "before": "「啊——！」",
+      "after": "「――！」"
+    },
+    {
+      "key": "TDA03|2006年01月07日_04：夜、エレンと.egpack|tda03_t03763",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "before": "那……难得都送到嘴边了，你不尝尝吗？",
+      "after": "是没那回事，可是…\\w…\\w。"
+    },
+    {
+      "key": "TDA03|2006年01月10日_04：柚香の病室【0730修正】.egpack|tda03_t04608",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "before": "唔………。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA03|2006年01月10日_04：柚香の病室【0730修正】.egpack|tda03_t04609",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "before": "唔…。",
+      "after": "…\\w…\\w。"
+    },
+    {
+      "key": "TDA03|2006年02月15日_01：洋上の出来事【0730修正】.egpack|tda03_t05359",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "before": "你倒是说点什么啊",
+      "after": "…\\w…\\w…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA03|2006年02月15日_01：洋上の出来事【0730修正】.egpack|tda03_t05403",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "before": "「嗯……？」",
+      "after": "「…\\w…\\w？」"
+    },
+    {
+      "key": "TDA03|2006年02月18日_19：追いつく.egpack|tda03_t06387",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "before": "。",
+      "after": "…\\w…\\w…\\w…\\w。"
+    },
+    {
+      "key": "TDA03|2006年02月18日_24：反応炉区画での激戦.egpack|tda03_t06684",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "before": "！",
+      "after": "――！"
+    }
+  ]
+}

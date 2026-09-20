@@ -1,0 +1,300 @@
+[
+  {
+    "game": "tda02",
+    "source_relative": "assets/data_spec/adv/game/bg/31イベント絵クロニクルズ03以降/015_TDA2話_Map/EV_世界各国の拠点移動1ソ連.webp",
+    "source_sha256": "e49d0ce18e455b831034a9d5a6c6da7f08e673859eb9db888e2f29badc80a9f7",
+    "layout_basis": "Native EN adds annotations above/below unchanged Japanese labels; CN follows those positions.",
+    "labels": [
+      {
+        "jp": "ソビエト連邦",
+        "native_english": "Soviet Union",
+        "zh_hans": "（苏联）",
+        "font_size": 22,
+        "native_en_box": [
+          464,
+          265,
+          590,
+          283
+        ],
+        "cn_box": [
+          483,
+          264,
+          571,
+          285
+        ],
+        "color": [
+          98,
+          224,
+          255
+        ]
+      },
+      {
+        "jp": "アラスカ",
+        "native_english": "Alaska",
+        "zh_hans": "（阿拉斯加）",
+        "font_size": 22,
+        "native_en_box": [
+          982,
+          278,
+          1046,
+          296
+        ],
+        "cn_box": [
+          948,
+          276,
+          1080,
+          297
+        ],
+        "color": [
+          78,
+          130,
+          238
+        ]
+      }
+    ],
+    "runtime_review": "pending"
+  },
+  {
+    "game": "tda02",
+    "source_relative": "assets/data_spec/adv/game/bg/31イベント絵クロニクルズ03以降/015_TDA2話_Map/EV_世界各国の拠点移動2イタリア.webp",
+    "source_sha256": "c153dea66713fe047f990ea7fa53800b71641f5fa92cfd079172bee14efe3471",
+    "layout_basis": "Native EN adds annotations above/below unchanged Japanese labels; CN follows those positions.",
+    "labels": [
+      {
+        "jp": "イタリア・スペイン",
+        "native_english": "Italy   Spain",
+        "zh_hans": "（意大利／西班牙）",
+        "font_size": 22,
+        "native_en_box": [
+          512,
+          175,
+          646,
+          196
+        ],
+        "cn_box": [
+          480,
+          175,
+          678,
+          196
+        ],
+        "color": [
+          99,
+          214,
+          253
+        ]
+      },
+      {
+        "jp": "北アフリカ",
+        "native_english": "North Africa",
+        "zh_hans": "（北非）",
+        "font_size": 22,
+        "native_en_box": [
+          568,
+          491,
+          679,
+          508
+        ],
+        "cn_box": [
+          580,
+          489,
+          668,
+          510
+        ],
+        "color": [
+          78,
+          127,
+          236
+        ]
+      }
+    ],
+    "runtime_review": "pending"
+  },
+  {
+    "game": "tda02",
+    "source_relative": "assets/data_spec/adv/game/bg/31イベント絵クロニクルズ03以降/015_TDA2話_Map/EV_世界各国の拠点移動3フランス.webp",
+    "source_sha256": "2a72af8456dc218d3448ce31ddfe95d0e0a7c14974de224cef71f368ab96602d",
+    "layout_basis": "Native EN adds annotations above/below unchanged Japanese labels; CN follows those positions.",
+    "labels": [
+      {
+        "jp": "カナダ・ケベック",
+        "native_english": "Canada (Quebec)",
+        "zh_hans": "（加拿大·魁北克）",
+        "font_size": 22,
+        "native_en_box": [
+          233,
+          190,
+          389,
+          209
+        ],
+        "cn_box": [
+          212,
+          188,
+          410,
+          210
+        ],
+        "color": [
+          79,
+          125,
+          221
+        ]
+      },
+      {
+        "jp": "フランス",
+        "native_english": "France",
+        "zh_hans": "（法国）",
+        "font_size": 22,
+        "native_en_box": [
+          707,
+          253,
+          774,
+          271
+        ],
+        "cn_box": [
+          696,
+          252,
+          784,
+          273
+        ],
+        "color": [
+          97,
+          205,
+          247
+        ]
+      },
+      {
+        "jp": "アルジェリア",
+        "native_english": "Algeria",
+        "zh_hans": "（阿尔及利亚）",
+        "font_size": 22,
+        "native_en_box": [
+          750,
+          420,
+          815,
+          440
+        ],
+        "cn_box": [
+          706,
+          420,
+          860,
+          441
+        ],
+        "color": [
+          79,
+          129,
+          236
+        ]
+      }
+    ],
+    "runtime_review": "pending"
+  },
+  {
+    "game": "tda02",
+    "source_relative": "assets/data_spec/adv/game/bg/31イベント絵クロニクルズ03以降/015_TDA2話_Map/EV_世界各国の拠点移動4イギリス.webp",
+    "source_sha256": "34f14868b543e9f179d893a02cf997a35c08fc88d0a281623ee282c0d764ec0c",
+    "layout_basis": "Native EN adds annotations above/below unchanged Japanese labels; CN follows those positions.",
+    "labels": [
+      {
+        "jp": "イギリス",
+        "native_english": "United Kingdom",
+        "zh_hans": "（英国）",
+        "font_size": 22,
+        "native_en_box": [
+          750,
+          104,
+          906,
+          126
+        ],
+        "cn_box": [
+          784,
+          104,
+          872,
+          125
+        ],
+        "color": [
+          41,
+          192,
+          241
+        ]
+      },
+      {
+        "jp": "南アフリカ",
+        "native_english": "South Africa",
+        "zh_hans": "（南非）",
+        "font_size": 22,
+        "native_en_box": [
+          877,
+          552,
+          980,
+          566
+        ],
+        "cn_box": [
+          884,
+          548,
+          972,
+          569
+        ],
+        "color": [
+          82,
+          127,
+          233
+        ]
+      }
+    ],
+    "runtime_review": "pending"
+  },
+  {
+    "game": "tda02",
+    "source_relative": "assets/data_spec/adv/game/bg/31イベント絵クロニクルズ03以降/015_TDA2話_Map/EV_世界各国の拠点移動5日本.webp",
+    "source_sha256": "43e6e1e51ed430a2fd0e484c5246152f87191af781a4b117d59e3105c3ee0d91",
+    "layout_basis": "Native EN adds annotations above/below unchanged Japanese labels; CN follows those positions.",
+    "labels": [
+      {
+        "jp": "日本",
+        "native_english": "Japan",
+        "zh_hans": "（日本）",
+        "font_size": 22,
+        "native_en_box": [
+          652,
+          200,
+          701,
+          217
+        ],
+        "cn_box": [
+          632,
+          198,
+          720,
+          219
+        ],
+        "color": [
+          50,
+          190,
+          239
+        ]
+      },
+      {
+        "jp": "東南アジア",
+        "native_english": "South-East Asia",
+        "zh_hans": "（东南亚）",
+        "font_size": 22,
+        "native_en_box": [
+          474,
+          529,
+          619,
+          549
+        ],
+        "cn_box": [
+          492,
+          528,
+          602,
+          549
+        ],
+        "color": [
+          19,
+          80,
+          218
+        ]
+      }
+    ],
+    "runtime_review": "pending"
+  }
+]

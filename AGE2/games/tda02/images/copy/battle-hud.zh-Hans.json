@@ -1,0 +1,22 @@
+[
+  {
+    "game": "tda02",
+    "source_relative": "assets/data_spec/adv/game/chr/01TDA_600_戦術機オブジェクト/02HUD情報_/HUD_情報02TDA2話_味方機損傷.webp",
+    "source_sha256": "189cae6ebed5821e57051ba62f4445b56d1a8bc553a74f0a1d3c43feae2cad21",
+    "zh_cn": "友机受损",
+    "font_size": 60,
+    "horizontal_scale": 1,
+    "native_frame_preserved": true,
+    "runtime_review": "pending"
+  },
+  {
+    "game": "tda02",
+    "source_relative": "assets/data_spec/adv/game/chr/01TDA_600_戦術機オブジェクト/02HUD情報_/HUD_情報02TDA2話_演習プログラム停止.webp",
+    "source_sha256": "04c1509fcca0e928ca2fbe124c1e485ee0a5bd7c1f1468388abdf1716cd043d9",
+    "zh_cn": "演习程序停止",
+    "font_size": 60,
+    "horizontal_scale": 1,
+    "native_frame_preserved": true,
+    "runtime_review": "pending"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "game": "tda01",
+    "source_relative": "assets/data_spec/adv/game/bg/30イベント絵/190_デイアフターSD絵/SDヘタレ響2.webp",
+    "source_sha256": "bf58aaced34f5bb43a0927bfcf060e599939e6de36eec083cbe38cdc748e9776",
+    "action": "preserve_native_art",
+    "reason": "漫画式画面中的撞击拟声字，属于原作美术；保留原图，不视作剧情字幕。",
+    "second_review": "available"
+  },
+  {
+    "game": "tda01",
+    "source_relative": "assets/data_spec/adv/game/bg/30イベント絵/190_デイアフターSD絵/SD雫ダンボールスネーク05.webp",
+    "source_sha256": "7453ca8fb0fde8b3e7a466d33c36181514a86c03a91afb3e9e2e6fdee2ed3919",
+    "action": "preserve_native_art",
+    "reason": "道具纸箱上的めんたいこ（明太子）包装字样，保留日本商品包装的原作美术。",
+    "second_review": "available"
+  }
+]

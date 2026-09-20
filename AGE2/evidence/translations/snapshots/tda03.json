@@ -1,6 +1,6 @@
 {
   "bulk_official_dialogue_included": false,
-  "output_bytes": 1729011,
+  "output_bytes": 1729917,
   "output_columns": [
     "call_order",
     "id",
@@ -11,10 +11,10 @@
     "record_kind",
     "cn_text"
   ],
-  "output_sha256": "C9CF489F1E242D07CBD6BE20E1A6BB97C83BEDB735A582B31BA65865EA6BB38D",
+  "output_sha256": "B36F5C4FD65F960DA3EEA07083BB09BEE3863A93DD134686718C2DFF8CA19884",
   "record_kinds": {
-    "structural_empty": 1,
-    "text": 6912
+    "text": 6910,
+    "structural_empty": 3
   },
   "removed_source_columns": [
     "jp_text"
@@ -31,5 +31,38 @@
     "audit": "localization/reviews/main-al-alignment-20260909.json",
     "additional_repairs": "localization/reviews/tda-fragment-repairs-20260909.json",
     "source_identity_and_non_chinese_fields_unchanged": true
+  },
+  "revision_20260914": {
+    "previous_output_bytes": 1729011,
+    "previous_output_sha256": "C9CF489F1E242D07CBD6BE20E1A6BB97C83BEDB735A582B31BA65865EA6BB38D",
+    "audit": "localization/reviews/age2-content-corrections-20260914.json",
+    "source_identity_and_non_chinese_fields_unchanged": true
+  },
+  "revision_control_commands_20260914": {
+    "previous_output_bytes": 1728954,
+    "previous_output_sha256": "BAFA57749B5175AAAC90206BD6EC8AE99CEE94AA5CB461DAA73D28ECE41D1A65",
+    "repaired_native_clear_records": 2,
+    "audit": "localization/reviews/age2-native-clear-records-20260914.json",
+    "realigned_credit_records": 0
+  },
+  "revision_text_loss_20260914": {
+    "audit": "localization/reviews/age2-text-loss-20260914.json",
+    "rows": 9
+  },
+  "revision_name_consistency_20260915": {
+    "audit": "localization/reviews/age2-name-consistency-20260915.json",
+    "rows": 16,
+    "source_identity_and_non_chinese_fields_unchanged": true
+  },
+  "revision_norad_consistency_20260915": {
+    "audit": "localization/reviews/age2-norad-consistency-20260915.json",
+    "rows": 20,
+    "source_identity_and_non_chinese_fields_unchanged": true
+  },
+  "revision_terminology_20260920": {
+    "audit": "localization/reviews/age2-terminology-20260920.json"
+  },
+  "revision_paratranz_push_20260920": {
+    "audit": "localization/reviews/age2-paratranz-push-20260920.json"
   }
 }

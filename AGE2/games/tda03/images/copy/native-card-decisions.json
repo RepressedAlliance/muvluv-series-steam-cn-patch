@@ -1,0 +1,271 @@
+[
+  {
+    "game": "tda03",
+    "source_relative": "assets/data_spec/adv/game/chr/01TDA_710_オブジェクト/TDA3話日付テロップ_/TDA3話日付テロップ_２００５年１２月２７日.webp",
+    "source_sha256": "85cf7c121be525be398a08103469702910bc8b80c2972364f12e6c257a4ff275",
+    "action": "preserve_native",
+    "reason": "原图只有年月日，中文可直接使用；保留原字形、尺寸和位置。"
+  },
+  {
+    "game": "tda03",
+    "source_relative": "assets/data_spec/adv/game/chr/01TDA_710_オブジェクト/TDA3話日付テロップ_/TDA3話日付テロップ_２００５年１２月２９日.webp",
+    "source_sha256": "5f49ebc89b6fe80336951dc6f60068bd90394679700b40891b827f228970d13a",
+    "action": "preserve_native",
+    "reason": "原图只有年月日，中文可直接使用；保留原字形、尺寸和位置。"
+  },
+  {
+    "game": "tda03",
+    "source_relative": "assets/data_spec/adv/game/chr/01TDA_710_オブジェクト/TDA3話日付テロップ_/TDA3話日付テロップ_２００５年１２月３０日.webp",
+    "source_sha256": "9833eb55e9f8281d185bb3d349a442c3d7cef9c426a6137d388471e483c78476",
+    "action": "preserve_native",
+    "reason": "原图只有年月日，中文可直接使用；保留原字形、尺寸和位置。"
+  },
+  {
+    "game": "tda03",
+    "source_relative": "assets/data_spec/adv/game/chr/01TDA_710_オブジェクト/TDA3話日付テロップ_/TDA3話日付テロップ_２００６年１月１０日.webp",
+    "source_sha256": "24c3c435897ede4d7349656c845d6c42e4de86103264b4b3805fdf565807e5b7",
+    "action": "preserve_native",
+    "reason": "原图只有年月日，中文可直接使用；保留原字形、尺寸和位置。"
+  },
+  {
+    "game": "tda03",
+    "source_relative": "assets/data_spec/adv/game/chr/01TDA_710_オブジェクト/TDA3話日付テロップ_/TDA3話日付テロップ_２００６年１月２１日.webp",
+    "source_sha256": "00faaf94c3d6e7adf41ceee5d9830e58e9c1b86b1afd7edebf5179691e82d812",
+    "action": "preserve_native",
+    "reason": "原图只有年月日，中文可直接使用；保留原字形、尺寸和位置。"
+  },
+  {
+    "game": "tda03",
+    "source_relative": "assets/data_spec/adv/game/chr/01TDA_710_オブジェクト/TDA3話日付テロップ_/TDA3話日付テロップ_２００６年１月２２日.webp",
+    "source_sha256": "ef3125f493150a2474fcab8388dfa98399bfa2eaa9e8b6e9bb06887e25399d6c",
+    "action": "preserve_native",
+    "reason": "原图只有年月日，中文可直接使用；保留原字形、尺寸和位置。"
+  },
+  {
+    "game": "tda03",
+    "source_relative": "assets/data_spec/adv/game/chr/01TDA_710_オブジェクト/TDA3話日付テロップ_/TDA3話日付テロップ_２００６年１月２３日.webp",
+    "source_sha256": "0c15ce10ec928b8af4ab6f90cbf2a9cadc43ae22af9936d5cf0f7c5477f5b8fc",
+    "action": "preserve_native",
+    "reason": "原图只有年月日，中文可直接使用；保留原字形、尺寸和位置。"
+  },
+  {
+    "game": "tda03",
+    "source_relative": "assets/data_spec/adv/game/chr/01TDA_710_オブジェクト/TDA3話日付テロップ_/TDA3話日付テロップ_２００６年１月２４日.webp",
+    "source_sha256": "fbc4b1b038b156182e4937b33060c1851f1c0c4452033881cd6b2accc620640e",
+    "action": "preserve_native",
+    "reason": "原图只有年月日，中文可直接使用；保留原字形、尺寸和位置。"
+  },
+  {
+    "game": "tda03",
+    "source_relative": "assets/data_spec/adv/game/chr/01TDA_710_オブジェクト/TDA3話日付テロップ_/TDA3話日付テロップ_２００６年１月２５日.webp",
+    "source_sha256": "ed758c9d33109592ea49b7691a75650ed801109d2748759fc0770a57f63914c2",
+    "action": "preserve_native",
+    "reason": "原图只有年月日，中文可直接使用；保留原字形、尺寸和位置。"
+  },
+  {
+    "game": "tda03",
+    "source_relative": "assets/data_spec/adv/game/chr/01TDA_710_オブジェクト/TDA3話日付テロップ_/TDA3話日付テロップ_２００６年１月２６日.webp",
+    "source_sha256": "5d266a955625c687aa500376a37a0c876ba350d1dc2aa1f6f49d6e571266fead",
+    "action": "preserve_native",
+    "reason": "原图只有年月日，中文可直接使用；保留原字形、尺寸和位置。"
+  },
+  {
+    "game": "tda03",
+    "source_relative": "assets/data_spec/adv/game/chr/01TDA_710_オブジェクト/TDA3話日付テロップ_/TDA3話日付テロップ_２００６年１月２７日.webp",
+    "source_sha256": "4d89db32cb0373e83d92ef41ecda86675b754a958fe7dcc5446b9ae3711fc3ae",
+    "action": "preserve_native",
+    "reason": "原图只有年月日，中文可直接使用；保留原字形、尺寸和位置。"
+  },
+  {
+    "game": "tda03",
+    "source_relative": "assets/data_spec/adv/game/chr/01TDA_710_オブジェクト/TDA3話日付テロップ_/TDA3話日付テロップ_２００６年１月２８日.webp",
+    "source_sha256": "1a89cfc1d90d0fd2c15f989baa8620dd961052dfea14b78d9a630af08a66eacb",
+    "action": "preserve_native",
+    "reason": "原图只有年月日，中文可直接使用；保留原字形、尺寸和位置。"
+  },
+  {
+    "game": "tda03",
+    "source_relative": "assets/data_spec/adv/game/chr/01TDA_710_オブジェクト/TDA3話日付テロップ_/TDA3話日付テロップ_２００６年１月２９日.webp",
+    "source_sha256": "3ea9640f1b8f693d8d2388598e6d46e138221189d09f9534aeaaa48c65215288",
+    "action": "preserve_native",
+    "reason": "原图只有年月日，中文可直接使用；保留原字形、尺寸和位置。"
+  },
+  {
+    "game": "tda03",
+    "source_relative": "assets/data_spec/adv/game/chr/01TDA_710_オブジェクト/TDA3話日付テロップ_/TDA3話日付テロップ_２００６年１月３０日.webp",
+    "source_sha256": "bbc408c7f75bd5ccd95500cc249de728289386f8df9104dc4cf8e3e89297ec26",
+    "action": "preserve_native",
+    "reason": "原图只有年月日，中文可直接使用；保留原字形、尺寸和位置。"
+  },
+  {
+    "game": "tda03",
+    "source_relative": "assets/data_spec/adv/game/chr/01TDA_710_オブジェクト/TDA3話日付テロップ_/TDA3話日付テロップ_２００６年１月３１日.webp",
+    "source_sha256": "abeb997f1836e9c01910ff0cd548f7ca73e8f4afe581fdceceb77cf640abddc8",
+    "action": "preserve_native",
+    "reason": "原图只有年月日，中文可直接使用；保留原字形、尺寸和位置。"
+  },
+  {
+    "game": "tda03",
+    "source_relative": "assets/data_spec/adv/game/chr/01TDA_710_オブジェクト/TDA3話日付テロップ_/TDA3話日付テロップ_２００６年１月４日.webp",
+    "source_sha256": "09e8ca97eced2eac13084fbcfe0cf88906ca02463bb762cc8f6ce6b8a2b60825",
+    "action": "preserve_native",
+    "reason": "原图只有年月日，中文可直接使用；保留原字形、尺寸和位置。"
+  },
+  {
+    "game": "tda03",
+    "source_relative": "assets/data_spec/adv/game/chr/01TDA_710_オブジェクト/TDA3話日付テロップ_/TDA3話日付テロップ_２００６年１月７日.webp",
+    "source_sha256": "d16d06fbe3738f65e98d421451a124b2107a5d28d91396d3d100a2084ab98b91",
+    "action": "preserve_native",
+    "reason": "原图只有年月日，中文可直接使用；保留原字形、尺寸和位置。"
+  },
+  {
+    "game": "tda03",
+    "source_relative": "assets/data_spec/adv/game/chr/01TDA_710_オブジェクト/TDA3話日付テロップ_/TDA3話日付テロップ_２００６年１月９日.webp",
+    "source_sha256": "8acbee7b26c34fbf5a15cb686fc7a5c285c293f8c21e2d1915ad487d068c88e2",
+    "action": "preserve_native",
+    "reason": "原图只有年月日，中文可直接使用；保留原字形、尺寸和位置。"
+  },
+  {
+    "game": "tda03",
+    "source_relative": "assets/data_spec/adv/game/chr/01TDA_710_オブジェクト/TDA3話日付テロップ_/TDA3話日付テロップ_２００６年２月１4日.webp",
+    "source_sha256": "f5875fc7eda3d4827dd2832a75d9322b8d12ea010f5e505566fded224c38092b",
+    "action": "preserve_native",
+    "reason": "原图只有年月日，中文可直接使用；保留原字形、尺寸和位置。"
+  },
+  {
+    "game": "tda03",
+    "source_relative": "assets/data_spec/adv/game/chr/01TDA_710_オブジェクト/TDA3話日付テロップ_/TDA3話日付テロップ_２００６年２月１日.webp",
+    "source_sha256": "67717e2498a5d6d3850ebb8d6d6ad446253f21243f46c05b23263051cd68050c",
+    "action": "preserve_native",
+    "reason": "原图只有年月日，中文可直接使用；保留原字形、尺寸和位置。"
+  },
+  {
+    "game": "tda03",
+    "source_relative": "assets/data_spec/adv/game/chr/01TDA_710_オブジェクト/TDA3話日付テロップ_/TDA3話日付テロップ_２００６年２月１０日.webp",
+    "source_sha256": "7becb9c81fe1033449c0dd9c540ce0deb1a89362a77feb72bd1a8daeea2ac2f3",
+    "action": "preserve_native",
+    "reason": "原图只有年月日，中文可直接使用；保留原字形、尺寸和位置。"
+  },
+  {
+    "game": "tda03",
+    "source_relative": "assets/data_spec/adv/game/chr/01TDA_710_オブジェクト/TDA3話日付テロップ_/TDA3話日付テロップ_２００６年２月１１日.webp",
+    "source_sha256": "c2ad61be124a38acb41cae2a6c677816dae3dd531b7c0f4a9a865a8f4b813bc1",
+    "action": "preserve_native",
+    "reason": "原图只有年月日，中文可直接使用；保留原字形、尺寸和位置。"
+  },
+  {
+    "game": "tda03",
+    "source_relative": "assets/data_spec/adv/game/chr/01TDA_710_オブジェクト/TDA3話日付テロップ_/TDA3話日付テロップ_２００６年２月１２日.webp",
+    "source_sha256": "ec9486e2be5b55c579016817604596ece9e77437fcf63899a37d792f1e57733b",
+    "action": "preserve_native",
+    "reason": "原图只有年月日，中文可直接使用；保留原字形、尺寸和位置。"
+  },
+  {
+    "game": "tda03",
+    "source_relative": "assets/data_spec/adv/game/chr/01TDA_710_オブジェクト/TDA3話日付テロップ_/TDA3話日付テロップ_２００６年２月１３日.webp",
+    "source_sha256": "e3e12fc42b39a3ed6c454d4e9a83dd0dd26eb9055b20ebb7817eeb59af4958b1",
+    "action": "preserve_native",
+    "reason": "原图只有年月日，中文可直接使用；保留原字形、尺寸和位置。"
+  },
+  {
+    "game": "tda03",
+    "source_relative": "assets/data_spec/adv/game/chr/01TDA_710_オブジェクト/TDA3話日付テロップ_/TDA3話日付テロップ_２００６年２月１５日.webp",
+    "source_sha256": "d14f21b1e7c8c9e42fff30a9548cff317c002f55379c9b0929a5adfe3f2c6ac6",
+    "action": "preserve_native",
+    "reason": "原图只有年月日，中文可直接使用；保留原字形、尺寸和位置。"
+  },
+  {
+    "game": "tda03",
+    "source_relative": "assets/data_spec/adv/game/chr/01TDA_710_オブジェクト/TDA3話日付テロップ_/TDA3話日付テロップ_２００６年２月１７日.webp",
+    "source_sha256": "c5bc0eec7ad1bd4c36460b0f55510cce82f7e9840b989d8863b883958c6350bf",
+    "action": "preserve_native",
+    "reason": "原图只有年月日，中文可直接使用；保留原字形、尺寸和位置。"
+  },
+  {
+    "game": "tda03",
+    "source_relative": "assets/data_spec/adv/game/chr/01TDA_710_オブジェクト/TDA3話日付テロップ_/TDA3話日付テロップ_２００６年２月１８日.webp",
+    "source_sha256": "7672fec28c8c9e601dd8936bf03c1964d1764ed54e0f0e147185e79a093e06fb",
+    "action": "preserve_native",
+    "reason": "原图只有年月日，中文可直接使用；保留原字形、尺寸和位置。"
+  },
+  {
+    "game": "tda03",
+    "source_relative": "assets/data_spec/adv/game/chr/01TDA_710_オブジェクト/TDA3話日付テロップ_/TDA3話日付テロップ_２００６年２月２日.webp",
+    "source_sha256": "ee0ff60058106752dd4527bbb75ca48e040c43233a4ce2ac4ed1eeba65ac735c",
+    "action": "preserve_native",
+    "reason": "原图只有年月日，中文可直接使用；保留原字形、尺寸和位置。"
+  },
+  {
+    "game": "tda03",
+    "source_relative": "assets/data_spec/adv/game/chr/01TDA_710_オブジェクト/TDA3話日付テロップ_/TDA3話日付テロップ_２００６年２月３日.webp",
+    "source_sha256": "3caec71d2d569eff5cd25f7d1528ced3659108187112707368076e97aaad1d43",
+    "action": "preserve_native",
+    "reason": "原图只有年月日，中文可直接使用；保留原字形、尺寸和位置。"
+  },
+  {
+    "game": "tda03",
+    "source_relative": "assets/data_spec/adv/game/chr/01TDA_710_オブジェクト/TDA3話日付テロップ_/TDA3話日付テロップ_２００６年２月４日.webp",
+    "source_sha256": "2176dbbe39ddb3295c35ae838b3a588de634a6288b2a180fb5c38d12f24ac39d",
+    "action": "preserve_native",
+    "reason": "原图只有年月日，中文可直接使用；保留原字形、尺寸和位置。"
+  },
+  {
+    "game": "tda03",
+    "source_relative": "assets/data_spec/adv/game/chr/01TDA_710_オブジェクト/TDA3話日付テロップ_/TDA3話日付テロップ_２００６年２月５日.webp",
+    "source_sha256": "d298d5d376c6d4c420ec3b2cc9af76db2e580f575cabf5881638a0d11fa52dba",
+    "action": "preserve_native",
+    "reason": "原图只有年月日，中文可直接使用；保留原字形、尺寸和位置。"
+  },
+  {
+    "game": "tda03",
+    "source_relative": "assets/data_spec/adv/game/chr/01TDA_710_オブジェクト/TDA3話日付テロップ_/TDA3話日付テロップ_２００６年２月６日.webp",
+    "source_sha256": "1a711f7423e289754ce02a6deed6791ba52c36a442258c7ac0c89624eb939d60",
+    "action": "preserve_native",
+    "reason": "原图只有年月日，中文可直接使用；保留原字形、尺寸和位置。"
+  },
+  {
+    "game": "tda03",
+    "source_relative": "assets/data_spec/adv/game/chr/01TDA_710_オブジェクト/TDA3話日付テロップ_/TDA3話日付テロップ_２００６年２月７日.webp",
+    "source_sha256": "963767cb873ee97aede3bf15548c86c36a4618e4c7cf49ed261a0bd38b1444ef",
+    "action": "preserve_native",
+    "reason": "原图只有年月日，中文可直接使用；保留原字形、尺寸和位置。"
+  },
+  {
+    "game": "tda03",
+    "source_relative": "assets/data_spec/adv/game/chr/01TDA_710_オブジェクト/TDA3話日付テロップ_/TDA3話日付テロップ_２００６年２月８日.webp",
+    "source_sha256": "e9d3d787db1ca6a749fcfc199f20ff0d5c5da690acf75c78f0195833e5dcdfec",
+    "action": "preserve_native",
+    "reason": "原图只有年月日，中文可直接使用；保留原字形、尺寸和位置。"
+  },
+  {
+    "game": "tda03",
+    "source_relative": "assets/data_spec/adv/game/chr/01TDA_710_オブジェクト/TDA3話日付テロップ_/TDA3話日付テロップ_２００６年２月９日.webp",
+    "source_sha256": "b3b70ffa716e243d1858114ace327c4b99592b84a6187e9d4715daee74c0712e",
+    "action": "preserve_native",
+    "reason": "原图只有年月日，中文可直接使用；保留原字形、尺寸和位置。"
+  },
+  {
+    "game": "tda03",
+    "source_relative": "assets/data_spec/adv/game/chr/01TDA_710_オブジェクト/TDA3話テロップ_/TDA3話テロップ_国連宇宙総軍宇宙港“ＯＳＰ－１４００”.webp",
+    "source_sha256": "4e383c3656e150725feaba4567d412d8b5bb4b513236ff1f2e74e57937124068",
+    "action": "translate_text_only",
+    "reason": "按原图字号层级保留单位说明与姓名的区别；同级文字字号相同。",
+    "zh_cn": "联合国宇宙总军轨道港“OSP-1400”",
+    "font_sizes": [
+      44
+    ],
+    "runtime_review": "pending"
+  },
+  {
+    "game": "tda03",
+    "source_relative": "assets/data_spec/adv/game/chr/01TDA_710_オブジェクト/TDA3話テロップ_/TDA3話テロップ_地球低軌道１４００Ｋｍ　 .webp",
+    "source_sha256": "9fc8ad8e4000b388991c7dfa0a16308229efe64d11f1a928f37f2d8a0b007aa8",
+    "action": "translate_text_only",
+    "reason": "按原图字号层级保留单位说明与姓名的区别；同级文字字号相同。",
+    "zh_cn": "地球低轨道1400km",
+    "font_sizes": [
+      44
+    ],
+    "runtime_review": "pending"
+  }
+]

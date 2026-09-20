@@ -7,11 +7,11 @@
 
 | 范围 | 术语表 | 条目数 |
 | --- | --- | ---: |
-| 系列通用 | [muv-luv.ja-zh-Hans.csv](muv-luv.ja-zh-Hans.csv) | 143 |
-| TDA00 | [tda00.ja-zh-Hans.csv](tda00.ja-zh-Hans.csv) | 133 |
-| TDA01 | [tda01.ja-zh-Hans.csv](tda01.ja-zh-Hans.csv) | 84 |
-| TDA02 | [tda02.ja-zh-Hans.csv](tda02.ja-zh-Hans.csv) | 86 |
-| TDA03 | [tda03.ja-zh-Hans.csv](tda03.ja-zh-Hans.csv) | 102 |
+| 系列通用 | [muv-luv.ja-zh-Hans.csv](muv-luv.ja-zh-Hans.csv) | 146 |
+| TDA00 | [tda00.ja-zh-Hans.csv](tda00.ja-zh-Hans.csv) | 135 |
+| TDA01 | [tda01.ja-zh-Hans.csv](tda01.ja-zh-Hans.csv) | 89 |
+| TDA02 | [tda02.ja-zh-Hans.csv](tda02.ja-zh-Hans.csv) | 98 |
+| TDA03 | [tda03.ja-zh-Hans.csv](tda03.ja-zh-Hans.csv) | 115 |
 | 帝都燃烧篇 | [imperial-capital-burns.ja-zh-Hans.csv](imperial-capital-burns.ja-zh-Hans.csv) | 183 |
 | photonflowers | [photonflowers.ja-zh-Hans.csv](photonflowers.ja-zh-Hans.csv) | 313 |
 | photonmelodies | [photonmelodies.ja-zh-Hans.csv](photonmelodies.ja-zh-Hans.csv) | 750 |

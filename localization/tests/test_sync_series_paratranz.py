@@ -174,6 +174,8 @@ class SeriesSyncTests(unittest.TestCase):
 
     def test_live_committed_project_coverage_and_source_fields(self):
         repo=Path(__file__).resolve().parents[2]
+        native=json.loads((repo/'localization/reviews/age2-native-clear-records-20260914.json').read_text(encoding='utf8'))
+        restored={r['game'].upper()+'|'+r['egpack']+'|'+r['id']:r for r in native['controls']+native['credits']}
         for slug,total in [('pf',13025),('pm',44698),('tda',26696)]:
             manifest=json.loads((repo/sync.folder(slug)/'manifest.json').read_text(encoding='utf8'))
             tables,index=sync.load_tables(repo,slug)
@@ -183,7 +185,14 @@ class SeriesSyncTests(unittest.TestCase):
             for entry in manifest['files']:
                 for row in json.loads((repo/sync.folder(slug)/entry['baseline']).read_text(encoding='utf8')):
                     self.assertNotIn(row['key'],seen);seen.add(row['key'])
-                    self.assertEqual(index[row['key']]['source'],row['source_sha256'])
+                    if slug=='tda' and row['key'] in restored:
+                        import hashlib
+                        native_row=restored[row['key']]
+                        self.assertEqual(row['source_sha256'],native_row['old_source_sha256'].lower())
+                        text='' if native_row['script_isclear'] else native_row['native_control']
+                        self.assertEqual(index[row['key']]['source'],hashlib.sha256(text.encode('utf-8')).hexdigest())
+                    else:
+                        self.assertEqual(index[row['key']]['source'],row['source_sha256'])
             self.assertEqual(seen,set(index))
 
 

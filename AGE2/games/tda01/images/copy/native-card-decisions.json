@@ -1,0 +1,107 @@
+[
+  {
+    "game": "tda01",
+    "source_relative": "assets/data_spec/adv/game/bg/30イベント絵/190_デイアフターSD絵/SD雫ダンボールスネーク01.webp",
+    "source_sha256": "6011f3b9ea86bd2a23a3b6ab80563d3ecba8dfcc60e45d61779e996bc1e1b56c",
+    "action": "preserve_native",
+    "reason": "纸箱可见文字为北九州；保留原版美术。"
+  },
+  {
+    "game": "tda01",
+    "source_relative": "assets/data_spec/adv/game/bg/30イベント絵/190_デイアフターSD絵/SD雫ダンボールスネーク02.webp",
+    "source_sha256": "d24b26f1ee9e5992086df5b96d5a9fcec5cf5446e56ccf03b309331a0739c09b",
+    "action": "preserve_native",
+    "reason": "纸箱可见文字为北九州；保留原版美术。"
+  },
+  {
+    "game": "tda01",
+    "source_relative": "assets/data_spec/adv/game/bg/30イベント絵/190_デイアフターSD絵/SD雫ダンボールスネーク03.webp",
+    "source_sha256": "0d0a306be8754a1603c5b30e6c95b33ccc1f5407fc342bfc87960a92431223f2",
+    "action": "preserve_native",
+    "reason": "纸箱可见文字为北九州；保留原版美术。"
+  },
+  {
+    "game": "tda01",
+    "source_relative": "assets/data_spec/adv/game/bg/30イベント絵/190_デイアフターSD絵/SD雫ダンボールスネーク04.webp",
+    "source_sha256": "54c7aaf0eb8851ad6c36a33b54573e3f48636933ea53274174de2be1d8a39bc3",
+    "action": "preserve_native",
+    "reason": "纸箱可见文字为北九州；保留原版美术。"
+  },
+  {
+    "game": "tda01",
+    "source_relative": "assets/data_spec/adv/game/bg/30イベント絵/190_デイアフターSD絵/SD雫ダンボールスネーク06.webp",
+    "source_sha256": "8c19acdb374b94905ceb30289d71639f2b92364a3de277558e5afd2ddabc334e",
+    "action": "preserve_native",
+    "reason": "纸箱可见文字为北九州；保留原版美术。"
+  },
+  {
+    "game": "tda01",
+    "source_relative": "assets/data_spec/adv/game/bg/30イベント絵/190_デイアフターSD絵/SD雫ダンボールスネーク07.webp",
+    "source_sha256": "3094bcedfa0bbfde4f8b332cbde3cc4e9ec38ca17a5aaa0174ac5db907069974",
+    "action": "preserve_native",
+    "reason": "纸箱可见文字为北九州；保留原版美术。"
+  },
+  {
+    "game": "tda01",
+    "source_relative": "assets/data_spec/adv/game/chr/35演出用画像/010_デイアフター/010_日付テロップ/TDAテロップ_２００５年１０月０７日.webp",
+    "source_sha256": "d94f67ca670b38028e774e25a75feec711f981f30ebc28115483346501614de4",
+    "action": "preserve_native",
+    "reason": "原图只有年月日，中文可直接使用；保留原字形、尺寸和位置。"
+  },
+  {
+    "game": "tda01",
+    "source_relative": "assets/data_spec/adv/game/chr/35演出用画像/010_デイアフター/010_日付テロップ/TDAテロップ_２００５年１０月０８日.webp",
+    "source_sha256": "950ae4cdb6d7c98506c5762084eb03702bdd05fcf4dd2b1e459a06d8040f8abb",
+    "action": "preserve_native",
+    "reason": "原图只有年月日，中文可直接使用；保留原字形、尺寸和位置。"
+  },
+  {
+    "game": "tda01",
+    "source_relative": "assets/data_spec/adv/game/chr/35演出用画像/010_デイアフター/010_日付テロップ/TDAテロップ_２００５年１０月１０日.webp",
+    "source_sha256": "3c6a22cebd88fdb83bc1192dbf6395140b377c2d6d18e4c85fc5d9438779d016",
+    "action": "preserve_native",
+    "reason": "原图只有年月日，中文可直接使用；保留原字形、尺寸和位置。"
+  },
+  {
+    "game": "tda01",
+    "source_relative": "assets/data_spec/adv/game/chr/35演出用画像/010_デイアフター/010_日付テロップ/TDAテロップ_２００５年１０月１１日.webp",
+    "source_sha256": "9e37dd359b089e232671b509ad09e5daa455c97e451220890a63518f97fda67d",
+    "action": "preserve_native",
+    "reason": "原图只有年月日，中文可直接使用；保留原字形、尺寸和位置。"
+  },
+  {
+    "game": "tda01",
+    "source_relative": "assets/data_spec/adv/game/chr/35演出用画像/010_デイアフター/010_日付テロップ/TDAテロップ_２００５年１０月１２日.webp",
+    "source_sha256": "54ffcb1aab131033909e1dedf6826dffeefe60e0f6b5d424d3fe1be8ea6c6f06",
+    "action": "preserve_native",
+    "reason": "原图只有年月日，中文可直接使用；保留原字形、尺寸和位置。"
+  },
+  {
+    "game": "tda01",
+    "source_relative": "assets/data_spec/adv/game/chr/35演出用画像/010_デイアフター/010_日付テロップ/TDAテロップ_２００５年１０月１３日.webp",
+    "source_sha256": "32516429038aa928eb23ef313676e7a2f9cb298ca7c8bfd652a8929fc0b6e1cd",
+    "action": "preserve_native",
+    "reason": "原图只有年月日，中文可直接使用；保留原字形、尺寸和位置。"
+  },
+  {
+    "game": "tda01",
+    "source_relative": "assets/data_spec/adv/game/chr/35演出用画像/010_デイアフター/010_日付テロップ/TDAテロップ_２００５年１０月１４日.webp",
+    "source_sha256": "c7659b85aebcea0e8717139d0ac0ff45bc67d3355c8fb325c3fb9e1d7ee8f741",
+    "action": "preserve_native",
+    "reason": "原图只有年月日，中文可直接使用；保留原字形、尺寸和位置。"
+  },
+  {
+    "game": "tda01",
+    "source_relative": "assets/data_spec/adv/game/chr/35演出用画像/010_デイアフター/010_日付テロップ/TDAテロップ_２００５年１０月１８日.webp",
+    "source_sha256": "98c4338a43e983c8c624b467eeb22a30151c554b762e79536e49fec3d9121c13",
+    "action": "preserve_native",
+    "reason": "原图只有年月日，中文可直接使用；保留原字形、尺寸和位置。"
+  },
+  {
+    "game": "tda01",
+    "source_relative": "assets/data_spec/adv/game/chr/35演出用画像/010_デイアフター/010_日付テロップ/TDAテロップ_２００５年１０月１９日.webp",
+    "source_sha256": "68fbf1b8b98d66a1bf7f91187d4098e61ecc7899bfcfe127264396e8d2402586",
+    "action": "preserve_native",
+    "reason": "原图只有年月日，中文可直接使用；保留原字形、尺寸和位置。"
+  }
+]

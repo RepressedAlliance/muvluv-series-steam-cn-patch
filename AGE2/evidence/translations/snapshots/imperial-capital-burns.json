@@ -11,7 +11,7 @@
     "record_kind",
     "cn_text"
   ],
-  "output_sha256": "56CE90180C9D51454974D2E967DE162AEF079A1547CC6D3B1D9B165C7E490764",
+  "output_sha256": "D14ABA39F039200524D7E8AF3737E63B615E2664ABF74AF2F4F2262039CE586C",
   "record_kinds": {
     "structural_empty": 0,
     "text": 5564
@@ -31,5 +31,17 @@
     "audit": "localization/reviews/main-al-alignment-20260909.json",
     "additional_repairs": "localization/reviews/tda-fragment-repairs-20260909.json",
     "source_identity_and_non_chinese_fields_unchanged": true
+  },
+  "revision_20260914": {
+    "previous_output_bytes": 1772515,
+    "previous_output_sha256": "56CE90180C9D51454974D2E967DE162AEF079A1547CC6D3B1D9B165C7E490764",
+    "audit": "localization/reviews/age2-content-corrections-20260914.json",
+    "source_identity_and_non_chinese_fields_unchanged": true
+  },
+  "revision_terminology_20260920": {
+    "audit": "localization/reviews/age2-terminology-20260920.json"
+  },
+  "revision_paratranz_push_20260920": {
+    "audit": "localization/reviews/age2-paratranz-push-20260920.json"
   }
 }

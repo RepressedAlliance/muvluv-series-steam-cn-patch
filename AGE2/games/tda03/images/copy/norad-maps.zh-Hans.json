@@ -1,0 +1,344 @@
+[
+  {
+    "game": "tda03",
+    "source_relative": "assets/data_spec/adv/game/bg/31イベント絵クロニクルズ03以降/225_TDA3話_Map/MAP_NORAD作戦説明：SHADOW全体の説明.webp",
+    "source_sha256": "fa1969ad238ea3d02b85b3443c5e7cbd0b7a7fe7689544b90ee6a1dd41df2c7d",
+    "layout_basis": "核对原日文图片与现行正文后加注中文；保留SHADOW、ARTMISS、LID、Space ONE、OSP-1400等识别名及轨道、箭头。按原图标题、说明、地点层级固定字号，未按单行长度缩字。",
+    "labels": [
+      {
+        "source": "対宇宙全周防衛拠点兵器群 (SHADOW)",
+        "zh_hans": "（对宇宙全周防卫据点兵器群）",
+        "font_size": 20,
+        "cn_box": [
+          372,
+          52,
+          652,
+          71
+        ]
+      },
+      {
+        "source": "全周地球防衛核投射衛星群 ARTMISS",
+        "zh_hans": "（全周地球防卫核投射卫星群）",
+        "font_size": 16,
+        "cn_box": [
+          156,
+          76,
+          380,
+          92
+        ]
+      },
+      {
+        "source": "ハイヴ着陸ユニット軌道",
+        "zh_hans": "（HIVE着陆单元轨道）",
+        "font_size": 12,
+        "cn_box": [
+          89,
+          317,
+          212,
+          329
+        ]
+      },
+      {
+        "source": "核投射プラットフォーム Space ONE",
+        "zh_hans": "（核投射平台）",
+        "font_size": 12,
+        "cn_box": [
+          602,
+          324,
+          686,
+          336
+        ]
+      },
+      {
+        "source": "月周回衛星群",
+        "zh_hans": "（绕月卫星群）",
+        "font_size": 12,
+        "cn_box": [
+          791,
+          325,
+          875,
+          337
+        ]
+      },
+      {
+        "source": "監視ステーション",
+        "zh_hans": "（监视站）",
+        "font_size": 12,
+        "cn_box": [
+          922,
+          309,
+          982,
+          321
+        ]
+      }
+    ],
+    "runtime_review": "pending"
+  },
+  {
+    "game": "tda03",
+    "source_relative": "assets/data_spec/adv/game/bg/31イベント絵クロニクルズ03以降/225_TDA3話_Map/MAP_NORAD作戦説明：アーテミシーズ部分の説明.webp",
+    "source_sha256": "a23a1bfbb418461deb913b3ee414a1edc750511c16be48ed2cc64979a5a82109",
+    "layout_basis": "核对原日文图片与现行正文后加注中文；保留SHADOW、ARTMISS、LID、Space ONE、OSP-1400等识别名及轨道、箭头。按原图标题、说明、地点层级固定字号，未按单行长度缩字。",
+    "labels": [
+      {
+        "source": "全周地球防衛核投射衛星群 ARTMISS",
+        "zh_hans": "（全周地球防卫核投射卫星群）",
+        "font_size": 16,
+        "cn_box": [
+          404,
+          58,
+          628,
+          74
+        ]
+      },
+      {
+        "source": "フランス所有宇宙軌道港",
+        "zh_hans": "（法国所属宇宙轨道港）",
+        "font_size": 16,
+        "cn_box": [
+          116,
+          202,
+          292,
+          218
+        ]
+      },
+      {
+        "source": "大気圏内墜落",
+        "zh_hans": "（坠入大气层）",
+        "font_size": 16,
+        "cn_box": [
+          148,
+          223,
+          260,
+          239
+        ]
+      },
+      {
+        "source": "米国所有宇宙軌道港",
+        "zh_hans": "（美国所属宇宙轨道港）",
+        "font_size": 16,
+        "cn_box": [
+          759,
+          41,
+          935,
+          57
+        ]
+      },
+      {
+        "source": "機能停止状態",
+        "zh_hans": "（已停止运作）",
+        "font_size": 16,
+        "cn_box": [
+          791,
+          62,
+          903,
+          78
+        ]
+      },
+      {
+        "source": "国際宇宙軌道港 OSP-1400",
+        "zh_hans": "（国际宇宙轨道港 OSP-1400）",
+        "font_size": 16,
+        "cn_box": [
+          554,
+          449,
+          775,
+          465
+        ]
+      },
+      {
+        "source": "健在",
+        "zh_hans": "（完好）",
+        "font_size": 16,
+        "cn_box": [
+          632,
+          470,
+          696,
+          486
+        ]
+      },
+      {
+        "source": "核投射衛星群",
+        "zh_hans": "（核投射卫星群）",
+        "font_size": 12,
+        "cn_box": [
+          638,
+          267,
+          734,
+          279
+        ]
+      }
+    ],
+    "runtime_review": "pending"
+  },
+  {
+    "game": "tda03",
+    "source_relative": "assets/data_spec/adv/game/bg/31イベント絵クロニクルズ03以降/225_TDA3話_Map/MAP_NORAD作戦説明：核承認のプロセス説明.webp",
+    "source_sha256": "7636dbfd508768486b6a5f7ae894705ffde1a2f4dbeb7aa565f16e8f8dfa005b",
+    "layout_basis": "核对原日文图片与现行正文后加注中文；保留SHADOW、ARTMISS、LID、Space ONE、OSP-1400等识别名及轨道、箭头。按原图标题、说明、地点层级固定字号，未按单行长度缩字。",
+    "labels": [
+      {
+        "source": "コロラド州シャイアン・マウンテン空軍基地",
+        "zh_hans": "（科罗拉多州夏延山空军基地）",
+        "font_size": 12,
+        "cn_box": [
+          564,
+          151,
+          732,
+          163
+        ]
+      },
+      {
+        "source": "NORAD地下司令部",
+        "zh_hans": "（NORAD地下司令部）",
+        "font_size": 12,
+        "cn_box": [
+          586,
+          170,
+          712,
+          182
+        ]
+      },
+      {
+        "source": "核投射衛星",
+        "zh_hans": "（核投射卫星）",
+        "font_size": 12,
+        "cn_box": [
+          178,
+          226,
+          262,
+          238
+        ]
+      },
+      {
+        "source": "承認",
+        "zh_hans": "（批准）",
+        "font_size": 20,
+        "cn_box": [
+          683,
+          236,
+          763,
+          255
+        ]
+      },
+      {
+        "source": "承認",
+        "zh_hans": "（批准）",
+        "font_size": 20,
+        "cn_box": [
+          86,
+          375,
+          166,
+          394
+        ]
+      }
+    ],
+    "runtime_review": "pending"
+  },
+  {
+    "game": "tda03",
+    "source_relative": "assets/data_spec/adv/game/bg/31イベント絵クロニクルズ03以降/225_TDA3話_Map/MAP_NORAD作戦説明：核承認のプロセス説明b.webp",
+    "source_sha256": "aff7e089289e55782c889a29638a591d4e85264d912030f094252feecb1bcc58",
+    "layout_basis": "核对原日文图片与现行正文后加注中文；保留SHADOW、ARTMISS、LID、Space ONE、OSP-1400等识别名及轨道、箭头。按原图标题、说明、地点层级固定字号，未按单行长度缩字。",
+    "labels": [
+      {
+        "source": "コロラド州シャイアン・マウンテン空軍基地",
+        "zh_hans": "（科罗拉多州夏延山空军基地）",
+        "font_size": 12,
+        "cn_box": [
+          662,
+          149,
+          830,
+          161
+        ]
+      },
+      {
+        "source": "NORAD地下司令部",
+        "zh_hans": "（NORAD地下司令部）",
+        "font_size": 12,
+        "cn_box": [
+          725,
+          171,
+          851,
+          183
+        ]
+      },
+      {
+        "source": "核攻撃",
+        "zh_hans": "（核攻击）",
+        "font_size": 20,
+        "cn_box": [
+          262,
+          191,
+          362,
+          210
+        ]
+      }
+    ],
+    "runtime_review": "pending"
+  },
+  {
+    "game": "tda03",
+    "source_relative": "assets/data_spec/adv/game/bg/31イベント絵クロニクルズ03以降/225_TDA3話_Map/MAP_NORAD作戦説明：権限移譲の説明.webp",
+    "source_sha256": "7fefe4f3f75f934382a48695a19b80636e9c98b5a4607712521c3f659268289d",
+    "layout_basis": "核对原日文图片与现行正文后加注中文；保留SHADOW、ARTMISS、LID、Space ONE、OSP-1400等识别名及轨道、箭头。按原图标题、说明、地点层级固定字号，未按单行长度缩字。",
+    "labels": [
+      {
+        "source": "シアトル",
+        "zh_hans": "（西雅图）",
+        "font_size": 12,
+        "cn_box": [
+          128,
+          88,
+          188,
+          100
+        ]
+      },
+      {
+        "source": "ニューヨーク",
+        "zh_hans": "（纽约）",
+        "font_size": 12,
+        "cn_box": [
+          950,
+          256,
+          998,
+          268
+        ]
+      },
+      {
+        "source": "ウィニペグ空軍基地",
+        "zh_hans": "（温尼伯空军基地）",
+        "font_size": 12,
+        "cn_box": [
+          500,
+          84,
+          608,
+          96
+        ]
+      },
+      {
+        "source": "コロラド州シャイアン・マウンテン空軍基地",
+        "zh_hans": "（科罗拉多州夏延山空军基地）",
+        "font_size": 12,
+        "cn_box": [
+          328,
+          421,
+          496,
+          433
+        ]
+      },
+      {
+        "source": "NORAD地下司令部",
+        "zh_hans": "（NORAD地下司令部）",
+        "font_size": 12,
+        "cn_box": [
+          348,
+          440,
+          474,
+          452
+        ]
+      }
+    ],
+    "runtime_review": "pending"
+  }
+]

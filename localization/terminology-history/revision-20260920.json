@@ -1,0 +1,878 @@
+{
+  "basis": "localization/reviews/age2-terminology-20260920.json",
+  "base_commit": "fc2cb7e2bbba7f31dac788b4b1c3fa5fd859b528",
+  "games": {
+    "tda00": {
+      "baseline_changes": [
+        {
+          "before": {
+            "jp": "ナイヴス２",
+            "cn": "黑刃2",
+            "status": "candidate",
+            "chapter": "020_UAF_DAY91_01.egpack",
+            "source": "tda00-draft",
+            "source_row": "7",
+            "source_status": "建议",
+            "occurrences": "53",
+            "basis": "；历史候选草案，confirmed_translation 列有值不视作审核通过；原章定位 game_t00020"
+          },
+          "after": {
+            "jp": "ナイヴス２",
+            "cn": "黑刀2",
+            "status": "confirmed",
+            "chapter": "020_UAF_DAY91_01.egpack",
+            "source": "tda00-draft",
+            "source_row": "7",
+            "source_status": "建议",
+            "occurrences": "53",
+            "basis": "历史候选草案，confirmed_translation 列有值不视作审核通过；原章定位 game_t00020；2026-09-20 用户确认；localization/reviews/age2-terminology-20260920.json；仅在对应专名语境使用。"
+          }
+        },
+        {
+          "before": {
+            "jp": "ナイヴス１",
+            "cn": "黑刃1",
+            "status": "candidate",
+            "chapter": "020_UAF_DAY91_01.egpack",
+            "source": "tda00-draft",
+            "source_row": "10",
+            "source_status": "建议",
+            "occurrences": "35",
+            "basis": "；历史候选草案，confirmed_translation 列有值不视作审核通过；原章定位 game_t00020"
+          },
+          "after": {
+            "jp": "ナイヴス１",
+            "cn": "黑刀1",
+            "status": "confirmed",
+            "chapter": "020_UAF_DAY91_01.egpack",
+            "source": "tda00-draft",
+            "source_row": "10",
+            "source_status": "建议",
+            "occurrences": "35",
+            "basis": "历史候选草案，confirmed_translation 列有值不视作审核通过；原章定位 game_t00020；2026-09-20 用户确认；localization/reviews/age2-terminology-20260920.json；仅在对应专名语境使用。"
+          }
+        },
+        {
+          "before": {
+            "jp": "ナイヴス３",
+            "cn": "黑刃3",
+            "status": "candidate",
+            "chapter": "040_UAF_DAY94_01.egpack",
+            "source": "tda00-draft",
+            "source_row": "12",
+            "source_status": "建议",
+            "occurrences": "30",
+            "basis": "；历史候选草案，confirmed_translation 列有值不视作审核通过；原章定位 game_t01250"
+          },
+          "after": {
+            "jp": "ナイヴス３",
+            "cn": "黑刀3",
+            "status": "confirmed",
+            "chapter": "040_UAF_DAY94_01.egpack",
+            "source": "tda00-draft",
+            "source_row": "12",
+            "source_status": "建议",
+            "occurrences": "30",
+            "basis": "历史候选草案，confirmed_translation 列有值不视作审核通过；原章定位 game_t01250；2026-09-20 用户确认；localization/reviews/age2-terminology-20260920.json；仅在对应专名语境使用。"
+          }
+        },
+        {
+          "before": {
+            "jp": "ナイヴス",
+            "cn": "黑刃",
+            "status": "candidate",
+            "chapter": "020_UAF_DAY91_01.egpack",
+            "source": "tda00-draft",
+            "source_row": "54",
+            "source_status": "建议",
+            "occurrences": "6",
+            "basis": "；历史候选草案，confirmed_translation 列有值不视作审核通过；原章定位 game_t00115"
+          },
+          "after": {
+            "jp": "ナイヴス",
+            "cn": "黑刀",
+            "status": "confirmed",
+            "chapter": "020_UAF_DAY91_01.egpack",
+            "source": "tda00-draft",
+            "source_row": "54",
+            "source_status": "建议",
+            "occurrences": "6",
+            "basis": "历史候选草案，confirmed_translation 列有值不视作审核通过；原章定位 game_t00115；2026-09-20 用户确认；localization/reviews/age2-terminology-20260920.json；仅在对应专名语境使用。"
+          }
+        },
+        {
+          "before": {
+            "jp": "オール・ナイヴス",
+            "cn": "黑刃全机",
+            "status": "candidate",
+            "chapter": "090_UAF_DAY99_01.egpack",
+            "source": "tda00-draft",
+            "source_row": "103",
+            "source_status": "沿用已有",
+            "occurrences": "3",
+            "basis": "；历史候选草案，confirmed_translation 列有值不视作审核通过；原章定位 game_t03280"
+          },
+          "after": {
+            "jp": "オール・ナイヴス",
+            "cn": "黑刀全机",
+            "status": "confirmed",
+            "chapter": "090_UAF_DAY99_01.egpack",
+            "source": "tda00-draft",
+            "source_row": "103",
+            "source_status": "沿用已有",
+            "occurrences": "3",
+            "basis": "历史候选草案，confirmed_translation 列有值不视作审核通过；原章定位 game_t03280；2026-09-20 用户确认；localization/reviews/age2-terminology-20260920.json；仅在对应专名语境使用。"
+          }
+        },
+        {
+          "before": {
+            "jp": "ナイヴス・リード",
+            "cn": "黑刃长机",
+            "status": "candidate",
+            "chapter": "020_UAF_DAY91_01.egpack",
+            "source": "tda00-draft",
+            "source_row": "104",
+            "source_status": "沿用已有",
+            "occurrences": "3",
+            "basis": "；历史候选草案，confirmed_translation 列有值不视作审核通过；原章定位 game_t00533"
+          },
+          "after": {
+            "jp": "ナイヴス・リード",
+            "cn": "黑刀长机",
+            "status": "confirmed",
+            "chapter": "020_UAF_DAY91_01.egpack",
+            "source": "tda00-draft",
+            "source_row": "104",
+            "source_status": "沿用已有",
+            "occurrences": "3",
+            "basis": "历史候选草案，confirmed_translation 列有值不视作审核通过；原章定位 game_t00533；2026-09-20 用户确认；localization/reviews/age2-terminology-20260920.json；仅在对应专名语境使用。"
+          }
+        },
+        {
+          "before": {
+            "jp": "ナイヴス３カタパルト",
+            "cn": "黑刃3弹射器",
+            "status": "candidate",
+            "chapter": "090_UAF_DAY99_03.egpack",
+            "source": "tda00-draft",
+            "source_row": "153",
+            "source_status": "沿用已有",
+            "occurrences": "2",
+            "basis": "；历史候选草案，confirmed_translation 列有值不视作审核通过；原章定位 game_t03646"
+          },
+          "after": {
+            "jp": "ナイヴス３カタパルト",
+            "cn": "黑刀3弹射器",
+            "status": "confirmed",
+            "chapter": "090_UAF_DAY99_03.egpack",
+            "source": "tda00-draft",
+            "source_row": "153",
+            "source_status": "沿用已有",
+            "occurrences": "2",
+            "basis": "历史候选草案，confirmed_translation 列有值不视作审核通过；原章定位 game_t03646；2026-09-20 用户确认；localization/reviews/age2-terminology-20260920.json；仅在对应专名语境使用。"
+          }
+        },
+        {
+          "before": {
+            "jp": "ブラック・ナイヴス",
+            "cn": "黑刃",
+            "status": "candidate",
+            "chapter": "030_UAF_DAY93_01.egpack",
+            "source": "tda00-draft",
+            "source_row": "208",
+            "source_status": "建议",
+            "occurrences": "2",
+            "basis": "；历史候选草案，confirmed_translation 列有值不视作审核通过；原章定位 game_t00738_ruby"
+          },
+          "after": {
+            "jp": "ブラック・ナイヴス",
+            "cn": "黑刀",
+            "status": "confirmed",
+            "chapter": "030_UAF_DAY93_01.egpack",
+            "source": "tda00-draft",
+            "source_row": "208",
+            "source_status": "建议",
+            "occurrences": "2",
+            "basis": "历史候选草案，confirmed_translation 列有值不视作审核通过；原章定位 game_t00738_ruby；2026-09-20 用户确认；localization/reviews/age2-terminology-20260920.json；仅在对应专名语境使用。"
+          }
+        },
+        {
+          "before": {
+            "jp": "ブラック・ナイヴス・ドント・クイット",
+            "cn": "黑刃永不放弃",
+            "status": "candidate",
+            "chapter": "020_UAF_DAY91_01.egpack",
+            "source": "tda00-draft",
+            "source_row": "292",
+            "source_status": "沿用已有",
+            "occurrences": "1",
+            "basis": "；历史候选草案，confirmed_translation 列有值不视作审核通过；原章定位 game_t00086_ruby"
+          },
+          "after": {
+            "jp": "ブラック・ナイヴス・ドント・クイット",
+            "cn": "黑刀永不放弃",
+            "status": "confirmed",
+            "chapter": "020_UAF_DAY91_01.egpack",
+            "source": "tda00-draft",
+            "source_row": "292",
+            "source_status": "沿用已有",
+            "occurrences": "1",
+            "basis": "历史候选草案，confirmed_translation 列有值不视作审核通过；原章定位 game_t00086_ruby；2026-09-20 用户确认；localization/reviews/age2-terminology-20260920.json；仅在对应专名语境使用。"
+          }
+        },
+        {
+          "before": null,
+          "after": {
+            "jp": "ブラックナイヴス",
+            "cn": "黑刀",
+            "status": "confirmed",
+            "chapter": "tda00",
+            "source": "maintainer-20260920",
+            "source_row": "1",
+            "source_status": "confirmed",
+            "occurrences": "",
+            "basis": "2026-09-20 用户确认；localization/reviews/age2-terminology-20260920.json；仅在对应专名语境使用。"
+          }
+        }
+      ],
+      "current_terms": 135
+    },
+    "tda01": {
+      "baseline_changes": [
+        {
+          "before": {
+            "jp": "ウォーケン",
+            "cn": "沃肯",
+            "status": "candidate",
+            "chapter": "090_承_2005_10_13 まりも日米会議・ハンガートーク01 / 110_承_2005_10_18 市街地警護任務1・空振り01 / 130_転_BETA大規模再襲撃01 / 130_転_BETA大規模再襲撃02 / 130_転_BETA大規模再襲撃03",
+            "source": "legacy-tsv",
+            "source_row": "154",
+            "source_status": "unclassified",
+            "occurrences": "19",
+            "basis": "旧 TSV 专名词库；不能按文件名认定全系列通用；仅证实在本作出现；译法、单字子串及称谓语境仍需审定。"
+          },
+          "after": {
+            "jp": "ウォーケン",
+            "cn": "沃肯",
+            "status": "confirmed",
+            "chapter": "090_承_2005_10_13 まりも日米会議・ハンガートーク01 / 110_承_2005_10_18 市街地警護任務1・空振り01 / 130_転_BETA大規模再襲撃01 / 130_転_BETA大規模再襲撃02 / 130_転_BETA大規模再襲撃03",
+            "source": "legacy-tsv",
+            "source_row": "154",
+            "source_status": "unclassified",
+            "occurrences": "19",
+            "basis": "旧 TSV 专名词库；不能按文件名认定全系列通用；仅证实在本作出现；译法、单字子串及称谓语境仍需审定。；2026-09-20 用户确认；localization/reviews/age2-terminology-20260920.json；仅在对应专名语境使用。"
+          }
+        },
+        {
+          "before": {
+            "jp": "ボーニング社",
+            "cn": "波音公司",
+            "status": "candidate",
+            "chapter": "040_承_2005_10_07 デブリーフィング・顔合わせ01",
+            "source": "legacy-tsv",
+            "source_row": "2189",
+            "source_status": "unclassified",
+            "occurrences": "1",
+            "basis": "旧 TSV 专名词库；不能按文件名认定全系列通用；仅证实在本作出现；译法、单字子串及称谓语境仍需审定。"
+          },
+          "after": {
+            "jp": "ボーニング社",
+            "cn": "波宁公司",
+            "status": "confirmed",
+            "chapter": "040_承_2005_10_07 デブリーフィング・顔合わせ01",
+            "source": "legacy-tsv",
+            "source_row": "2189",
+            "source_status": "unclassified",
+            "occurrences": "1",
+            "basis": "旧 TSV 专名词库；不能按文件名认定全系列通用；仅证实在本作出现；译法、单字子串及称谓语境仍需审定。；2026-09-20 用户确认；localization/reviews/age2-terminology-20260920.json；仅在对应专名语境使用。"
+          }
+        },
+        {
+          "before": null,
+          "after": {
+            "jp": "ボーニング",
+            "cn": "波宁",
+            "status": "confirmed",
+            "chapter": "tda01",
+            "source": "maintainer-20260920",
+            "source_row": "1",
+            "source_status": "confirmed",
+            "occurrences": "",
+            "basis": "2026-09-20 用户确认；localization/reviews/age2-terminology-20260920.json；仅在对应专名语境使用。"
+          }
+        },
+        {
+          "before": null,
+          "after": {
+            "jp": "ヒビキ",
+            "cn": "响",
+            "status": "confirmed",
+            "chapter": "tda01",
+            "source": "maintainer-20260920",
+            "source_row": "2",
+            "source_status": "confirmed",
+            "occurrences": "",
+            "basis": "2026-09-20 用户确认；localization/reviews/age2-terminology-20260920.json；仅在对应专名语境使用。"
+          }
+        },
+        {
+          "before": null,
+          "after": {
+            "jp": "ユズカ",
+            "cn": "柚香",
+            "status": "confirmed",
+            "chapter": "tda01",
+            "source": "maintainer-20260920",
+            "source_row": "3",
+            "source_status": "confirmed",
+            "occurrences": "",
+            "basis": "2026-09-20 用户确认；localization/reviews/age2-terminology-20260920.json；仅在对应专名语境使用。"
+          }
+        },
+        {
+          "before": null,
+          "after": {
+            "jp": "シズク",
+            "cn": "雫",
+            "status": "confirmed",
+            "chapter": "tda01",
+            "source": "maintainer-20260920",
+            "source_row": "4",
+            "source_status": "confirmed",
+            "occurrences": "",
+            "basis": "2026-09-20 用户确认；localization/reviews/age2-terminology-20260920.json；仅在对应专名语境使用。"
+          }
+        }
+      ],
+      "current_terms": 89
+    },
+    "tda02": {
+      "baseline_changes": [
+        {
+          "before": {
+            "jp": "ナイヴス・リード",
+            "cn": "黑刃长机",
+            "status": "candidate",
+            "chapter": "150_２００５年１２月２４日（土）_160_ブラックナイヴス",
+            "source": "mixed",
+            "source_row": "179",
+            "source_status": "unscoped",
+            "occurrences": "1",
+            "basis": "旧混合表；出现不等于译法正确；仅证实在本作出现；译法、单字子串及称谓语境仍需审定。"
+          },
+          "after": {
+            "jp": "ナイヴス・リード",
+            "cn": "黑刀长机",
+            "status": "confirmed",
+            "chapter": "150_２００５年１２月２４日（土）_160_ブラックナイヴス",
+            "source": "mixed",
+            "source_row": "179",
+            "source_status": "unscoped",
+            "occurrences": "1",
+            "basis": "旧混合表；出现不等于译法正确；仅证实在本作出现；译法、单字子串及称谓语境仍需审定。；2026-09-20 用户确认；localization/reviews/age2-terminology-20260920.json；仅在对应专名语境使用。"
+          }
+        },
+        {
+          "before": {
+            "jp": "ナイヴス１",
+            "cn": "黑刃1",
+            "status": "candidate",
+            "chapter": "080_２００５年１２月０８日（木）_084_シミュレーションバトル",
+            "source": "mixed",
+            "source_row": "180",
+            "source_status": "unscoped",
+            "occurrences": "1",
+            "basis": "旧混合表；出现不等于译法正确；仅证实在本作出现；译法、单字子串及称谓语境仍需审定。"
+          },
+          "after": {
+            "jp": "ナイヴス１",
+            "cn": "黑刀1",
+            "status": "confirmed",
+            "chapter": "080_２００５年１２月０８日（木）_084_シミュレーションバトル",
+            "source": "mixed",
+            "source_row": "180",
+            "source_status": "unscoped",
+            "occurrences": "1",
+            "basis": "旧混合表；出现不等于译法正确；仅证实在本作出现；译法、单字子串及称谓语境仍需审定。；2026-09-20 用户确认；localization/reviews/age2-terminology-20260920.json；仅在对应专名语境使用。"
+          }
+        },
+        {
+          "before": {
+            "jp": "ウォーケン",
+            "cn": "沃肯",
+            "status": "candidate",
+            "chapter": "080_２００５年１２月０８日（木）_086_米軍デブリーフィング / 100_２００５年１２月１０日（土）_102_まりもと食事 / 120_２００５年１２月２２日（木）_121_レセプション・ウォーケン登場 / 120_２００５年１２月２２日（木）_126_帰宅し丘の上にて / 120_２００５年１２月２２日（木）_129_同時刻：米軍サイド / 120_２００５年１２月２２日（木）_135_響吶喊 / 120_２００５年１２月２２日（木）_147_プラント外３島嶼地区 / 150_２００５年１２月２４日（土）_152_格納庫にて待機する響 / 150_２００５年１２月２４日（土）_162_駒木の苦悩",
+            "source": "legacy-tsv",
+            "source_row": "154",
+            "source_status": "unclassified",
+            "occurrences": "15",
+            "basis": "旧 TSV 专名词库；不能按文件名认定全系列通用；仅证实在本作出现；译法、单字子串及称谓语境仍需审定。"
+          },
+          "after": {
+            "jp": "ウォーケン",
+            "cn": "沃肯",
+            "status": "confirmed",
+            "chapter": "080_２００５年１２月０８日（木）_086_米軍デブリーフィング / 100_２００５年１２月１０日（土）_102_まりもと食事 / 120_２００５年１２月２２日（木）_121_レセプション・ウォーケン登場 / 120_２００５年１２月２２日（木）_126_帰宅し丘の上にて / 120_２００５年１２月２２日（木）_129_同時刻：米軍サイド / 120_２００５年１２月２２日（木）_135_響吶喊 / 120_２００５年１２月２２日（木）_147_プラント外３島嶼地区 / 150_２００５年１２月２４日（土）_152_格納庫にて待機する響 / 150_２００５年１２月２４日（土）_162_駒木の苦悩",
+            "source": "legacy-tsv",
+            "source_row": "154",
+            "source_status": "unclassified",
+            "occurrences": "15",
+            "basis": "旧 TSV 专名词库；不能按文件名认定全系列通用；仅证实在本作出现；译法、单字子串及称谓语境仍需审定。；2026-09-20 用户确认；localization/reviews/age2-terminology-20260920.json；仅在对应专名语境使用。"
+          }
+        },
+        {
+          "before": {
+            "jp": "レア・ゲグラン",
+            "cn": "蕾娅·盖克兰",
+            "status": "candidate",
+            "chapter": "150_２００５年１２月２４日（土）_156_ラファールの中",
+            "source": "legacy-tsv",
+            "source_row": "1972",
+            "source_status": "unclassified",
+            "occurrences": "1",
+            "basis": "旧 TSV 专名词库；不能按文件名认定全系列通用；仅证实在本作出现；译法、单字子串及称谓语境仍需审定。"
+          },
+          "after": {
+            "jp": "レア・ゲグラン",
+            "cn": "蕾亚·盖斯克朗",
+            "status": "confirmed",
+            "chapter": "150_２００５年１２月２４日（土）_156_ラファールの中",
+            "source": "legacy-tsv",
+            "source_row": "1972",
+            "source_status": "unclassified",
+            "occurrences": "1",
+            "basis": "旧 TSV 专名词库；不能按文件名认定全系列通用；仅证实在本作出现；译法、单字子串及称谓语境仍需审定。；2026-09-20 用户确认；localization/reviews/age2-terminology-20260920.json；仅在对应专名语境使用。"
+          }
+        },
+        {
+          "before": {
+            "jp": "米国海兵隊戦術機部隊ブラックナイヴス",
+            "cn": "美国海军陆战队战术机部队黑刃队",
+            "status": "candidate",
+            "chapter": "120_２００５年１２月２２日（木）_135_響吶喊",
+            "source": "legacy-tsv",
+            "source_row": "2184",
+            "source_status": "unclassified",
+            "occurrences": "1",
+            "basis": "旧 TSV 专名词库；不能按文件名认定全系列通用；仅证实在本作出现；译法、单字子串及称谓语境仍需审定。"
+          },
+          "after": {
+            "jp": "米国海兵隊戦術機部隊ブラックナイヴス",
+            "cn": "美国海军陆战队战术机部队黑刀队",
+            "status": "confirmed",
+            "chapter": "120_２００５年１２月２２日（木）_135_響吶喊",
+            "source": "legacy-tsv",
+            "source_row": "2184",
+            "source_status": "unclassified",
+            "occurrences": "1",
+            "basis": "旧 TSV 专名词库；不能按文件名认定全系列通用；仅证实在本作出现；译法、单字子串及称谓语境仍需审定。；2026-09-20 用户确认；localization/reviews/age2-terminology-20260920.json；仅在对应专名语境使用。"
+          }
+        },
+        {
+          "before": null,
+          "after": {
+            "jp": "ボーニング",
+            "cn": "波宁",
+            "status": "confirmed",
+            "chapter": "tda02",
+            "source": "maintainer-20260920",
+            "source_row": "1",
+            "source_status": "confirmed",
+            "occurrences": "",
+            "basis": "2026-09-20 用户确认；localization/reviews/age2-terminology-20260920.json；仅在对应专名语境使用。"
+          }
+        },
+        {
+          "before": null,
+          "after": {
+            "jp": "ボーニング社",
+            "cn": "波宁公司",
+            "status": "confirmed",
+            "chapter": "tda02",
+            "source": "maintainer-20260920",
+            "source_row": "2",
+            "source_status": "confirmed",
+            "occurrences": "",
+            "basis": "2026-09-20 用户确认；localization/reviews/age2-terminology-20260920.json；仅在对应专名语境使用。"
+          }
+        },
+        {
+          "before": null,
+          "after": {
+            "jp": "ゲグラン",
+            "cn": "盖斯克朗",
+            "status": "confirmed",
+            "chapter": "tda02",
+            "source": "maintainer-20260920",
+            "source_row": "3",
+            "source_status": "confirmed",
+            "occurrences": "",
+            "basis": "2026-09-20 用户确认；localization/reviews/age2-terminology-20260920.json；仅在对应专名语境使用。"
+          }
+        },
+        {
+          "before": null,
+          "after": {
+            "jp": "リヴィエール",
+            "cn": "里维埃",
+            "status": "confirmed",
+            "chapter": "tda02",
+            "source": "maintainer-20260920",
+            "source_row": "4",
+            "source_status": "confirmed",
+            "occurrences": "",
+            "basis": "2026-09-20 用户确认；localization/reviews/age2-terminology-20260920.json；仅在对应专名语境使用。"
+          }
+        },
+        {
+          "before": null,
+          "after": {
+            "jp": "ヒビキ",
+            "cn": "响",
+            "status": "confirmed",
+            "chapter": "tda02",
+            "source": "maintainer-20260920",
+            "source_row": "5",
+            "source_status": "confirmed",
+            "occurrences": "",
+            "basis": "2026-09-20 用户确认；localization/reviews/age2-terminology-20260920.json；仅在对应专名语境使用。"
+          }
+        },
+        {
+          "before": null,
+          "after": {
+            "jp": "ユズカ",
+            "cn": "柚香",
+            "status": "confirmed",
+            "chapter": "tda02",
+            "source": "maintainer-20260920",
+            "source_row": "6",
+            "source_status": "confirmed",
+            "occurrences": "",
+            "basis": "2026-09-20 用户确认；localization/reviews/age2-terminology-20260920.json；仅在对应专名语境使用。"
+          }
+        },
+        {
+          "before": null,
+          "after": {
+            "jp": "シズク",
+            "cn": "雫",
+            "status": "confirmed",
+            "chapter": "tda02",
+            "source": "maintainer-20260920",
+            "source_row": "7",
+            "source_status": "confirmed",
+            "occurrences": "",
+            "basis": "2026-09-20 用户确认；localization/reviews/age2-terminology-20260920.json；仅在对应专名语境使用。"
+          }
+        },
+        {
+          "before": null,
+          "after": {
+            "jp": "フェザント・リード",
+            "cn": "雉鸡长机",
+            "status": "confirmed",
+            "chapter": "tda02",
+            "source": "maintainer-20260920",
+            "source_row": "8",
+            "source_status": "confirmed",
+            "occurrences": "",
+            "basis": "2026-09-20 用户确认；localization/reviews/age2-terminology-20260920.json；仅在对应专名语境使用。"
+          }
+        }
+      ],
+      "current_terms": 98
+    },
+    "tda03": {
+      "baseline_changes": [
+        {
+          "before": {
+            "jp": "ボーニング社",
+            "cn": "波音公司",
+            "status": "contextual",
+            "chapter": "本作；详见使用限制",
+            "source": "selected-tda03",
+            "source_row": "41",
+            "source_status": "provisional-selected",
+            "occurrences": "",
+            "basis": "仅作翻译审校参考；确认对应专名/军事称谓后使用，不自动替换正文；来自上一轮暂定专表，不是历史全量基线。"
+          },
+          "after": {
+            "jp": "ボーニング社",
+            "cn": "波宁公司",
+            "status": "confirmed",
+            "chapter": "本作；详见使用限制",
+            "source": "selected-tda03",
+            "source_row": "41",
+            "source_status": "provisional-selected",
+            "occurrences": "",
+            "basis": "仅作翻译审校参考；确认对应专名/军事称谓后使用，不自动替换正文；来自上一轮暂定专表，不是历史全量基线。；2026-09-20 用户确认；localization/reviews/age2-terminology-20260920.json；仅在对应专名语境使用。"
+          }
+        },
+        {
+          "before": {
+            "jp": "ナイヴス１",
+            "cn": "黑刃1",
+            "status": "candidate",
+            "chapter": "2006年01月01日_02：シアトル混乱 / 2006年02月18日_02：米軍戦術機部隊投入 / 2006年02月18日_08：『門』入り口 / 2006年02月18日_10：米軍突入部隊 / 2006年02月18日_21：JFK脳髄の間 / 2006年02月19日_01：白銀武",
+            "source": "mixed",
+            "source_row": "180",
+            "source_status": "unscoped",
+            "occurrences": "17",
+            "basis": "旧混合表；出现不等于译法正确；仅证实在本作出现；译法、单字子串及称谓语境仍需审定。"
+          },
+          "after": {
+            "jp": "ナイヴス１",
+            "cn": "黑刀1",
+            "status": "confirmed",
+            "chapter": "2006年01月01日_02：シアトル混乱 / 2006年02月18日_02：米軍戦術機部隊投入 / 2006年02月18日_08：『門』入り口 / 2006年02月18日_10：米軍突入部隊 / 2006年02月18日_21：JFK脳髄の間 / 2006年02月19日_01：白銀武",
+            "source": "mixed",
+            "source_row": "180",
+            "source_status": "unscoped",
+            "occurrences": "17",
+            "basis": "旧混合表；出现不等于译法正确；仅证实在本作出现；译法、单字子串及称谓语境仍需审定。；2026-09-20 用户确认；localization/reviews/age2-terminology-20260920.json；仅在对应专名语境使用。"
+          }
+        },
+        {
+          "before": {
+            "jp": "ウォーケン",
+            "cn": "沃肯",
+            "status": "candidate",
+            "chapter": "2006年01月01日_12：北米航空宇宙防衛司令部攻防戦2 / 2006年01月21日_01：JFKハイヴ攻略戦準備【0730修正】 / 2006年02月15日_02：作戦会議【0730修正】 / 2006年02月18日_10：米軍突入部隊 / 2006年02月18日_12：地下茎 / 2006年02月18日_15：後退するフランス部隊 / 2006年02月18日_23：特攻前",
+            "source": "legacy-tsv",
+            "source_row": "154",
+            "source_status": "unclassified",
+            "occurrences": "11",
+            "basis": "旧 TSV 专名词库；不能按文件名认定全系列通用；仅证实在本作出现；译法、单字子串及称谓语境仍需审定。"
+          },
+          "after": {
+            "jp": "ウォーケン",
+            "cn": "沃肯",
+            "status": "confirmed",
+            "chapter": "2006年01月01日_12：北米航空宇宙防衛司令部攻防戦2 / 2006年01月21日_01：JFKハイヴ攻略戦準備【0730修正】 / 2006年02月15日_02：作戦会議【0730修正】 / 2006年02月18日_10：米軍突入部隊 / 2006年02月18日_12：地下茎 / 2006年02月18日_15：後退するフランス部隊 / 2006年02月18日_23：特攻前",
+            "source": "legacy-tsv",
+            "source_row": "154",
+            "source_status": "unclassified",
+            "occurrences": "11",
+            "basis": "旧 TSV 专名词库；不能按文件名认定全系列通用；仅证实在本作出现；译法、单字子串及称谓语境仍需审定。；2026-09-20 用户确认；localization/reviews/age2-terminology-20260920.json；仅在对应专名语境使用。"
+          }
+        },
+        {
+          "before": {
+            "jp": "レア・ゲグラン",
+            "cn": "蕾娅·盖克兰",
+            "status": "candidate",
+            "chapter": "2005年12月31日_06：待ち受ける者 / 2006年01月09日_01：格納庫",
+            "source": "legacy-tsv",
+            "source_row": "1972",
+            "source_status": "unclassified",
+            "occurrences": "2",
+            "basis": "旧 TSV 专名词库；不能按文件名认定全系列通用；仅证实在本作出现；译法、单字子串及称谓语境仍需审定。"
+          },
+          "after": {
+            "jp": "レア・ゲグラン",
+            "cn": "蕾亚·盖斯克朗",
+            "status": "confirmed",
+            "chapter": "2005年12月31日_06：待ち受ける者 / 2006年01月09日_01：格納庫",
+            "source": "legacy-tsv",
+            "source_row": "1972",
+            "source_status": "unclassified",
+            "occurrences": "2",
+            "basis": "旧 TSV 专名词库；不能按文件名认定全系列通用；仅证实在本作出现；译法、单字子串及称谓语境仍需审定。；2026-09-20 用户确认；localization/reviews/age2-terminology-20260920.json；仅在对应专名语境使用。"
+          }
+        },
+        {
+          "before": {
+            "jp": "ナイヴス２",
+            "cn": "黑刀2",
+            "status": "candidate",
+            "chapter": "2006年02月18日_24：反応炉区画での激戦",
+            "source": "legacy-tsv",
+            "source_row": "2002",
+            "source_status": "unclassified",
+            "occurrences": "1",
+            "basis": "旧 TSV 专名词库；不能按文件名认定全系列通用；仅证实在本作出现；译法、单字子串及称谓语境仍需审定。"
+          },
+          "after": {
+            "jp": "ナイヴス２",
+            "cn": "黑刀2",
+            "status": "confirmed",
+            "chapter": "2006年02月18日_24：反応炉区画での激戦",
+            "source": "legacy-tsv",
+            "source_row": "2002",
+            "source_status": "unclassified",
+            "occurrences": "1",
+            "basis": "旧 TSV 专名词库；不能按文件名认定全系列通用；仅证实在本作出现；译法、单字子串及称谓语境仍需审定。；2026-09-20 用户确认；localization/reviews/age2-terminology-20260920.json；仅在对应专名语境使用。"
+          }
+        },
+        {
+          "before": {
+            "jp": "ナイヴス４",
+            "cn": "黑刀4",
+            "status": "candidate",
+            "chapter": "2006年02月18日_04：戦術機部隊撤退",
+            "source": "legacy-tsv",
+            "source_row": "2004",
+            "source_status": "unclassified",
+            "occurrences": "1",
+            "basis": "旧 TSV 专名词库；不能按文件名认定全系列通用；仅证实在本作出现；译法、单字子串及称谓语境仍需审定。"
+          },
+          "after": {
+            "jp": "ナイヴス４",
+            "cn": "黑刀4",
+            "status": "confirmed",
+            "chapter": "2006年02月18日_04：戦術機部隊撤退",
+            "source": "legacy-tsv",
+            "source_row": "2004",
+            "source_status": "unclassified",
+            "occurrences": "1",
+            "basis": "旧 TSV 专名词库；不能按文件名认定全系列通用；仅证实在本作出现；译法、单字子串及称谓语境仍需审定。；2026-09-20 用户确认；localization/reviews/age2-terminology-20260920.json；仅在对应专名语境使用。"
+          }
+        },
+        {
+          "before": {
+            "jp": "ブラックナイヴス",
+            "cn": "黑刃队",
+            "status": "candidate",
+            "chapter": "2006年02月18日_02：米軍戦術機部隊投入 / 2006年02月18日_08：『門』入り口 / 2006年02月18日_15：後退するフランス部隊 / 2006年02月18日_21：JFK脳髄の間",
+            "source": "legacy-tsv",
+            "source_row": "2013",
+            "source_status": "unclassified",
+            "occurrences": "9",
+            "basis": "旧 TSV 专名词库；不能按文件名认定全系列通用；仅证实在本作出现；译法、单字子串及称谓语境仍需审定。"
+          },
+          "after": {
+            "jp": "ブラックナイヴス",
+            "cn": "黑刀",
+            "status": "confirmed",
+            "chapter": "2006年02月18日_02：米軍戦術機部隊投入 / 2006年02月18日_08：『門』入り口 / 2006年02月18日_15：後退するフランス部隊 / 2006年02月18日_21：JFK脳髄の間",
+            "source": "legacy-tsv",
+            "source_row": "2013",
+            "source_status": "unclassified",
+            "occurrences": "9",
+            "basis": "旧 TSV 专名词库；不能按文件名认定全系列通用；仅证实在本作出现；译法、单字子串及称谓语境仍需审定。；2026-09-20 用户确认；localization/reviews/age2-terminology-20260920.json；仅在对应专名语境使用。"
+          }
+        },
+        {
+          "before": {
+            "jp": "ナイヴス",
+            "cn": "黑刃",
+            "status": "candidate",
+            "chapter": "2006年01月01日_02：シアトル混乱 / 2006年02月18日_02：米軍戦術機部隊投入 / 2006年02月18日_04：戦術機部隊撤退 / 2006年02月18日_08：『門』入り口 / 2006年02月18日_10：米軍突入部隊 / 2006年02月18日_21：JFK脳髄の間 / 2006年02月18日_24：反応炉区画での激戦 / 2006年02月19日_01：白銀武",
+            "source": "legacy-tsv",
+            "source_row": "2168",
+            "source_status": "unclassified",
+            "occurrences": "19",
+            "basis": "旧 TSV 专名词库；不能按文件名认定全系列通用；仅证实在本作出现；译法、单字子串及称谓语境仍需审定。"
+          },
+          "after": {
+            "jp": "ナイヴス",
+            "cn": "黑刀",
+            "status": "confirmed",
+            "chapter": "2006年01月01日_02：シアトル混乱 / 2006年02月18日_02：米軍戦術機部隊投入 / 2006年02月18日_04：戦術機部隊撤退 / 2006年02月18日_08：『門』入り口 / 2006年02月18日_10：米軍突入部隊 / 2006年02月18日_21：JFK脳髄の間 / 2006年02月18日_24：反応炉区画での激戦 / 2006年02月19日_01：白銀武",
+            "source": "legacy-tsv",
+            "source_row": "2168",
+            "source_status": "unclassified",
+            "occurrences": "19",
+            "basis": "旧 TSV 专名词库；不能按文件名认定全系列通用；仅证实在本作出现；译法、单字子串及称谓语境仍需审定。；2026-09-20 用户确认；localization/reviews/age2-terminology-20260920.json；仅在对应专名语境使用。"
+          }
+        },
+        {
+          "before": {
+            "jp": "ブラックナイヴス小隊",
+            "cn": "黑刃小队",
+            "status": "candidate",
+            "chapter": "2006年02月18日_08：『門』入り口",
+            "source": "legacy-tsv",
+            "source_row": "2169",
+            "source_status": "unclassified",
+            "occurrences": "1",
+            "basis": "旧 TSV 专名词库；不能按文件名认定全系列通用；仅证实在本作出现；译法、单字子串及称谓语境仍需审定。"
+          },
+          "after": {
+            "jp": "ブラックナイヴス小隊",
+            "cn": "黑刀小队",
+            "status": "confirmed",
+            "chapter": "2006年02月18日_08：『門』入り口",
+            "source": "legacy-tsv",
+            "source_row": "2169",
+            "source_status": "unclassified",
+            "occurrences": "1",
+            "basis": "旧 TSV 专名词库；不能按文件名认定全系列通用；仅证实在本作出现；译法、单字子串及称谓语境仍需审定。；2026-09-20 用户确认；localization/reviews/age2-terminology-20260920.json；仅在对应专名语境使用。"
+          }
+        },
+        {
+          "before": null,
+          "after": {
+            "jp": "ボーニング",
+            "cn": "波宁",
+            "status": "confirmed",
+            "chapter": "tda03",
+            "source": "maintainer-20260920",
+            "source_row": "1",
+            "source_status": "confirmed",
+            "occurrences": "",
+            "basis": "2026-09-20 用户确认；localization/reviews/age2-terminology-20260920.json；仅在对应专名语境使用。"
+          }
+        },
+        {
+          "before": null,
+          "after": {
+            "jp": "ゲグラン",
+            "cn": "盖斯克朗",
+            "status": "confirmed",
+            "chapter": "tda03",
+            "source": "maintainer-20260920",
+            "source_row": "2",
+            "source_status": "confirmed",
+            "occurrences": "",
+            "basis": "2026-09-20 用户确认；localization/reviews/age2-terminology-20260920.json；仅在对应专名语境使用。"
+          }
+        },
+        {
+          "before": null,
+          "after": {
+            "jp": "ヒビキ",
+            "cn": "响",
+            "status": "confirmed",
+            "chapter": "tda03",
+            "source": "maintainer-20260920",
+            "source_row": "3",
+            "source_status": "confirmed",
+            "occurrences": "",
+            "basis": "2026-09-20 用户确认；localization/reviews/age2-terminology-20260920.json；仅在对应专名语境使用。"
+          }
+        },
+        {
+          "before": null,
+          "after": {
+            "jp": "ユズカ",
+            "cn": "柚香",
+            "status": "confirmed",
+            "chapter": "tda03",
+            "source": "maintainer-20260920",
+            "source_row": "4",
+            "source_status": "confirmed",
+            "occurrences": "",
+            "basis": "2026-09-20 用户确认；localization/reviews/age2-terminology-20260920.json；仅在对应专名语境使用。"
+          }
+        },
+        {
+          "before": null,
+          "after": {
+            "jp": "シズク",
+            "cn": "雫",
+            "status": "confirmed",
+            "chapter": "tda03",
+            "source": "maintainer-20260920",
+            "source_row": "5",
+            "source_status": "confirmed",
+            "occurrences": "",
+            "basis": "2026-09-20 用户确认；localization/reviews/age2-terminology-20260920.json；仅在对应专名语境使用。"
+          }
+        }
+      ],
+      "current_terms": 115
+    }
+  }
+}

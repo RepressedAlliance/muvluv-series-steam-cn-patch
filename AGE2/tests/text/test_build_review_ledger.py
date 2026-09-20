@@ -169,7 +169,7 @@ class ReviewLedgerTests(unittest.TestCase):
         for game, path in translation_paths.items():
             table = path.read_bytes()
             table_rows = list(csv.DictReader(table.decode("utf-8-sig").splitlines()))
-            sealed = manifest["translation_inputs"][game]
+            sealed = manifest.get("current_translation_inputs", manifest["translation_inputs"])[game]
             self.assertEqual(sealed["bytes"], len(table))
             self.assertEqual(sealed["rows"], len(table_rows))
             self.assertEqual(

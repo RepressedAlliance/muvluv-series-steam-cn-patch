@@ -1,0 +1,206 @@
+[
+  {
+    "game": "tda03",
+    "source_relative": "assets/data_spec/adv/game/bg/31イベント絵クロニクルズ03以降/225_TDA3話_Map/MAP_JFKハイヴ攻略：戦域図：第1段階：艦砲射撃と誘導弾の飽和攻撃による面制圧によって.webp",
+    "source_sha256": "ebf0ebafa54882ad765e64e842313ad364268ee98e75a6bb92b2fc42c3caea3d",
+    "layout_basis": "八张原图逐张核对：阶段、重金属云和轨道降下兵团补中文，统一18号。J.F.K. HIVE、国别／编队识别码与部队编号保留，未按文件名推测并额外添加图片中不存在的说明。",
+    "labels": [
+      {
+        "source": "PHASE 1",
+        "zh_hans": "（第一阶段）",
+        "font_size": 18,
+        "cn_box": [
+          99,
+          17,
+          207,
+          35
+        ]
+      },
+      {
+        "source": "HEAVY METAL CLOUD",
+        "zh_hans": "（重金属云）",
+        "font_size": 18,
+        "cn_box": [
+          452,
+          486,
+          560,
+          504
+        ]
+      }
+    ],
+    "runtime_review": "pending"
+  },
+  {
+    "game": "tda03",
+    "source_relative": "assets/data_spec/adv/game/bg/31イベント絵クロニクルズ03以降/225_TDA3話_Map/MAP_JFKハイヴ攻略：戦域図：第1段階：重金属雲を展開。通常の70%。第１段階で初期展開.webp",
+    "source_sha256": "228ec9f2f806fd8c5b5024cd91dce97a04ab41f65f93debc0348fea071252acf",
+    "layout_basis": "八张原图逐张核对：阶段、重金属云和轨道降下兵团补中文，统一18号。J.F.K. HIVE、国别／编队识别码与部队编号保留，未按文件名推测并额外添加图片中不存在的说明。",
+    "labels": [
+      {
+        "source": "PHASE 1",
+        "zh_hans": "（第一阶段）",
+        "font_size": 18,
+        "cn_box": [
+          99,
+          17,
+          207,
+          35
+        ]
+      },
+      {
+        "source": "HEAVY METAL CLOUD",
+        "zh_hans": "（重金属云）",
+        "font_size": 18,
+        "cn_box": [
+          452,
+          486,
+          560,
+          504
+        ]
+      }
+    ],
+    "runtime_review": "pending"
+  },
+  {
+    "game": "tda03",
+    "source_relative": "assets/data_spec/adv/game/bg/31イベント絵クロニクルズ03以降/225_TDA3話_Map/MAP_JFKハイヴ攻略：戦域図：第2段階：上陸した戦術機部隊は分散して光線級吶喊.webp",
+    "source_sha256": "bfa2b5a795ce11b0da186311c627b95aca8e50e658494c86fb0e4e77d3accfc7",
+    "layout_basis": "八张原图逐张核对：阶段、重金属云和轨道降下兵团补中文，统一18号。J.F.K. HIVE、国别／编队识别码与部队编号保留，未按文件名推测并额外添加图片中不存在的说明。",
+    "labels": [
+      {
+        "source": "PHASE 2",
+        "zh_hans": "（第二阶段）",
+        "font_size": 18,
+        "cn_box": [
+          99,
+          17,
+          207,
+          35
+        ]
+      }
+    ],
+    "runtime_review": "pending"
+  },
+  {
+    "game": "tda03",
+    "source_relative": "assets/data_spec/adv/game/bg/31イベント絵クロニクルズ03以降/225_TDA3話_Map/MAP_JFKハイヴ攻略：戦域図：第2段階：橋頭堡から上陸した部隊が更に展開。後続の上陸支援.webp",
+    "source_sha256": "4aad8de539222aedc3752896943fe10f5d59684d2c4c0a9399568f1a7666c53d",
+    "layout_basis": "八张原图逐张核对：阶段、重金属云和轨道降下兵团补中文，统一18号。J.F.K. HIVE、国别／编队识别码与部队编号保留，未按文件名推测并额外添加图片中不存在的说明。",
+    "labels": [
+      {
+        "source": "PHASE 2",
+        "zh_hans": "（第二阶段）",
+        "font_size": 18,
+        "cn_box": [
+          99,
+          17,
+          207,
+          35
+        ]
+      }
+    ],
+    "runtime_review": "pending"
+  },
+  {
+    "game": "tda03",
+    "source_relative": "assets/data_spec/adv/game/bg/31イベント絵クロニクルズ03以降/225_TDA3話_Map/MAP_JFKハイヴ攻略：戦域図：第2段階：米国海兵隊のF-18Eと帝国海兵隊A-6Jが上陸.webp",
+    "source_sha256": "ddc8106f69fb643abf077cf8b50073966ca74e63f91bc222969b486be0b4d94a",
+    "layout_basis": "八张原图逐张核对：阶段、重金属云和轨道降下兵团补中文，统一18号。J.F.K. HIVE、国别／编队识别码与部队编号保留，未按文件名推测并额外添加图片中不存在的说明。",
+    "labels": [
+      {
+        "source": "PHASE 2",
+        "zh_hans": "（第二阶段）",
+        "font_size": 18,
+        "cn_box": [
+          99,
+          17,
+          207,
+          35
+        ]
+      }
+    ],
+    "runtime_review": "pending"
+  },
+  {
+    "game": "tda03",
+    "source_relative": "assets/data_spec/adv/game/bg/31イベント絵クロニクルズ03以降/225_TDA3話_Map/MAP_JFKハイヴ攻略：戦域図：第3段階：OSP-1400投下。発射後25分で地上に到達.webp",
+    "source_sha256": "44e9468c90f22683cae5f0d88997cf8ef537bb2bc92d423bbf31d69d317d609d",
+    "layout_basis": "八张原图逐张核对：阶段、重金属云和轨道降下兵团补中文，统一18号。J.F.K. HIVE、国别／编队识别码与部队编号保留，未按文件名推测并额外添加图片中不存在的说明。",
+    "labels": [
+      {
+        "source": "PHASE 3",
+        "zh_hans": "（第三阶段）",
+        "font_size": 18,
+        "cn_box": [
+          99,
+          17,
+          207,
+          35
+        ]
+      }
+    ],
+    "runtime_review": "pending"
+  },
+  {
+    "game": "tda03",
+    "source_relative": "assets/data_spec/adv/game/bg/31イベント絵クロニクルズ03以降/225_TDA3話_Map/MAP_JFKハイヴ攻略：戦域図：第3段階：衛星軌道上で突入準備に入っている軌道降下兵団.webp",
+    "source_sha256": "ffddc3ccba6ab83233ad8d07eb603491036ced6f602eed1ff26b33ad7f6aa11a",
+    "layout_basis": "八张原图逐张核对：阶段、重金属云和轨道降下兵团补中文，统一18号。J.F.K. HIVE、国别／编队识别码与部队编号保留，未按文件名推测并额外添加图片中不存在的说明。",
+    "labels": [
+      {
+        "source": "PHASE 3",
+        "zh_hans": "（第三阶段）",
+        "font_size": 18,
+        "cn_box": [
+          99,
+          17,
+          207,
+          35
+        ]
+      },
+      {
+        "source": "ORBIT DIVERS",
+        "zh_hans": "（轨道降下兵团）",
+        "font_size": 18,
+        "cn_box": [
+          464,
+          441,
+          608,
+          459
+        ]
+      }
+    ],
+    "runtime_review": "pending"
+  },
+  {
+    "game": "tda03",
+    "source_relative": "assets/data_spec/adv/game/bg/31イベント絵クロニクルズ03以降/225_TDA3話_Map/MAP_JFKハイヴ攻略：戦域図：第4段階：ハイヴ突入。米国陸軍第1軍団第66戦術機甲大隊.webp",
+    "source_sha256": "8a3005f4359ec35f320b95e8cd685c0ad669d8e29f7af14b290d9e53bed1424c",
+    "layout_basis": "八张原图逐张核对：阶段、重金属云和轨道降下兵团补中文，统一18号。J.F.K. HIVE、国别／编队识别码与部队编号保留，未按文件名推测并额外添加图片中不存在的说明。",
+    "labels": [
+      {
+        "source": "PHASE 4",
+        "zh_hans": "（第四阶段）",
+        "font_size": 18,
+        "cn_box": [
+          99,
+          17,
+          207,
+          35
+        ]
+      },
+      {
+        "source": "ORBIT DIVERS",
+        "zh_hans": "（轨道降下兵团）",
+        "font_size": 18,
+        "cn_box": [
+          464,
+          441,
+          608,
+          459
+        ]
+      }
+    ],
+    "runtime_review": "pending"
+  }
+]

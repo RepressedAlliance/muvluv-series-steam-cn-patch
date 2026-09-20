@@ -7,6 +7,7 @@ def main():
     parser.add_argument('--staging',type=Path,required=True)
     parser.add_argument('--output',type=Path,required=True)
     parser.add_argument('--game',choices=['tm','tda00','tda01','tda02','tda03'],action='append')
+    parser.add_argument('--release', action='store_true', help='Use public BETA installer names')
     args=parser.parse_args()
     source=Path(__file__).resolve().parents[2]/'packaging/windows'
     compiler=Path(os.environ['WINDIR'])/'Microsoft.NET/Framework64/v4.0.30319/csc.exe'
@@ -26,7 +27,7 @@ def main():
                 if len(data)!=entry['size'] or hashlib.sha256(data).hexdigest()!=entry['sha256']:
                     raise ValueError('Changed staged file: '+str(path))
                 archive.writestr(entry['path'],data)
-        output=args.output/(game+'-CN-'+manifest['version']+'-review.exe')
+        output=args.output/(game+'-CN-'+manifest['version'].replace(' ', '-')+('-Setup.exe' if args.release else '-review.exe'))
         command=[str(compiler),'/nologo','/target:winexe','/platform:x64',
                  '/out:'+str(output.resolve()),'/resource:'+str(payload.resolve())+',payload.zip',
                  '/reference:System.Windows.Forms.dll','/reference:System.Drawing.dll',
@@ -35,7 +36,7 @@ def main():
                  str(source/'Age2Installer.cs'),str(source/'Age2InstallEngine.cs')]
         subprocess.run(command,check=True)
         report[game]={'installer':str(output.resolve()),'bytes':output.stat().st_size,
-                      'sha256':hashlib.sha256(output.read_bytes()).hexdigest(),'status':'review-candidate'}
+                      'sha256':hashlib.sha256(output.read_bytes()).hexdigest(),'status':'BETA' if args.release else 'review-candidate'}
         print(json.dumps(report[game]),flush=True)
     (args.output/'build-report.json').write_text(json.dumps(report,ensure_ascii=False,indent=2),encoding='utf-8')
 

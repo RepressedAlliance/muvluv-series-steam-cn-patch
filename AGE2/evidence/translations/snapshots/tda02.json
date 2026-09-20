@@ -1,6 +1,6 @@
 {
   "bulk_official_dialogue_included": false,
-  "output_bytes": 1981196,
+  "output_bytes": 1985695,
   "output_columns": [
     "call_order",
     "id",
@@ -11,10 +11,10 @@
     "record_kind",
     "cn_text"
   ],
-  "output_sha256": "4797E44951D1270437DA57326FCDA2999048B2E5F402E9AA089CFA39837A3718",
+  "output_sha256": "154DB99FB82B4F6B59B8443DC78B7021F3E62CA1F16EEBE3AC6AAC3D39DAFFA2",
   "record_kinds": {
-    "structural_empty": 4,
-    "text": 6585
+    "text": 6548,
+    "structural_empty": 41
   },
   "removed_source_columns": [
     "jp_text"
@@ -31,5 +31,32 @@
     "audit": "localization/reviews/main-al-alignment-20260909.json",
     "additional_repairs": "localization/reviews/tda-fragment-repairs-20260909.json",
     "source_identity_and_non_chinese_fields_unchanged": true
+  },
+  "revision_control_commands_20260914": {
+    "previous_output_bytes": 1981196,
+    "previous_output_sha256": "4797E44951D1270437DA57326FCDA2999048B2E5F402E9AA089CFA39837A3718",
+    "repaired_native_clear_records": 37,
+    "audit": "localization/reviews/age2-native-clear-records-20260914.json",
+    "realigned_credit_records": 256
+  },
+  "revision_text_loss_20260914": {
+    "audit": "localization/reviews/age2-text-loss-20260914.json",
+    "rows": 1
+  },
+  "revision_dialogue_frames_20260916": {
+    "audit": "localization/reviews/age2-dialogue-frames-20260916.json",
+    "rows": 31,
+    "previous_output_sha256": "641E2218202E1B5C37E9169C569F695BF1A3E90A3781E2D6549BAB6EEC69B9A0"
+  },
+  "revision_line_break_20260919": {
+    "audit": "localization/reviews/age2-tda02-01986-line-break-20260919.json",
+    "rows": 1,
+    "previous_output_sha256": "EEAEB5C6A36F4E574A3D4784276B0517E4F5BDA1EA7DFA0C877D796CC76219D0"
+  },
+  "revision_terminology_20260920": {
+    "audit": "localization/reviews/age2-terminology-20260920.json"
+  },
+  "revision_paratranz_push_20260920": {
+    "audit": "localization/reviews/age2-paratranz-push-20260920.json"
   }
 }

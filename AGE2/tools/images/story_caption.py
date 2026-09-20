@@ -1,6 +1,10 @@
 """Render text-only story overlays using native canvas, ink boxes and color."""
 from pathlib import Path
 from PIL import Image, ImageChops, ImageDraw, ImageFont
+try:
+    from .caption_layout import caption_block
+except ImportError:  # Standalone image builders import this module directly.
+    from caption_layout import caption_block
 
 
 def ink_boxes(source: Image.Image) -> list[tuple[int, int, int, int]]:
@@ -33,7 +37,7 @@ def render_story_caption(template: Path, text: str, font: Path, output: Path,
     This is for text-only overlays, never mixed background/artwork images.
     """
     source = Image.open(template).convert('RGBA')
-    lines = text.split('|')
+    lines = [line.strip() for line in text.split('|')]
     boxes = ink_boxes(source)
     if len(lines) != len(boxes) or any(not line for line in lines):
         raise ValueError(f'Caption lines differ from native ink bands: {template}: {len(lines)} / {boxes}')
@@ -47,6 +51,21 @@ def render_story_caption(template: Path, text: str, font: Path, output: Path,
     draw = ImageDraw.Draw(result)
     placements = []
     normal_height = max(bottom-top for left, top, right, bottom in boxes)
+    if all(bottom-top > normal_height * 0.6 for left, top, right, bottom in boxes):
+        block, layout = caption_block(lines, font, font_size, scale=scale, fill=color)
+        left=min(b[0] for b in boxes);right=max(b[2] for b in boxes)
+        top=min(b[1] for b in boxes);bottom=max(b[3] for b in boxes)
+        x=round((left+right)*scale/2-block.width/2)
+        y=round((top+bottom)*scale/2-block.height/2)
+        if x<0 or y<0 or x+block.width>result.width or y+block.height>result.height:
+            raise ValueError(f'Caption exceeds canvas: {template}')
+        result.alpha_composite(block,(x,y))
+        result=result.resize(source.size,Image.Resampling.LANCZOS)
+        output.parent.mkdir(parents=True,exist_ok=True)
+        result.save(output,format='WEBP',lossless=True,method=6)
+        return {'template':str(template),'size':source.size,'color':color,
+                'placements':[{'text':line,'font_size':font_size,'is_ruby':False} for line in lines],
+                'source_boxes':boxes,'rendered_boxes':ink_boxes(result),'layout':layout}
     for line, (left, top, right, bottom) in zip(lines, boxes):
         is_ruby = bottom-top <= normal_height * 0.6
         size = ruby_font_size if is_ruby else font_size

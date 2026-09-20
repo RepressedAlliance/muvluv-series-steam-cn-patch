@@ -6,11 +6,22 @@ from PIL import Image, ImageDraw
 from AGE2.tools.images.story_caption import ink_boxes, render_story_caption
 from AGE2.tools.images.ui_zh import prefer_game_specific_chinese_textures, preserve_native_title_logo
 from AGE2.tools.images.voice_label import render_voice_label
+from AGE2.tools.images.caption_layout import caption_block
 
 FONT = Path('C:/Windows/Fonts/msyhbd.ttc')
 
 
 class SharedImageRenderingTests(unittest.TestCase):
+    @unittest.skipUnless(FONT.exists(), 'Windows test font unavailable')
+    def test_caption_whitespace_and_baselines_are_stable(self):
+        plain, layout = caption_block(['AAAA','AAAA'], FONT, 20, line_pitch=28)
+        padded, _ = caption_block(['  AAAA\u3000','\u3000AAAA  '], FONT, 20, line_pitch=28)
+        self.assertEqual(plain.tobytes(), padded.tobytes())
+        boxes=ink_boxes(plain)
+        self.assertEqual(len(boxes),2)
+        self.assertEqual(boxes[1][1]-boxes[0][1],28*4)
+        self.assertEqual(layout['baseline_offsets'],[0,28])
+
     @unittest.skipUnless(FONT.exists(), 'Windows test font unavailable')
     def test_voice_labels_keep_size_and_reject_overflow_instead_of_shrinking(self):
         with tempfile.TemporaryDirectory() as td:

@@ -1,0 +1,97 @@
+[
+  {
+    "game": "tda03",
+    "source_relative": "assets/data_spec/adv/game/bg/31イベント絵クロニクルズ03以降/015_TDA2話_Map/戦術マップ_1222侵入部隊説明d.webp",
+    "source_sha256": "75fc4d62d85b23b750abf25089c68d65cd9078739dda698fec3c0ca052937215",
+    "layout_basis": "保留原图地理线条、阵地、射程扇区及原标识，加注中文；全组中文固定20号，地图地名与现行正文一致。",
+    "labels": [
+      {
+        "source": "PLANT",
+        "zh_hans": "（生产平台）",
+        "font_size": 20,
+        "cn_box": [
+          395,
+          350,
+          515,
+          369
+        ]
+      },
+      {
+        "source": "TACOMA BASE",
+        "zh_hans": "（塔科马基地）",
+        "font_size": 20,
+        "cn_box": [
+          690,
+          385,
+          830,
+          404
+        ]
+      },
+      {
+        "source": "FORT LEWIS BASE",
+        "zh_hans": "（刘易斯堡基地）",
+        "font_size": 20,
+        "cn_box": [
+          518,
+          516,
+          678,
+          536
+        ]
+      }
+    ],
+    "runtime_review": "pending"
+  },
+  {
+    "game": "tda03",
+    "source_relative": "assets/data_spec/adv/game/bg/31イベント絵クロニクルズ03以降/015_TDA2話_Map/戦術マップ_1222侵入部隊説明e.webp",
+    "source_sha256": "9d9d795b3e18175ff917d16889d925d8a248612cd258e5a60fa76f4ecefcbf8b",
+    "layout_basis": "保留原图地理线条、阵地、射程扇区及原标识，加注中文；全组中文固定20号，地图地名与现行正文一致。",
+    "labels": [
+      {
+        "source": "PLANT",
+        "zh_hans": "（生产平台）",
+        "font_size": 20,
+        "cn_box": [
+          395,
+          350,
+          515,
+          369
+        ]
+      },
+      {
+        "source": "TACOMA BASE",
+        "zh_hans": "（塔科马基地）",
+        "font_size": 20,
+        "cn_box": [
+          690,
+          385,
+          830,
+          404
+        ]
+      },
+      {
+        "source": "FORT LEWIS BASE",
+        "zh_hans": "（刘易斯堡基地）",
+        "font_size": 20,
+        "cn_box": [
+          518,
+          516,
+          678,
+          536
+        ]
+      },
+      {
+        "source": "SHELTON",
+        "zh_hans": "（谢尔顿）",
+        "font_size": 20,
+        "cn_box": [
+          120,
+          430,
+          220,
+          449
+        ]
+      }
+    ],
+    "runtime_review": "pending"
+  }
+]

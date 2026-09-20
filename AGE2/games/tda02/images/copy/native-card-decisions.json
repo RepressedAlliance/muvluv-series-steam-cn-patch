@@ -1,0 +1,119 @@
+[
+  {
+    "game": "tda02",
+    "source_relative": "assets/data_spec/adv/game/bg/31イベント絵クロニクルズ03以降/020_TDA2話_SD絵/響サイン会.webp",
+    "source_sha256": "69cb20186fb4c891295468c8dd8a5d35ed27f432bb56adc8033eca24dd9d210f",
+    "action": "preserve_native",
+    "reason": "纸箱可见文字为北九州；保留原版美术。"
+  },
+  {
+    "game": "tda02",
+    "source_relative": "assets/data_spec/adv/game/chr/01TDA_710_オブジェクト/910_TDA2話日付テロップ/TDA2話日付テロップ_2005年12月10日.webp",
+    "source_sha256": "f243fdcdf2bfa0bf1d8dd514a4f5ae08dd98e82fbc01a1a001fc21418e156851",
+    "action": "preserve_native",
+    "reason": "原图只有年月日，中文可直接使用；保留原字形、尺寸和位置。"
+  },
+  {
+    "game": "tda02",
+    "source_relative": "assets/data_spec/adv/game/chr/01TDA_710_オブジェクト/910_TDA2話日付テロップ/TDA2話日付テロップ_2005年12月11日.webp",
+    "source_sha256": "961d427ca51009e8443b89d7ae1785568aeb518581308ba34771db8511872f5f",
+    "action": "preserve_native",
+    "reason": "原图只有年月日，中文可直接使用；保留原字形、尺寸和位置。"
+  },
+  {
+    "game": "tda02",
+    "source_relative": "assets/data_spec/adv/game/chr/01TDA_710_オブジェクト/910_TDA2話日付テロップ/TDA2話日付テロップ_2005年12月1日.webp",
+    "source_sha256": "47198f137dfa5d9f9fb67f8b8f33391a743086c1b2c2312e01e3a75752a22b69",
+    "action": "preserve_native",
+    "reason": "原图只有年月日，中文可直接使用；保留原字形、尺寸和位置。"
+  },
+  {
+    "game": "tda02",
+    "source_relative": "assets/data_spec/adv/game/chr/01TDA_710_オブジェクト/910_TDA2話日付テロップ/TDA2話日付テロップ_2005年12月22日.webp",
+    "source_sha256": "2dfdb2ee965d8a0518671b5313f22cd9177a3db6ab22bb7ee4fe790ab238044f",
+    "action": "preserve_native",
+    "reason": "原图只有年月日，中文可直接使用；保留原字形、尺寸和位置。"
+  },
+  {
+    "game": "tda02",
+    "source_relative": "assets/data_spec/adv/game/chr/01TDA_710_オブジェクト/910_TDA2話日付テロップ/TDA2話日付テロップ_2005年12月24日.webp",
+    "source_sha256": "89d490748d86f5af6cf9550bcf73bf5a3767e6715f607cac57939f35f953fb5d",
+    "action": "preserve_native",
+    "reason": "原图只有年月日，中文可直接使用；保留原字形、尺寸和位置。"
+  },
+  {
+    "game": "tda02",
+    "source_relative": "assets/data_spec/adv/game/chr/01TDA_710_オブジェクト/910_TDA2話日付テロップ/TDA2話日付テロップ_2005年12月2日.webp",
+    "source_sha256": "100d740e085435a5dbec6f82baf38b384a67668ee938f4def86e14bd8bee5e32",
+    "action": "preserve_native",
+    "reason": "原图只有年月日，中文可直接使用；保留原字形、尺寸和位置。"
+  },
+  {
+    "game": "tda02",
+    "source_relative": "assets/data_spec/adv/game/chr/01TDA_710_オブジェクト/910_TDA2話日付テロップ/TDA2話日付テロップ_2005年12月3日.webp",
+    "source_sha256": "d7b30f28071fb6042f4dd6d0eb0e2f19e0920c5782bfab8870b6c2e4ef5eb778",
+    "action": "preserve_native",
+    "reason": "原图只有年月日，中文可直接使用；保留原字形、尺寸和位置。"
+  },
+  {
+    "game": "tda02",
+    "source_relative": "assets/data_spec/adv/game/chr/01TDA_710_オブジェクト/910_TDA2話日付テロップ/TDA2話日付テロップ_2005年12月4日.webp",
+    "source_sha256": "9913fb7431b30353bf5f94f11a0f4e308903df081bf8e9b2eddb1bd56f8ab94c",
+    "action": "preserve_native",
+    "reason": "原图只有年月日，中文可直接使用；保留原字形、尺寸和位置。"
+  },
+  {
+    "game": "tda02",
+    "source_relative": "assets/data_spec/adv/game/chr/01TDA_710_オブジェクト/910_TDA2話日付テロップ/TDA2話日付テロップ_2005年12月5日.webp",
+    "source_sha256": "e29a99c8898155b18c2a01687effb0ba82c112b3600db2c183a40616f6914b74",
+    "action": "preserve_native",
+    "reason": "原图只有年月日，中文可直接使用；保留原字形、尺寸和位置。"
+  },
+  {
+    "game": "tda02",
+    "source_relative": "assets/data_spec/adv/game/chr/01TDA_710_オブジェクト/910_TDA2話日付テロップ/TDA2話日付テロップ_2005年12月7日.webp",
+    "source_sha256": "3e4156fa278521b54d50170c5b6f24c257129bd55b08c335b5370746eeace096",
+    "action": "preserve_native",
+    "reason": "原图只有年月日，中文可直接使用；保留原字形、尺寸和位置。"
+  },
+  {
+    "game": "tda02",
+    "source_relative": "assets/data_spec/adv/game/chr/01TDA_710_オブジェクト/910_TDA2話日付テロップ/TDA2話日付テロップ_2005年12月8日.webp",
+    "source_sha256": "8c0cd739cfd90be18e52fd3adc8e77456a2f198e202cd5bc11d1f6bf38289844",
+    "action": "preserve_native",
+    "reason": "原图只有年月日，中文可直接使用；保留原字形、尺寸和位置。"
+  },
+  {
+    "game": "tda02",
+    "source_relative": "assets/data_spec/adv/game/chr/01TDA_710_オブジェクト/910_TDA2話日付テロップ/TDA2話日付テロップ_2005年12月9日.webp",
+    "source_sha256": "6fa9832d49e62eb512877c258bd188ad25f9e1421497a7c813c42de76dd086d2",
+    "action": "preserve_native",
+    "reason": "原图只有年月日，中文可直接使用；保留原字形、尺寸和位置。"
+  },
+  {
+    "game": "tda02",
+    "source_relative": "assets/data_spec/adv/game/chr/35演出用画像/020_デイアフター２話/律子登場テロップ_大上律子中尉.webp",
+    "source_sha256": "a55028e3d8ecc1e17ddc229c784dffcac19142df553f2e237c5b4bc43adced06",
+    "action": "translate_text_only",
+    "reason": "按原图字号层级保留单位说明与姓名的区别；同级文字字号相同。",
+    "zh_cn": "日本帝国本土防卫军·西雅图驻军|第1战术机甲团第2营第2连第3小队队长|大上律子中尉",
+    "font_sizes": [
+      28,
+      28,
+      80
+    ],
+    "runtime_review": "pending"
+  },
+  {
+    "game": "tda02",
+    "source_relative": "assets/data_spec/adv/game/chr/35演出用画像/020_デイアフター２話/律子登場テロップ_楠本さやか軍曹.webp",
+    "source_sha256": "009f8bbc39801f658f3a131c4e8dbfc0ba02344403207d57a9a87ed324ea022c",
+    "action": "translate_text_only",
+    "reason": "按原图字号层级保留单位说明与姓名的区别；同级文字字号相同。",
+    "zh_cn": "with 楠本沙也加中士",
+    "font_sizes": [
+      80
+    ],
+    "runtime_review": "pending"
+  }
+]

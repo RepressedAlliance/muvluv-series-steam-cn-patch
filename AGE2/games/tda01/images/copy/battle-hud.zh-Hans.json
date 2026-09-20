@@ -1,0 +1,62 @@
+[
+  {
+    "game": "tda01",
+    "source_relative": "assets/data_spec/adv/game/chr/01TDA_600_戦術機オブジェクト/02HUD情報_/HUD_情報01TDA第６次シアトル_再起動待機中.webp",
+    "source_sha256": "7bc6ca86a9a1257904bf00d1c87486c2dea1657ccb6cf93d5bf7c7f1511201d9",
+    "zh_cn": "等待重新启动",
+    "font_size": 60,
+    "horizontal_scale": 1,
+    "native_frame_preserved": true,
+    "runtime_review": "pending"
+  },
+  {
+    "game": "tda01",
+    "source_relative": "assets/data_spec/adv/game/chr/01TDA_600_戦術機オブジェクト/02HUD情報_/HUD_情報01TDA第６次シアトル_再起動開始.webp",
+    "source_sha256": "3f5419d15a1adc086c2a210ae9c02069ec2ff4306401e2caf3374e1e0de4fbb8",
+    "zh_cn": "开始重启",
+    "font_size": 60,
+    "horizontal_scale": 1,
+    "native_frame_preserved": true,
+    "runtime_review": "pending"
+  },
+  {
+    "game": "tda01",
+    "source_relative": "assets/data_spec/adv/game/chr/01TDA_600_戦術機オブジェクト/02HUD情報_/HUD_情報01TDA第６次シアトル_待機中.webp",
+    "source_sha256": "631861b2ad3d9b9070922069de829a015d00aa4c8d375f619db61e9162ec71d6",
+    "zh_cn": "待机中",
+    "font_size": 60,
+    "horizontal_scale": 1,
+    "native_frame_preserved": true,
+    "runtime_review": "pending"
+  },
+  {
+    "game": "tda01",
+    "source_relative": "assets/data_spec/adv/game/chr/01TDA_600_戦術機オブジェクト/02HUD情報_/HUD_情報01TDA第６次シアトル_注意：停滞緩解剤注射.webp",
+    "source_sha256": "7ee642feab81642eabf0c44a91ee9090eac5795ec49aab1f6d3e85f9220f53a9",
+    "zh_cn": "注射停滞缓解剂",
+    "font_size": 50,
+    "horizontal_scale": 1,
+    "native_frame_preserved": true,
+    "runtime_review": "pending"
+  },
+  {
+    "game": "tda01",
+    "source_relative": "assets/data_spec/adv/game/chr/01TDA_600_戦術機オブジェクト/02HUD情報_/HUD_対電磁パルス防御_対電磁パルス防御.webp",
+    "source_sha256": "5290c7771357bd478941813c4e6667d74c467c05ab8c7371384068c7644a89e0",
+    "zh_cn": "电磁脉冲防御",
+    "font_size": 24,
+    "horizontal_scale": 1,
+    "native_frame_preserved": true,
+    "runtime_review": "pending"
+  },
+  {
+    "game": "tda01",
+    "source_relative": "assets/data_spec/adv/game/chr/01TDA_600_戦術機オブジェクト/02HUD情報_/HUD_情報01TDA第６次シアトル_DRAKE03 強制介入.webp",
+    "source_sha256": "319144bc041aa556c21fe889acd61edee475ee7d6391a762361fdadefb3e8d52",
+    "zh_cn": "强制介入",
+    "font_size": 36,
+    "horizontal_scale": 0.88,
+    "native_frame_preserved": true,
+    "runtime_review": "pending"
+  }
+]

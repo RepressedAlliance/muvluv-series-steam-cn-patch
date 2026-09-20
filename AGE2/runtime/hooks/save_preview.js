@@ -15,8 +15,14 @@ Interceptor.attach(p(saveKeySite),{onEnter(){
 }});
 if(CONFIG.game==='tm') {
   Interceptor.attach(p(0x152c5d),{onEnter(){
-    this.context.rbx=savePreviewLanguages;
-    this.context.rdi=savePreviewLanguages.add(12);
+    // This is also the loop's back edge (152db1 -> 152c5d).
+    // Replace the native range only on entry, not on every iteration;
+    // resetting rbx at the back edge makes saving loop forever.
+    const end=savePreviewLanguages.add(12);
+    if(!this.context.rdi.equals(end)) {
+      this.context.rbx=savePreviewLanguages;
+      this.context.rdi=end;
+    }
   }});
 } else {
   const savePreviewVector=Memory.alloc(24);
