@@ -251,8 +251,13 @@ def check_release_index(errors: list[str]) -> None:
     urls: set[str] = set()
     player_guide_links = [
         markdown_link_targets((ROOT / name).read_text(encoding="utf-8-sig"))
-        for name in ("docs/player/README.md", "docs/en/player-guide.md")
+        for name in ("docs/player/historical-age2.md", "docs/en/player-guide.md")
     ]
+    current_guide_links = markdown_link_targets(
+        (ROOT / "docs/player/README.md").read_text(encoding="utf-8-sig")
+    )
+    if "historical-age2.md" not in current_guide_links:
+        fail(errors, f"{relative}: current player guide does not link to historical AGE2 guidance")
     for index, package in enumerate(packages):
         label = f"{relative}: player_packages[{index}]"
         if not isinstance(package, dict):
@@ -312,7 +317,7 @@ def check_release_index(errors: list[str]) -> None:
         if not isinstance(caveats, list) or not caveats:
             fail(errors, f"{label}: historical caveats are missing")
         if isinstance(url, str) and not all(url in links for links in player_guide_links):
-            fail(errors, f"{label}: direct asset URL is not a Markdown link in both player guides")
+            fail(errors, f"{label}: direct asset URL is not a Markdown link in both historical player guides")
 
     if game_ids != EXPECTED_PLAYER_GAMES:
         fail(

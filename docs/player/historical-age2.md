@@ -11,11 +11,11 @@
 
 | 游戏 | 当前保留版本 | 下载 |
 | --- | --- | --- |
-| THE DAY AFTER episode:00 | beta0.1 | [ZIP](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/download/tda00-beta0.1/MuvLuv_TDA00_CN_Patch_beta0.1.zip) · [发布页](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/tag/tda00-beta0.1) |
-| THE DAY AFTER episode:01 | beta0.2.2 | [ZIP](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/download/tda01-beta0.2.2/MuvLuv_TDA01_CN_Patch_beta0.2.2.zip) · [发布页](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/tag/tda01-beta0.2.2) |
-| THE DAY AFTER episode:02 | beta0.1 | [ZIP](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/download/tda02-beta0.1/MuvLuv_TDA02_CN_Patch_beta0.1.zip) · [发布页](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/tag/tda02-beta0.1) |
-| THE DAY AFTER episode:03 | beta0.1.6 | [ZIP](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/download/tda03-beta0.1.6/MuvLuv_TDA03_CN_Patch_beta0.1.6_full_achievement_fix.zip) · [发布页](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/tag/tda03-beta0.1.6) |
-| 帝都燃烧篇 | beta0.1 | [ZIP](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/download/imperial-capital-burns-beta0.1/MuvLuv_Imperial_Capital_Burns_CN_Patch_beta0.1.zip) · [发布页](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/tag/imperial-capital-burns-beta0.1) |
+| THE DAY AFTER episode:00 | beta0.1 | [ZIP](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/download/tda00-beta0.1/MuvLuv_TDA00_CN_Patch_beta0.1.zip) · [发布页](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/tag/tda00-beta0.1) |
+| THE DAY AFTER episode:01 | beta0.2.2 | [ZIP](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/download/tda01-beta0.2.2/MuvLuv_TDA01_CN_Patch_beta0.2.2.zip) · [发布页](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/tag/tda01-beta0.2.2) |
+| THE DAY AFTER episode:02 | beta0.1 | [ZIP](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/download/tda02-beta0.1/MuvLuv_TDA02_CN_Patch_beta0.1.zip) · [发布页](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/tag/tda02-beta0.1) |
+| THE DAY AFTER episode:03 | beta0.1.6 | [ZIP](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/download/tda03-beta0.1.6/MuvLuv_TDA03_CN_Patch_beta0.1.6_full_achievement_fix.zip) · [发布页](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/tag/tda03-beta0.1.6) |
+| 帝都燃烧篇 | beta0.1 | [ZIP](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/download/imperial-capital-burns-beta0.1/MuvLuv_Imperial_Capital_Burns_CN_Patch_beta0.1.zip) · [发布页](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/tag/imperial-capital-burns-beta0.1) |
 
 <a id="玩家下载"></a>
 
