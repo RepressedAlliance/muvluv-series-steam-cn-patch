@@ -1,0 +1,123 @@
+relative_path	id	source_text_sha256	zh_cn	kind	note
+assets/data_spec/adv/game/scr/localized/010_序章_響の悪夢01.egpack	game_t00002_ruby	0A53D762A77A49B131F30907363B3D44F55A6052410506ED82247967EAAE61B9		ruby	译文正文已表达此读音／同义表述，不在中文上方重复日文注音。
+assets/data_spec/adv/game/scr/localized/020_起_第６次シアトル防衛線01.egpack	game_t00059_ruby	ED6FD290A19192BB037B119432F9A63663CBDC01A31D753638D35A29A0DDFBDC	这次:・・	ruby	按对应中文正文重新定位，保留术语别称、语义注释或强调点。
+assets/data_spec/adv/game/scr/localized/020_起_第６次シアトル防衛線01.egpack	game_t00091_ruby	A68C77CFAFBCB4147DBE40F9869AA70D643B098E4D0DA37B83D9E9EC28ADC461	小队:・・	ruby	按对应中文正文重新定位，保留术语别称、语义注释或强调点。
+assets/data_spec/adv/game/scr/localized/020_起_第６次シアトル防衛線01.egpack	game_t00095_ruby	E7010FCAECF9CEB4FBA9E7EF6F2EFD9CF132611AE5DE4E23843F1B30ED252E09	能用的手段全用上:・・・・・・・・	ruby	按对应中文正文重新定位，保留术语别称、语义注释或强调点。
+assets/data_spec/adv/game/scr/localized/020_起_第６次シアトル防衛線01.egpack	game_t00259_ruby	7652A3F874B7414BC09AC4525CDD0B212D2458A35E0BDA3F0EEBC725484CCDC3	预定:・・	ruby	按对应中文正文重新定位，保留术语别称、语义注释或强调点。
+assets/data_spec/adv/game/scr/localized/020_起_第６次シアトル防衛線01.egpack	game_t00292_ruby	701D27F03AD9C7C28EA531904180F16A06D96EA2B27CD7C500C8A5F9FDC112A9	战死:KIA	ruby	按对应中文正文重新定位，保留术语别称、语义注释或强调点。
+assets/data_spec/adv/game/scr/localized/020_起_第６次シアトル防衛線01.egpack	game_t00314_ruby	701D27F03AD9C7C28EA531904180F16A06D96EA2B27CD7C500C8A5F9FDC112A9	战死:KIA	ruby	按对应中文正文重新定位，保留术语别称、语义注释或强调点。
+assets/data_spec/adv/game/scr/localized/020_起_第６次シアトル防衛線01.egpack	game_t00421_ruby	CD182E97D49C1B5ED94B474501050A386616A7F183E8CCFA8FD11BC9F43155B2	把那些家伙赶过去:・・・・・・・・	ruby	按对应中文正文重新定位，保留术语别称、语义注释或强调点。
+assets/data_spec/adv/game/scr/localized/020_起_第６次シアトル防衛線01.egpack	game_t00533_ruby	EFE679E11FD813A70E982ECF62E7B5A31715B3414339A2C9844CC0EA6A248FA4	那位:・・	ruby	按对应中文正文重新定位，保留术语别称、语义注释或强调点。
+assets/data_spec/adv/game/scr/localized/040_承_2005_10_07 デブリーフィング・顔合わせ01.egpack	game_t00673_ruby	9A5BCB5E5DE15596160D0671570ECED48AD4CE8960877D0F0D7B4FB0C9BAE45F		ruby	译文正文已表达此读音／同义表述，不在中文上方重复日文注音。
+assets/data_spec/adv/game/scr/localized/040_承_2005_10_07 デブリーフィング・顔合わせ01.egpack	game_t00684_ruby	072237278CB81B21FB6E5CFF5B9A6D9647527B1F739136B266BB4BC1CC14AF17		ruby	译文正文已表达此读音／同义表述，不在中文上方重复日文注音。
+assets/data_spec/adv/game/scr/localized/040_承_2005_10_07 デブリーフィング・顔合わせ01.egpack	game_t00957_ruby	EFE679E11FD813A70E982ECF62E7B5A31715B3414339A2C9844CC0EA6A248FA4	那位:・・	ruby	按对应中文正文重新定位，保留术语别称、语义注释或强调点。
+assets/data_spec/adv/game/scr/localized/040_承_2005_10_07 デブリーフィング・顔合わせ01.egpack	game_t01052_ruby	15783A3052939B46A3619C79ADAA0ACE8DCC9B2542E22D60E3E0A6B4FCDC5FC2		ruby	译文正文已表达此读音／同义表述，不在中文上方重复日文注音。
+assets/data_spec/adv/game/scr/localized/040_承_2005_10_07 デブリーフィング・顔合わせ01.egpack	game_t01110_ruby	BC34C4B73D9762C1F8E474E7089FC22498FB863A007674BBAD1D41B3345A5284		ruby	译文正文已表达此读音／同义表述，不在中文上方重复日文注音。
+assets/data_spec/adv/game/scr/localized/040_承_2005_10_07 デブリーフィング・顔合わせ01.egpack	game_t01148_ruby	B978DD19C5E394F3D3993B697111AA47C7F13BEB0228097A08EF0DCC78AC88DB		ruby	译文正文已表达此读音／同义表述，不在中文上方重复日文注音。
+assets/data_spec/adv/game/scr/localized/040_承_2005_10_07 デブリーフィング・顔合わせ01.egpack	game_t01308_ruby	509D1797E8DD5B84A005D56911A1648025C42D8411DB7753CD8DAD48945B02FB	这:・	ruby	按对应中文正文重新定位，保留术语别称、语义注释或强调点。
+assets/data_spec/adv/game/scr/localized/040_承_2005_10_07 デブリーフィング・顔合わせ01.egpack	game_t01314_ruby	509D1797E8DD5B84A005D56911A1648025C42D8411DB7753CD8DAD48945B02FB	那:・	ruby	按对应中文正文重新定位，保留术语别称、语义注释或强调点。
+assets/data_spec/adv/game/scr/localized/040_承_2005_10_07 デブリーフィング・顔合わせ01.egpack	game_t01418_ruby	FE5D1346AC61EE1CE0F9C496E5A08C573EFEEFD6AB7206C8A07408932EA3DCF9		ruby	译文正文已表达此读音／同义表述，不在中文上方重复日文注音。
+assets/data_spec/adv/game/scr/localized/050_承_2005_10_08 軍葬・ハンガー・宿舎01.egpack	game_t01761_ruby	0C13860CEB35F2F6DC4AD558420853707D449C7759B0A2369B99821EF64DEF6C	权利:・・	ruby	按对应中文正文重新定位，保留术语别称、语义注释或强调点。
+assets/data_spec/adv/game/scr/localized/050_承_2005_10_08 軍葬・ハンガー・宿舎01.egpack	game_t02211_ruby	6E88FA4D95B786C69C4FA1E120EE9A70CEF2E979492E2F2FF7898F8347EAEF1E		ruby	译文正文已表达此读音／同义表述，不在中文上方重复日文注音。
+assets/data_spec/adv/game/scr/localized/050_承_2005_10_08 軍葬・ハンガー・宿舎01.egpack	game_t02819_ruby	BC34C4B73D9762C1F8E474E7089FC22498FB863A007674BBAD1D41B3345A5284		ruby	译文正文已表达此读音／同义表述，不在中文上方重复日文注音。
+assets/data_spec/adv/game/scr/localized/050_承_2005_10_08 軍葬・ハンガー・宿舎01.egpack	game_t02846_ruby	2B2BE79593DF1FE2856A9A5810EF025059BBB67AFBE5F71422D427836E4174CF	这个日本:・・・・	ruby	按对应中文正文重新定位，保留术语别称、语义注释或强调点。
+assets/data_spec/adv/game/scr/localized/050_承_2005_10_08 軍葬・ハンガー・宿舎01.egpack	game_t02873_ruby	3AE08086E6ECCF2C8A8C2448FE174480DCE1276347C2CB561F973B9BFAFCFA9E	能用的手段全部用上:・・・・・・・・・	ruby	按对应中文正文重新定位，保留术语别称、语义注释或强调点。
+assets/data_spec/adv/game/scr/localized/060_承_2005_10_10 まりも・警備任務プレ01.egpack	game_t03338_ruby	230CF25B6BA0D49DA6BE06C9AD72A3579DE321F2AC9C584AF9D44267A385D513	那边的客人:・・・・・	ruby	按对应中文正文重新定位，保留术语别称、语义注释或强调点。
+assets/data_spec/adv/game/scr/localized/060_承_2005_10_10 まりも・警備任務プレ01.egpack	game_t03518_ruby	9BB30AB71A7EBF99BE2351296F2F1D5FE7A7654F968D273D084A9C173241ED5A	从那以后:・・・・	ruby	按对应中文正文重新定位，保留术语别称、语义注释或强调点。
+assets/data_spec/adv/game/scr/localized/060_承_2005_10_10 まりも・警備任務プレ01.egpack	game_t03636_ruby	3F99EACB10422ACD47E5BF1AA99738146F585C8BC92A98F0C1461A04D5AFC8C2	警备:・・	ruby	按对应中文正文重新定位，保留术语别称、语义注释或强调点。
+assets/data_spec/adv/game/scr/localized/060_承_2005_10_10 まりも・警備任務プレ01.egpack	game_t03648_ruby	AE614CAF7C03B090E4E047B2327DDEBB9C2728F4D264A64D0B9813D1C24D9B80	下次:・・	ruby	按对应中文正文重新定位，保留术语别称、语义注释或强调点。
+assets/data_spec/adv/game/scr/localized/060_承_2005_10_10 まりも・警備任務プレ01.egpack	game_t03659_ruby	673C662575AAC1D122D4A19947493FE6925481BBF784DF734D2FA4E4123A805D	下次也得注意应付手段:・・・・・・・・・・	ruby	按对应中文正文重新定位，保留术语别称、语义注释或强调点。
+assets/data_spec/adv/game/scr/localized/070_承_2005_10_11 物資受取・雫・エレン01.egpack	game_t03985_ruby	DE6EA7E5E23558B1A0C4C551869E4F910F824D2AEF1B96A23BE3249C291CA4A0	那家伙:・・・	ruby	按对应中文正文重新定位，保留术语别称、语义注释或强调点。
+assets/data_spec/adv/game/scr/localized/070_承_2005_10_11 物資受取・雫・エレン01.egpack	game_t04056_ruby	C295633C982C3EDDE832DC3BBE4A363B7452E0460F63969D08C7FA5D4DD92C8C	那么多事:・・・・	ruby	按对应中文正文重新定位，保留术语别称、语义注释或强调点。
+assets/data_spec/adv/game/scr/localized/070_承_2005_10_11 物資受取・雫・エレン01.egpack	game_t04279_ruby	981189ABEA6CEFE5949D54632CB5A6A2A5AE5E55899BF3ADE6F91C0D28F1190C	我们的:・・・	ruby	按对应中文正文重新定位，保留术语别称、语义注释或强调点。
+assets/data_spec/adv/game/scr/localized/070_承_2005_10_11 物資受取・雫・エレン01.egpack	game_t04618_ruby	C703A6E0E8F8FC7052E260DEBA3AD5D36A4EE03958AC0CA817801167647B0C7D	佣兵:战犬	ruby	按对应中文正文重新定位，保留术语别称、语义注释或强调点。
+assets/data_spec/adv/game/scr/localized/070_承_2005_10_11 物資受取・雫・エレン01.egpack	game_t04629_ruby	3796B109A3FA125ED650337D8D0F800B3F1AB8D8F6CAE93EC4675FE6B9A47476	那边:・・	ruby	按对应中文正文重新定位，保留术语别称、语义注释或强调点。
+assets/data_spec/adv/game/scr/localized/080_承_2005_10_12 孤児院1回目・まりも不在01.egpack	game_t05121_ruby	910913755E0DB0D7332A4A3ADA3825761E2FF6EB8CCB308B036A39133A42154B		ruby	译文正文已表达此读音／同义表述，不在中文上方重复日文注音。
+assets/data_spec/adv/game/scr/localized/080_承_2005_10_12 孤児院1回目・まりも不在01.egpack	game_t05126_ruby	910913755E0DB0D7332A4A3ADA3825761E2FF6EB8CCB308B036A39133A42154B		ruby	译文正文已表达此读音／同义表述，不在中文上方重复日文注音。
+assets/data_spec/adv/game/scr/localized/080_承_2005_10_12 孤児院1回目・まりも不在01.egpack	game_t05131_ruby	910913755E0DB0D7332A4A3ADA3825761E2FF6EB8CCB308B036A39133A42154B		ruby	译文正文已表达此读音／同义表述，不在中文上方重复日文注音。
+assets/data_spec/adv/game/scr/localized/080_承_2005_10_12 孤児院1回目・まりも不在01.egpack	game_t05261_ruby	6A395C3F9C87E8227AD070710D30755887203445D1F312A76D0FB8D0022398D1	又:・	ruby	按对应中文正文重新定位，保留术语别称、语义注释或强调点。
+assets/data_spec/adv/game/scr/localized/090_承_2005_10_13 まりも日米会議・ハンガートーク01.egpack	game_t05521_ruby	69B5300DD4128EFE1B6EBDABE883EDB3FB425A85C937415B39B220FB71E91D54		ruby	译文正文已表达此读音／同义表述，不在中文上方重复日文注音。
+assets/data_spec/adv/game/scr/localized/090_承_2005_10_13 まりも日米会議・ハンガートーク01.egpack	game_t05745_ruby	230CF25B6BA0D49DA6BE06C9AD72A3579DE321F2AC9C584AF9D44267A385D513	那边的客人:・・・・・	ruby	按对应中文正文重新定位，保留术语别称、语义注释或强调点。
+assets/data_spec/adv/game/scr/localized/090_承_2005_10_13 まりも日米会議・ハンガートーク01.egpack	game_t05837_ruby	C685BEC46BB42C470EDC1520FC760563898BE17F03E761BFFEAC571B1D7DB4C2		ruby	译文正文已表达此读音／同义表述，不在中文上方重复日文注音。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00000	CE39D27C79F2657A576F67CF1AECFBCD671777E4758DBD8F23E014612B593BA7	神宫司少校	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00001	FF4EB8F1C242DC78498AC4A99D8A238C03D03EF11DE49D6CF7170E5B3D6A63D8	大家	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00002	34506BE453D3640792E624FF756289352F8963B7E08F356C2E0F74F720FE6912	阿罗兹1	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00003	B3BC34364FFF1D8CCBD49E7024AEBE13EFF250D6D51B35422FEDD820095EC8CF	安娜	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00004	F4B8ADF5B8610E65F5C199479FE50257D3C7885282B95B161BBF9A8E99999CC7	沃肯少校	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00005	854E8A947CA22534B9FB187D6252A0F162D83A3BC89DE2AEEF860E0FE3E78EC9	艾伦	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00006	E374D449C572F415C331298E0BEB787A86EB8C3CD4B4F5471145B48D928F68BB	艾伦·雫	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00007	2EA22A13533DABD9E5641C8B876FE446DFC22DCF86A8ADBF05C86BE432C4ED97	艾伦·雫·楠本	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00008	988D8FD9D8F873554682571BC70B7F498D4C6CF4E0B60A882D15CA647001BB2F	操作员	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00009	1387FA75C3E4ABD0C04C55D8DC640BE963D097188AB45FFC9D4E5C8430037EE1	卡洛内德1	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00010	E88C006615487B6602B6D4F7B0C32FC3DA3E13BF53589D2473B58F9D7A2CE75E	卡洛内德2	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00011	70C62CE9477D1E35B7820836B7868D13CCE98410F37D35AB2B992724A4940DDE	卡洛内德3	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00012	8DCFFF5987BFADFB54E9DEFEC3687EB23079850D3F5460CF4A6013FA2ED903C7	示威队伍	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00013	3EEEC23537ABAD64E9DBC976B9C452F141D73A40653645B602D79B209E1AF6C5	示威队伍成员	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00014	6572337648B903AD10FB7FB06B9E413F206A113D5D0CDAADCC9C5E3BC1E769C6	示威队伍领袖	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00015	01FDDD1833F015AF7E05F0C859F954AAA4DFA517C7296E174771C6C4F065CC98	希尔中尉	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00016	9557F2FD04BA065F66C27A9CABDE2361CA669C6DD8000136551B9C9E7E73A198	一郎	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00017	C281A2E5450CB6E0B99B46ABE9983C1F1732104DD7851E52D10D942736F0798F	事务官	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00018	4EA993EF03D8ACDE34D7970687E837ACF8BF9F690FBA8090392A50894EEB4AAD	千堂	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00019	C4B7DC88E035A52ACBF888378028FD6FA4D13126AE98165D208D14F8AC66A5BA	古手川老师	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00020	257EA5070ED07CD78EDD8AC9097B16F3F2330879D691B98680DBACF2BBB2E1DD	各小队长	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00021	73CC46ED2C647669E42CFDF7DDE132EEF8A2A4850EE9E9AF6FF0FAD713C5BB69	和美	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00022	693E132F27EB39E775935C3D48E7729D35F038DC01B353B7EAE2912B29A23D2C	声音	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00023	91D7FDBBA5E620C6E988A1D2388734B4E9F171B364A48772FC1F8A76CD4E53FD	大和号操作员	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00024	4252DF6BC13FC1D8D1FE70591F1C8DC49A7A8AE9CD09CD179193E8C6614E695A	大和号舰长	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00025	F3219633DDE5B8C584471FE1144F513D573B59049C51C9710E6C9C1F1338C8B3	大队各机	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00026	80C36849D06ECA48E54195265E26DC8CA788669658F88F270E3B486526C25069	大队长	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00027	E9291C8A0748FB406D1AE76437CCC344D22663FC8E7655D635243E99698848BB	女孩	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00028	C6C34BAC7FD70C0E81519E363979E4FF5D4832F03EBA8D2463DD20CD6CDE812F	女孩1	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00029	8A7F088A94B0A776B60505D92F8DC9EDE30FC804F83E65B768D8F2720C8FE1A5	女卫士1	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00030	6732537F6B1E8CF0B8C7EBA5215F70B139F28ECD9BA5F312AA5BD3A271347368	女卫士2	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00031	1E0FB7BAD2B35DEB01C470306458ACBA02CE5D080DFB8DF904FF671ACC164732	孩子	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00032	880402EE253468B18AD760B4727562D07D8E78D2DB8C1E64EB6DD0E3DD5C5A0B	孩子们	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00033	96EC34295EB44A66BA79B755674429DA22DADF5265C8C8AF7714BED602F2A364	市内广播	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00034	8C0395F3A48658B369FC6149C387B92DA3F783ADBFD2DF749E2421489EEFD936	帝国军卫士	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00035	2C5F0B3A81B693A131AB5588646E116298206067E07E05AE7B2B538C266543C2	店主	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00036	F760780600D8C1531F7B5C486AF79687F6F69D9AC64ADD44216A59A7D3CEAD0D	整备兵	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00037	9E5B116A1A5F75143CC3312F6F5ED7E61BB8BDD498898C532D60C504C251C853	松风	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00038	84C1011AFC25C5BEFC76DC6C9E6CD42E86F2B0F07CA55D4AA3B1B8A9E017D831	柚香	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00039	EF569837B5FAA6B76F5D5BB2889C5AFB0B165EE83145AA50B3CE491B3EDBB8EC	柚香·艾伦	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00040	D0E262906575619798191C476A13CA817D45AA32EA129B740594F46A9E8CAD19	柚香·艾伦·雫	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00041	E6C57FC27965BD8767DB49F951475868ABDA26D6FC9D8A9530DABC7317663A37	柚香·艾伦·雫·楠本	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00042	72B440AF22E6F93AB734F8EF75A04ADECC3CE10FEB0DA8B3AF54E697119C7996	柚香·铃原	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00043	0A929941F65CA4CF912F777DA8CA74226A374FCAA9E8912D6D3C1BEA65CAE4DB	柚香·雫	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00044	37BB1F255F1329708BB35912A1C97C3B1A240AE544B61002C25A4A5B7A2017DC	柚香·雫·楠本	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00045	4F3E53B52AFC24B3BAC7DC9AAD5B9237C58E698B4FF0A807226A0BD83769AB08	柚香·响	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00046	064810B12E3A4D31B5AED7D9257A1AD0D215A883485F0E967E078A0B1179487B	楠本	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00047	C0044DD2325C0899218FDEB9AC9931F1BE2CD6E83C7F29F461E0AD5C7647FEAD	楠本·雫	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00048	CC087AF53B914E501FB17BBD6F8B74025AE9AABF3A35B7A5802FB9A7B6484BBE	浅葱	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00049	A9C4F3D98F2412E195814E85FC5A2D0AEA8D2B051C637B825041FE2A25CAB749	男孩	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00050	FBAEFE346DE5019E3146B07DC02C1E407C1C3010B3DF7522FDD4A4E3B72A671C	男孩1	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00051	9A3EC7431EBCE4214141BC4CD68DD1B4250E9649EA2E422AC2C7BCDFD0E9FE2C	男孩1·女孩1	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00052	425A8B911F579A6EA8D5D3E877E9B3A5BAF86FE2CE1C24B76CA6FAB382E3801A	第1大队卫士	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00053	CC980C4B139C06EDBC0A0E98D1D20970535664B2BD4030D413A29D4C40A2C031	管理局职员	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00054	B0DBD8D499EDACDBD45296EC7153FEA43F857BC3C2467CEC719971E708EEE31A	美军士兵	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00055	912EA9F3BEA4C0B559E291DA3BA3101CC9F1621BE3A3F90C94309E8CE0FDF055	美国卫士	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00056	CF26423E0A775C1D25B415BF0F3DBB2C936E68971E84790CA6291E48D68297BD	美国卫士中尉	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00057	9C7D09E733EA7D62DE5CA72F722A99CA344FBD44D8E22C9E46F2A993ADE30D40	美国卫士少尉	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00058	0DB5C18D74F6EF9BB1382DD4522E1F121623E218095F8D0341A57E661A2DB84E	美国卫士们	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00059	7A1C397DAE056A269D22018BDD7F58F70A27675988B2B737DBB57EF7157B45FD	美军军官	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00060	A38F7D556CFEB0FE098C54B6C9BC4C86B520ED98940DCFDF9145F684ED8486AE	群众	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00061	94C14736DE4EE0F78AB983FE012D7B805B197BEC206AF7F380BD5584942BF311	老人	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00062	9561DCFA09BAEF16AD9DEF7155F6B23B9AB7F92C90DF24DE448930600B2B3FAE	老人·管理局职员	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00063	B9033D4F57B2416883A702EF73A2EFADA16A518B7ECC21A011772757D973841D	军警	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00064	BE5155C830D3CCCB3C65E097DF0C0A59454C00B808C846A85FEFD3F92EE29A95	军警操作员	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00065	74072F7944DE462404C5266F801BDFE980923E4A199A1A3AA45513C96DAD35CE	军警队长	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00066	E6470217A25025E2547EF0A7AAAE3DBF0AB4A0617DBC2FD12A1C93A35F22F0CF	铃原	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00067	768889C66FA26E995E7848F5692497B0D0A77E10F014FDB4FC963B478814DD96	门兵	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00068	4327EE1DAA5A6C0C8D9169514088C6148F64AA7CC97B966E39E8301ED3EE3FBF	队长	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00069	53EFE6B9C78AD54A82454D62C43D4C5F1F0D3106B459A925B7ACD7D75DA62E98	难民营	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00070	65DEAB049774254997761FCC48C4BA0C4717794D8744CB3C602F00133B7FC05E	难民营的孩子A	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00071	8EBDCDC70635ED06CAF580C56CA136ADD82CA719972E5314390EF1CFBF05258F	难民营的孩子B	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00072	B50750CA226891F44059F45DBD313DB1FFBEA5B0B9498B91AF7CF593B3BA9514	雫	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00073	E12DE9C63C8BF1FCB1A18936282A791D67F6CBE482140B2628B3284F045D0FF9	雫·艾伦	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00074	E21CD86763ABB2133E51353B78F89FBA77BCD3B63B75C8E2DD1F15AA29469DF3	响	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00075	0075335F2D7F35A5D8D9F31A4D83DEC9D708A914B01954195FDF637D387910D4	响·卡洛内德各机	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00076	DB08DBE4E153DB73D4A1C3A01F9E09186F5BCE76783C66B58B6BD9C7B9580EB5	响·松风	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00077	43E0203AE2276A317E3C44D628FFA415F5F1F6CD84C2160A69551F6FB4A8C7CA	响·柚香	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00078	697575BB5076B482118C7E4F7DF1578E687A3D3559B3590985D9317584BC0168	响·柚香·艾伦	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00079	72A90CD27E349BDED4060B285326D6F8614AA910CDAD254CF20B4D8449E49400	响·柚香·艾伦·雫	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00080	D49B9505CE6AC4135C90374A58592D8FC00437E62482536C5A8CAE377C58FC9C	响·柚香·楠本	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。
+assets/data_spec/adv/game/scr/localized/__speakers__.egpack	game_s00081	E8DACE48E27F12C7514D16EEFB474C257D63752604C3495420B76DDEB223D69B	响·柚香·雫	speaker	核对原版角色标签；沿用人名，统一中文军衔和同名职务。

@@ -1,0 +1,42 @@
+[
+  {
+    "game": "tm",
+    "source_relative": "assets/data_spec/adv/game/bg/30イベント絵/010_TEイベント絵/050_帝都燃ゆ/110_日常/C0014_蓮川の残した便箋a.avif",
+    "source_sha256": "4bd5335d3e64c343e4bc8df7d3566c2cd9abf1da23d3a7f22e5d817d6e7c60ed",
+    "action": "preserve_native_art",
+    "reason": "剧情中的异常反复书写。已核对 ０２０：１９９７年_28：脱落者　１２月２３日.xml 的相关对话，角色明确讨论事故前已有的异常；不编造一封通顺的中文信。",
+    "second_review": "available"
+  },
+  {
+    "game": "tm",
+    "source_relative": "assets/data_spec/adv/game/bg/30イベント絵/010_TEイベント絵/050_帝都燃ゆ/150_図解/図解素材_10a：注意する　安倍講義聴講b当時の戦況1996年.avif",
+    "source_sha256": "323d393a7027b4eaecea9daf6bdf9c899487a144ff12df47bab3ec330ace6392",
+    "action": "preserve_native_art",
+    "reason": "图中文字为1996年及HIVE编号。保留年份与国际战术标识。",
+    "second_review": "available"
+  },
+  {
+    "game": "tm",
+    "source_relative": "assets/data_spec/adv/game/bg/30イベント絵/010_TEイベント絵/050_帝都燃ゆ/150_図解/図解素材_10a：注意する　安倍講義聴講c当時の戦況1997年.avif",
+    "source_sha256": "b271d55b6c9c1b6bab2b44b36358f39380bfe51fe3f37706885e0492ab4fa95a",
+    "action": "preserve_native_art",
+    "reason": "图中文字为1997年及HIVE编号。保留年份与国际战术标识。",
+    "second_review": "available"
+  },
+  {
+    "game": "tm",
+    "source_relative": "assets/data_spec/adv/game/bg/30イベント絵/010_TEイベント絵/650_マップ/0001_世界地図（隅に「1973年4月19日」の表記）B.avif",
+    "source_sha256": "5573c82633fe5131f65b6cdd83313f9c3b61c9c9da548316d2828f8af7891dd6",
+    "action": "preserve_native_art",
+    "reason": "原图日期为年月日；地图沿用原作英文地理标识，保留原版美术。",
+    "second_review": "available"
+  },
+  {
+    "game": "tm",
+    "source_relative": "assets/data_spec/adv/game/bg/30イベント絵/010_TEイベント絵/650_マップ/0001_世界地図（隅に「1973年4月19日」の表記）C.avif",
+    "source_sha256": "fa7a3292564c24d0f6bdb4b65ebdcb89cf041a1de7bf57cbeb2a99fd8f27300c",
+    "action": "preserve_native_art",
+    "reason": "原图日期为年月日；地图沿用原作英文地理标识，保留原版美术。",
+    "second_review": "available"
+  }
+]

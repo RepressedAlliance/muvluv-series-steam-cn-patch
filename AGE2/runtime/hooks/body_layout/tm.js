@@ -9,6 +9,15 @@ const copyItem=new NativeFunction(b.add(0xdd050),'pointer',['pointer','pointer']
 const pushItem=new NativeFunction(b.add(0xdb4c0),'pointer',['pointer','pointer','pointer']);
 const destroyItems=new NativeFunction(b.add(0xda0f0),'void',['pointer','pointer']);
 const destroyVec=new NativeFunction(b.add(0xd9560),'void',['pointer']);
+// db4c0 is the reallocation branch, not vector::push_back. Reuse spare
+// capacity; calling it for every token grows capacity exponentially.
+function appendItem(vector, source){
+ const end=vector.add(8).readPointer(),capacity=vector.add(16).readPointer();
+ if(!end.equals(capacity)){
+  copyItem(end,source);
+  vector.add(8).writePointer(end.add(128));
+ }else pushItem(vector,end,source);
+}
 function textAt(p){let n=p.add(16).readU64().toNumber();if(n>10000)throw Error('string limit');return(p.add(24).readU64().toNumber()>15?p.readPointer():p).readUtf8String(n);}
 function parts(s){
  // Controls belong to the native parser. Never split an unparsed command.
@@ -82,9 +91,9 @@ Interceptor.attach(b.add(0xc6540),{
    const planned=planChineseRows(rows);if(planned.every(r=>r.copy))return;
    replacement=Memory.alloc(24);replacement.writeByteArray(new Uint8Array(24));
    for(const r of planned){
-    if(r.copy){pushItem(replacement,replacement.add(8).readPointer(),r.source.p);continue;}
+    if(r.copy){appendItem(replacement,r.source.p);continue;}
     const item=Memory.alloc(128);copyItem(item,r.source.p);
-    try{strDtor(item.add(64));strCtor(item.add(64),Memory.allocUtf8String(r.text));pushItem(replacement,replacement.add(8).readPointer(),item);}
+    try{strDtor(item.add(64));strCtor(item.add(64),Memory.allocUtf8String(r.text));appendItem(replacement,item);}
     finally{destroyItems(item,item.add(128));}
    }
    const old=Memory.alloc(24);old.writeByteArray(v.readByteArray(24));

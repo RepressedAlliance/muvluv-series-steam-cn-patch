@@ -1,0 +1,27 @@
+{
+  "game": "tda02",
+  "id": "game_t01986",
+  "egpack": "070_２００５年１２月０７日（水）_071_私室にて.egpack",
+  "before": "「一、二！」",
+  "after": "「一、二！」\\n",
+  "line_break_reason": "日英原文均保留句末换行；用户实机截图确认中文漏掉后，柚香台词与下一条旁白接在同一行。恢复原作分隔。",
+  "validation": {
+    "only_target_chinese_slot_changed": true,
+    "binary_reparse_passed": true,
+    "post_fix_runtime_verified": true,
+    "runtime_evidence_source": "User-provided screenshots: corrected Chinese shows two complete lines; pure JP and EN show the same two-line body structure and retained Yuzuka nameplate. JP/CN Log stores the utterance and reaction separately.",
+    "pure_reference": {
+      "exe_sha256": "5C0275FD17E1218153AF61D8019FD8424D0FA365F989CED41F78422DA10ED697",
+      "resources": "Original Steam pack.bin extracted afresh; native boot foundation matched retained baseline",
+      "process_id": 80568,
+      "frida_module_count": 0,
+      "screenshots": [
+        "codex-clipboard-f1fd65b3-0ae8-4e30-9b04-0643f621e71c.png",
+        "codex-clipboard-73e42b80-b316-451d-8a29-de2f380e2961.png",
+        "codex-clipboard-8c142d07-a6aa-4578-a62e-2559bb9825fa.png"
+      ]
+    },
+    "limits": "Confirms this scene body separation against pure JP/EN; does not claim full-game visual coverage or a separate post-fix Chinese next-message clearing test."
+  },
+  "scope": "Translation CSV, installed and candidate EGPACK updated. Existing release installers not rebuilt."
+}

@@ -1,0 +1,134 @@
+[
+  {
+    "game": "tm",
+    "source_relative": "assets/data_spec/adv/game/bg/30イベント絵/010_TEイベント絵/050_帝都燃ゆ/130_MAP/図解素材_04：登校　朝鮮半島の侵攻1.avif",
+    "source_sha256": "1c825543d75d71f921c75685cb3caa731dc424b38c9665d8d103406b4d543253",
+    "layout_basis": "沿用原英文在日文地名下方加注的布局；保留日本、BETA、海岸线与箭头。",
+    "labels": [
+      {
+        "jp": "朝鮮半島",
+        "native_english": "Korean Peninsula",
+        "zh_hans": "（朝鲜半岛）",
+        "font_size": 14,
+        "cn_box": [
+          661,
+          433,
+          745,
+          447
+        ]
+      },
+      {
+        "jp": "日本",
+        "zh_hans": "日本",
+        "action": "retain-native-readable-label"
+      }
+    ],
+    "runtime_review": "pending"
+  },
+  {
+    "game": "tm",
+    "source_relative": "assets/data_spec/adv/game/bg/30イベント絵/010_TEイベント絵/050_帝都燃ゆ/130_MAP/図解素材_04：登校　朝鮮半島の侵攻2BETA攻めてくる.avif",
+    "source_sha256": "ba3fa68cb42ac73f03330cedd2ced31abb60fced99e35bf4f4ad90481432f84e",
+    "layout_basis": "沿用原英文在日文地名下方加注的布局；保留日本、BETA、海岸线与箭头。",
+    "labels": [
+      {
+        "jp": "朝鮮半島",
+        "native_english": "Korean Peninsula",
+        "zh_hans": "（朝鲜半岛）",
+        "font_size": 14,
+        "cn_box": [
+          661,
+          433,
+          745,
+          447
+        ]
+      },
+      {
+        "jp": "日本",
+        "zh_hans": "日本",
+        "action": "retain-native-readable-label"
+      }
+    ],
+    "runtime_review": "pending"
+  },
+  {
+    "game": "tm",
+    "source_relative": "assets/data_spec/adv/game/bg/30イベント絵/010_TEイベント絵/050_帝都燃ゆ/130_MAP/図解素材_04：登校　朝鮮半島の侵攻3BETA38度線超える.avif",
+    "source_sha256": "8331896ca6224a7c907c6a710522c714f29eabdfacbc0aa18b92fe74d87a2be9",
+    "layout_basis": "沿用原英文在日文地名下方加注的布局；保留日本、BETA、海岸线与箭头。",
+    "labels": [
+      {
+        "jp": "朝鮮半島",
+        "native_english": "Korean Peninsula",
+        "zh_hans": "（朝鲜半岛）",
+        "font_size": 14,
+        "cn_box": [
+          661,
+          433,
+          745,
+          447
+        ]
+      },
+      {
+        "jp": "日本",
+        "zh_hans": "日本",
+        "action": "retain-native-readable-label"
+      },
+      {
+        "jp": "北緯38度",
+        "native_english": "38th Parallel North",
+        "zh_hans": "（北纬38度线）",
+        "font_size": 14,
+        "cn_box": [
+          774,
+          291,
+          874,
+          305
+        ]
+      }
+    ],
+    "runtime_review": "pending"
+  },
+  {
+    "game": "tm",
+    "source_relative": "assets/data_spec/adv/game/bg/30イベント絵/010_TEイベント絵/050_帝都燃ゆ/150_図解/図解_管制ユニット.avif",
+    "source_sha256": "9d4ac6e568ea69bd2c5d444defe278374166f05ab6807b76b702d8baf41b1dd9",
+    "layout_basis": "沿用原英文右下角说明框，管制单元与现行正文术语一致；原机械图和左上标题保留。",
+    "labels": [
+      {
+        "jp": "92式戦術機管制ユニット",
+        "native_english": "TYPE-92 CONTROL UNIT",
+        "zh_hans": "（92式战术机管制单元）",
+        "font_size": 40,
+        "cn_box": [
+          739,
+          613,
+          1185,
+          651
+        ]
+      }
+    ],
+    "runtime_review": "pending"
+  },
+  {
+    "game": "tm",
+    "source_relative": "assets/data_spec/adv/game/bg/30イベント絵/010_TEイベント絵/050_帝都燃ゆ/150_図解/図解素材_10a：注意する　安倍講義聴講d当時の戦況ソ連撤退.avif",
+    "source_sha256": "2c5e90b595cb12f925883c7a501dd6e7d950c17ddafc12f88403861d1fdcb633",
+    "layout_basis": "中文加在原日文说明上方空位；下方紧邻箭头，避免遮挡。1997年与HIVE编号保留。此处新增双语布局需运行复核。",
+    "labels": [
+      {
+        "jp": "ソ連の撤退",
+        "native_english": "SOVIET WITHDRAWAL",
+        "zh_hans": "（苏联撤退）",
+        "font_size": 16,
+        "cn_box": [
+          660,
+          117,
+          756,
+          133
+        ]
+      }
+    ],
+    "runtime_review": "pending"
+  }
+]

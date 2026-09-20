@@ -32,7 +32,8 @@ class Age2Installer : Form {
         package=content;
         var doc=new JavaScriptSerializer().Deserialize<Dictionary<string,object>>(File.ReadAllText(Path.Combine(package,"manifest.json"),Encoding.UTF8));
         title=(string)doc["title"];directory=(string)doc["game"];exe=(string)doc["exe"];
-        string version=(string)doc["version"]+" 验收版";
+        string version=(string)doc["version"];
+        if(!version.StartsWith("BETA ",StringComparison.Ordinal))version+=" 验收版";
         Text=title+" 汉化补丁 · "+version;ClientSize=new Size(590,275);FormBorderStyle=FormBorderStyle.FixedDialog;MaximizeBox=false;StartPosition=FormStartPosition.CenterScreen;
         Font=new Font("Microsoft YaHei UI",10);BackColor=Color.FromArgb(248,249,251);
         var heading=new Label{Text=title+"\n汉化补丁 "+version,Location=new Point(25,20),Size=new Size(535,58),Font=new Font(Font.FontFamily,15,FontStyle.Bold)};Controls.Add(heading);

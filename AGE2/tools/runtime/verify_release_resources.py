@@ -63,7 +63,10 @@ def verify_game(package, original, candidate):
             raise ValueError(f'Unexpected save-summary fallback: {name}')
     cn = ET.parse(root / fontdir / 'Font_cn.cfg').getroot().find('FontParamList')
     faces = {r.findtext('Label'): r.findtext('File') for r in cn}
-    expected = {'Message': 'AGE2GenSekiSC-Regular.otf', 'Speaker': 'SweiSugarCJKsc-Medium.ttf', 'Common': 'NotoSansSC-500.ttf'}
+    expected = {'Message': 'BWCKKT-Bold.ttf', 'Speaker': 'MEBheiheiti.ttf', 'Common': 'AGE2UISansSC-Dash.otf', 'sub': 'AGE2FallbackSC-Dash.ttf'}
+    candidate_config = candidate / fontdir / 'Font.cfg'
+    if ET.tostring(ET.parse(candidate_config).getroot()) != ET.tostring(ET.parse(root / fontdir / 'Font_cn.cfg').getroot()):
+        raise ValueError('Chinese font configuration differs from approved candidate')
     for role, name in expected.items():
         if faces.get(role, '').lower() != name.lower():
             raise ValueError(f'Wrong Chinese {role} font: {faces.get(role)}')
@@ -74,17 +77,21 @@ def verify_game(package, original, candidate):
     # width in a Type 2 charstring adds nominalWidthX a second time.
     from fontTools.ttLib import TTFont
     from fontTools.pens.boundsPen import BoundsPen
-    with TTFont(root / fontdir / faces['Message']) as font:
+    with TTFont(root / fontdir / faces['Message']) as font, TTFont(candidate / fontdir / faces['Message']) as approved:
         cmap = font.getBestCmap()
-        top = font['CFF '].cff.topDictIndex[0]
+        approved_cmap = approved.getBestCmap()
         for cp in (0xff0c, 0x3002, 0x3001):
             glyph = cmap[cp]
-            cs = top.CharStrings[glyph]
-            bounds = BoundsPen(None)
-            cs.draw(bounds)
-            if cs.width != font['hmtx'][glyph][0] or cs.width != font['head'].unitsPerEm:
-                raise ValueError(f'Inconsistent Chinese punctuation width: U+{cp:04X}')
-    counts['punctuation_cff_widths_match'] = True
+            if 'CFF ' in font:
+                cs = font['CFF '].cff.topDictIndex[0].CharStrings[glyph]
+                cs.draw(BoundsPen(None))
+                if cs.width != font['hmtx'][glyph][0]:
+                    raise ValueError(f'Inconsistent Chinese punctuation width: U+{cp:04X}')
+            # The approved printed face has its own punctuation advances;
+            # the old GenSeki-specific full-em assumption does not apply.
+            if font['hmtx'][glyph] != approved['hmtx'][approved_cmap[cp]] or font['head'].unitsPerEm != approved['head'].unitsPerEm:
+                raise ValueError(f'Punctuation differs from approved font: U+{cp:04X}')
+    counts['punctuation_matches_approved_font'] = True
     counts['all_tables_current_candidate'] = True
     return dict(counts)
 

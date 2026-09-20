@@ -79,5 +79,28 @@
     },
     "reason": "Chinese-only approved terminology alignment and separately audited fragment repairs. Source identities and all non-Chinese fields verified unchanged against PR14 base. This rebind does not mark any pending item reviewed.",
     "pending_csv_unchanged": true
-  }
+  },
+  "current_translation_inputs": {
+    "TDA00": {
+      "bytes": 739768,
+      "rows": 3713,
+      "sha256": "947E0C34EB1262A2CA801451FBC7AE55C9D88C9A0BA9A05D9597AD18D1BAFA6F"
+    },
+    "TDA01": {
+      "bytes": 2228017,
+      "rows": 8565,
+      "sha256": "BCFBDD339468C0F5995E30D1D6D8351AA89A5078059478373E47B86FCCC4A526"
+    },
+    "TDA02": {
+      "bytes": 1985695,
+      "rows": 6589,
+      "sha256": "154DB99FB82B4F6B59B8443DC78B7021F3E62CA1F16EEBE3AC6AAC3D39DAFFA2"
+    },
+    "TDA03": {
+      "bytes": 1729917,
+      "rows": 6913,
+      "sha256": "B36F5C4FD65F960DA3EEA07083BB09BEE3863A93DD134686718C2DFF8CA19884"
+    }
+  },
+  "current_input_note": "2026-09-20 publication binding only. Original audit inputs and pending decisions remain historical; this does not mark any item reviewed."
 }

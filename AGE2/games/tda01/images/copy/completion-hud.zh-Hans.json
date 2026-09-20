@@ -1,0 +1,11 @@
+[
+  {
+    "game": "tda01",
+    "source_relative": "assets/data_spec/adv/game/chr/900_戦術機コクピットオブジェクト/テロップ類大縦半分_/テロップ類大縦半分_転送完了.webp",
+    "source_sha256": "71984b9b6f0ed6fe52f2c07c0ebbd98086f790c10c6204c0628f8e8cf183c3c4",
+    "zh_cn": "传输完成|视网膜投影／显示模式：Simplified display|外部系统检查：Over",
+    "native_frame_and_completion_heading_preserved": true,
+    "previous_card_blur": "Chinese pilot-data card, Gaussian radius 5, opacity 0.4",
+    "runtime_review": "pending"
+  }
+]

@@ -1,0 +1,192 @@
+[
+  {
+    "game": "tda02",
+    "source_relative": "assets/data_spec/adv/game/bg/31イベント絵クロニクルズ03以降/015_TDA2話_Map/戦術マップ_1222侵入部隊説明d.webp",
+    "source_sha256": "75fc4d62d85b23b750abf25089c68d65cd9078739dda698fec3c0ca052937215",
+    "layout_basis": "保留原图地理线条、阵地、射程扇区及原标识，加注中文；全组中文固定20号，地图地名与现行正文一致。",
+    "labels": [
+      {
+        "source": "PLANT",
+        "zh_hans": "（生产平台）",
+        "font_size": 20,
+        "cn_box": [
+          395,
+          350,
+          515,
+          369
+        ]
+      },
+      {
+        "source": "TACOMA BASE",
+        "zh_hans": "（塔科马基地）",
+        "font_size": 20,
+        "cn_box": [
+          690,
+          385,
+          830,
+          404
+        ]
+      },
+      {
+        "source": "FORT LEWIS BASE",
+        "zh_hans": "（刘易斯堡基地）",
+        "font_size": 20,
+        "cn_box": [
+          518,
+          516,
+          678,
+          536
+        ]
+      }
+    ],
+    "runtime_review": "pending"
+  },
+  {
+    "game": "tda02",
+    "source_relative": "assets/data_spec/adv/game/bg/31イベント絵クロニクルズ03以降/015_TDA2話_Map/戦術マップ_1222侵入部隊説明e.webp",
+    "source_sha256": "9d9d795b3e18175ff917d16889d925d8a248612cd258e5a60fa76f4ecefcbf8b",
+    "layout_basis": "保留原图地理线条、阵地、射程扇区及原标识，加注中文；全组中文固定20号，地图地名与现行正文一致。",
+    "labels": [
+      {
+        "source": "PLANT",
+        "zh_hans": "（生产平台）",
+        "font_size": 20,
+        "cn_box": [
+          395,
+          350,
+          515,
+          369
+        ]
+      },
+      {
+        "source": "TACOMA BASE",
+        "zh_hans": "（塔科马基地）",
+        "font_size": 20,
+        "cn_box": [
+          690,
+          385,
+          830,
+          404
+        ]
+      },
+      {
+        "source": "FORT LEWIS BASE",
+        "zh_hans": "（刘易斯堡基地）",
+        "font_size": 20,
+        "cn_box": [
+          518,
+          516,
+          678,
+          536
+        ]
+      },
+      {
+        "source": "SHELTON",
+        "zh_hans": "（谢尔顿）",
+        "font_size": 20,
+        "cn_box": [
+          120,
+          430,
+          220,
+          449
+        ]
+      }
+    ],
+    "runtime_review": "pending"
+  },
+  {
+    "game": "tda02",
+    "source_relative": "assets/data_spec/adv/game/bg/31イベント絵クロニクルズ03以降/015_TDA2話_Map/戦術マップ_1222海神戦力c.webp",
+    "source_sha256": "382020152ac35003268d0a17cde08aceb2c278131cb39b2f78757cf5dbcf6929",
+    "layout_basis": "保留原图地理线条、阵地、射程扇区及原标识，加注中文；全组中文固定20号，地图地名与现行正文一致。",
+    "labels": [
+      {
+        "source": "生産プラント",
+        "zh_hans": "（生产平台）",
+        "font_size": 20,
+        "cn_box": [
+          435,
+          318,
+          555,
+          337
+        ]
+      },
+      {
+        "source": "120mm砲有効射程",
+        "zh_hans": "（120mm炮有效射程）",
+        "font_size": 20,
+        "cn_box": [
+          799,
+          226,
+          1011,
+          245
+        ]
+      },
+      {
+        "source": "36mm砲有効射程",
+        "zh_hans": "（36mm炮有效射程）",
+        "font_size": 20,
+        "cn_box": [
+          686,
+          312,
+          886,
+          331
+        ]
+      }
+    ],
+    "runtime_review": "pending"
+  },
+  {
+    "game": "tda02",
+    "source_relative": "assets/data_spec/adv/game/bg/31イベント絵クロニクルズ03以降/015_TDA2話_Map/戦術マップ_1224国境で睨み合うバンクーバー位置.webp",
+    "source_sha256": "efd06cfab9b2570a233e21ac4904ac7f98b7b4d64c1ccaba2e9ea2799e714985",
+    "layout_basis": "保留原图地理线条、阵地、射程扇区及原标识，加注中文；全组中文固定20号，地图地名与现行正文一致。",
+    "labels": [
+      {
+        "source": "バンクーバー",
+        "zh_hans": "（温哥华）",
+        "font_size": 20,
+        "cn_box": [
+          532,
+          30,
+          632,
+          49
+        ]
+      },
+      {
+        "source": "ビクトリア",
+        "zh_hans": "（维多利亚）",
+        "font_size": 20,
+        "cn_box": [
+          367,
+          193,
+          487,
+          212
+        ]
+      },
+      {
+        "source": "シアトル",
+        "zh_hans": "（西雅图）",
+        "font_size": 20,
+        "cn_box": [
+          601,
+          377,
+          701,
+          396
+        ]
+      },
+      {
+        "source": "タコマ",
+        "zh_hans": "（塔科马）",
+        "font_size": 20,
+        "cn_box": [
+          595,
+          440,
+          695,
+          459
+        ]
+      }
+    ],
+    "runtime_review": "pending"
+  }
+]

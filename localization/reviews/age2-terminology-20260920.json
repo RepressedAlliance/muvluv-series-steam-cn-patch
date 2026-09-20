@@ -1,0 +1,3261 @@
+{
+  "status": "applied_local_only",
+  "remote_writes": 0,
+  "game_deployment": false,
+  "decisions": {
+    "ScRemilia": "用户明确允许8条只改术语",
+    "orbital": "用户要求优先本篇/AL；AL参考联合国轨道空降军团",
+    "original_hive": "系列PF已确认母巢"
+  },
+  "edits": [
+    {
+      "game": "tm",
+      "id": "game_t02561",
+      "file": "AGE2/games/imperial-capital-burns/translations/main.ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "BF93670AD46A871C0B186EEC78848E1FE999F550FE6772419EA3EF568D7F3559",
+      "before": "更何况——我手中还有父亲设计开发的七四式训练用近战长刀。身为篁家继承人，握着这把刀却落于人后，绝不可原谅。\\p",
+      "after": "更何况——我手中还有父亲设计开发的七四式训练用近接长刀。身为篁家继承人，握着这把刀却落于人后，绝不可原谅。\\p",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tm",
+      "id": "game_t03286",
+      "file": "AGE2/games/imperial-capital-burns/translations/main.ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "D9EA8C4A268E615D8808ED02C56D25D8F073DEE102A34B6DC25BF5DB6A3C9E4E",
+      "before": "「……两天前，我们依据战时特例法，公布了近畿地区以东的三方军队联合防卫方针吧。」\\p",
+      "after": "「……两天前，我们依据战时特例法，公布了近畿地区以东的三军共同防卫方针吧。」\\p",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tm",
+      "id": "game_t04826",
+      "file": "AGE2/games/imperial-capital-burns/translations/main.ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "6DFAA56F90D2E842FB55C4306A6E400A6D31763F45E031FCFFBB8B2B6708BD58",
+      "before": "紧急弹射与紧急破坏弹射都没有反应……坠毁冲击就是这么严重……\\p",
+      "after": "紧急弹射与紧急破坏逃生都没有反应……坠毁冲击就是这么严重……\\p",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tm",
+      "id": "game_t04895",
+      "file": "AGE2/games/imperial-capital-burns/translations/main.ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "E023FB682EE092599082D11DD6D6A08779B7A9AFA6BF97F133E64F4F411B9FD5",
+      "before": "「再加上其出色的对人探测能力，在紧急破坏弹射后，或抛离机械化步兵装甲后徒步穿越战区时，威胁极高。」\\p",
+      "after": "「再加上其出色的对人探测能力，在紧急破坏逃生后，或抛离机械化步兵装甲后徒步穿越战区时，威胁极高。」\\p",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tm",
+      "id": "game_t04944",
+      "file": "AGE2/games/imperial-capital-burns/translations/main.ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "A27F14367A10E3F67D5D3B20A9903F6E3CE0D485EC2533AD2E2985B90C81AF9C",
+      "before": "能登少尉的机体遭到击毁，她以机械化步兵装甲实施紧急破坏弹射，或者在紧急弹射后换装机械化步兵装甲——\\p",
+      "after": "能登少尉的机体遭到击毁，她以机械化步兵装甲实施紧急破坏逃生，或者在紧急弹射后换装机械化步兵装甲——\\p",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t00020",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "C0427A1E42D85B94551C4A187825643A5788179FC35913932581A1A8A42C7E93",
+      "before": "「……黑刃2呼叫黑刃1。距预定地点还有120秒」",
+      "after": "「……黑刀2呼叫黑刀1。距预定地点还有120秒」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t00021",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "5934E53D91A27D3DB111FC9ED23990ACD0DB9A1B635886AC5C7D0F04DC717C3C",
+      "before": "「黑刃1了解。开始减速。进入测地准备」",
+      "after": "「黑刀1了解。开始减速。进入测地准备」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t00022",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "80CF53A650242014661EE9B6CD1AD50C674F4165FDFA017423D56FF2AB136B2E",
+      "before": "「黑刃2了解」",
+      "after": "「黑刀2了解」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t00027",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "0DF7307900982C46CEB82F02971F553A33E884DEDE4F8E8771A0D3E4A99F9E7A",
+      "before": "「黑刃1了解。这边也完成了记录。看来没有误差。」",
+      "after": "「黑刀1了解。这边也完成了记录。看来没有误差。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t00066",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "7CD2641DBE5910A2D8D5FC24A48BE378D6417D174A6B7E21C05DB9D8058E7A7F",
+      "before": "「好，差不多到设置点了。这个地形的话，应该稍微向内陆靠拢吧——黑刃2，跟上」",
+      "after": "「好，差不多到设置点了。这个地形的话，应该稍微向内陆靠拢吧——黑刀2，跟上」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t00067",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "80CF53A650242014661EE9B6CD1AD50C674F4165FDFA017423D56FF2AB136B2E",
+      "before": "「黑刃2了解」",
+      "after": "「黑刀2了解」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t00112",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "F5BF17931A4F3600550D8481669302FEBC6C95A90AE64163E7C4D84EB68D07C5",
+      "before": "「黑刃1呼叫索尔蒂基地，能听到吗？」",
+      "after": "「黑刀1呼叫索尔蒂基地，能听到吗？」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t00113",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "84574C3364C34417153F7E46EBD7C60B0D8F1F3CA1EAC97AEED98552A55B6F6F",
+      "before": "「——索尔蒂基地呼叫黑刃1，灵敏度良好」",
+      "after": "「——索尔蒂基地呼叫黑刀1，灵敏度良好」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t00115",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "FBB42D96A69DCC22EE434885671602FA1FE64EC394C78712C9FA75E43136BC3C",
+      "before": "「已在可行动半径内，请求允许黑刃两机直接确认！」",
+      "after": "「已在可行动半径内，请求允许黑刀两机直接确认！」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t00117",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "5D0A4282D9C2EB753232664F81D88BEEA6444CD38434F029562FD641571CB7B0",
+      "before": "「黑刃1了解。快点拜托了！威尔，准备出发」",
+      "after": "「黑刀1了解。快点拜托了！威尔，准备出发」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t00120",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "BDAAA4201191CB5B3CBD12083736D8AA1511B02EE76FF067E71BE1A288FFDFC1",
+      "before": "「——索尔蒂基地呼叫黑刃1、允许黑刃两机进行直接确认。要是人还活着，就是一个月来的好消息了，拜托了！」",
+      "after": "「——索尔蒂基地呼叫黑刀1、允许黑刀两机进行直接确认。要是人还活着，就是一个月来的好消息了，拜托了！」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t00122",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "0C9044F1B37E5F09033509683C4D0090B53296973167BC9D55A905CC47B06B29",
+      "before": "「黑刃1了解！交给我吧！」",
+      "after": "「黑刀1了解！交给我吧！」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t00123",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "EED613E7323E597D75837F1AF15FBE2BDDA0B6DDB78CDAA4EF4022519CAB9290",
+      "before": "「黑刃2，随时可以出发！」",
+      "after": "「黑刀2，随时可以出发！」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t00126",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "15E8381DDD486C435E6E9DEDB28ADA3373AB551BD241317C89C8455273C9FAE0",
+      "before": "「黑刃1呼叫黑刃2。――威尔，为以防万一我先说一句。不要抱有过高的期待。」",
+      "after": "「黑刀1呼叫黑刀2。――威尔，为以防万一我先说一句。不要抱有过高的期待。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t00128",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "24D972FB39C30946C7C5AD18818DB88D80DAF2CB9F4558054FAB44D543A55F64",
+      "before": "「……黑刃2了解」",
+      "after": "「……黑刀2了解」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t00152",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "4F147C3274E69A46B38D28E79449D7DC7B67419D612576E1DD2A219808698D84",
+      "before": "「这里是美国海军陆战队第318战术步行战斗机队『黑刃』，收到求救信号。如能收到，请回复」",
+      "after": "「这里是美国海军陆战队第318战术步行战斗机队『黑刀』，收到求救信号。如能收到，请回复」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t00153",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "4F147C3274E69A46B38D28E79449D7DC7B67419D612576E1DD2A219808698D84",
+      "before": "「这里是美国海军陆战队第318战术步行战斗机队『黑刃』，收到求救信号。如能收到，请回复」",
+      "after": "「这里是美国海军陆战队第318战术步行战斗机队『黑刀』，收到求救信号。如能收到，请回复」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t00156",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "5484B7CE5B3B628FA912C3EC08E5ED0E5A72FD826776D5A56E21094930E80490",
+      "before": "「重复，这里是美国海军陆战队第318战术步行战斗机队『黑刃』，已收到求救信号。如果听到请回复。」",
+      "after": "「重复，这里是美国海军陆战队第318战术步行战斗机队『黑刀』，已收到求救信号。如果听到请回复。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t00160",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "956FCE084750DC89F4D797B6B15897266E66570127521AD2A7200891A8E9D708",
+      "before": "「黑刃2呼叫黑刃1，有声音反应！继续！！」",
+      "after": "「黑刀2呼叫黑刀1，有声音反应！继续！！」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t00196",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "CB3C953FDD576514D99DBDD15A06B61A8AC8275900140F2495A2FD2604F761F3",
+      "before": "「黑刃2了解，距离100着陆，以主脚步行接近」",
+      "after": "「黑刀2了解，距离100着陆，以主脚步行接近」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t00203",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "70C41FF1AA23F6485F1963466603C701B953B8FF2EE22DEE9940DBA794F1843C",
+      "before": "「黑刃1呼叫索尔蒂基地，发现目标。似乎是容纳数名乘员的救生艇」",
+      "after": "「黑刀1呼叫索尔蒂基地，发现目标。似乎是容纳数名乘员的救生艇」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t00205",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "E98863C79C6C37F6924B1955A433F8F346AEF4C1A24E003724C2C8D3E6DFA3A9",
+      "before": "「——索尔蒂基地呼叫黑刃1。确认幸存者，了解。手气真不错啊。」",
+      "after": "「——索尔蒂基地呼叫黑刀1。确认幸存者，了解。手气真不错啊。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t00305",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "BCE941DC68F4131E823D212B9E4C1679AFC6C2FDA34AF5F02BEAA84A1CA013F6",
+      "before": "「黑刃1呼叫索尔蒂基地，从救生艇上救出1名幸存者，无其他乘员」",
+      "after": "「黑刀1呼叫索尔蒂基地，从救生艇上救出1名幸存者，无其他乘员」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t00309",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "F97CDD55DA431817B98A9B927E5DAC756A8B18026A5F9FCBF849CDD1DEF6EC60",
+      "before": "「黑刃1了解。现在返航」",
+      "after": "「黑刀1了解。现在返航」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t00380",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "1F25064C57E7B9EAF6A15C8C1454B2505C32C3C8558911002B86A1F64E70AF21",
+      "before": "「黑刃1呼叫黑刃2，你在磨蹭什么？准备好了吗？」",
+      "after": "「黑刀1呼叫黑刀2，你在磨蹭什么？准备好了吗？」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t00382",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "2DD43A7299CB84108F5CC56BD4F198A3C27667E1DF3FEF91F9AE9B464A616CFF",
+      "before": "「黑刃2呼叫黑刃1，安全带固定完成。接下来连接备用接口」",
+      "after": "「黑刀2呼叫黑刀1，安全带固定完成。接下来连接备用接口」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t00383",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "B33FB323251F70A6876A9C31E3873BAF90D4A2A92349DA928D267E7EAF84C7C1",
+      "before": "「――黑刃2，40秒内准备好」",
+      "after": "「――黑刀2，40秒内准备好」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t00401",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "D2FBB8B87F1287B539D965B032814749CC8E6A5EEB4C8212BA7C7324370AB928",
+      "before": "「黑刃2呼叫黑刃1，谢尔贝里少尉的强化装备连接完成。随时可以出发」",
+      "after": "「黑刀2呼叫黑刀1，谢尔贝里少尉的强化装备连接完成。随时可以出发」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t00402",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "B686F1092B9A73EDA32C8632CAA2BB6769E2697410274A2722D11D37DB577557",
+      "before": "「黑刃1收到，差不多39秒吧。好了，出发回家吧！」",
+      "after": "「黑刀1收到，差不多39秒吧。好了，出发回家吧！」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t00407",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "AEB832B520A93A5BBB8145FA2C7E6779142C93D57B7C6D467D3D89A96F2B76EC",
+      "before": "「黑刃2，命令的复述呢？出什么事了？」",
+      "after": "「黑刀2，命令的复述呢？出什么事了？」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t00408",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "69B0940FE4972970700DBDD64C5C2BB7C333C1F5BAE978D31625646C59B33715",
+      "before": "「啊，黑刃2了解！无线电不清楚」",
+      "after": "「啊，黑刀2了解！无线电不清楚」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t00416",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "3ED4A51216E2145A7654045F3035476BD46E0FB3AEB43722FBC098E1B8A2DCA8",
+      "before": "「――黑刃2了解！　出发吧队长！」",
+      "after": "「――黑刀2了解！　出发吧队长！」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t00520",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "0CD7687A4ABB02313D87BC21C849A8BFC2C6059F48ADBD3BD9AA33B7B886DC12",
+      "before": "「——黑刃1呼叫黑刃2，差不多该看到了。威尔，让小姑娘好好看看吧」",
+      "after": "「——黑刀1呼叫黑刀2，差不多该看到了。威尔，让小姑娘好好看看吧」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t00522",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "B705229CBDC1C2960199F020799783FB933F0CFAF58D7640000BF5A1FEC3B0A8",
+      "before": "「黑刃2了解。……莉莉娅，前面1点钟的方向」",
+      "after": "「黑刀2了解。……莉莉娅，前面1点钟的方向」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t00533",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "C115C39BECD6451DC9034E786CD7B2E145E51AFA446BA8C70A2874676863997D",
+      "before": "「黑刃长机呼叫肯尼迪管制，已进入管制空域。请求两机着舰许可」",
+      "after": "「黑刀长机呼叫肯尼迪管制，已进入管制空域。请求两机着舰许可」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t00535",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "3E5703B989A2BCCDB3590515E5A9BD4BB976354F98680A8340E06FD2200F8E90",
+      "before": "「黑刃1了解。那可真是帮了大忙啊」",
+      "after": "「黑刀1了解。那可真是帮了大忙啊」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t00540",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "883F351DF219E29F594B464EBD59266E51F8AD3FBC58395B1C17643B86762BAE",
+      "before": "「管制，待救人员搭乘黑刃2，让它先着舰」",
+      "after": "「管制，待救人员搭乘黑刀2，让它先着舰」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t00542",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "B4D86B6A2772C485507B1C0D46063F68196C3F286FBC6FBF215F34DEF83A3046",
+      "before": "「明白。先引导黑刃2。黑刃2，进入最终进近航线」",
+      "after": "「明白。先引导黑刀2。黑刀2，进入最终进近航线」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t00543",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "80CF53A650242014661EE9B6CD1AD50C674F4165FDFA017423D56FF2AB136B2E",
+      "before": "「黑刃2了解」",
+      "after": "「黑刀2了解」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t00552",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "747BE35313F1496337BF3C6E682F747B781C314B480BB1BE8E3D6632F2519F78",
+      "before": "「黑刃2，允许着舰」",
+      "after": "「黑刀2，允许着舰」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t00557",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "05E2B3A65A49729A66D30461502FEF50FD16D049D63A2FC74A7CA31BBD0560CD",
+      "before": "「黑刃2呼叫管制，请求着舰」",
+      "after": "「黑刀2呼叫管制，请求着舰」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t00691",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "F1191E9CC663B28FB5D4599905E7259AC7DE1DEABFE50058C1452734BED90DB2",
+      "before": "「本舰……CVN-67『约翰·F·肯尼迪』号，与僚舰『尼米兹』号共同编成母舰打击群，作为铁原HIVE攻略部队在日本海展开」",
+      "after": "「本舰……CVN-67『约翰·F·肯尼迪』号，与僚舰『尼米兹』号共同编成母舰打击群，作为铁原巢穴攻略部队在日本海展开」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t01250",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "3A4B682D03FF913B9CEEDCA44D8D6CAEBBE6F6D97EEBB47F4023F34347D55709",
+      "before": "「――黑刃3，预备系统，启动」",
+      "after": "「――黑刀3，预备系统，启动」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t01268",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "8CF460E64CCD5C6C8BFBF890EBFF62D8C9EF6314AE1A0E1F42DBB81208FD6D01",
+      "before": "「黑刃3了解。本连接开始」",
+      "after": "「黑刀3了解。本连接开始」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t01707",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "E7885448542DDEA47E417EC554E1540756C47C6032CBB67068E085BE9FC4FDE5",
+      "before": "「——黑刃3呼叫黑刃2，对地光学影像记录完成。开始GPS对照。」",
+      "after": "「——黑刀3呼叫黑刀2，对地光学影像记录完成。开始GPS对照。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t01708",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "F4180876B5533009B4C4E11D1075C72C25CDE2638C65D9AA9DAD5DC0017F1EDD",
+      "before": "「黑刃2了解。快到设置点了，降低高度。」",
+      "after": "「黑刀2了解。快到设置点了，降低高度。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t01715",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "6395CE3D20B3CDB28996B243608B6E43369D9ACCAD534A9D620DB944007684CC",
+      "before": "「黑刃2呼叫黑刃3，即将到达中继机设置点。下降」",
+      "after": "「黑刀2呼叫黑刀3，即将到达中继机设置点。下降」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t01721",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "A042285B3EC00A747B93AF7B4E6C68ED663B4AE75801E20528FC41C20E70A16D",
+      "before": "「——黑刃3呼叫黑刃2，听不清楚。请再次发送。」",
+      "after": "「——黑刀3呼叫黑刀2，听不清楚。请再次发送。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t01727",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "D56C596A386F5B5DD0535CFDAC8DF59F81BC9915C76E9D909D37C6B5A9976D49",
+      "before": "「――明白……黑刃3收到，开始下降」",
+      "after": "「――明白……黑刀3收到，开始下降」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t01730",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "405757DD8E5F987421C96F417B8A62C7370F52167CBAC2C5070287A8EB3F75C1",
+      "before": "「……黑刃3，在这附近设置」",
+      "after": "「……黑刀3，在这附近设置」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t01732",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "2D012938540C5638EFBF69F802FB2FB3E6DF1F337ADFE98D6DF696650DA56D4A",
+      "before": "「放下中继机——黑刃3，支援位置」",
+      "after": "「放下中继机——黑刀3，支援位置」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t01737",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "7E1C7A52FD01E98F04899D66A84B41AEFC86138B00E6C28145289F2FA6354CFD",
+      "before": "「黑刃2了解。天线伸展，开始系统检查」",
+      "after": "「黑刀2了解。天线伸展，开始系统检查」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t01749",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "81915D733CC4BCE70533DE9731233A66F43185BB3E231C0E0A8E521A0ADE5084",
+      "before": "「……黑刃2呼叫索尔蒂基地。中继机E12的安装已完成。重复，中继机E12的安装已完成」",
+      "after": "「……黑刀2呼叫索尔蒂基地。中继机E12的安装已完成。重复，中继机E12的安装已完成」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t01750",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "B1A8FB1AB42B8EC3A7EF9929023E0614DB25BBDBC305BFFCA5BF858F1B657A3F",
+      "before": "「――索尔蒂基地呼叫黑刃2，灵敏度良好。已确认E12中继机的信号。」",
+      "after": "「――索尔蒂基地呼叫黑刀2，灵敏度良好。已确认E12中继机的信号。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t01751",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "5DF1F32A0B086A8ED92E37FE5491A0483BC56172275A1C4D3D5DCB6754B8A1B8",
+      "before": "「黑刃2了解，设置任务完成。现在开始返航」",
+      "after": "「黑刀2了解，设置任务完成。现在开始返航」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t01782",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "0DF873F17EF8CB96BD58658095D0925404BAB34AA4987A6E46BBED4C1FDD0BEC",
+      "before": "「……黑刃长机了解。既然是Big Mom的命令。」",
+      "after": "「……黑刀长机了解。既然是Big Mom的命令。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t01784",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "76CBCD4CFBB0C905CA36575B7E0DC3298A3DD68751CEA5C7AF18615525B22037",
+      "before": "「黑刃3，剩余量计算也转给我。别想糊弄账本。」",
+      "after": "「黑刀3，剩余量计算也转给我。别想糊弄账本。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t01785",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "14921F40425027AB28FDC8E1C0B0A5219BE2F368908141E16098C035B35EB130",
+      "before": "「――黑刃3了解，立即传送」",
+      "after": "「――黑刀3了解，立即传送」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t01787",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "8CA562CA68155D26E7C53A416A7831621DFB79A93EACC6D10812E6119FD7EBD3",
+      "before": "「——黑刃3呼叫黑刃2，届时我会全力支援！」",
+      "after": "「——黑刀3呼叫黑刀2，届时我会全力支援！」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t01789",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "65E412A6BCF8AEF96A5A21C477644FD0AC5743ECF082EB571FCB6DE65D9B395C",
+      "before": "「——黑刃3呼叫黑刃2，已标记推进剂剩余量。将上升至返航极限点以扩大接收范围。」",
+      "after": "「——黑刀3呼叫黑刀2，已标记推进剂剩余量。将上升至返航极限点以扩大接收范围。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t01790",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "473108E95FAAA413EF82270F32363425FA9E4E75B68E2E4B099887C2D4145624",
+      "before": "「黑刃2呼叫黑刃3，收到」",
+      "after": "「黑刀2呼叫黑刀3，收到」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t01794",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "5EB38F9FA6862F26DCB78D854D994501A7C01E9176BF18CA31F11D9A4899824A",
+      "before": "「黑刃3，别勉强。就算发现了幸存者，无法推进到那里就没有意义」",
+      "after": "「黑刀3，别勉强。就算发现了幸存者，无法推进到那里就没有意义」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t01808",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "3ED132F2A349D838C95B84FA46ED3669BE8E38551BCA56191D3B598E47B559D6",
+      "before": "「――黑刃3，上升」",
+      "after": "「――黑刀3，上升」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t01811",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "5DE60490A6A198221B9CF50ECEFD35837FAF4AB678D80782B6AAFA7284BB426F",
+      "before": "「黑刃2呼叫黑刃3！再来一次——」",
+      "after": "「黑刀2呼叫黑刀3！再来一次——」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t01823",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "756285A5AF4ECBDBE5ED8663CFDBEB15CB621BCFB9965607459C912C2B358DC8",
+      "before": "「……黑刃3！莉莉娅！」",
+      "after": "「……黑刀3！莉莉娅！」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t01830",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "17FDCB97155F17567E92507FE0BCD85EFC7C89A0DF70A40E69CCEF84C958B63A",
+      "before": "「――黑刃3，到达预定高度！开始全周光学扫描！」",
+      "after": "「――黑刀3，到达预定高度！开始全周光学扫描！」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t01834",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "2B10292C6DF38130DF0817D9AE20B2B68959062D649F15D30EDC021A417ECCFE",
+      "before": "「——这里是美国海军陆战队第318战术步行战斗机队『黑刃』！听得到的话请回复！」",
+      "after": "「——这里是美国海军陆战队第318战术步行战斗机队『黑刀』！听得到的话请回复！」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t01842",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "CD5B54857175137AC45563BF27C55ADEB9BE1F2043EAF8D6F19C48681FC5FD76",
+      "before": "「――黑刃3呼叫黑刃2！」",
+      "after": "「――黑刀3呼叫黑刀2！」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t01848",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "B2050C34ED55138407D06C3A227CF7293E3DD6185F40F75D5C61CCCD804015EC",
+      "before": "「――黑刃3，直接确认！」",
+      "after": "「――黑刀3，直接确认！」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t01852",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "7A738B4660C99F0CB810FECA6FFD45EB61890EE6FE4C3C11CDB46E7549D09560",
+      "before": "「――黑刃2呼叫索尔蒂基地！光学发现搁浅的救生艇，未确认有求救信号发出！」",
+      "after": "「――黑刀2呼叫索尔蒂基地！光学发现搁浅的救生艇，未确认有求救信号发出！」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t01854",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "800C339B5AB41F46109AFD7CCC914F1E5CA5D3AC579FE06EF9DBFE2712780131",
+      "before": "「――索尔蒂基地收到，黑刃2。请传输光学数据。并在获得许可前待命」",
+      "after": "「――索尔蒂基地收到，黑刀2。请传输光学数据。并在获得许可前待命」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t01855",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "7F30F455D2A229FC3398373FF2BA53A1B05C1ACEE24B40BA0C017E05DF6D8C67",
+      "before": "「――黑刃2了解，开始传送！」",
+      "after": "「――黑刀2了解，开始传送！」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t01857",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "8EFC579E922FACDF87E446139329696942F96A99B1BE3918158F75023348AC3D",
+      "before": "「――索尔蒂基地呼叫黑刃2，数据接收完毕，在得到许可前先待机」",
+      "after": "「――索尔蒂基地呼叫黑刀2，数据接收完毕，在得到许可前先待机」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t01862",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "8CF88FF12BBA671ECE7C5D42D80D724F9921DDB04F9BEF16532DB8732EAE00A0",
+      "before": "「――索尔蒂基地允许黑刃长机及黑刃两机直接确认。重复，黑刃两机――」",
+      "after": "「――索尔蒂基地允许黑刀长机及黑刀两机直接确认。重复，黑刀两机――」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t01924",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "1C40476407D910B19FAE74D2EFF866FE2A799D6747B56776DB308ECF7904851D",
+      "before": "「黑刃2呼叫索尔蒂基地，已确认救生艇内部。无幸存者——发现2具遗体」",
+      "after": "「黑刀2呼叫索尔蒂基地，已确认救生艇内部。无幸存者——发现2具遗体」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t01932",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "B9D78B303F48E8875643EFA5A7B5617FB4CF5CE31153B694C3E43BF2CA55ED7B",
+      "before": "「――索尔蒂基地收到，黑刃2，2名遇难者死亡。详细情况返航后报告」",
+      "after": "「――索尔蒂基地收到，黑刀2，2名遇难者死亡。详细情况返航后报告」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t01933",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "0F24C5F5659771B9F28649A4E8CED8F5E9A6386A2A182B3EF575B09F75D8365E",
+      "before": "「黑刃2了解。现在返航」",
+      "after": "「黑刀2了解。现在返航」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t01934",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "57409BE5804CF9F00A8105581FC2534A14B2C9D36558F752444B06886BE4EEF3",
+      "before": "「……黑刃2呼叫索尔蒂基地，已转入水平巡航跳跃。预计到达时间1620」",
+      "after": "「……黑刀2呼叫索尔蒂基地，已转入水平巡航跳跃。预计到达时间1620」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t01939",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "8B0A2B147A997EC897512C749E4173C8A2BE0AC46A76D2335045A27D8B989612",
+      "before": "「黑刃3……莉莉娅，稍微打扰一下……？」",
+      "after": "「黑刀3……莉莉娅，稍微打扰一下……？」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t02320",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "177B52E0DFC99DC3097929E2711E82731BF622F49E5D490A28F9864AC55398C3",
+      "before": "「那天——欧亚大陆外缘的HIVE同时开始受到G弹攻击——」",
+      "after": "「那天——欧亚大陆外缘的巢穴同时开始受到G弹攻击——」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t02321",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "4BD4A076DAF370D5E5758E29653B346A733187DE22888B33411E1FF88BA7FDD2",
+      "before": "「第一波将地表构造物和光线级都炸飞后，紧接着向内陆的HIVE投下第二波」",
+      "after": "「第一波将地表构造物和光线级都炸飞后，紧接着向内陆的巢穴投下第二波」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t02323",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "93CF0E968380A0AF5DBADB054EFC7D4C7A895FCB371097FC8403C8A5D526661E",
+      "before": "「好厉害啊。虽然只是通过卫星图像看到的，但原始HIVE也干干净净！」",
+      "after": "「好厉害啊。虽然只是通过卫星图像看到的，但母巢也干干净净！」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t02329",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "3D05FF721ADB8C90960E1A74AFF080EDFEEFFEA291264621D39213DB6D10974E",
+      "before": "那也是针对一个HIVE的。",
+      "after": "那也是针对一个巢穴的。",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t02330",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "C3DC0A91E97859B6B44DAABA2C42BA1FF80AC72BB1F498204D26B031CA61E8BF",
+      "before": "所有的HIVE都是。",
+      "after": "所有的巢穴都是。",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t02333",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "3ED8985045D4251662E34A2F43932C6FD1139A4D2C6350184E26AA70C3226FCB",
+      "before": "「——HIVE周边一带全被暴风区域覆盖，沿岸出现神秘海面上升」",
+      "after": "「——巢穴周边一带全被暴风区域覆盖，沿岸出现神秘海面上升」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t02844",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "A5C1226F81BBFEFD61635B98BE12FB154C643350948EAF18E89E9CB3ECA43BF5",
+      "before": "「将所有HIVE从这个地球上消灭殆尽，连那个原始HIVE也化为灰烬」",
+      "after": "「将所有巢穴从这个地球上消灭殆尽，连那个母巢也化为灰烬」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t03077",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "6236E4A9E08824A5826F0D27C622BD9E5AC4C0A55F7CF476A444700974D2D2CB",
+      "before": "虽然没有突入HIVE内部，但随后的大海崩将欧亚大陆乃至HIVE的遗址都完全吞没了……",
+      "after": "虽然没有突入巢穴内部，但随后的大海崩将欧亚大陆乃至巢穴的遗址都完全吞没了……",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t03278",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "4241BF4B30C9BA00A14817A3D1EF6C6E4A3DCDDB6ED356541092764BD3C2A27F",
+      "before": "「HQ呼叫破坏者队、黑刃各长机。将战术机部队推进至规定位置。重复，将战术机部队推进至规定位置」",
+      "after": "「HQ呼叫破坏者队、黑刀各长机。将战术机部队推进至规定位置。重复，将战术机部队推进至规定位置」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t03280",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "E921FDAEAB76A15D18F7DBFB9FDCC64413C4CAC3FA57B7634D83E63C2879E8C4",
+      "before": "「黑刃1了解。黑刃全机，该出场了！跟上！」",
+      "after": "「黑刀1了解。黑刀全机，该出场了！跟上！」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t03326",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "9EBCA3067D93FFFDC0975FB045CDC6D2164D2EC49C081262F92EBFE9A4DD66B5",
+      "before": "「破坏者1呼叫黑刃1。怎么了，现在反而胆怯了吗？」",
+      "after": "「破坏者1呼叫黑刀1。怎么了，现在反而胆怯了吗？」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t03350",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "684E5449139EC6C9F3B29D54FE3ECD77D6988A54EAB138BC68D56C30F250E67F",
+      "before": "「黑刃3！检查六点方向——！」",
+      "after": "「黑刀3！检查六点方向——！」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t03365",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "A77F1AF09F942630E277272838A9920E295BCC2A279183DAE4B2624D9D39A058",
+      "before": "「黑刃2，换弹2门！」",
+      "after": "「黑刀2，换弹2门！」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t03366",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "9EFADB1A0013671B55D9F9445F2D4233A6C159B0274AFDEF48620C0D7FA90E61",
+      "before": "「——黑刃1了解！黑刃3，掩护我——！」",
+      "after": "「——黑刀1了解！黑刀3，掩护我——！」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t03374",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "05E205D80A50BE4092B6C9D17BA966812EDD0A5F6865BEB07471F513DF514499",
+      "before": "「――黑刃2呼叫黑刃1，与海军战术机部队的距离过远了！」",
+      "after": "「――黑刀2呼叫黑刀1，与海军战术机部队的距离过远了！」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t03379",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "2F5F2EE5EA0BFA4EBFD7AA37AB7344E018F83D5BEADDFA67832426B61140AC1E",
+      "before": "「破坏者队、黑刃都在后退中。预定在第3防卫线集结。集结完成约需5分钟」",
+      "after": "「破坏者队、黑刀都在后退中。预定在第3防卫线集结。集结完成约需5分钟」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t03391",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "F25995F1D1B142FCC32E3B0D6D8826AE6E5BDCB1C05087B523AC3DE9491D9FD9",
+      "before": "「黑刃1呼叫黑刃全机！冷静点，蠢货们！」",
+      "after": "「黑刀1呼叫黑刀全机！冷静点，蠢货们！」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t03402",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "CEDF4707BD1AA9E570EC94252B5B19EECDFD3FE6D422F3CBBC84001C7CC1B7C0",
+      "before": "「黑刃1的该死的猪丫头们！别哭哭啼啼的！」",
+      "after": "「黑刀1的该死的猪丫头们！别哭哭啼啼的！」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t03403",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "D08C613C5CD07FB32B4ED3DB3BF18680D713742DC684EA638C27AACBB133C60E",
+      "before": "「破坏者1呼叫黑刃1，能听到吗——！」",
+      "after": "「破坏者1呼叫黑刀1，能听到吗——！」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t03404",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "890FC303A6D7261E33C64D909FA2080F8DBCC492B98B47270C794CDFF78EEB41",
+      "before": "「这里是黑刃1，没问题！听到了」",
+      "after": "「这里是黑刀1，没问题！听到了」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t03413",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "A77D818A4F2F0F6EC83B9437895AF7BD453ADF4D608851D13051FBA76ECB8439",
+      "before": "「――了解，感谢黑刃1」",
+      "after": "「――了解，感谢黑刀1」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t03424",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "2F18505E31714E43748B29D7F59A327144BFA13218E60C1B9D71E4ACCE4D948C",
+      "before": "「黑刃1，坚持10分钟！我一定会还你人情！」",
+      "after": "「黑刀1，坚持10分钟！我一定会还你人情！」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t03425",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "C329630F149D6E4BA75801D5BC15A98C2FE5323BDD85343FD53E3EF9B2B5397D",
+      "before": "「黑刃1了解。别废话了，赶紧把屁股撅起来！」",
+      "after": "「黑刀1了解。别废话了，赶紧把屁股撅起来！」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t03442",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "00D93834DFEEF40B9E218E121C7A0B71FA44D2122ADD1EFECA4FF0AA8DE7E350",
+      "before": "就是这个，这个节奏。黑刃的Big Mom……我们当她的手下就好！",
+      "after": "就是这个，这个节奏。黑刀的Big Mom……我们当她的手下就好！",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t03454",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "ABC61DD8CCC75293587FB1105A1EA5C267D3F6719A7CE7846169D91CD44757AE",
+      "before": "「黑刃正在形成防卫线」",
+      "after": "「黑刀正在形成防卫线」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t03458",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "A54CE253718FDD4B7C01F514896570AC43035EE70461235B1D57173AB8C3C91D",
+      "before": "「黑刃2、黑刃3！好好守住彼此的屁股！开枪就能命中，想也是白想！」",
+      "after": "「黑刀2、黑刀3！好好守住彼此的屁股！开枪就能命中，想也是白想！」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t03459",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "6E96CE38A4448F14DCB70260107F96211C8967EF48602E887F0E7759C830132F",
+      "before": "「黑刃3，背后交给你。我去干爆突击级的屁股！」",
+      "after": "「黑刀3，背后交给你。我去干爆突击级的屁股！」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t03488",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "542C8CA671A09B6DE964BC466908198A551AC9ED2710391AD817BCEB981F31BA",
+      "before": "「黑刃3，残弹500――！」",
+      "after": "「黑刀3，残弹500――！」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t03498",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "ED1ACDE2CC885FC02AD7DCF495B825BD78C7738A9B776F5BB1E94A82787C7898",
+      "before": "「黑刃1补给完成，回归战线」",
+      "after": "「黑刀1补给完成，回归战线」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t03546",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "C8A88DEF8D1DDFB2211CB480E67F8CF70946F37B9EB575F63B80CA6FF2B7221C",
+      "before": "「黑刃2、黑刃3！上120mm！猎杀大个的！」",
+      "after": "「黑刀2、黑刀3！上120mm！猎杀大个的！」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t03575",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "B649993507169AEDADA06F824C0196145EA0AD25C26D4F89C4F0AA6EFEA9290C",
+      "before": "「黑刃1，回答。我是乔治·奥尔斯顿准将」",
+      "after": "「黑刀1，回答。我是乔治·奥尔斯顿准将」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t03583",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "3DA3A5648A4BD2BBFE3EC27E690964175369E27535B78DA939C58BD9BE12AE23",
+      "before": "「……黑刃1了解。执行『紧急情况预案72-C』」",
+      "after": "「……黑刀1了解。执行『紧急情况预案72-C』」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t03593",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "FCE1AC16CD772163A1F4B0AEDC32DB30C08C82BCB99CB07608E8DD61C7DE4EA3",
+      "before": "「这里不行了！快，黑刃3！弹射器要不能用了——！」",
+      "after": "「这里不行了！快，黑刀3！弹射器要不能用了——！」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t03602",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "93873CCF1C361A6E5CB554C4A09D6FDA8F4166A0E660A14113441D2E05E51F57",
+      "before": "「――黑刃2了解！　莉莉娅，快――」",
+      "after": "「――黑刀2了解！　莉莉娅，快――」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t03621",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "401FB2C3C1A3E2F939320EAE157E0F6DDEAD26CE0C821DEDF08C1717D98FFBE5",
+      "before": "「黑刃2了解。永远忠诚，地狱之底也随您同行！」",
+      "after": "「黑刀2了解。永远忠诚，地狱之底也随您同行！」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t03624",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "B6F64EC1B6AD18F771A6D7ED4EC08026DFFA647B1854E35CEF5F830C5ECAD43C",
+      "before": "「请等一下！我也是黑刃的一员！是海军陆战队员！拜托了中尉——！」",
+      "after": "「请等一下！我也是黑刀的一员！是海军陆战队员！拜托了中尉——！」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t03646",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "BC1A016F99D50B82AB99768515A20FC58F179BEE17B9D458D64E660146BB11D9",
+      "before": "「黑刃3弹射器已连接完毕」",
+      "after": "「黑刀3弹射器已连接完毕」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t03647",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "7A01874D33507DFE311258503C6C2E11881F9B62BB8CD217EE05F0BA619F9E27",
+      "before": "「黑刃3弹射器连接完成——！」",
+      "after": "「黑刀3弹射器连接完成——！」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t03648",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "547497FA857430B0E00560141B1E2FDB9381E2FD61AF47657788B2E5AF272678",
+      "before": "「――让黑刃2加快速度！反应堆一停就完了！」",
+      "after": "「――让黑刀2加快速度！反应堆一停就完了！」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t03651",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "1100798C33B08F2411C9F4ACFFECB7F2B7DA7A695C1BEF1ED8C5F47EA5F028FA",
+      "before": "「黑刃3呼叫黑刃全机！中尉，威尔——出发！」",
+      "after": "「黑刀3呼叫黑刀全机！中尉，威尔——出发！」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t03653",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "91A29F32DE1B2684E2111F21AF8C4A1C8CB24EEEC35663805DA62B49C5E16025",
+      "before": "「黑刃1了解，你是最棒的卫士！　你一定能行！」",
+      "after": "「黑刀1了解，你是最棒的卫士！　你一定能行！」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t03654",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "896A00DD3642BAA84582D521DEE6E72B848A9E420267EC0D612ECF0B04B4FBCB",
+      "before": "「黑刃2了解，绝对不许死——完成任务！！」",
+      "after": "「黑刀2了解，绝对不许死——完成任务！！」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t03655",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "6D83675A4009AE575295B46D368A0DA88D94BF124869A7346F83C4943BAF7D21",
+      "before": "「——祝你好运，黑刃3！起飞！」",
+      "after": "「——祝你好运，黑刀3！起飞！」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t03694",
+      "file": "AGE2/games/tda00/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "AB59364EC0F045B25E1DDF6024EC9D96CE047F39B6775B2C28712EED8A575946",
+      "before": "「美国海军陆战队，『黑刃』……莉莉娅·谢尔贝里少尉……报到」",
+      "after": "「美国海军陆战队，『黑刀』……莉莉娅·谢尔贝里少尉……报到」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t00086_ruby",
+      "file": "AGE2/games/tda00/translations/auxiliary.ja-zh-Hans.tsv",
+      "column": "zh_cn",
+      "source_text_sha256": "08498113F8C467EE4FC8BBAE7B22ABC612BA8D32F1F6A685FDEE9DCD8D8579A5",
+      "before": "第318战术机队:黑刃",
+      "after": "第318战术机队:黑刀",
+      "reason": "同步说话人标签及ruby术语，保留ruby锚点。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t00738_ruby",
+      "file": "AGE2/games/tda00/translations/auxiliary.ja-zh-Hans.tsv",
+      "column": "zh_cn",
+      "source_text_sha256": "D6F236BA2ECAC925EDCA6D5EB5448EA72E09B9E03B4D609CFA3EA32D58A915DE",
+      "before": "第318战术机队:黑刃",
+      "after": "第318战术机队:黑刀",
+      "reason": "同步说话人标签及ruby术语，保留ruby锚点。"
+    },
+    {
+      "game": "tda00",
+      "id": "game_t03238_ruby",
+      "file": "AGE2/games/tda00/translations/auxiliary.ja-zh-Hans.tsv",
+      "column": "zh_cn",
+      "source_text_sha256": "C1853E83D2BAB5E9BADFEFC069912F675A354AF135340DAFF7752BDB37F61B2E",
+      "before": "第318战术机队:黑刃",
+      "after": "第318战术机队:黑刀",
+      "reason": "同步说话人标签及ruby术语，保留ruby锚点。"
+    },
+    {
+      "game": "tda01",
+      "id": "game_t00754",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "80839BB4E3268C2F06838C42683BE64D9FEF5601F873916E6ACB899D2EDEC098",
+      "before": "「是的。但在这个意义上，西雅图是幸运的城市。——毕竟曾是波音公司的本部。」",
+      "after": "「是的。但在这个意义上，西雅图是幸运的城市。——毕竟曾是波宁公司的本部。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda01",
+      "id": "game_t00764",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "8952356DD34840CED0B47D5A6ED5152BD87B8E02E6C22D1A18D0C8A78A1F82B3",
+      "before": "「波音公司那边处理过的地方，我们这边也会从一颗螺栓开始重新确认。」",
+      "after": "「波宁公司那边处理过的地方，我们这边也会从一颗螺栓开始重新确认。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda01",
+      "id": "game_t01444",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "4ADAF59F3BC7529F11A08011BCC9CF3EC028B5767F7FFF8D05FC63585A55025F",
+      "before": "从地球环绕轨道仅凭返回式舱和战术机单机突入，率先冲入HIVE的最精锐部队……。",
+      "after": "从地球环绕轨道仅凭返回式舱和战术机单机突入，率先冲入巢穴的最精锐部队……。",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda01",
+      "id": "game_t01627",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "DE9DAE8134FA1537CB33BEF9AFCB575FF0FE282F82EF6BEF85D765D4E2E7E1AE",
+      "before": "「嗯，我以前确实隶属轨道空降兵团。降下经验也算是有。」",
+      "after": "「嗯，我以前确实隶属轨道空降军团。降下经验也算是有。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda01",
+      "id": "game_t01632",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "874481D81253C93D6C89AF50CA253B3DFFA8B4A2E065EAD0D3FBC41F24FD98B8",
+      "before": "「我可不是靠着轨道空降兵团的经历才活到现在的。」",
+      "after": "「我可不是靠着轨道空降军团的经历才活到现在的。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda01",
+      "id": "game_t01900",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "DADDC3FE4EDFA5818D10C2483CCEDC6CFE04930200B05438014BB709B8ED0A17",
+      "before": "「这与以往的进攻模式——即因HIVE附近个体数量饱和而引发的进攻——明显不同。」",
+      "after": "「这与以往的进攻模式——即因巢穴附近个体数量饱和而引发的进攻——明显不同。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda01",
+      "id": "game_t01902",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "DE77CFAEBEF1B2513143FA13259241BD18C3D661E600505E20C30E8A5B83AD99",
+      "before": "「调查结果推测，这些BETA是以部分集团突出的形式，从欧亚大陆方向的HIVE长途入侵而来的。」",
+      "after": "「调查结果推测，这些BETA是以部分集团突出的形式，从欧亚大陆方向的巢穴长途入侵而来的。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda01",
+      "id": "game_t03788",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "127DB47CB0E435807F5664C794AE07A7E3A69EFB85B965A091B954D5919A8A77",
+      "before": "「……是吗，毕竟你曾是轨道空降兵团的人啊。」",
+      "after": "「……是吗，毕竟你曾是轨道空降军团的人啊。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda01",
+      "id": "game_t03807",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "4CF8BD8CD8C395771C7043435E90834F4620A1D1E1F17C3AD8867D14563C2660",
+      "before": "以突入HIVE为目的的轨道空降兵——被选中，然后活下来。",
+      "after": "以突入巢穴为目的的轨道空降兵——被选中，然后活下来。",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda01",
+      "id": "game_t03849",
+      "file": "AGE2/games/tda01/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "927F4F3DF0CB9818E65F31669DEA228234F951BCB355BD7DA24A02D35CB375A4",
+      "before": "我也是，对艾伦原属于轨道空降兵团这件事很感兴趣。这既是单纯的好奇，也是因为我们是托付后背的同伴。这份心情，艾伦一定也一样吧……。",
+      "after": "我也是，对艾伦原属于轨道空降军团这件事很感兴趣。这既是单纯的好奇，也是因为我们是托付后背的同伴。这份心情，艾伦一定也一样吧……。",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda02",
+      "id": "game_t02160",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "054778347B4103F8890EB44376C9857E85899CCEEF3F53774FD2B6F8B7C8CDC0",
+      "before": "「黑刃1呼叫全体黑刃！冲进敌群！前进2公里，打入楔子！」",
+      "after": "「黑刀1呼叫全体黑刀！冲进敌群！前进2公里，打入楔子！」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda02",
+      "id": "game_t02354",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "405FC97984B802EB094B7067F9231A88FA9585022314A28A2FCCAA61F4B36FA6",
+      "before": "「住手，谢尔贝利中尉。我可不是为了让中尉你和龙浪中尉吵架才介绍你们认识的。」",
+      "after": "「住手，谢尔贝里中尉。我可不是为了让中尉你和龙浪中尉吵架才介绍你们认识的。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda02",
+      "id": "game_t02385",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "5B1FAB9AB2C745026F9D257895D531585528A76DCE1C3754E61121CCDB5A2F4F",
+      "before": "你刚才说莉莉亚·谢尔贝莉中尉吧。比我更早经历过类似事情的美国人吗……。",
+      "after": "你刚才说莉莉娅·谢尔贝里中尉吧。比我更早经历过类似事情的美国人吗……。",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda02",
+      "id": "game_t02566",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "5FB3281919FE1E1241AA9A5B9764EBBEAA17F73EE7472A20EFF99A938255C20C",
+      "before": "你也说过那种话呢。毕竟你是轨道空降兵团出身嘛……",
+      "after": "你也说过那种话呢。毕竟你是轨道空降军团出身嘛……",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda02",
+      "id": "game_t02664",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "CD60FAA87B96DDAAC8DFF5ABD65FE9E9F8C20D0CB150E0AA0AED8FD7AC38E4B8",
+      "before": "「轨道空降兵团常被揶揄为‘空中棺材’，但那时候这么说还真没错。……感觉真像是被关进了棺材里。」",
+      "after": "「轨道空降军团常被揶揄为‘空中棺材’，但那时候这么说还真没错。……感觉真像是被关进了棺材里。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda02",
+      "id": "game_t02689",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "6169DACF6A137E2B9BF7B52666F6C1C2840FED962FF1964D2B213E29507803C3",
+      "before": "我不认为空间站能容纳整个轨道空降兵团，也不可能有足够让他们在宇宙中生活数年的设备。",
+      "after": "我不认为空间站能容纳整个轨道空降军团，也不可能有足够让他们在宇宙中生活数年的设备。",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda02",
+      "id": "game_t04460",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "2DB5B066D16F95948610AA8D6E78554CC0B929E56D88D255FE1C9CE5715E24FB",
+      "before": "「这里是美国海军陆战队战术机部队黑刃队，莉莉娅·谢尔贝利中尉。我们无意妨碍作战。目前，我们正在西雅图湾内进行飞行训练！」",
+      "after": "「这里是美国海军陆战队战术机部队黑刀队，莉莉娅·谢尔贝里中尉。我们无意妨碍作战。目前，我们正在西雅图湾内进行飞行训练！」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda02",
+      "id": "game_t05035",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "5A718DF09AC818D25D88F603323053A57A4D0E628E33D86E77AFD016521A628C",
+      "before": "「恰好有一台在波音做厂家维护的机体，算是运气好；要是平常得等一个月呢。」",
+      "after": "「恰好有一台在波宁做厂家维护的机体，算是运气好；要是平常得等一个月呢。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda02",
+      "id": "game_t05615",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "183DC7985BF037AEA92CD08F8D9AE340C61894CD1A423D06A827392BB3158AAC",
+      "before": "「出来了吗……。黑刃长机向各机传达！战斗许可尚未下达！在得到许可前严禁开火！」",
+      "after": "「出来了吗……。黑刀长机向各机传达！战斗许可尚未下达！在得到许可前严禁开火！」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda02",
+      "id": "game_t06065",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "844CD7CF57032D91897094E085024F866CECCDCC11BE1B5C9E503660C3450B62",
+      "before": "「！？意思是不能动吗！？里维埃尔上尉！」",
+      "after": "「！？意思是不能动吗！？里维埃上尉！」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda02",
+      "id": "game_s00013",
+      "file": "AGE2/games/tda02/translations/auxiliary.ja-zh-Hans.tsv",
+      "column": "zh_cn",
+      "source_text_sha256": "F668DDB4552170E72796A118DD7A6E249DDB318E5EAABACCC02A5517831B2547",
+      "before": "盖克兰少校",
+      "after": "盖斯克朗少校",
+      "reason": "同步说话人标签及ruby术语，保留ruby锚点。"
+    },
+    {
+      "game": "tda02",
+      "id": "game_s00021",
+      "file": "AGE2/games/tda02/translations/auxiliary.ja-zh-Hans.tsv",
+      "column": "zh_cn",
+      "source_text_sha256": "05F62D39404394F998B4021E2563162410D04552242FF5A61BB5A1A346A89F69",
+      "before": "黑刃队",
+      "after": "黑刀队",
+      "reason": "同步说话人标签及ruby术语，保留ruby锚点。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t01314",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "238002BAC4B468046B04D8E3870184706B407E0E0B903EBFBE934352E95CC523",
+      "before": "「配合这次会议，以波音公司为首，各种企业都开始有所动作。」",
+      "after": "「配合这次会议，以波宁公司为首，各种企业都开始有所动作。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t01458",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "7DDDD3E5390C6A41946553A3A70296CCDFB021B07D3CCE4DF1819D5BF85AEDFA",
+      "before": "「这次我陪同斑鸠阁下，是为了推进与波音公司合作在西雅图建立生产基地的计划。」",
+      "after": "「这次我陪同斑鸠阁下，是为了推进与波宁公司合作在西雅图建立生产基地的计划。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t01462",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "43EF4CABE50C25BB6657F47AF74BD8884DD33FA69271F9453917BCB0482BEB3B",
+      "before": "「那是说要扩建波音的工厂吗？还是说新建河崎的工厂？」",
+      "after": "「那是说要扩建波宁的工厂吗？还是说新建河崎的工厂？」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t01610",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "C8BB458DC06FAB0158D48AA35862571050163745EBFCEDFEDDE2E3040554B390",
+      "before": "「关于现存唯一的地上HIVE——JFK HIVE正以前所未有的速度成长一事，我已提交报告——」",
+      "after": "「关于现存唯一的地上巢穴——JFK 巢穴正以前所未有的速度成长一事，我已提交报告——」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t01614",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "F09AE3126DC05626086CEA1DCDE7D1790CE7E33CBF7DF83B519F40968EC009A9",
+      "before": "「如果JFK HIVE活性化，BETA群经由南美北上，人类就不得不在低氧地带作战。」",
+      "after": "「如果JFK 巢穴活性化，BETA群经由南美北上，人类就不得不在低氧地带作战。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t01886",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "CD60FAA87B96DDAAC8DFF5ABD65FE9E9F8C20D0CB150E0AA0AED8FD7AC38E4B8",
+      "before": "「轨道空降兵团被揶揄为空中棺材，但那时这说法才是正确的。……真的感觉像是被关进了棺材里。」",
+      "after": "「轨道空降军团被揶揄为空中棺材，但那时这说法才是正确的。……真的感觉像是被关进了棺材里。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t02059",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "88192C8A63E7A19C0DE031A7F8FAF185D71A0D539AD7F40D0A565A97FC7E26C2",
+      "before": "「卫星轨道上部署的用于迎击HIVE的核导弹，全部被某人控制了……」",
+      "after": "「卫星轨道上部署的用于迎击巢穴的核导弹，全部被某人控制了……」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t02083",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "EA0B21ED95B964D18B507953A9A576A946354D5AF754A65557114FA5FD73CFD5",
+      "before": "「SHADOW是为了拦截从月球HIVE向地球发射的着陆单元的系统。」",
+      "after": "「SHADOW是为了拦截从月球巢穴向地球发射的着陆单元的系统。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t02085",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "8935D7D4B9E6B5E87FF219130CFB38043681B858F3BAACAAE11D33AA0E0BE42F",
+      "before": "「从月球HIVE射出的着陆单元，最好能在到达此处之前就被摧毁，但若无法做到，则用这些卫星群击落。」",
+      "after": "「从月球巢穴射出的着陆单元，最好能在到达此处之前就被摧毁，但若无法做到，则用这些卫星群击落。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t02427",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "C682EA02540F1CE70D6CBD372FC768C2BC8DF6C25ED5A15D7D31A953C88DAB0B",
+      "before": "「——我是蕾雅·盖克兰少校」",
+      "after": "「——我是蕾亚·盖斯克朗少校」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t02441",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "843E2CEAA81C0E379BA189812C9F5DA23017021F225CB4B1F48CC616979F7ADE",
+      "before": "「队长，盖格兰少校真的打算用核弹吗？」",
+      "after": "「队长，盖斯克朗少校真的打算用核弹吗？」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t02465",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "D47B42243635E45DFA962F28015D145F0490115284ED669652C966CB54F3928D",
+      "before": "「让我们报答盖格兰少校的厚意吧，是她救了被逐出祖国的我们！」",
+      "after": "「让我们报答盖斯克朗少校的厚意吧，是她救了被逐出祖国的我们！」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t02523",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "8B665210796626810899BDAC7DABA6B4C16FD36CC1A7EF0821401C9BC41CA1EA",
+      "before": "「——黑刃1 明白！」",
+      "after": "「——黑刀1 明白！」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t02567",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "1802A11D56AB47570A0744F6D62C5A0C15574029149FE4AAAD50EF21556B222B",
+      "before": "「是格克兰少校！格克兰少校做到了……！」",
+      "after": "「是盖斯克朗少校！盖斯克朗少校做到了……！」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t02693",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "C95C22DAAD9C218E86DB937CB356122BD4B12424281DD712E20A96CA25EE3442",
+      "before": "「为什么来问我指示！格克兰少校呢！？总不会死了吧？」",
+      "after": "「为什么来问我指示！盖斯克朗少校呢！？总不会死了吧？」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t03009",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "D00300ADC7D1F9FE751CF0BC07E21BAED3838EDF7BF342CCB6D3F62773E3C335",
+      "before": "「这里是联合国宇宙总军第6轨道空降兵团，装甲驱逐舰鹅妈妈号所属，莉娜·特尔沃中尉。——恕难从命。」",
+      "after": "「这里是联合国宇宙总军第6轨道空降军团，装甲驱逐舰鹅妈妈号所属，莉娜·特尔沃中尉。——恕难从命。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t03011",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "1A75472F04E07821C5ED944A8D1E7AC3BF97094F2C34D50D5A08AF06F6AED751",
+      "before": "「卫星轨道上保管的核导弹，是用来拦截HIVE着陆单元的……。不能用于人类之间的战争。」",
+      "after": "「卫星轨道上保管的核导弹，是用来拦截巢穴着陆单元的……。不能用于人类之间的战争。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t03159",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "93278B932ED2E27759A87EFC3D800E598CF7CEAEECBEAEEE196258FDF7B4409D",
+      "before": "「——传达格克兰少校的话。」",
+      "after": "「——传达盖斯克朗少校的话。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t03170",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "6C2786C66D19CD8523DAECB2D217E0ED334A98B8E92AD2798B62B89420A2D799",
+      "before": "「不，不对……盖克兰少校是给了我们选择吧」",
+      "after": "「不，不对……盖斯克朗少校是给了我们选择吧」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t03172",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "0C230E91853C685B29AE6D705FD18DB6651CBD2A86D3C34C5F46AD55290E6D11",
+      "before": "「……我无法相信盖克兰少校的话」",
+      "after": "「……我无法相信盖斯克朗少校的话」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t03266",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "63B99DD136F3CD0EEAB1BAF735E5E6B05B163667132E6834D846379DA787D04B",
+      "before": "「格克兰少校……。你该不会是故意放跑他的吧？」",
+      "after": "「盖斯克朗少校……。你该不会是故意放跑他的吧？」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t03804",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "AB25E0C2E7DA14949785E91B6F3064118AF8DD90EB7270FFDF54BC23F7CBFC90",
+      "before": "「然后，我也受够了。就尽量不联系他们，之后去参加了轨道空降兵团的选拔考试。」",
+      "after": "「然后，我也受够了。就尽量不联系他们，之后去参加了轨道空降军团的选拔考试。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t03940",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "09E17B1A4E3DC892E50E7F25A6EA2A85F980E8BED57EAF4D14EB57C6B6E9BD29",
+      "before": "「下一条新闻。第六共和法国少校雷亚·盖克兰在加拿大法属领地被捕，将被引渡至美国。」",
+      "after": "「下一条新闻。第六共和法国少校蕾亚·盖斯克朗在加拿大法属领地被捕，将被引渡至美国。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t04007",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "9F6B2ACE5A36C43745654120AFC15D1C969F3B32040B8D8270313D5D72C5BED4",
+      "before": "「我只知道军方的官方发布和民间播报的内容。大概就是和平谈判的进展和盖克兰少校被捕这些事吧」",
+      "after": "「我只知道军方的官方发布和民间播报的内容。大概就是和平谈判的进展和盖斯克朗少校被捕这些事吧」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t04076",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "25F8CDF731D584291F56041E78349F509E7D75994BF950AF99FBF7AE04476CE8",
+      "before": "「今天，参加会议的四国以及联合国，一致通过了JFK HIVE攻略作战。」",
+      "after": "「今天，参加会议的四国以及联合国，一致通过了JFK 巢穴攻略作战。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t04079",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "D9794C1B236CFCF12809B8A7CBE51B13543D8F9178D7796DA068AAD3989A76EA",
+      "before": "JFK HIVE攻略……！？",
+      "after": "JFK 巢穴攻略……！？",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t04082",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "3CFF893D122C11FBBCF2666B08DBF423F9A8CB52D66D7D53CBC41C7184B70FDA",
+      "before": "「这不是玩笑，而是正式决定。大约一个月后，我们将攻略JFK HIVE。」",
+      "after": "「这不是玩笑，而是正式决定。大约一个月后，我们将攻略JFK 巢穴。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t04090",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "FD334DE208263C679028269FBB271D6ACCEB692727BE9F1848FBDB7658E72DB8",
+      "before": "「如果放任JFK HIVE继续成长，将会产生几项隐患。作战提案的主旨，就是趁早掐掉这些苗头。」",
+      "after": "「如果放任JFK 巢穴继续成长，将会产生几项隐患。作战提案的主旨，就是趁早掐掉这些苗头。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t04091",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "D74EF292C6B450A6BA89135500B0E2A3E9344EDFF4911C0EBDA2FF96D15400C2",
+      "before": "「第一，如今已经变成无人荒野的南半球，HIVE有可能异常增殖……。在没有人类妨碍的南半球，HIVE的成长速度应该会大幅提高。」",
+      "after": "「第一，如今已经变成无人荒野的南半球，巢穴有可能异常增殖……。在没有人类妨碍的南半球，巢穴的成长速度应该会大幅提高。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t04092",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "708C625CED1F04EDD62F91285A0BE9F6E29263739091BDC5721AED909337164F",
+      "before": "「而且，从增殖的HIVE中诞生的BETA，也有可能穿过已经无人化的南美低氧地带北上。」",
+      "after": "「而且，从增殖的巢穴中诞生的BETA，也有可能穿过已经无人化的南美低氧地带北上。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t04099",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "9AFA4EA59F36D1AD6A80B87E9574FE11F82CBCA86117033A0E527F9C753C55F4",
+      "before": "从南半球出现HIVE的那一刻起，人类就已经完了。",
+      "after": "从南半球出现巢穴的那一刻起，人类就已经完了。",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t04102",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "D8958215E5E4923DBF10645843C7BA621FE272B3863E965F334E1ADDDA9DD5F7",
+      "before": "「粮食援助的附加条件之一，就是要求积极参战攻克JFK HIVE。」",
+      "after": "「粮食援助的附加条件之一，就是要求积极参战攻克JFK 巢穴。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t04108",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "80352A9A7150989DEBEF0A36FA67AB961F2B7FEB2AF7349D15F28B4B7CF9C3AD",
+      "before": "「……我理解攻克JFK HIVE的理由。但无法想象美国为什么会接受这个提案。」",
+      "after": "「……我理解攻克JFK 巢穴的理由。但无法想象美国为什么会接受这个提案。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t04111",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "6269E4D8338C888CEECC79ADCE2289C6D86D2B71CA16E0B119F871304A73344B",
+      "before": "真正应该达成的是压制HIVE。但为此准备时间远远不够……。",
+      "after": "真正应该达成的是压制巢穴。但为此准备时间远远不够……。",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t04129",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "E0C83663D7CD13C93840CEB82759EF8DFFCE41265653751B4A69AE9A295FBC3C",
+      "before": "「第五计划是一个将基于G弹集中运用的HIVE攻略与通过移民船团向其他星系移居作为一体的计划」",
+      "after": "「第五计划是一个将基于G弹集中运用的巢穴攻略与通过移民船团向其他星系移居作为一体的计划」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t04156",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "28CEC36C3C36C3E3A1C1092EBCE4AA89E69CC30EEF56576EEE95695DA769523D",
+      "before": "说到G弹，当时宣传的是能整个摧毁HIVE的地表结构……。",
+      "after": "说到G弹，当时宣传的是能整个摧毁巢穴的地表结构……。",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t04594",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "90BA8CEB740AA329BE3C2A550ED72657E029E3723669EBB82097183D186B1A15",
+      "before": "还有更具体的事——JFK HIVE攻略、围绕悠阳殿下和斑鸠公的政治斗争。",
+      "after": "还有更具体的事——JFK 巢穴攻略、围绕悠阳殿下和斑鸠公的政治斗争。",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t04634",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "350B848379D2AF6B7C9D023EB88E31DEEB7FE050F66088E278882580408D651F",
+      "before": "「……以上。重复一遍，JFK HIVE的成长速度很快。这应该是因为人类没有对其进行定期削减。」",
+      "after": "「……以上。重复一遍，JFK 巢穴的成长速度很快。这应该是因为人类没有对其进行定期削减。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t04635",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "AEEBD432BB4809E35C6D878FC641623803BBF0ABE2FEF694D218420B8F80BC5A",
+      "before": "「如果继续放任JFK HIVE，可能很快就会开始建造一座不同于JFK的新陆上HIVE。」",
+      "after": "「如果继续放任JFK 巢穴，可能很快就会开始建造一座不同于JFK的新陆上巢穴。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t04636",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "7F47E6B005A5B375EFBAC3B0525203ECA2B81340040E165962C377C83203766D",
+      "before": "「而且如果南半球建造了大量HIVE，由这些HIVE生产出的BETA就可能经由低氧地带，从陆路进攻西雅图。」",
+      "after": "「而且如果南半球建造了大量巢穴，由这些巢穴生产出的BETA就可能经由低氧地带，从陆路进攻西雅图。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t04637",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "B9DB85DD200657B59DACC6F97F72BA23C255F41425ACC1540E150B45EB689805",
+      "before": "「因此，作为预防措施，我们人类将组建四国联合军，执行JFK HIVE攻略作战。」",
+      "after": "「因此，作为预防措施，我们人类将组建四国联合军，执行JFK 巢穴攻略作战。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t04641",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "00D757538BB44916858E7660E4E940FACD64246532AB4DD3A2510323A42D81AD",
+      "before": "但是……在听了神宫司少校他们的话之后，我现在确实有着另一种不安，担心JFK HIVE是否真的能攻下来。",
+      "after": "但是……在听了神宫司少校他们的话之后，我现在确实有着另一种不安，担心JFK 巢穴是否真的能攻下来。",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t04647",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "F3FE53395CE19ACD8EA67E3A158CE248502ECB3E3705EEB0B003FB2BF0777838",
+      "before": "「不过嘛，这次作战确实鲁莽。可人类之间的战争已经结束，现在或许正是攻略HIVE的机会。」",
+      "after": "「不过嘛，这次作战确实鲁莽。可人类之间的战争已经结束，现在或许正是攻略巢穴的机会。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t04649",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "06292EFE4FE6704FD9B12EA3B475C567355D3C5D590C6BDDBDE30B3B35DBC6BC",
+      "before": "正常情况下不可能成功，至今为止没有G弹就成功攻略HIVE的先例，而且我们也没有过去HIVE攻略战那样的兵力了。",
+      "after": "正常情况下不可能成功，至今为止没有G弹就成功攻略巢穴的先例，而且我们也没有过去巢穴攻略战那样的兵力了。",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t04651",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "70F1A2ED614682FAAF199C4606769C393D284ACFD92A2D9A2CA5EE2BBDB85AA3",
+      "before": "「——另外，虽然会受装备调配进度的影响，但对HIVE的进攻预定在大约一个月后的二月中旬。」",
+      "after": "「——另外，虽然会受装备调配进度的影响，但对巢穴的进攻预定在大约一个月后的二月中旬。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t04987",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "85496051A56128B3A255F6C046B381F5F1D892AEF0ED7A7CB2C5091408D4660C",
+      "before": "「……驻留区内还算平静。大概是眼前战争已经结束了吧。不过，一旦HIVE攻略成为众所周知的事实，到时会有什么反应，我无法预测。」",
+      "after": "「……驻留区内还算平静。大概是眼前战争已经结束了吧。不过，一旦巢穴攻略成为众所周知的事实，到时会有什么反应，我无法预测。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t04988",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "25CC5AF3767E0D30742D911F98CC14B0D220DA324A4DCF4763250D11ABB09E83",
+      "before": "「嗯……少校是反对JFK HIVE攻略吗？」",
+      "after": "「嗯……少校是反对JFK 巢穴攻略吗？」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t04991",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "DBCF7879429424027EB308AF128F8103FD781521BDBCF3ACF99D01A74772D408",
+      "before": "「原来如此。……但是，等HIVE成长起来就晚了。我们刚刚亲身体验过在低氧地区作战有多困难」",
+      "after": "「原来如此。……但是，等巢穴成长起来就晚了。我们刚刚亲身体验过在低氧地区作战有多困难」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t04992",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "B13909A60E9B610C3CFE89DB73580F91CA1EF3E21060315742B66DC79AAEE5AB",
+      "before": "「而且JFK HIVE成长显著。有必要尽早摧毁它，无需等待敌方战力完备。」",
+      "after": "「而且JFK 巢穴成长显著。有必要尽早摧毁它，无需等待敌方战力完备。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t04998",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "0293AB8E33CB2BC81EE973BCAF3787C3778DFEDBA6B6789E68488955D8CA86AA",
+      "before": "「决定就是决定。全世界已确定协力攻略JFK HIVE。」",
+      "after": "「决定就是决定。全世界已确定协力攻略JFK 巢穴。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t05110",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "736FAD8387356A00EE0785F70B6BBF91BA10CFFB9E374BF90C8EE5BDEFC2722E",
+      "before": "「JFK HIVE攻略战吗……」",
+      "after": "「JFK 巢穴攻略战吗……」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t05140",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "9F65A631FFC6DBA584B94D93B5662404BAF5775389F505DE52F010B3A21CC653",
+      "before": "「那么，艾伦·艾斯少尉、美樱乃雫少尉，出发参加JFK HIVE攻略战。」",
+      "after": "「那么，艾伦·艾斯少尉、美樱乃雫少尉，出发参加JFK 巢穴攻略战。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t05200",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "35A068FF029AEB71BD5CFD462489AB006273FC1E4223BBE1FB0101EEF7991549",
+      "before": "「二、我军谨奉出征主命，胸怀坚忍不拔之气魄，必歼盘踞JFK HIVE的异星起源种。」",
+      "after": "「二、我军谨奉出征主命，胸怀坚忍不拔之气魄，必歼盘踞JFK 巢穴的异星起源种。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t05412",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "9EA694501C8F8A7A206D59E117BA4807147EB582353843F0C6996E4C8B424F43",
+      "before": "「稍息。下面开始JFK HIVE攻略作战的简报。」",
+      "after": "「稍息。下面开始JFK 巢穴攻略作战的简报。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t05415",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "F1498D16BC609C8AE1EC11CA4718019D32B6ECB6F21D74ED2A836F80D566B750",
+      "before": "「那么，作战目的是攻略现存唯一的陆上HIVE——JFK HIVE。」",
+      "after": "「那么，作战目的是攻略现存唯一的陆上巢穴——JFK 巢穴。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t05416",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "A0A4E2DD7D9224F53A786EB85D18E113DDF392F3AA158DD4B71839F07BE1B38B",
+      "before": "「我们战术机部队的任务是登陆JFK HIVE周边，突入地下茎构造，并停止其最深部的反应炉。」",
+      "after": "「我们战术机部队的任务是登陆JFK 巢穴周边，突入地下茎构造，并停止其最深部的反应炉。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t05419",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "408C1BEEF70823FB6593A34344370C368CD31E79372E8866A10F43CE06B368E6",
+      "before": "「首先再次确认。根据监控卫星的观测信息，JFK HIVE已成长至Phase 2阶段。」",
+      "after": "「首先再次确认。根据监控卫星的观测信息，JFK 巢穴已成长至Phase 2阶段。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t05420",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "8C1561C3E686EC82B8C9C7C49909A5A75A90A83F7AB79454E76D53C8F542F9CB",
+      "before": "「但不可因为是Phase 2就轻敌。和过去的横滨HIVE一样，过去已确认有地表构造物成长速度与地下茎构造成长未必一致的案例。」",
+      "after": "「但不可因为是Phase 2就轻敌。和过去的横滨巢穴一样，过去已确认有地表构造物成长速度与地下茎构造成长未必一致的案例。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t05421",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "C6A6FC72FD15E1C93E950471A37138A82F7641A0145D27E06D9F4D9B2FD750F4",
+      "before": "「另外，虽然是最新情报，但已确认JFK HIVE周边的热量正在增加。」",
+      "after": "「另外，虽然是最新情报，但已确认JFK 巢穴周边的热量正在增加。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t05430",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "3C33D793893F1FBD7A4B580E5013239CDC683FEA97E91BF26D62281954B2BD82",
+      "before": "「因此，我方决定将JFK HIVE认定为并非Phase 2相当，而是处于Phase 3向Phase 4成长阶段的HIVE。」",
+      "after": "「因此，我方决定将JFK 巢穴认定为并非Phase 2相当，而是处于Phase 3向Phase 4成长阶段的巢穴。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t05433",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "362772384F599007E8D9B5E5D5CC0DD98AB7AF0A540F11AD39CD4B9C44B4E704",
+      "before": "「首先是第一阶段，按照HIVE攻略的基本流程，通过舰炮射击和诱导弹的饱和攻击进行面压制，扫清JFK HIVE周边地面展开的BETA。」",
+      "after": "「首先是第一阶段，按照巢穴攻略的基本流程，通过舰炮射击和诱导弹的饱和攻击进行面压制，扫清JFK 巢穴周边地面展开的BETA。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t05434",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "D35823FB298C0B08036AB426941A1A4119B951A1B86865976D9F64A1A3F6E8EC",
+      "before": "「舰队将利用水平线的盾牌。因此，考虑到周边地形，舰队中枢将在距JFK HIVE约30公里的海上展开。」",
+      "after": "「舰队将利用水平线的盾牌。因此，考虑到周边地形，舰队中枢将在距JFK 巢穴约30公里的海上展开。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t05436",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "439905482DB1C0CC39B283D01A217748E19C0184222D7ECC0C8EA6A6EBC588E3",
+      "before": "「此时将连续投入AL弹，展开高浓度的重金属云。不过AL弹的投入量约为通常HIVE攻略作战的70%。」",
+      "after": "「此时将连续投入AL弹，展开高浓度的重金属云。不过AL弹的投入量约为通常巢穴攻略作战的70%。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t05441",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "341525949EC015B41300027F740D19E4DCB676C1566A8966D9F10688A630692B",
+      "before": "「本次作战中人类最大的优势，就是可以大量使用舰炮射击。JFK HIVE位于海岸沿线，因此可以从陆、海两方进行炮击。」",
+      "after": "「本次作战中人类最大的优势，就是可以大量使用舰炮射击。JFK 巢穴位于海岸沿线，因此可以从陆、海两方进行炮击。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t05463",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "2BD09A622F6DBA7E7E8538AA863F0B015A0B58F9E5DA93D0B1358894F6A4DC86",
+      "before": "过去在HIVE攻略中不使用核武器是常规做法。",
+      "after": "过去在巢穴攻略中不使用核武器是常规做法。",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t05465",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "F4D2A0473E79E8724C7E76F600918EC01A24E122D930B1E12BEF96CA221F2F4F",
+      "before": "但是JFK HIVE位于无人的公海上…没有必要犹豫使用核武器。",
+      "after": "但是JFK 巢穴位于无人的公海上…没有必要犹豫使用核武器。",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t05481",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "33DA2A64131878F09860697703C38A292909B48C93679386586EF5768B4F3A75",
+      "before": "「继续说明。——第三阶段包含一个选项。目前卫星轨道上，轨道空降兵团正在进行突入准备。」",
+      "after": "「继续说明。——第三阶段包含一个选项。目前卫星轨道上，轨道空降军团正在进行突入准备。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t05483",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "99391F5F71ABBA982676058ADE19952170465612AE9F05190C22E637FAF36816",
+      "before": "「但投入轨道空降兵团目前只是预定计划。虽然使用了肌肉维持程序，但长期在卫星轨道待命的降下兵，其肉体未必能承受战斗。」",
+      "after": "「但投入轨道空降军团目前只是预定计划。虽然使用了肌肉维持程序，但长期在卫星轨道待命的降下兵，其肉体未必能承受战斗。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t05486",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "09365CFEE4FD6495310569023BF39155B40AD64CB26C1469DA3F7BB429025F89",
+      "before": "「然后，在接下来的第四阶段突入HIVE。根据过往记录，入侵延迟会导致作战成功概率下降。」",
+      "after": "「然后，在接下来的第四阶段突入巢穴。根据过往记录，入侵延迟会导致作战成功概率下降。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t05497",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "4EA46CDD2BEC67C95DF305A3C48D3B3729329D497FFF353879D4DA9C12CD66D9",
+      "before": "「JFK HIVE南部已确认33个『门』，战术机可进入。缺少地下茎内部数据，无法判断该从哪个『门』侵入。」",
+      "after": "「JFK 巢穴南部已确认33个『门』，战术机可进入。缺少地下茎内部数据，无法判断该从哪个『门』侵入。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t05502",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "97719703BF533CB5BEC2FBDF6BE566275DDC002998CB33BC56AA8B5B25EC0067",
+      "before": "「这基于上次甲21号作战后，从佐渡岛HIVE逃走的敌残党逃往铁原HIVE的事实，可以确定。」",
+      "after": "「这基于上次甲21号作战后，从佐渡岛巢穴逃走的敌残党逃往铁原巢穴的事实，可以确定。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t05505",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "276C088C5C7123D1529E2ED017A18E46A8B1B9AE81C4D97D49822FD646CA8223",
+      "before": "「另外，可能突入HIVE的部队，将配备专用装备中继机。相关部队届时需确认设置方法及条件等」",
+      "after": "「另外，可能突入巢穴的部队，将配备专用装备中继机。相关部队届时需确认设置方法及条件等」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t05530",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "7A2C3EF551040419103AC30C2E91EBC807B737F773635757C16B44F434AABABC",
+      "before": "距离JFK HIVE还有200多公里……",
+      "after": "距离JFK 巢穴还有200多公里……",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t05538",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "8C2F6937BD2C2BFA196C504CA453DA60B0124335253840F2707F19DAC93B1DD6",
+      "before": "也许吧。毕竟明天就是JFK HIVE的攻略战了。",
+      "after": "也许吧。毕竟明天就是JFK 巢穴的攻略战了。",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t05539",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "454384A0768D7A63D11179779AFF68C327D7FEB987C9EEE67754944AF2FF9B9E",
+      "before": "舰内也到处都不安分。乘这艘舰的家伙里，真正参加过HIVE攻略的没几个人吧，也难怪。",
+      "after": "舰内也到处都不安分。乘这艘舰的家伙里，真正参加过巢穴攻略的没几个人吧，也难怪。",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t05728",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "14995800AE62A1B76AD3D3E918F84F503BE687C4A59886E66F41E398F6700024",
+      "before": "「我们必须扼住JFK HIVE的喉咙。如果失败，不久的将来人类将全军覆没。」",
+      "after": "「我们必须扼住JFK 巢穴的喉咙。如果失败，不久的将来人类将全军覆没。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t05740",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "7A0404883378C722A5F6EFF6AF2B03FA27073057F8E9ABA7CB82E5C5C309116E",
+      "before": "「黑刃小队，全部机体出击准备完毕！」",
+      "after": "「黑刀小队，全部机体出击准备完毕！」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t05745",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "9C9FAB2CC5B55B60D66EF6304E9A5FF42EC3915F0621B0535D831A6A0B24C4DE",
+      "before": "「——明白。HQ呼叫黑刃小队，全体出击。重复，HQ呼叫黑刃小队，全体出击。」",
+      "after": "「——明白。HQ呼叫黑刀小队，全体出击。重复，HQ呼叫黑刀小队，全体出击。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t05746",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "4515FC1B769CC986F4AAEE20638670D9EE827D0FC886EABEA87B998CC1FABD2D",
+      "before": "「——黑刃1，明白。」",
+      "after": "「——黑刀1，明白。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t05747",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "53AAC2AB4EA063B22145CC80FBAC130048CCC9D8AC928BDA0A8E0F5C5F328D4B",
+      "before": "「达利尔队长……梅尔维娜……威尔……乔治舰长……还有接纳了我的所有人……」",
+      "after": "「达里尔队长……梅尔维娜……威尔……乔治舰长……还有接纳了我的所有人……」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t05749",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "F6E451857AD3A0B810C5C90B94BC231A92AD7AE23A4889307926A05E985838A0",
+      "before": "「听到了吗？黑刃小队，要出击了。」",
+      "after": "「听到了吗？黑刀小队，要出击了。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t05753",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "1A472E32378EA2D1496F6B8B9F41C35AD2F300248ECEEE8A167966B96D62511A",
+      "before": "「黑刃小队，出击！」",
+      "after": "「黑刀小队，出击！」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t05754",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "DE9E614978A72FE70C3C74A624D798F7BBB630349985DB80486022BB3DF853C0",
+      "before": "「——黑刃1，起飞准备完毕。」",
+      "after": "「——黑刀1，起飞准备完毕。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t05755",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "E77E91D640773E2FD6FB9A27963EE0CB59F3CDF043654F9995FA247EDB8183A5",
+      "before": "「黑刃1，弹射器连接完毕，起飞准备完成！」",
+      "after": "「黑刀1，弹射器连接完毕，起飞准备完成！」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t05756",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "037E527350BB178A0C27C98319F0FE473D509DD7532AECD8031BD1728643DB98",
+      "before": "「——祝你好运，黑刃1！——起飞！」",
+      "after": "「——祝你好运，黑刀1！——起飞！」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t05757",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "FFBBDA0D48C88D9B58A6FC10EC2BFE5C568B7C32E5439C8DCE1A9FC01649AA2D",
+      "before": "「黑刃1明白！——出发！」",
+      "after": "「黑刀1明白！——出发！」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t05777",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "5AF693E8A3BB4E6F29574392884C73FD9731CC2294F17018387333BF97DF5179",
+      "before": "「JFK HIVE周边的重金属云浓度已达标准。战术机部队注意粉尘爆炸。」",
+      "after": "「JFK 巢穴周边的重金属云浓度已达标准。战术机部队注意粉尘爆炸。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t05836",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "9FA8234831C325BFBB392CBBFD05FA1D14238C24E40992F2F37A6E6A05FEA99E",
+      "before": "「黑刃4，再坚持三分钟！」",
+      "after": "「黑刀4，再坚持三分钟！」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t05841",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "4A2496B3AEEB4A8696B481B381EE061B160841EC10F8986D359FE2F526053CC3",
+      "before": "「正如美国海军陆战队所说！这是为了突入并攻略HIVE而撤退！让友军后撤！！」",
+      "after": "「正如美国海军陆战队所说！这是为了突入并攻略巢穴而撤退！让友军后撤！！」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t05845",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "E4936BC0B99E1C06E789ABA48A956A5FDBDF7CF6BF4BA0575C0E1609FA1E2A28",
+      "before": "「核弹按预定轨道顺利推进！已超过轨道空降兵团！」",
+      "after": "「核弹按预定轨道顺利推进！已超过轨道空降军团！」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t05877",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "EF3B7A2057B40D66ED082107E86EFD2AA62E0BEAA589DFB1004F105F23F7AE47",
+      "before": "「提督，美军司令部来电。――轨道空降兵团按计划开始进入大气层！」",
+      "after": "「提督，美军司令部来电。――轨道空降军团按计划开始进入大气层！」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t05879",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "BAC06CEC0B50E54F23944861244F61C75935D206C97F137ADAF7EA890E980E1E",
+      "before": "「加快展开重金属云！ 不能让洞里爬出来的那些家伙吃掉轨道空降兵团！」",
+      "after": "「加快展开重金属云！ 不能让洞里爬出来的那些家伙吃掉轨道空降军团！」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t05889",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "C25A07E5EF8B5D22A3FCD88CE9352DFCDEE68E4B93E5639A0F2881686A0B9064",
+      "before": "「不久，真正的HIVE突击部队将登陆。我们将重组部队，一部分确保兵站，另一部分与主力部队一同突入HIVE」",
+      "after": "「不久，真正的巢穴突击部队将登陆。我们将重组部队，一部分确保兵站，另一部分与主力部队一同突入巢穴」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t05893",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "36B48A47DED85312DE558FA0A650F79F0A3804FEF83093F607EF86A92B4747F7",
+      "before": "「――你的部队要突入HIVE。补给完成后尽快与突击部队合流」",
+      "after": "「――你的部队要突入巢穴。补给完成后尽快与突击部队合流」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t05897",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "F73588F64811B5B6A9F466F720692E789200EC27847BC3C8777552DDDED5834F",
+      "before": "确实可能是这样，但这么大规模的作战，还是在HIVE里自由行动，这也……",
+      "after": "确实可能是这样，但这么大规模的作战，还是在巢穴里自由行动，这也……",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t05898",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "D5FD4AF4A69116860883BD1455599B20AD5A8058F9C574A39853C01001B3F1F9",
+      "before": "「我必须在HIVE外面确保兵站并指挥全局。没空照顾里面的事」",
+      "after": "「我必须在巢穴外面确保兵站并指挥全局。没空照顾里面的事」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t05904",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "2629C4BB083C240CC9CAF6C0B047604B2CC2CAE5619DDB84B188F18C4C8E5818",
+      "before": "「轨道空降兵团！？真的来了！？」",
+      "after": "「轨道空降军团！？真的来了！？」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t05919",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "D2184B4D0505545CCD7E05C6AC57A27F388A0CD6EFD3539EE9488C483F1DDEE1",
+      "before": "「战犬1呼叫雉鸡长机！战犬小队向前推进3公里，支援轨道空降兵团！」",
+      "after": "「战犬1呼叫雉鸡长机！战犬小队向前推进3公里，支援轨道空降军团！」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t05927",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "370E1BE2B7A8B130F72AC4DC17384285A266DBF6697DFD981CE37C141185DA04",
+      "before": "「收到情报，轨道空降兵团已从第24号门开始突入。」",
+      "after": "「收到情报，轨道空降军团已从第24号门开始突入。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t05943",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "03AEC5B43A2B35A9C4B41CC12E334390A74A904D3DFB7267BA9E6E4B10591C6E",
+      "before": "「我们的目标只有一个！破坏反应炉，压制JFK HIVE！」",
+      "after": "「我们的目标只有一个！破坏反应炉，压制JFK 巢穴！」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t05947",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "FEE98E337CFA0BD82D0951296481461516B029671E546F0F21913D32D4FA2C6B",
+      "before": "「轨道空降兵团已经……！」",
+      "after": "「轨道空降军团已经……！」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t05993",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "27B065E0301F70EE375F05CDF15C61F7260C71D5060437E29C67E14C0E738775",
+      "before": "「黑刃1，听得到吗！？」",
+      "after": "「黑刀1，听得到吗！？」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t06013",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "C98C7BB576A31FF6707ED8A9E7305F4E5D8258F0C8E79DEA73610D5CF14BCBD5",
+      "before": "「黑刃1呼叫雉鸡1。请求为黑刃小队补给推进剂。」",
+      "after": "「黑刀1呼叫雉鸡1。请求为黑刀小队补给推进剂。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t06069",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "8DBAD5C3CBC42AA831D61C26861DD45484C0506DB899F8FEFFBC737BA0B43B7B",
+      "before": "因为是还很新的HIVE，所以还没扩张完毕吗？",
+      "after": "因为是还很新的巢穴，所以还没扩张完毕吗？",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t06080",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "225E0CF12F37D1C4A07303C54DBE84878E0EB5AEC5AD91BC64AEAD465A7AD68F",
+      "before": "在HIVE里面通信困难，原来是真的啊……",
+      "after": "在巢穴里面通信困难，原来是真的啊……",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t06113",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "0B2EC1360ADAFC82CE04ED29D71BDDEDD78B961CDE9F61DDB909521FAFF6FBCA",
+      "before": "「这里是战犬1！黑刃1，和你们会合！」",
+      "after": "「这里是战犬1！黑刀1，和你们会合！」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t06114",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "42074B2682F7CC0FCB389266A6255DEE23767D56097B2780AB237555B153F462",
+      "before": "「——黑刃1，了解！」",
+      "after": "「——黑刀1，了解！」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t06127",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "37BF69E06CD404759739F6BE35B53E6A0A68003A383CD3A96B9E3F564BF68EC3",
+      "before": "「可恶！光开枪有什么用……！黑刃1，正面挑战突击级毫无意义！撤退吧！」",
+      "after": "「可恶！光开枪有什么用……！黑刀1，正面挑战突击级毫无意义！撤退吧！」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t06148",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "B3E676F15216B9D3BD31A18DD85839248CE02871CE216F0C822AF2997955B809",
+      "before": "「……这样啊。已经成功突入HIVE内部了吗」",
+      "after": "「……这样啊。已经成功突入巢穴内部了吗」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t06263",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "4B237F331299D4DBBC4CD9E4C0B4C41AFE3D0A0D6CAED40AD944405D08691620",
+      "before": "「猎人队居中，黑刃队负责3点钟方向，战犬队负责10点钟方向！！」",
+      "after": "「猎人队居中，黑刀队负责3点钟方向，战犬队负责10点钟方向！！」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t06407",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "89E354D831ED4F2ED15CE8F4F1E7E44B43F7DBE419DC4317A3E2B939119DD55C",
+      "before": "「——黑刃1呼叫指挥部。当前深度570m。推测已到达中枢区块。现在开始搜索」",
+      "after": "「——黑刀1呼叫指挥部。当前深度570m。推测已到达中枢区块。现在开始搜索」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t06409",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "6178EBAC4BA539F4594715590A848F88FE62A08C621EC763411EAFD1D431AF70",
+      "before": "「黑刃1明白」",
+      "after": "「黑刀1明白」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t06426",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "9E434A3609A19E67705D45A93654916A75A4C13B1409840563DD02DAD3022EEA",
+      "before": "「猎人2呼叫黑刃！怎么回事！？发生了什么！？」",
+      "after": "「猎人2呼叫黑刀！怎么回事！？发生了什么！？」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t06427",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "23619FC46E086EAD7BEE4384AF82A9A47C12026FF5CB56D315B862BC5FF46F54",
+      "before": "「战犬1呼叫黑刃队！怎么了！？听不到吗！？」",
+      "after": "「战犬1呼叫黑刀队！怎么了！？听不到吗！？」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t06429",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "71E8827FE47674D76D2E873C1BFF79F7D887B5EAB5A1A6EFCAFB27FFD5F0B379",
+      "before": "「战犬1呼叫号角3！与黑刃队失去联系了。到底怎么回事，告诉我。」",
+      "after": "「战犬1呼叫号角3！与黑刀队失去联系了。到底怎么回事，告诉我。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t06441",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "9DDBBFAC3317FC57D7595E5323DDAF07F274B13F4E94C2E12980E68F11CED71B",
+      "before": "「黑刃1！？什么嘛……这不是能通信吗……。设备故障吗？」",
+      "after": "「黑刀1！？什么嘛……这不是能通信吗……。设备故障吗？」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t06477",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "393AC3F6C1ADE1E1D76C55F3042A8937DE1473199FA98CBD36264DE13F844089",
+      "before": "横滨基地是人类成功占领的唯一一座HIVE……也就是说，就连那里也发生过同样的事吗……！",
+      "after": "横滨基地是人类成功占领的唯一一座巢穴……也就是说，就连那里也发生过同样的事吗……！",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t06510",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "B9BEE2341501205D1FF281B6FB3867229994405E71D55BB365578E08274CF803",
+      "before": "「达利尔队长也……在附近的什么地方……在吗？」",
+      "after": "「达里尔队长也……在附近的什么地方……在吗？」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t06519",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "44AF717EE7EC01F45C3492514FC4CD95D5CF6268B40B3555110A134ADCA873B9",
+      "before": "「黑刃1！」",
+      "after": "「黑刀1！」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t06521",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "CADD1BA0262E1DA8BE570FBC73BBFAC59AD952EAD69ECD49BEF7AFC628B30DCF",
+      "before": "「黑刃1！请冷静！」",
+      "after": "「黑刀1！请冷静！」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t06544",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "7D071376CD43C335A59A01006001B20288797B23D70A297C2E62465AC9463766",
+      "before": "「——是千堂少尉吗？你回来了？HIVE攻略怎么样了？」",
+      "after": "「——是千堂少尉吗？你回来了？巢穴攻略怎么样了？」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t06549",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "4858DEEBBEEA8ADCD4FC466AE9796720AE6AEF40E31B6F588F88D4A8DC30DE89",
+      "before": "「用S-11炸穿这个大厅的地板。柱状结构从反应炉延伸出来这一点在横滨案例中已经判明。虽然HIVE内壁强度很高，但结构上，这里应该能充分炸穿。」",
+      "after": "「用S-11炸穿这个大厅的地板。柱状结构从反应炉延伸出来这一点在横滨案例中已经判明。虽然巢穴内壁强度很高，但结构上，这里应该能充分炸穿。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t06553",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "EE363F50E69CE0C31F78FF9B70DEC1B489E588FD00FB7CAAC6CC3ADC5574C31B",
+      "before": "「接下来是战犬队和黑刃队。号角中队和猎人队将在确认情况后投入。——沃肯少校，这样可以吗？」",
+      "after": "「接下来是战犬队和黑刀队。号角中队和猎人队将在确认情况后投入。——沃肯少校，这样可以吗？」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t06564",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "0E15C49923A70D3CE4871281A30F4764CF18EEFC01EA0846AEEE4DB2384D17DE",
+      "before": "「为实现这一目标，我们必须在此扫清JFK HIVE，为人类争取喘息的时间。」",
+      "after": "「为实现这一目标，我们必须在此扫清JFK 巢穴，为人类争取喘息的时间。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t06606",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "9755E6B7880959DE37157847FFE81F57086B0F58C9B85D4B8C7BEFD265307436",
+      "before": "「黑刃2！摩根少尉——！」",
+      "after": "「黑刀2！摩根少尉——！」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t06740",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "07554BD94B7DC1734CAD9823BCF989375EFD789BD30B2DBBE1871ED6BD07D952",
+      "before": "「帝国万岁！悠阳殿下万岁！我们人类成功攻略HIVE了——！」",
+      "after": "「帝国万岁！悠阳殿下万岁！我们人类成功攻略巢穴了——！」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t06879",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "423E87BA93A0F3D391E39AF6AF9EC48485C5828164EB98C0E2734B2491C19B53",
+      "before": "「告知所有参与JFK HIVE攻略的帝国士兵。——今日，我日本帝国付出了巨大牺牲，成功攻克了JFK HIVE。」",
+      "after": "「告知所有参与JFK 巢穴攻略的帝国士兵。——今日，我日本帝国付出了巨大牺牲，成功攻克了JFK 巢穴。」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t06893",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "44AF717EE7EC01F45C3492514FC4CD95D5CF6268B40B3555110A134ADCA873B9",
+      "before": "「黑刃1！」",
+      "after": "「黑刀1！」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t06895",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "CADD1BA0262E1DA8BE570FBC73BBFAC59AD952EAD69ECD49BEF7AFC628B30DCF",
+      "before": "「黑刃1！请冷静！」",
+      "after": "「黑刀1！请冷静！」",
+      "reason": "用户批准术语统一；按对应日文限定替换，保留句内其他措辞。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_s00014",
+      "file": "AGE2/games/tda03/translations/auxiliary.ja-zh-Hans.tsv",
+      "column": "zh_cn",
+      "source_text_sha256": "F668DDB4552170E72796A118DD7A6E249DDB318E5EAABACCC02A5517831B2547",
+      "before": "盖克兰少校",
+      "after": "盖斯克朗少校",
+      "reason": "同步说话人标签及ruby术语，保留ruby锚点。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_s00020",
+      "file": "AGE2/games/tda03/translations/auxiliary.ja-zh-Hans.tsv",
+      "column": "zh_cn",
+      "source_text_sha256": "EBC9D2B901C6B8018F6A46FE6ED4B67FA2C1188060912F1D5CCF049ED00FB058",
+      "before": "黑刃2",
+      "after": "黑刀2",
+      "reason": "同步说话人标签及ruby术语，保留ruby锚点。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_s00021",
+      "file": "AGE2/games/tda03/translations/auxiliary.ja-zh-Hans.tsv",
+      "column": "zh_cn",
+      "source_text_sha256": "349A436D1DC9347777903DA0FBF1C7A3A8476D8C5A77DD79374B8078D46C399C",
+      "before": "黑刃3",
+      "after": "黑刀3",
+      "reason": "同步说话人标签及ruby术语，保留ruby锚点。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_s00022",
+      "file": "AGE2/games/tda03/translations/auxiliary.ja-zh-Hans.tsv",
+      "column": "zh_cn",
+      "source_text_sha256": "A453E829A4E19EACE2DD6FF9C80B8498004250B2CBAEA2E0B34E27850CDD87F7",
+      "before": "黑刃4",
+      "after": "黑刀4",
+      "reason": "同步说话人标签及ruby术语，保留ruby锚点。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_s00038",
+      "file": "AGE2/games/tda03/translations/auxiliary.ja-zh-Hans.tsv",
+      "column": "zh_cn",
+      "source_text_sha256": "05F62D39404394F998B4021E2563162410D04552242FF5A61BB5A1A346A89F69",
+      "before": "黑刃队",
+      "after": "黑刀队",
+      "reason": "同步说话人标签及ruby术语，保留ruby锚点。"
+    },
+    {
+      "game": "tm",
+      "id": "game_t03597",
+      "file": "AGE2/games/imperial-capital-burns/translations/choices.ja-zh-Hans.csv",
+      "column": "replacement_text",
+      "before": "考虑事前处置",
+      "after": "考虑战前处置",
+      "reason": "选项与正文战前处置术语统一。"
+    },
+    {
+      "game": "tda02",
+      "id": "tda02_staff00075",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "F668DDB4552170E72796A118DD7A6E249DDB318E5EAABACCC02A5517831B2547",
+      "before": "盖克兰少校",
+      "after": "盖斯克朗少校",
+      "reason": "同一角色片尾署名／同一组织降下軌道兵団别称同步。"
+    },
+    {
+      "game": "tda02",
+      "id": "tda02_staff00077",
+      "file": "AGE2/games/tda02/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "0BBAFCFC0BC761730E604137D6D33B8A392BCAD3A189381696997B57D6E17753",
+      "before": "盖克兰部下",
+      "after": "盖斯克朗部下",
+      "reason": "同一角色片尾署名／同一组织降下軌道兵団别称同步。"
+    },
+    {
+      "game": "tda03",
+      "id": "tda03_t03026",
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "column": "cn_text",
+      "source_text_sha256": "16DF23B4A62102AB5C5DD876AF8A7E0033C15DCF65536E8FE543D227F420BD65",
+      "before": "「……抱歉，能不能别小看轨道空降兵团？……那可不是随便什么觉悟就能胜任的部队。」",
+      "after": "「……抱歉，能不能别小看轨道空降军团？……那可不是随便什么觉悟就能胜任的部队。」",
+      "reason": "同一角色片尾署名／同一组织降下軌道兵団别称同步。"
+    }
+  ],
+  "terms": [
+    {
+      "scope": "muv-luv",
+      "jp": "ハイヴ",
+      "before": null,
+      "after": "巢穴"
+    },
+    {
+      "scope": "muv-luv",
+      "jp": "オリジナルハイヴ",
+      "before": null,
+      "after": "母巢"
+    },
+    {
+      "scope": "muv-luv",
+      "jp": "国連宇宙総軍第６軌道降下兵団",
+      "before": "联合国宇宙总军第6轨道空降兵团",
+      "after": "联合国宇宙总军第6轨道空降军团"
+    },
+    {
+      "scope": "muv-luv",
+      "jp": "軌道降下兵団",
+      "before": "轨道空降兵团",
+      "after": "轨道空降军团"
+    },
+    {
+      "scope": "muv-luv",
+      "jp": "食料生産プラント",
+      "before": "食料生产工厂",
+      "after": "粮食生产平台"
+    },
+    {
+      "scope": "tda00",
+      "jp": "ブラックナイヴス",
+      "before": null,
+      "after": "黑刀"
+    },
+    {
+      "scope": "tda00",
+      "jp": "ブラック・ナイヴス・ドント・クイット",
+      "before": null,
+      "after": "黑刀永不放弃"
+    },
+    {
+      "scope": "tda00",
+      "jp": "オール・ナイヴス",
+      "before": "黑刃全机",
+      "after": "黑刀全机"
+    },
+    {
+      "scope": "tda00",
+      "jp": "ナイヴス",
+      "before": "黑刃",
+      "after": "黑刀"
+    },
+    {
+      "scope": "tda00",
+      "jp": "ナイヴス・リード",
+      "before": "黑刃长机",
+      "after": "黑刀长机"
+    },
+    {
+      "scope": "tda00",
+      "jp": "ナイヴス１",
+      "before": "黑刃1",
+      "after": "黑刀1"
+    },
+    {
+      "scope": "tda00",
+      "jp": "ナイヴス２",
+      "before": "黑刃2",
+      "after": "黑刀2"
+    },
+    {
+      "scope": "tda00",
+      "jp": "ナイヴス３",
+      "before": "黑刃3",
+      "after": "黑刀3"
+    },
+    {
+      "scope": "tda00",
+      "jp": "ナイヴス３カタパルト",
+      "before": "黑刃3弹射器",
+      "after": "黑刀3弹射器"
+    },
+    {
+      "scope": "tda00",
+      "jp": "ブラック・ナイヴス",
+      "before": "黑刃",
+      "after": "黑刀"
+    },
+    {
+      "scope": "tda01",
+      "jp": "ボーニング",
+      "before": null,
+      "after": "波宁"
+    },
+    {
+      "scope": "tda01",
+      "jp": "ヒビキ",
+      "before": null,
+      "after": "响"
+    },
+    {
+      "scope": "tda01",
+      "jp": "ユズカ",
+      "before": null,
+      "after": "柚香"
+    },
+    {
+      "scope": "tda01",
+      "jp": "シズク",
+      "before": null,
+      "after": "雫"
+    },
+    {
+      "scope": "tda01",
+      "jp": "ウォーケン",
+      "before": null,
+      "after": "沃肯"
+    },
+    {
+      "scope": "tda01",
+      "jp": "ボーニング社",
+      "before": "波音公司",
+      "after": "波宁公司"
+    },
+    {
+      "scope": "tda02",
+      "jp": "ボーニング",
+      "before": null,
+      "after": "波宁"
+    },
+    {
+      "scope": "tda02",
+      "jp": "ボーニング社",
+      "before": null,
+      "after": "波宁公司"
+    },
+    {
+      "scope": "tda02",
+      "jp": "レア・ゲグラン",
+      "before": null,
+      "after": "蕾亚·盖斯克朗"
+    },
+    {
+      "scope": "tda02",
+      "jp": "ゲグラン",
+      "before": null,
+      "after": "盖斯克朗"
+    },
+    {
+      "scope": "tda02",
+      "jp": "リヴィエール",
+      "before": null,
+      "after": "里维埃"
+    },
+    {
+      "scope": "tda02",
+      "jp": "ヒビキ",
+      "before": null,
+      "after": "响"
+    },
+    {
+      "scope": "tda02",
+      "jp": "ユズカ",
+      "before": null,
+      "after": "柚香"
+    },
+    {
+      "scope": "tda02",
+      "jp": "シズク",
+      "before": null,
+      "after": "雫"
+    },
+    {
+      "scope": "tda02",
+      "jp": "ウォーケン",
+      "before": null,
+      "after": "沃肯"
+    },
+    {
+      "scope": "tda02",
+      "jp": "フェザント・リード",
+      "before": null,
+      "after": "雉鸡长机"
+    },
+    {
+      "scope": "tda02",
+      "jp": "ナイヴス・リード",
+      "before": "黑刃长机",
+      "after": "黑刀长机"
+    },
+    {
+      "scope": "tda02",
+      "jp": "ナイヴス１",
+      "before": "黑刃1",
+      "after": "黑刀1"
+    },
+    {
+      "scope": "tda02",
+      "jp": "米国海兵隊戦術機部隊ブラックナイヴス",
+      "before": "美国海军陆战队战术机部队黑刃队",
+      "after": "美国海军陆战队战术机部队黑刀队"
+    },
+    {
+      "scope": "tda03",
+      "jp": "ボーニング",
+      "before": null,
+      "after": "波宁"
+    },
+    {
+      "scope": "tda03",
+      "jp": "レア・ゲグラン",
+      "before": null,
+      "after": "蕾亚·盖斯克朗"
+    },
+    {
+      "scope": "tda03",
+      "jp": "ゲグラン",
+      "before": null,
+      "after": "盖斯克朗"
+    },
+    {
+      "scope": "tda03",
+      "jp": "ヒビキ",
+      "before": null,
+      "after": "响"
+    },
+    {
+      "scope": "tda03",
+      "jp": "ユズカ",
+      "before": null,
+      "after": "柚香"
+    },
+    {
+      "scope": "tda03",
+      "jp": "シズク",
+      "before": null,
+      "after": "雫"
+    },
+    {
+      "scope": "tda03",
+      "jp": "ウォーケン",
+      "before": null,
+      "after": "沃肯"
+    },
+    {
+      "scope": "tda03",
+      "jp": "ナイヴス",
+      "before": null,
+      "after": "黑刀"
+    },
+    {
+      "scope": "tda03",
+      "jp": "ナイヴス４",
+      "before": null,
+      "after": "黑刀4"
+    },
+    {
+      "scope": "tda03",
+      "jp": "ナイヴス１",
+      "before": "黑刃1",
+      "after": "黑刀1"
+    },
+    {
+      "scope": "tda03",
+      "jp": "ナイヴス２",
+      "before": "黑刃2",
+      "after": "黑刀2"
+    },
+    {
+      "scope": "tda03",
+      "jp": "ブラックナイヴス",
+      "before": "黑刃",
+      "after": "黑刀"
+    },
+    {
+      "scope": "tda03",
+      "jp": "ブラックナイヴス小隊",
+      "before": "黑刃小队",
+      "after": "黑刀小队"
+    },
+    {
+      "scope": "tda03",
+      "jp": "ボーニング社",
+      "before": "波音公司",
+      "after": "波宁公司"
+    },
+    {
+      "scope": "tda03",
+      "jp": "降下軌道兵団",
+      "before": null,
+      "after": "轨道空降军团"
+    },
+    {
+      "scope": "photonflowers",
+      "jp": "軌道降下兵団",
+      "before": "轨道空降兵团",
+      "after": "轨道空降军团",
+      "reason": "同步共用表重复条目；未修改PF正文。"
+    }
+  ],
+  "supplement_mirrors": [
+    {
+      "key": "TDA02|__speakers__.egpack|game_s00013",
+      "before": "盖克兰少校",
+      "after": "盖斯克朗少校"
+    },
+    {
+      "key": "TDA02|__speakers__.egpack|game_s00021",
+      "before": "黑刃队",
+      "after": "黑刀队"
+    },
+    {
+      "key": "TDA03|__speakers__.egpack|tda03_s00014",
+      "before": "盖克兰少校",
+      "after": "盖斯克朗少校"
+    },
+    {
+      "key": "TDA03|__speakers__.egpack|tda03_s00020",
+      "before": "黑刃2",
+      "after": "黑刀2"
+    },
+    {
+      "key": "TDA03|__speakers__.egpack|tda03_s00021",
+      "before": "黑刃3",
+      "after": "黑刀3"
+    },
+    {
+      "key": "TDA03|__speakers__.egpack|tda03_s00022",
+      "before": "黑刃4",
+      "after": "黑刀4"
+    },
+    {
+      "key": "TDA03|__speakers__.egpack|tda03_s00038",
+      "before": "黑刃队",
+      "after": "黑刀队"
+    }
+  ]
+}

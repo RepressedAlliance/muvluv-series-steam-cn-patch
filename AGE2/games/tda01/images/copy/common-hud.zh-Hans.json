@@ -1,0 +1,18 @@
+[
+  {
+    "game": "tda01",
+    "source_relative": "assets/data_spec/adv/game/chr/900_戦術機コクピットオブジェクト/0000高頻度使用オブジェクト/010テロップ類大縦半分_秘匿　夕呼_佐渡島最上.webp",
+    "source_sha256": "1aa082ebd9fd95f3db6aa036188fd946a767d8cb9f6fee7601afd295b48fb5d7",
+    "zh_cn": "接收|特殊线路",
+    "native_frame_and_english_preserved": true,
+    "runtime_review": "pending"
+  },
+  {
+    "game": "tda01",
+    "source_relative": "assets/data_spec/adv/game/chr/900_戦術機コクピットオブジェクト/0000高頻度使用オブジェクト/070テロップ類極小b_状況解析_タグ.webp",
+    "source_sha256": "fcb8c2910c1cad7263826b3264a43efee27f48d3b3a0b9dc980864d50dac12c9",
+    "zh_cn": "状况分析",
+    "native_frame_and_english_preserved": true,
+    "runtime_review": "pending"
+  }
+]

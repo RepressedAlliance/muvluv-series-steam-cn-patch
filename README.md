@@ -11,23 +11,22 @@
 
 > [!IMPORTANT]
 > 使用补丁必须拥有对应游戏正版。本仓库不提供游戏本体、破解或完整原始资源。
-> 下列 AGE2 补丁是保留的历史测试版，尚未达到现行发布标准；安装前请阅读
-> [完整玩家指南](docs/player/README.md)，并备份对应游戏的 LocalAppData 覆盖目录。
+> TDA00–03 与帝都燃烧现提供新版 BETA 安装程序。安装与恢复步骤见
+> [完整玩家指南](docs/player/README.md)；请保留存档，勿混用不同作品的补丁。
 
 ## 第一部分 · 玩家下载与反馈
 
 ### 游戏下载
 
-请选择与你拥有的游戏完全对应的补丁。**下载名为“补丁 ZIP”的文件，不要下载 GitHub
-自动生成的 Source code ZIP。**
+请选择与你拥有的游戏完全对应的补丁。AGE2 下载表中的安装 EXE，PF／PM 下载补丁 ZIP；不要下载 GitHub 自动生成的 Source code ZIP。
 
 | 游戏 | 当前公开版本 | 下载与说明 |
 | --- | --- | --- |
-| TDA00 | 历史测试版 beta0.1 | **[下载补丁 ZIP](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/download/tda00-beta0.1/MuvLuv_TDA00_CN_Patch_beta0.1.zip)** · [发布说明](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/tag/tda00-beta0.1) |
-| TDA01 | 历史测试版 beta0.2.2 | **[下载补丁 ZIP](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/download/tda01-beta0.2.2/MuvLuv_TDA01_CN_Patch_beta0.2.2.zip)** · [发布说明](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/tag/tda01-beta0.2.2) |
-| TDA02 | 历史测试版 beta0.1 | **[下载补丁 ZIP](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/download/tda02-beta0.1/MuvLuv_TDA02_CN_Patch_beta0.1.zip)** · [发布说明](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/tag/tda02-beta0.1) |
-| TDA03 | 历史测试版 beta0.1.6 | **[下载补丁 ZIP](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/download/tda03-beta0.1.6/MuvLuv_TDA03_CN_Patch_beta0.1.6_full_achievement_fix.zip)** · [发布说明](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/tag/tda03-beta0.1.6) |
-| 帝都燃烧篇 | 历史测试版 beta0.1 | **[下载补丁 ZIP](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/download/imperial-capital-burns-beta0.1/MuvLuv_Imperial_Capital_Burns_CN_Patch_beta0.1.zip)** · [发布说明](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/tag/imperial-capital-burns-beta0.1) |
+| TDA00 | **BETA 0.2.0** | [安装程序 EXE](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/download/tda00-BETA-0.2.0/tda00-CN-BETA-0.2.0-Setup.exe) · [发布说明](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/tag/tda00-BETA-0.2.0) |
+| TDA01 | **BETA 0.3.2** | [安装程序 EXE](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/download/tda01-BETA-0.3.2/tda01-CN-BETA-0.3.2-Setup.exe) · [发布说明](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/tag/tda01-BETA-0.3.2) |
+| TDA02 | **BETA 0.2.0** | [安装程序 EXE](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/download/tda02-BETA-0.2.0/tda02-CN-BETA-0.2.0-Setup.exe) · [发布说明](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/tag/tda02-BETA-0.2.0) |
+| TDA03 | **BETA 0.2.6** | [安装程序 EXE](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/download/tda03-BETA-0.2.6/tda03-CN-BETA-0.2.6-Setup.exe) · [发布说明](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/tag/tda03-BETA-0.2.6) |
+| 帝都燃烧篇 | **BETA 0.2.0** | [安装程序 EXE](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/download/imperial-capital-burns-BETA-0.2.0/tm-CN-BETA-0.2.0-Setup.exe) · [发布说明](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/tag/imperial-capital-burns-BETA-0.2.0) |
 | 光子之花 | **BETA 0.1.1** | **[下载补丁 ZIP](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/download/pf-BETA-0.1.1/MuvLuv_PF_CN_Patch_BETA_0.1.1.zip)** · [发布说明](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/tag/pf-BETA-0.1.1) |
 | 光子旋律 | **BETA 0.1.1** | **[下载补丁 ZIP](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/download/pm-BETA-0.1.1/MuvLuv_PM_CN_Patch_BETA_0.1.1.zip)** · [发布说明](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/tag/pm-BETA-0.1.1) |
 
@@ -37,22 +36,17 @@ Steam 语言设为 **English（英语）**，等待下载完成并退出游戏�
 
 光子之花、光子旋律均不创建备份、不附卸载器。恢复原版时保留存档，通过 Steam 卸载、清除对应游戏目录的汉化残留，再重新下载；不要清空整个 Steam 目录。详见[玩家指南](docs/player/README.md)。
 
-### AGE2 历史包安装、卸载和注意事项
+### AGE2 安装与恢复
 
-1. 确认 Steam 已安装对应游戏，至少启动过一次，然后完全退出游戏。
-2. 下载上表中对应游戏的补丁 ZIP，完整解压，阅读包内说明和玩家指南。
-3. 先备份该游戏准确的 LocalAppData 覆盖目录，再运行安装脚本。不同作品的文件不能混用。
-4. Steam 的“验证游戏文件完整性”不会删除 LocalAppData 中的补丁文件，不能当作卸载方法。
+完全退出游戏，运行上表对应的安装 EXE，确认目录并点击“安装汉化”。重新启动游戏后，在游戏设置中选择“中文”。无需预装旧补丁。
 
-历史包在安装清单、版本哈希、字体许可和安全回滚方面仍有待补审。准确目标路径、校验方法、
-旧版本风险及恢复步骤都集中在 **[玩家下载、安装、卸载与排错指南](docs/player/README.md)**。
+安装器保留原程序及旧覆盖资源，保留玩家存档。恢复原版需要同时处理游戏目录中的运行组件和本作 AppData 覆盖目录；Steam 验证不会移走 AppData 补丁。详见[玩家指南](docs/player/README.md)。
 
 ### 项目状态
 
 光子之花／光子旋律的技术来源分类、上游版本、82 项技术职责与完整路线演变，详细请见 **[技术来源分类与完整蓝图](docs/research/photon/README.md)**。
 
-- **TDA00—03、帝都燃烧篇：**已有上述历史测试包，正在整理可维护文本、版本校验、字体和
-  安全回滚，为后续更新做准备。
+- **TDA00—03、帝都燃烧篇：**2026-09-20 BETA 更新已纳入本轮校对、术语和排版修正，采用独立中文槽与有版本检查的安装器；仍在持续实机验证。
 - **光子之花、光子旋律：**已正式公开发布 **BETA 0.1.1**，光子之花、光子旋律各有独立安装包。旧 Photon 图片研究资产仍不是游戏安装包。
 
 ### 问题反馈
@@ -92,7 +86,7 @@ Steam 语言设为 **English（英语）**，等待下载完成并退出游戏�
 
 TDA 的部分文本已经过人工校对。已发布版本包含上述审核与修正；此后新增的校对和修改
 会继续同步到可维护文本中，是否进入某个下载包以对应发布说明为准。
-感谢 ScRemilia、Tsubaki-G、X1AOFEI 及其他参与校对的朋友。
+感谢 **ScRm** 对 TDA00 的审核与校对，感谢 **ScRm、骁飞、Tsubaki-G** 对各篇文本的纠错与修订。
 **《樱花盛开之前》的部分文本由“红桃皇后假说”提供，在此诚挚致谢。**
 
 ### 欢迎加入 ParaTranz 校对
@@ -110,7 +104,7 @@ TDA 的部分文本已经过人工校对。已发布版本包含上述审核与�
 | 校对范围 | 在线项目 |
 | --- | --- |
 | TDA00—03 | [加入 TDA 校对](https://paratranz.cn/projects/19505) |
-| 帝都燃烧篇 | [加入帝都燃烧篇校对](https://paratranz.cn/projects/20659) |
+| 帝都燃烧篇 | **BETA 0.2.0** | [安装程序 EXE](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/download/imperial-capital-burns-BETA-0.2.0/tm-CN-BETA-0.2.0-Setup.exe) · [发布说明](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/tag/imperial-capital-burns-BETA-0.2.0) |
 | 光子之花 | [加入光子之花校对](https://paratranz.cn/projects/20660) |
 | 光子旋律 | [加入光子旋律校对](https://paratranz.cn/projects/20661) |
 

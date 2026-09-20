@@ -1,0 +1,66 @@
+[
+  {
+    "game": "tda02",
+    "source_relative": "assets/data_spec/adv/game/bg/30イベント絵/008_TDA_Map/BETA大規模再襲撃A.webp",
+    "source_sha256": "9ccc81c131257b857d95dff3dfcd86a7506f239ff02e1aaac7a0be97382267ad",
+    "layout_basis": "逐张核对原图地名、军队与说明，加注中文；地名、基地、盐原用现行正文译名。全组中文说明固定18号，不按行缩字。BETA、MLRS、PF/PT/USN等编队识别码保留。",
+    "labels": [
+      {
+        "source": "日本帝国軍タコマ基地",
+        "zh_hans": "（日本帝国军塔科马基地）",
+        "font_size": 18,
+        "cn_box": [
+          780,
+          114,
+          996,
+          132
+        ]
+      },
+      {
+        "source": "米国陸軍フォートルイス基地",
+        "zh_hans": "（美国陆军刘易斯堡基地）",
+        "font_size": 18,
+        "cn_box": [
+          702,
+          229,
+          918,
+          247
+        ]
+      },
+      {
+        "source": "シアトル湾",
+        "zh_hans": "（西雅图湾）",
+        "font_size": 18,
+        "cn_box": [
+          868,
+          165,
+          976,
+          183
+        ]
+      },
+      {
+        "source": "シアトル絶対防衛線",
+        "zh_hans": "（西雅图绝对防卫线）",
+        "font_size": 18,
+        "cn_box": [
+          630,
+          408,
+          810,
+          426
+        ]
+      },
+      {
+        "source": "太平洋塩原",
+        "zh_hans": "（太平洋盐原）",
+        "font_size": 18,
+        "cn_box": [
+          428,
+          464,
+          554,
+          482
+        ]
+      }
+    ],
+    "runtime_review": "pending"
+  }
+]

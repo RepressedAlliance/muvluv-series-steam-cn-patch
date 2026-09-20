@@ -1,0 +1,65 @@
+[
+  {
+    "game": "tda00",
+    "source_relative": "assets/data_spec/adv/game/bg/34クロニクルEv絵/210_アンリミマップ/030_DAY93/map03_A.webp",
+    "source_sha256": "03d3cefb9f836e975d58129ad022e306e8ef45169e7db2807c87c06f99f5eca8",
+    "action": "preserve_native",
+    "reason": "原日英版本逐字节相同；保留原版地图。"
+  },
+  {
+    "game": "tda00",
+    "source_relative": "assets/data_spec/adv/game/bg/34クロニクルEv絵/210_アンリミマップ/030_DAY93/map03_B.webp",
+    "source_sha256": "e352c37e34a0414eb058f5175aec348c3c7a58a9616d082056a97ece3c2b4df1",
+    "action": "preserve_native",
+    "reason": "原日英版本逐字节相同；保留原版地图。"
+  },
+  {
+    "game": "tda00",
+    "source_relative": "assets/data_spec/adv/game/bg/34クロニクルEv絵/210_アンリミマップ/030_DAY93/map03_C.webp",
+    "source_sha256": "87d447f5e49c71b3aa52338af283209542875ff16ed3b83f4081ab76d27be7e1",
+    "action": "preserve_native",
+    "reason": "原日英版本逐字节相同；保留原版地图。"
+  },
+  {
+    "game": "tda00",
+    "source_relative": "assets/data_spec/adv/game/bg/34クロニクルEv絵/210_アンリミマップ/030_DAY93/map03_D.webp",
+    "source_sha256": "61d46d0d82b4d663d728bb8bebaa1be80c26f1c75786d3879eb2b84120988b28",
+    "action": "preserve_native",
+    "reason": "原日英版本逐字节相同；保留原版地图。"
+  },
+  {
+    "game": "tda00",
+    "source_relative": "assets/data_spec/adv/game/bg/34クロニクルEv絵/210_アンリミマップ/030_DAY93/map03_E.webp",
+    "source_sha256": "ccc130f3b7435eefadc422d29441a4536f0027b840ebed57f5877d4b869f89fc",
+    "action": "preserve_native",
+    "reason": "原日英版本逐字节相同；保留原版地图。"
+  },
+  {
+    "game": "tda00",
+    "source_relative": "assets/data_spec/adv/game/bg/34クロニクルEv絵/210_アンリミマップ/030_DAY93/map03_F.webp",
+    "source_sha256": "7baead4ade0e407febdfdcde11e9e25b0af50db597b2566d6a43dcfc154be9c7",
+    "action": "preserve_native",
+    "reason": "原日英版本逐字节相同；保留原版地图。"
+  },
+  {
+    "game": "tda00",
+    "source_relative": "assets/data_spec/adv/game/bg/34クロニクルEv絵/210_アンリミマップ/030_DAY93/map03_G.webp",
+    "source_sha256": "838646668a19386f420caffeeafd3330f926ba9e83633a16a50e3e7c6e6fc69c",
+    "action": "preserve_native",
+    "reason": "原日英版本逐字节相同；保留原版地图。"
+  },
+  {
+    "game": "tda00",
+    "source_relative": "assets/data_spec/adv/game/bg/34クロニクルEv絵/210_アンリミマップ/030_DAY93/map03_H.webp",
+    "source_sha256": "6ca5ff722d7b3bf6b095d86728721837f492e46b704cb5df96524eacc53367a4",
+    "action": "preserve_native",
+    "reason": "原日英版本逐字节相同；保留原版地图。"
+  },
+  {
+    "game": "tda00",
+    "source_relative": "assets/data_spec/adv/game/bg/34クロニクルEv絵/210_アンリミマップ/030_DAY93/map03_I.webp",
+    "source_sha256": "d0e33308515c5bf0748239bfa2d688cef0ae2853c8b46b65a42e6df7f487b51f",
+    "action": "preserve_native",
+    "reason": "原日英版本逐字节相同；保留原版地图。"
+  }
+]

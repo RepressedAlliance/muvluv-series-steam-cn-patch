@@ -2,6 +2,22 @@
 
 [English overview](README.md) · [简体中文](../player/README.md) · [Research and localization](research-index.md) · [Report a bug](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/issues/new?template=bug-report.yml)
 
+## AGE2 BETA · 2026-09-20
+
+| 游戏 | 版本 | 下载 |
+| --- | --- | --- |
+| TDA00 | **BETA 0.2.0** | [安装程序 EXE](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/download/tda00-BETA-0.2.0/tda00-CN-BETA-0.2.0-Setup.exe) · [发布说明](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/tag/tda00-BETA-0.2.0) |
+| TDA01 | **BETA 0.3.2** | [安装程序 EXE](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/download/tda01-BETA-0.3.2/tda01-CN-BETA-0.3.2-Setup.exe) · [发布说明](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/tag/tda01-BETA-0.3.2) |
+| TDA02 | **BETA 0.2.0** | [安装程序 EXE](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/download/tda02-BETA-0.2.0/tda02-CN-BETA-0.2.0-Setup.exe) · [发布说明](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/tag/tda02-BETA-0.2.0) |
+| TDA03 | **BETA 0.2.6** | [安装程序 EXE](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/download/tda03-BETA-0.2.6/tda03-CN-BETA-0.2.6-Setup.exe) · [发布说明](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/tag/tda03-BETA-0.2.6) |
+| 帝都燃烧篇 | **BETA 0.2.0** | [安装程序 EXE](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/download/imperial-capital-burns-BETA-0.2.0/tm-CN-BETA-0.2.0-Setup.exe) · [发布说明](https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/tag/imperial-capital-burns-BETA-0.2.0) |
+
+Windows x64 / Steam: quit the game, run its EXE installer, install, and select Chinese in the game settings. No earlier patch is required. The installer retains the original executable and previous loose resources; player saves remain untouched.
+
+Restoration: quit the game, move its `ancr/<game>/data/root` to a backup location, and keep `data/user`. Restore `.age2-cn/original.exe` under the original game EXE name and move the patch files `FridaGadget.dll`, `FridaGadget.config`, `age2-cn.js`, and `COPYING-frida.txt` out of the game directory. Each release includes instructions, SHA-256 checksums, and a resource manifest.
+
+The older AGE2 ZIPs and instructions below are retained as historical records and do not describe the new installers above.
+
 ## Player downloads
 
 ### 光子之花 / 光子旋律

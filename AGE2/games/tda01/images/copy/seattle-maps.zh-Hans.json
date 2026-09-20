@@ -1,0 +1,585 @@
+[
+  {
+    "game": "tda01",
+    "source_relative": "assets/data_spec/adv/game/bg/30イベント絵/008_TDA_Map/BETA予想侵攻図A.webp",
+    "source_sha256": "d8c0dde752bfd19a7e36be12c07ef5148af65e8d9c0455f4a83516ed67e7e690",
+    "layout_basis": "逐张核对原图地名、军队与说明，加注中文；地名、基地、盐原用现行正文译名。全组中文说明固定18号，不按行缩字。BETA、MLRS、PF/PT/USN等编队识别码保留。",
+    "labels": [
+      {
+        "source": "シアトル／タコマ租借地",
+        "zh_hans": "（西雅图／塔科马租借地）",
+        "font_size": 18,
+        "cn_box": [
+          788,
+          249,
+          1004,
+          267
+        ]
+      },
+      {
+        "source": "ハワイ／モロカイ租借地",
+        "zh_hans": "（夏威夷／摩洛凯租借地）",
+        "font_size": 18,
+        "cn_box": [
+          513,
+          364,
+          729,
+          382
+        ]
+      }
+    ],
+    "runtime_review": "pending"
+  },
+  {
+    "game": "tda01",
+    "source_relative": "assets/data_spec/adv/game/bg/30イベント絵/008_TDA_Map/BETA予想侵攻図B進路.webp",
+    "source_sha256": "178a8b5c0bac0e95b928188b2abe7df24b152f44fc6c2cd154f4abeb964dba48",
+    "layout_basis": "逐张核对原图地名、军队与说明，加注中文；地名、基地、盐原用现行正文译名。全组中文说明固定18号，不按行缩字。BETA、MLRS、PF/PT/USN等编队识别码保留。",
+    "labels": [
+      {
+        "source": "シアトル／タコマ租借地",
+        "zh_hans": "（西雅图／塔科马租借地）",
+        "font_size": 18,
+        "cn_box": [
+          788,
+          249,
+          1004,
+          267
+        ]
+      },
+      {
+        "source": "ハワイ／モロカイ租借地",
+        "zh_hans": "（夏威夷／摩洛凯租借地）",
+        "font_size": 18,
+        "cn_box": [
+          513,
+          364,
+          729,
+          382
+        ]
+      }
+    ],
+    "runtime_review": "pending"
+  },
+  {
+    "game": "tda01",
+    "source_relative": "assets/data_spec/adv/game/bg/30イベント絵/008_TDA_Map/BETA大規模再襲撃A.webp",
+    "source_sha256": "9ccc81c131257b857d95dff3dfcd86a7506f239ff02e1aaac7a0be97382267ad",
+    "layout_basis": "逐张核对原图地名、军队与说明，加注中文；地名、基地、盐原用现行正文译名。全组中文说明固定18号，不按行缩字。BETA、MLRS、PF/PT/USN等编队识别码保留。",
+    "labels": [
+      {
+        "source": "日本帝国軍タコマ基地",
+        "zh_hans": "（日本帝国军塔科马基地）",
+        "font_size": 18,
+        "cn_box": [
+          780,
+          114,
+          996,
+          132
+        ]
+      },
+      {
+        "source": "米国陸軍フォートルイス基地",
+        "zh_hans": "（美国陆军刘易斯堡基地）",
+        "font_size": 18,
+        "cn_box": [
+          702,
+          229,
+          918,
+          247
+        ]
+      },
+      {
+        "source": "シアトル湾",
+        "zh_hans": "（西雅图湾）",
+        "font_size": 18,
+        "cn_box": [
+          868,
+          165,
+          976,
+          183
+        ]
+      },
+      {
+        "source": "シアトル絶対防衛線",
+        "zh_hans": "（西雅图绝对防卫线）",
+        "font_size": 18,
+        "cn_box": [
+          630,
+          408,
+          810,
+          426
+        ]
+      },
+      {
+        "source": "太平洋塩原",
+        "zh_hans": "（太平洋盐原）",
+        "font_size": 18,
+        "cn_box": [
+          428,
+          464,
+          554,
+          482
+        ]
+      }
+    ],
+    "runtime_review": "pending"
+  },
+  {
+    "game": "tda01",
+    "source_relative": "assets/data_spec/adv/game/bg/30イベント絵/008_TDA_Map/BETA大規模再襲撃B1.webp",
+    "source_sha256": "c45b1474f50d927e5738dbbfd0439e7e709266641029a83b9a5ffdb42fc4cda6",
+    "layout_basis": "逐张核对原图地名、军队与说明，加注中文；地名、基地、盐原用现行正文译名。全组中文说明固定18号，不按行缩字。BETA、MLRS、PF/PT/USN等编队识别码保留。",
+    "labels": [
+      {
+        "source": "米国哨戒部隊",
+        "zh_hans": "（美国哨戒部队）",
+        "font_size": 18,
+        "cn_box": [
+          518,
+          164,
+          662,
+          182
+        ]
+      },
+      {
+        "source": "哨戒部隊",
+        "zh_hans": "（哨戒部队）",
+        "font_size": 18,
+        "cn_box": [
+          404,
+          562,
+          512,
+          580
+        ]
+      },
+      {
+        "source": "第一次防衛線",
+        "zh_hans": "（第一道防卫线）",
+        "font_size": 18,
+        "cn_box": [
+          828,
+          538,
+          972,
+          556
+        ]
+      },
+      {
+        "source": "DETAIL LOST",
+        "zh_hans": "（详情不明）",
+        "font_size": 18,
+        "cn_box": [
+          700,
+          310,
+          808,
+          328
+        ]
+      }
+    ],
+    "runtime_review": "pending"
+  },
+  {
+    "game": "tda01",
+    "source_relative": "assets/data_spec/adv/game/bg/30イベント絵/008_TDA_Map/シアトルの現状解説A.webp",
+    "source_sha256": "6da97a2a06dbec9609f884ab4b8e1202cbd6fc71403a3d3cbf9f92737d79bcaa",
+    "layout_basis": "逐张核对原图地名、军队与说明，加注中文；地名、基地、盐原用现行正文译名。全组中文说明固定18号，不按行缩字。BETA、MLRS、PF/PT/USN等编队识别码保留。",
+    "labels": [
+      {
+        "source": "カナダ連邦領",
+        "zh_hans": "（加拿大联邦领土）",
+        "font_size": 18,
+        "cn_box": [
+          406,
+          76,
+          568,
+          94
+        ]
+      },
+      {
+        "source": "米国シアトル",
+        "zh_hans": "（美国西雅图）",
+        "font_size": 18,
+        "cn_box": [
+          787,
+          114,
+          913,
+          132
+        ]
+      },
+      {
+        "source": "日本帝国タコマ租借地",
+        "zh_hans": "（日本帝国塔科马租借地）",
+        "font_size": 18,
+        "cn_box": [
+          720,
+          525,
+          936,
+          543
+        ]
+      },
+      {
+        "source": "太平洋塩原",
+        "zh_hans": "（太平洋盐原）",
+        "font_size": 18,
+        "cn_box": [
+          373,
+          551,
+          499,
+          569
+        ]
+      }
+    ],
+    "runtime_review": "pending"
+  },
+  {
+    "game": "tda01",
+    "source_relative": "assets/data_spec/adv/game/bg/30イベント絵/008_TDA_Map/シアトルの現状解説B.webp",
+    "source_sha256": "060e22661c8340ed33984ea3fad4782aa71ab37d4cc2b9d89bb93627c036ffe4",
+    "layout_basis": "逐张核对原图地名、军队与说明，加注中文；地名、基地、盐原用现行正文译名。全组中文说明固定18号，不按行缩字。BETA、MLRS、PF/PT/USN等编队识别码保留。",
+    "labels": [
+      {
+        "source": "シアトル湾",
+        "zh_hans": "（西雅图湾）",
+        "font_size": 18,
+        "cn_box": [
+          762,
+          155,
+          870,
+          173
+        ]
+      },
+      {
+        "source": "日本帝国タコマ租借地",
+        "zh_hans": "（日本帝国塔科马租借地）",
+        "font_size": 18,
+        "cn_box": [
+          764,
+          218,
+          980,
+          236
+        ]
+      },
+      {
+        "source": "太平洋塩原",
+        "zh_hans": "（太平洋盐原）",
+        "font_size": 18,
+        "cn_box": [
+          116,
+          533,
+          242,
+          551
+        ]
+      }
+    ],
+    "runtime_review": "pending"
+  },
+  {
+    "game": "tda01",
+    "source_relative": "assets/data_spec/adv/game/bg/30イベント絵/008_TDA_Map/シアトルの現状解説B2点滅用素材.webp",
+    "source_sha256": "8f2505bfaf431121a16c57c67ca5d8609bbc161b9ac4366866b20b9d0894a84a",
+    "layout_basis": "逐张核对原图地名、军队与说明，加注中文；地名、基地、盐原用现行正文译名。全组中文说明固定18号，不按行缩字。BETA、MLRS、PF/PT/USN等编队识别码保留。",
+    "labels": [
+      {
+        "source": "シアトル湾",
+        "zh_hans": "（西雅图湾）",
+        "font_size": 18,
+        "cn_box": [
+          762,
+          155,
+          870,
+          173
+        ]
+      },
+      {
+        "source": "日本帝国タコマ租借地",
+        "zh_hans": "（日本帝国塔科马租借地）",
+        "font_size": 18,
+        "cn_box": [
+          764,
+          218,
+          980,
+          236
+        ]
+      },
+      {
+        "source": "太平洋塩原",
+        "zh_hans": "（太平洋盐原）",
+        "font_size": 18,
+        "cn_box": [
+          116,
+          533,
+          242,
+          551
+        ]
+      }
+    ],
+    "runtime_review": "pending"
+  },
+  {
+    "game": "tda01",
+    "source_relative": "assets/data_spec/adv/game/bg/30イベント絵/008_TDA_Map/シアトルの現状解説B3コロンビア湾.webp",
+    "source_sha256": "7e82d7214ca35d8ebd678e5ebb657f69ef5760d9364067376b30d546b7836fe1",
+    "layout_basis": "逐张核对原图地名、军队与说明，加注中文；地名、基地、盐原用现行正文译名。全组中文说明固定18号，不按行缩字。BETA、MLRS、PF/PT/USN等编队识别码保留。",
+    "labels": [
+      {
+        "source": "シアトル湾",
+        "zh_hans": "（西雅图湾）",
+        "font_size": 18,
+        "cn_box": [
+          762,
+          155,
+          870,
+          173
+        ]
+      },
+      {
+        "source": "日本帝国タコマ租借地",
+        "zh_hans": "（日本帝国塔科马租借地）",
+        "font_size": 18,
+        "cn_box": [
+          764,
+          218,
+          980,
+          236
+        ]
+      },
+      {
+        "source": "太平洋塩原",
+        "zh_hans": "（太平洋盐原）",
+        "font_size": 18,
+        "cn_box": [
+          116,
+          533,
+          242,
+          551
+        ]
+      },
+      {
+        "source": "コロンビア海峡",
+        "zh_hans": "（哥伦比亚海峡）",
+        "font_size": 18,
+        "cn_box": [
+          441,
+          130,
+          585,
+          148
+        ]
+      }
+    ],
+    "runtime_review": "pending"
+  },
+  {
+    "game": "tda01",
+    "source_relative": "assets/data_spec/adv/game/bg/30イベント絵/008_TDA_Map/シアトルの現状解説C.webp",
+    "source_sha256": "e3a54b910d41f09138a439c12dcbca4c2333fe08bfbab8d882e3a790be8d9266",
+    "layout_basis": "逐张核对原图地名、军队与说明，加注中文；地名、基地、盐原用现行正文译名。全组中文说明固定18号，不按行缩字。BETA、MLRS、PF/PT/USN等编队识别码保留。",
+    "labels": [
+      {
+        "source": "シアトル中心街",
+        "zh_hans": "（西雅图市中心）",
+        "font_size": 18,
+        "cn_box": [
+          611,
+          77,
+          755,
+          95
+        ]
+      },
+      {
+        "source": "シアトル港",
+        "zh_hans": "（西雅图港）",
+        "font_size": 18,
+        "cn_box": [
+          605,
+          172,
+          713,
+          190
+        ]
+      },
+      {
+        "source": "シアトル湾",
+        "zh_hans": "（西雅图湾）",
+        "font_size": 18,
+        "cn_box": [
+          480,
+          317,
+          588,
+          335
+        ]
+      },
+      {
+        "source": "タコマ港",
+        "zh_hans": "（塔科马港）",
+        "font_size": 18,
+        "cn_box": [
+          602,
+          322,
+          710,
+          340
+        ]
+      },
+      {
+        "source": "日本帝国軍タコマ基地",
+        "zh_hans": "（日本帝国军塔科马基地）",
+        "font_size": 18,
+        "cn_box": [
+          732,
+          386,
+          948,
+          404
+        ]
+      },
+      {
+        "source": "米国陸軍フォートルイス基地",
+        "zh_hans": "（美国陆军刘易斯堡基地）",
+        "font_size": 18,
+        "cn_box": [
+          656,
+          512,
+          872,
+          530
+        ]
+      }
+    ],
+    "runtime_review": "pending"
+  },
+  {
+    "game": "tda01",
+    "source_relative": "assets/data_spec/adv/game/bg/30イベント絵/008_TDA_Map/シアトル防衛戦A.webp",
+    "source_sha256": "1de52587a0f82f0a261ccbd6de5e769c943dcd179cbc01444c574616055af6aa",
+    "layout_basis": "逐张核对原图地名、军队与说明，加注中文；地名、基地、盐原用现行正文译名。全组中文说明固定18号，不按行缩字。BETA、MLRS、PF/PT/USN等编队识别码保留。",
+    "labels": [
+      {
+        "source": "帝国艦隊",
+        "zh_hans": "（帝国舰队）",
+        "font_size": 18,
+        "cn_box": [
+          446,
+          105,
+          554,
+          123
+        ]
+      },
+      {
+        "source": "米国陸軍戦術機隊",
+        "zh_hans": "（美国陆军战术机部队）",
+        "font_size": 18,
+        "cn_box": [
+          746,
+          168,
+          944,
+          186
+        ]
+      },
+      {
+        "source": "米国陸軍戦術機隊",
+        "zh_hans": "（美国陆军战术机部队）",
+        "font_size": 18,
+        "cn_box": [
+          278,
+          450,
+          476,
+          468
+        ]
+      },
+      {
+        "source": "第2中隊",
+        "zh_hans": "（第2中队）",
+        "font_size": 18,
+        "cn_box": [
+          600,
+          242,
+          700,
+          260
+        ]
+      },
+      {
+        "source": "第1中隊",
+        "zh_hans": "（第1中队）",
+        "font_size": 18,
+        "cn_box": [
+          469,
+          415,
+          569,
+          433
+        ]
+      },
+      {
+        "source": "INTERCEPT AREA",
+        "zh_hans": "（拦截区域）",
+        "font_size": 18,
+        "cn_box": [
+          484,
+          354,
+          592,
+          372
+        ]
+      }
+    ],
+    "runtime_review": "pending"
+  },
+  {
+    "game": "tda01",
+    "source_relative": "assets/data_spec/adv/game/bg/30イベント絵/008_TDA_Map/シアトル防衛戦BBETA接近.webp",
+    "source_sha256": "1ae5c5069fafe8a48989243c07e0c3e042f4960bc27b8df6ef72c2ad37270963",
+    "layout_basis": "逐张核对原图地名、军队与说明，加注中文；地名、基地、盐原用现行正文译名。全组中文说明固定18号，不按行缩字。BETA、MLRS、PF/PT/USN等编队识别码保留。",
+    "labels": [
+      {
+        "source": "帝国艦隊",
+        "zh_hans": "（帝国舰队）",
+        "font_size": 18,
+        "cn_box": [
+          446,
+          105,
+          554,
+          123
+        ]
+      },
+      {
+        "source": "米国陸軍戦術機隊",
+        "zh_hans": "（美国陆军战术机部队）",
+        "font_size": 18,
+        "cn_box": [
+          746,
+          168,
+          944,
+          186
+        ]
+      },
+      {
+        "source": "米国陸軍戦術機隊",
+        "zh_hans": "（美国陆军战术机部队）",
+        "font_size": 18,
+        "cn_box": [
+          278,
+          450,
+          476,
+          468
+        ]
+      },
+      {
+        "source": "第2中隊",
+        "zh_hans": "（第2中队）",
+        "font_size": 18,
+        "cn_box": [
+          600,
+          242,
+          700,
+          260
+        ]
+      },
+      {
+        "source": "第1中隊",
+        "zh_hans": "（第1中队）",
+        "font_size": 18,
+        "cn_box": [
+          469,
+          415,
+          569,
+          433
+        ]
+      }
+    ],
+    "runtime_review": "pending"
+  }
+]

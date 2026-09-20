@@ -1,6 +1,6 @@
 # Release process
 
-This checklist governs new releases. The five AGE2 beta packages currently linked from the root README predate it and do not consistently satisfy every manifest, version-gate, rollback, checksum and font-notice requirement; see the [player guide](../player/README.md).
+This checklist governs new releases. Historical AGE2 packages remain recorded separately from the 2026-09-20 BETA installers; use the current download table and each release's manifest and validation scope in the [player guide](../player/README.md).
 
 ## 1. Freeze inputs
 

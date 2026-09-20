@@ -1,0 +1,353 @@
+{
+  "schema": "age2-dialogue-frames/v1",
+  "edits": [
+    {
+      "game": "tda02",
+      "egpack": "030_２００５年１２月０２日（金）_031_私室での目覚め.egpack",
+      "id": "game_t00417",
+      "source_text_sha256": "6103AC716B5FC47AF0E5F8B343DF14D92F57F3A6D08FE09352E610977A3A46EC",
+      "before": "一——二……！",
+      "after": "「一——二……！」",
+      "installed_before": "一——二……！",
+      "installed_after": "「一——二……！」",
+      "reason": "原文为完整有名对白；中文漏掉一对对白括号。仅补「」，保留文字和现有控制符。"
+    },
+    {
+      "game": "tda02",
+      "egpack": "030_２００５年１２月０２日（金）_031_私室での目覚め.egpack",
+      "id": "game_t00418",
+      "source_text_sha256": "BEE5475C1A88403B8357319584074BD416A963F0A8C1322A00830FA487BDA8A1",
+      "before": "喂！等一下——！",
+      "after": "「喂！等一下——！」",
+      "installed_before": "喂！等一下——！",
+      "installed_after": "「喂！等一下——！」",
+      "reason": "原文为完整有名对白；中文漏掉一对对白括号。仅补「」，保留文字和现有控制符。"
+    },
+    {
+      "game": "tda02",
+      "egpack": "030_２００５年１２月０２日（金）_033_対光線級演習.egpack",
+      "id": "game_t00614",
+      "source_text_sha256": "8D9B7C98FDA95FD28081E10E7A63CBF3DCBED808A1C5D562DCBE4F15780E9003",
+      "before": "呀啊啊啊——！！！",
+      "after": "「呀啊啊啊——！！！」",
+      "installed_before": "呀啊啊啊——！！！",
+      "installed_after": "「呀啊啊啊——！！！」",
+      "reason": "原文为完整有名对白；中文漏掉一对对白括号。仅补「」，保留文字和现有控制符。"
+    },
+    {
+      "game": "tda02",
+      "egpack": "030_２００５年１２月０２日（金）_033_対光線級演習.egpack",
+      "id": "game_t00640",
+      "source_text_sha256": "7D6EA54FFFFDA94892C5FEC71669730FD88E7A634E8B4D1E6578F5D7E8C230BB",
+      "before": "哇啊……！！",
+      "after": "「哇啊……！！」",
+      "installed_before": "哇啊……！！",
+      "installed_after": "「哇啊……！！」",
+      "reason": "原文为完整有名对白；中文漏掉一对对白括号。仅补「」，保留文字和现有控制符。"
+    },
+    {
+      "game": "tda02",
+      "egpack": "030_２００５年１２月０２日（金）_035_格納庫で落ち込む雫＆律子登場.egpack",
+      "id": "game_t00777",
+      "source_text_sha256": "DA96AC28C9C416338DF6C53AA9ADFD07B5B5AE2B9ED4F7F9F4A2EE2354BD83A6",
+      "before": "当然啦！",
+      "after": "「当然啦！」",
+      "installed_before": "当然啦！",
+      "installed_after": "「当然啦！」",
+      "reason": "原文为完整有名对白；中文漏掉一对对白括号。仅补「」，保留文字和现有控制符。"
+    },
+    {
+      "game": "tda02",
+      "egpack": "030_２００５年１２月０２日（金）_035_格納庫で落ち込む雫＆律子登場.egpack",
+      "id": "game_t00881",
+      "source_text_sha256": "C26EF432DE7016907D1AAB4197FB5C076113DB46C6B5EEA7AA39ACDE875691EE",
+      "before": "什、什么么么……！！",
+      "after": "「什、什么么么……！！」",
+      "installed_before": "什、什么么么……！！",
+      "installed_after": "「什、什么么么……！！」",
+      "reason": "原文为完整有名对白；中文漏掉一对对白括号。仅补「」，保留文字和现有控制符。"
+    },
+    {
+      "game": "tda02",
+      "egpack": "030_２００５年１２月０２日（金）_035_格納庫で落ち込む雫＆律子登場.egpack",
+      "id": "game_t00903",
+      "source_text_sha256": "BCD767C5FB89255FCE2F1E1612311A612FF28B9B18EC9A4A89546F2F3ADAD359",
+      "before": "是个温柔又沉稳的大姐姐！",
+      "after": "「是个温柔又沉稳的大姐姐！」",
+      "installed_before": "是个温柔又沉稳的大姐姐！",
+      "installed_after": "「是个温柔又沉稳的大姐姐！」",
+      "reason": "原文为完整有名对白；中文漏掉一对对白括号。仅补「」，保留文字和现有控制符。"
+    },
+    {
+      "game": "tda02",
+      "egpack": "050_２００５年１２月０４日（日）_050_悪夢の始まり：大海崩後の世界.egpack",
+      "id": "game_t01217",
+      "source_text_sha256": "DB946481EE056B2AA60390E10F98863B725C949E72CE469E2294CDE232AF0614",
+      "before": "骗人的。",
+      "after": "「骗人的。」",
+      "installed_before": "骗人的。",
+      "installed_after": "「骗人的。」",
+      "reason": "原文为完整有名对白；中文漏掉一对对白括号。仅补「」，保留文字和现有控制符。"
+    },
+    {
+      "game": "tda02",
+      "egpack": "050_２００５年１２月０４日（日）_057_律子と特訓.egpack",
+      "id": "game_t01480",
+      "source_text_sha256": "3E0D90C09C9003EF47BCB51BEA5945984504743601DDBCDF6134DAE8264BE389",
+      "before": "别跳——！",
+      "after": "「别跳——！」",
+      "installed_before": "别跳——！",
+      "installed_after": "「别跳——！」",
+      "reason": "原文为完整有名对白；中文漏掉一对对白括号。仅补「」，保留文字和现有控制符。"
+    },
+    {
+      "game": "tda02",
+      "egpack": "060_２００５年１２月０５日（月）_062_孤児施設.egpack",
+      "id": "game_t01836",
+      "source_text_sha256": "C0B590932F98F15C852A318E4DAEBBED32E45C20BDBDC2A5C5D2ECF95FEDECBD",
+      "before": "没想到我的魅力竟然爆发到这种程度……",
+      "after": "「没想到我的魅力竟然爆发到这种程度……」",
+      "installed_before": "没想到我的魅力竟然爆发到这种程度……",
+      "installed_after": "「没想到我的魅力竟然爆发到这种程度……」",
+      "reason": "原文为完整有名对白；中文漏掉一对对白括号。仅补「」，保留文字和现有控制符。"
+    },
+    {
+      "game": "tda02",
+      "egpack": "060_２００５年１２月０５日（月）_062_孤児施設.egpack",
+      "id": "game_t01838",
+      "source_text_sha256": "0642AB7C65DD589918D6ABAB5B8100419B7F1129D21407DB1468F099B100C893",
+      "before": "什么！？",
+      "after": "「什么！？」",
+      "installed_before": "什么！？",
+      "installed_after": "「什么！？」",
+      "reason": "原文为完整有名对白；中文漏掉一对对白括号。仅补「」，保留文字和现有控制符。"
+    },
+    {
+      "game": "tda02",
+      "egpack": "070_２００５年１２月０７日（水）_071_私室にて.egpack",
+      "id": "game_t01986",
+      "source_text_sha256": "16220CE10D5C039DD424B9CC8C723C7B9BE6FD06B32B29771D18193B87349D76",
+      "before": "一、二！",
+      "after": "「一、二！」",
+      "installed_before": "一、二！",
+      "installed_after": "「一、二！」",
+      "reason": "原文为完整有名对白；中文漏掉一对对白括号。仅补「」，保留文字和现有控制符。"
+    },
+    {
+      "game": "tda02",
+      "egpack": "080_２００５年１２月０８日（木）_085_ウォードッグの戦い.egpack",
+      "id": "game_t02230",
+      "source_text_sha256": "EFA17574F725D87590F0889B619DC6028DD73C79AA393BCEEC0F539E8AF94B1B",
+      "before": "喝啊啊——！",
+      "after": "「喝啊啊——！」",
+      "installed_before": "喝啊啊——！",
+      "installed_after": "「喝啊啊——！」",
+      "reason": "原文为完整有名对白；中文漏掉一对对白括号。仅补「」，保留文字和现有控制符。"
+    },
+    {
+      "game": "tda02",
+      "egpack": "080_２００５年１２月０８日（木）_085_ウォードッグの戦い.egpack",
+      "id": "game_t02234",
+      "source_text_sha256": "2700D8CFD92274E2860516B49A53C543FD05055346F1FF1F2475C87D1A1B24AE",
+      "before": "别把你那张脏脸靠过来！",
+      "after": "「别把你那张脏脸靠过来！」",
+      "installed_before": "别把你那张脏脸靠过来！",
+      "installed_after": "「别把你那张脏脸靠过来！」",
+      "reason": "原文为完整有名对白；中文漏掉一对对白括号。仅补「」，保留文字和现有控制符。"
+    },
+    {
+      "game": "tda02",
+      "egpack": "080_２００５年１２月０８日（木）_085_ウォードッグの戦い.egpack",
+      "id": "game_t02236",
+      "source_text_sha256": "E1BCEA09D993A5A3DC53841A8F83C2D693363F80E49DC68166456077971D1B7E",
+      "before": "呀啊啊——！！",
+      "after": "「呀啊啊——！！」",
+      "installed_before": "呀啊啊——！！",
+      "installed_after": "「呀啊啊——！！」",
+      "reason": "原文为完整有名对白；中文漏掉一对对白括号。仅补「」，保留文字和现有控制符。"
+    },
+    {
+      "game": "tda02",
+      "egpack": "080_２００５年１２月０８日（木）_085_ウォードッグの戦い.egpack",
+      "id": "game_t02241",
+      "source_text_sha256": "E1C527E431E33C7AB828177BF1280275140AAF8E50403449C2B90613BD84A40F",
+      "before": "唔……呀啊啊啊——！！",
+      "after": "「唔……呀啊啊啊——！！」",
+      "installed_before": "唔……呀啊啊啊——！！",
+      "installed_after": "「唔……呀啊啊啊——！！」",
+      "reason": "原文为完整有名对白；中文漏掉一对对白括号。仅补「」，保留文字和现有控制符。"
+    },
+    {
+      "game": "tda02",
+      "egpack": "080_２００５年１２月０８日（木）_085_ウォードッグの戦い.egpack",
+      "id": "game_t02263",
+      "source_text_sha256": "37B6FB25A2C449DF2E2887A38F43424DFE70BE0FA780DB999CE7ACC3A6A0DEF8",
+      "before": "哇啊……！！",
+      "after": "「哇啊……！！」",
+      "installed_before": "哇啊……！！",
+      "installed_after": "「哇啊……！！」",
+      "reason": "原文为完整有名对白；中文漏掉一对对白括号。仅补「」，保留文字和现有控制符。"
+    },
+    {
+      "game": "tda02",
+      "egpack": "110_２００５年１２月１１日（日）_116_丘の上・駒木、まりもとの会話を回想.egpack",
+      "id": "game_t03556",
+      "source_text_sha256": "7C4B7EE49313380C28ED77A64A82BD24A6FA40A8B795FB267FB7AC2D7148EC23",
+      "before": "凡尘苦海故土，终究难以割舍；净土安宁祥和，我却无心向往。",
+      "after": "「凡尘苦海故土，终究难以割舍；净土安宁祥和，我却无心向往。」",
+      "installed_before": "凡尘苦海故土，终究难以割舍；净土安宁祥和，我却无心向往。\\p",
+      "installed_after": "「凡尘苦海故土，终究难以割舍；净土安宁祥和，我却无心向往。」\\p",
+      "reason": "原文为完整有名对白；中文漏掉一对对白括号。仅补「」，保留文字和现有控制符。"
+    },
+    {
+      "game": "tda02",
+      "egpack": "120_２００５年１２月２２日（木）_134_窮地.egpack",
+      "id": "game_t04403",
+      "source_text_sha256": "1B1B9562814F60DB3BB89D210747F4F5F230400C5936A873A27F5275ABFEF907",
+      "before": "你这混蛋……！！",
+      "after": "「你这混蛋……！！」",
+      "installed_before": "你这混蛋……！！",
+      "installed_after": "「你这混蛋……！！」",
+      "reason": "原文为完整有名对白；中文漏掉一对对白括号。仅补「」，保留文字和现有控制符。"
+    },
+    {
+      "game": "tda02",
+      "egpack": "120_２００５年１２月２２日（木）_134_窮地.egpack",
+      "id": "game_t04409",
+      "source_text_sha256": "27AE1153C626C2C719A018BEF0E850560A31DFBD6737E61A15F8EE02F3AE4B66",
+      "before": "呀啊啊啊……！",
+      "after": "「呀啊啊啊……！」",
+      "installed_before": "呀啊啊啊……！",
+      "installed_after": "「呀啊啊啊……！」",
+      "reason": "原文为完整有名对白；中文漏掉一对对白括号。仅补「」，保留文字和现有控制符。"
+    },
+    {
+      "game": "tda02",
+      "egpack": "120_２００５年１２月２２日（木）_134_窮地.egpack",
+      "id": "game_t04439",
+      "source_text_sha256": "C405057D8B736E96EA2BDE118FB41ACBB7C908EAEAECA7A3FF84B7EA2E8A9F52",
+      "before": "要上了啊啊啊——！！",
+      "after": "「要上了啊啊啊——！！」",
+      "installed_before": "要上了啊啊啊——！！",
+      "installed_after": "「要上了啊啊啊——！！」",
+      "reason": "原文为完整有名对白；中文漏掉一对对白括号。仅补「」，保留文字和现有控制符。"
+    },
+    {
+      "game": "tda02",
+      "egpack": "120_２００５年１２月２２日（木）_135_響吶喊.egpack",
+      "id": "game_t04520",
+      "source_text_sha256": "DD07DF1A058738C55E6BAD263D1C2672EABE3A5E8BD3D59AFA7A373836200B45",
+      "before": "别靠过来啊啊啊——！！！",
+      "after": "「别靠过来啊啊啊——！！！」",
+      "installed_before": "别靠过来啊啊啊——！！！",
+      "installed_after": "「别靠过来啊啊啊——！！！」",
+      "reason": "原文为完整有名对白；中文漏掉一对对白括号。仅补「」，保留文字和现有控制符。"
+    },
+    {
+      "game": "tda02",
+      "egpack": "120_２００５年１２月２２日（木）_135_響吶喊.egpack",
+      "id": "game_t04530",
+      "source_text_sha256": "AD96F4151A44AFDD66B357FBCD5346245CC87F0E71B9555107C0F83CD3AAD5EF",
+      "before": "撞上去啊——！",
+      "after": "「撞上去啊——！」",
+      "installed_before": "撞上去啊——！",
+      "installed_after": "「撞上去啊——！」",
+      "reason": "原文为完整有名对白；中文漏掉一对对白括号。仅补「」，保留文字和现有控制符。"
+    },
+    {
+      "game": "tda02",
+      "egpack": "120_２００５年１２月２２日（木）_135_響吶喊.egpack",
+      "id": "game_t04532",
+      "source_text_sha256": "78A09766362DCACC21FE7AFEB2D1DFE9023EE62B626DB72E94DD00453B4830DA",
+      "before": "喝啊啊啊啊————！！！！",
+      "after": "「喝啊啊啊啊————！！！！」",
+      "installed_before": "喝啊啊啊啊————！！！！",
+      "installed_after": "「喝啊啊啊啊————！！！！」",
+      "reason": "原文为完整有名对白；中文漏掉一对对白括号。仅补「」，保留文字和现有控制符。"
+    },
+    {
+      "game": "tda02",
+      "egpack": "120_２００５年１２月２２日（木）_135_響吶喊.egpack",
+      "id": "game_t04534",
+      "source_text_sha256": "74F937403735755AD67254548763A7269886DBE1CA1C8C722E2154A29D79B67F",
+      "before": "得手了——！！！",
+      "after": "「得手了——！！！」",
+      "installed_before": "得手了——！！！",
+      "installed_after": "「得手了——！！！」",
+      "reason": "原文为完整有名对白；中文漏掉一对对白括号。仅补「」，保留文字和现有控制符。"
+    },
+    {
+      "game": "tda02",
+      "egpack": "150_２００５年１２月２４日（土）_152_格納庫にて待機する響.egpack",
+      "id": "game_t05035",
+      "source_text_sha256": "5A718DF09AC818D25D88F603323053A57A4D0E628E33D86E77AFD016521A628C",
+      "before": "恰好有一台在波音做厂家维护的机体，算是运气好；要是平常得等一个月呢。",
+      "after": "「恰好有一台在波音做厂家维护的机体，算是运气好；要是平常得等一个月呢。」",
+      "installed_before": "恰好有一台在波音做厂家维护的机体，算是运气好；要是平常得等一个月呢。\\p",
+      "installed_after": "「恰好有一台在波音做厂家维护的机体，算是运气好；要是平常得等一个月呢。」\\p",
+      "reason": "原文为完整有名对白；中文漏掉一对对白括号。仅补「」，保留文字和现有控制符。"
+    },
+    {
+      "game": "tda02",
+      "egpack": "150_２００５年１２月２４日（土）_173_停戦命令.egpack",
+      "id": "game_t05959",
+      "source_text_sha256": "C78D98F9ABF6BAF1EBD695AB36E06DF80A339DE9E6BF0FDD7E2E032C7F25A061",
+      "before": "喔哦哦哦——！！！",
+      "after": "「喔哦哦哦——！！！」",
+      "installed_before": "喔哦哦哦——！！！",
+      "installed_after": "「喔哦哦哦——！！！」",
+      "reason": "原文为完整有名对白；中文漏掉一对对白括号。仅补「」，保留文字和现有控制符。"
+    },
+    {
+      "game": "tda02",
+      "egpack": "150_２００５年１２月２４日（土）_184_病室.egpack",
+      "id": "game_t06221",
+      "source_text_sha256": "103EA3F96D0056B500C8C7CBC3714C3F4D879EA0F55F45E9927B7859AEE4EC08",
+      "before": "……接下来是下一条新闻。美国与加拿大边境一带的战斗出现了平息迹象。",
+      "after": "「……接下来是下一条新闻。美国与加拿大边境一带的战斗出现了平息迹象。」",
+      "installed_before": "……接下来是下一条新闻。美国与加拿大边境一带的战斗出现了平息迹象。",
+      "installed_after": "「……接下来是下一条新闻。美国与加拿大边境一带的战斗出现了平息迹象。」",
+      "reason": "原文为完整有名对白；中文漏掉一对对白括号。仅补「」，保留文字和现有控制符。"
+    },
+    {
+      "game": "tda02",
+      "egpack": "150_２００５年１２月２４日（土）_184_病室.egpack",
+      "id": "game_t06223",
+      "source_text_sha256": "37502FBFBA7EDE1F28F107F71C91260C7CFA49DBECC6A2AEDD929DFDAFA9D8B7",
+      "before": "详情目前尚不明确，不过据悉帝国军将在今天深夜零点左右发表声明。",
+      "after": "「详情目前尚不明确，不过据悉帝国军将在今天深夜零点左右发表声明。」",
+      "installed_before": "详情目前尚不明确，不过据悉帝国军将在今天深夜零点左右发表声明。",
+      "installed_after": "「详情目前尚不明确，不过据悉帝国军将在今天深夜零点左右发表声明。」",
+      "reason": "原文为完整有名对白；中文漏掉一对对白括号。仅补「」，保留文字和现有控制符。"
+    },
+    {
+      "game": "tda02",
+      "egpack": "150_２００５年１２月２４日（土）_184_病室.egpack",
+      "id": "game_t06225",
+      "source_text_sha256": "1BB342E6F8C3217C2199C06A71F1551974522A4A5633790D0CE02B2C99FAA6BB",
+      "before": "据相关人士透露，煌武院悠阳殿下的英明决断促使局势得以平息——",
+      "after": "「据相关人士透露，煌武院悠阳殿下的英明决断促使局势得以平息——」",
+      "installed_before": "据相关人士透露，煌武院悠阳殿下的英明决断促使局势得以平息——",
+      "installed_after": "「据相关人士透露，煌武院悠阳殿下的英明决断促使局势得以平息——」",
+      "reason": "原文为完整有名对白；中文漏掉一对对白括号。仅补「」，保留文字和现有控制符。"
+    },
+    {
+      "game": "tda02",
+      "egpack": "150_２００５年１２月２４日（土）_184_病室.egpack",
+      "id": "game_t06247",
+      "source_text_sha256": "A4D439CEFFA6640F5C7677FCFDF893ACE7FDA2D4988839E177E25F7A5C2A181B",
+      "before": "……请把力量借给我。",
+      "after": "「……请把力量借给我。」",
+      "installed_before": "……请把力量借给我。",
+      "installed_after": "「……请把力量借给我。」",
+      "reason": "原文为完整有名对白；中文漏掉一对对白括号。仅补「」，保留文字和现有控制符。"
+    }
+  ],
+  "validation": {
+    "records": 31,
+    "tables_per_root": 14,
+    "all_other_slots_and_records_unchanged": true,
+    "control_sequences_unchanged": true
+  },
+  "scope": "Source CSV, current installed TDA02 and candidate EGPACK only. Release installers not rebuilt."
+}

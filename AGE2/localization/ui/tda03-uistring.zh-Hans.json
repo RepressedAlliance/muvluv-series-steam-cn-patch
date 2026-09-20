@@ -1,0 +1,1378 @@
+{
+  "source": "TDA03 original assets/data/epk/uistring.epk",
+  "notes": "Exact label and Japanese source matching required. Chapter titles are not song titles. Full-name spelling follows reviewed terminology; remaining body variants are separate audit items.",
+  "rows": [
+    {
+      "id": "1",
+      "label": "cap_back",
+      "ja": "戻る",
+      "zh_hans": "返回",
+      "note": ""
+    },
+    {
+      "id": "2",
+      "label": "cap_decide",
+      "ja": "決定",
+      "zh_hans": "确定",
+      "note": ""
+    },
+    {
+      "id": "3",
+      "label": "cap_cancel",
+      "ja": "キャンセル",
+      "zh_hans": "取消",
+      "note": ""
+    },
+    {
+      "id": "4",
+      "label": "cap_sort",
+      "ja": "並び替え",
+      "zh_hans": "排序",
+      "note": ""
+    },
+    {
+      "id": "20001",
+      "label": "ttl_mission",
+      "ja": "ミッション一覧（開発中）",
+      "zh_hans": "任务列表（开发中）",
+      "note": ""
+    },
+    {
+      "id": "20002",
+      "label": "ttl_mission_sub",
+      "ja": "内容の説明（仮）",
+      "zh_hans": "内容说明（暂定）",
+      "note": ""
+    },
+    {
+      "id": "20003",
+      "label": "ttl_equip",
+      "ja": "セットアップ（開発中）",
+      "zh_hans": "整备（开发中）",
+      "note": ""
+    },
+    {
+      "id": "20004",
+      "label": "ttl_equip_sub",
+      "ja": "内容の説明（仮）",
+      "zh_hans": "内容说明（暂定）",
+      "note": ""
+    },
+    {
+      "id": "50050",
+      "label": "msg_cv0",
+      "ja": "龍波 響",
+      "zh_hans": "龙浪响",
+      "note": "Character voice setting; use current project character terminology. Native UI spells 龍波; story and current Chinese script use 龍浪/龙浪."
+    },
+    {
+      "id": "50051",
+      "label": "msg_cv1",
+      "ja": "千堂 柚香",
+      "zh_hans": "千堂柚香",
+      "note": "Character voice setting; use current project character terminology."
+    },
+    {
+      "id": "50052",
+      "label": "msg_cv2",
+      "ja": "エレン・エイス",
+      "zh_hans": "艾伦·艾斯",
+      "note": "Character voice setting; use current project character terminology."
+    },
+    {
+      "id": "50053",
+      "label": "msg_cv3",
+      "ja": "美桜乃 雫",
+      "zh_hans": "美樱乃雫",
+      "note": "Character voice setting; use current project character terminology."
+    },
+    {
+      "id": "50054",
+      "label": "msg_cv4",
+      "ja": "松風 諒一",
+      "zh_hans": "松风谅一",
+      "note": "Character voice setting; use current project character terminology."
+    },
+    {
+      "id": "50055",
+      "label": "msg_cv5",
+      "ja": "楠本 さやか",
+      "zh_hans": "楠本沙也加",
+      "note": "Character voice setting; use current project character terminology."
+    },
+    {
+      "id": "50056",
+      "label": "msg_cv6",
+      "ja": "神宮司 まりも",
+      "zh_hans": "神宫司麻理茉",
+      "note": "Character voice setting; use current project character terminology."
+    },
+    {
+      "id": "50057",
+      "label": "msg_cv7",
+      "ja": "駒木 咲代子",
+      "zh_hans": "驹木咲代子",
+      "note": "Character voice setting; use current project character terminology."
+    },
+    {
+      "id": "50058",
+      "label": "msg_cv8",
+      "ja": "大上 律子",
+      "zh_hans": "大上律子",
+      "note": "Character voice setting; use current project character terminology."
+    },
+    {
+      "id": "50059",
+      "label": "msg_cv9",
+      "ja": "アルフレッド・ウォーケン",
+      "zh_hans": "阿尔弗雷德·沃肯",
+      "note": "Character voice setting; use current project character terminology."
+    },
+    {
+      "id": "50060",
+      "label": "msg_cv10",
+      "ja": "リリア・シェルベリ",
+      "zh_hans": "莉莉娅·谢尔贝里",
+      "note": "Character voice setting; use current project character terminology."
+    },
+    {
+      "id": "50061",
+      "label": "msg_cv11",
+      "ja": "デリック・アイアンサイド",
+      "zh_hans": "德里克·艾恩赛德",
+      "note": "Character voice setting; use current project character terminology."
+    },
+    {
+      "id": "50062",
+      "label": "msg_cv12",
+      "ja": "ベルナデット・リヴィエール",
+      "zh_hans": "贝尔纳黛特·里维埃",
+      "note": "Character voice setting; use current project character terminology."
+    },
+    {
+      "id": "50063",
+      "label": "msg_cv13",
+      "ja": "リーナ・テルヴォ",
+      "zh_hans": "莉娜·特尔沃",
+      "note": "Character voice setting; use current project character terminology."
+    },
+    {
+      "id": "50064",
+      "label": "msg_cv14",
+      "ja": "ウィルバート・コリンズ",
+      "zh_hans": "威尔伯特·柯林斯",
+      "note": "Character voice setting; use current project character terminology."
+    },
+    {
+      "id": "50065",
+      "label": "msg_cv15",
+      "ja": "ダリル・マクマナス",
+      "zh_hans": "达里尔·麦克马纳斯",
+      "note": "Character voice setting; use current project character terminology."
+    },
+    {
+      "id": "50066",
+      "label": "msg_cv16",
+      "ja": "メルヴィナ・アードヴァニー",
+      "zh_hans": "梅尔维娜·阿德瓦尼",
+      "note": "Character voice setting; use current project character terminology."
+    },
+    {
+      "id": "50067",
+      "label": "msg_cv17",
+      "ja": "レア・ゲグラン",
+      "zh_hans": "蕾娅·盖克兰",
+      "note": "Character voice setting; use current project character terminology."
+    },
+    {
+      "id": "50068",
+      "label": "msg_cv18",
+      "ja": "沙霧 尚哉",
+      "zh_hans": "沙雾尚哉",
+      "note": "Character voice setting; use current project character terminology."
+    },
+    {
+      "id": "50069",
+      "label": "msg_cv19",
+      "ja": "煌武院 悠陽",
+      "zh_hans": "煌武院悠阳",
+      "note": "Character voice setting; use current project character terminology."
+    },
+    {
+      "id": "50070",
+      "label": "msg_cv20",
+      "ja": "月詠 真耶",
+      "zh_hans": "月咏真耶",
+      "note": "Character voice setting; use current project character terminology."
+    },
+    {
+      "id": "50071",
+      "label": "msg_cv21",
+      "ja": "神代 巽",
+      "zh_hans": "神代巽",
+      "note": "Character voice setting; use current project character terminology."
+    },
+    {
+      "id": "50072",
+      "label": "msg_cv22",
+      "ja": "巴 雪乃",
+      "zh_hans": "巴雪乃",
+      "note": "Character voice setting; use current project character terminology."
+    },
+    {
+      "id": "50073",
+      "label": "msg_cv23",
+      "ja": "戎 美凪",
+      "zh_hans": "戎美凪",
+      "note": "Character voice setting; use current project character terminology."
+    },
+    {
+      "id": "50074",
+      "label": "msg_cv24",
+      "ja": "斑鳩 崇継",
+      "zh_hans": "斑鸠崇继",
+      "note": "Character voice setting; use current project character terminology."
+    },
+    {
+      "id": "50075",
+      "label": "msg_cv25",
+      "ja": "真壁 介六郎",
+      "zh_hans": "真壁介六郎",
+      "note": "Character voice setting; use current project character terminology."
+    },
+    {
+      "id": "50076",
+      "label": "msg_cv26",
+      "ja": "白銀 武",
+      "zh_hans": "白银武",
+      "note": "Character voice setting; use current project character terminology."
+    },
+    {
+      "id": "50077",
+      "label": "msg_cv27",
+      "ja": "その他",
+      "zh_hans": "其他",
+      "note": "Character voice setting; use current project character terminology."
+    },
+    {
+      "id": "50001",
+      "label": "dlg_ord_mission",
+      "ja": "",
+      "zh_hans": "",
+      "note": ""
+    },
+    {
+      "id": "50002",
+      "label": "msg_go_title",
+      "ja": "タイトル画面に戻ります。\tよろしいですか？\t保存されていないデータ等は\t失われます。",
+      "zh_hans": "返回标题画面。\t尚未保存的进度将会丢失。\t确定要返回吗？",
+      "note": ""
+    },
+    {
+      "id": "50003",
+      "label": "msg_query_load",
+      "ja": "ロードしてゲームを再開します。\t現在のデータは保存されません。\tよろしいですか？",
+      "zh_hans": "读取存档并继续游戏。\t当前进度不会保存。\t确定要读取吗？",
+      "note": ""
+    },
+    {
+      "id": "50004",
+      "label": "msg_query_save",
+      "ja": "セーブデータを上書きします。 \tよろしいですか？",
+      "zh_hans": "即将覆盖原有存档。\t确定要保存吗？",
+      "note": ""
+    },
+    {
+      "id": "50005",
+      "label": "msg_now_load",
+      "ja": "ロードしています。",
+      "zh_hans": "正在读取……",
+      "note": ""
+    },
+    {
+      "id": "50006",
+      "label": "msg_now_save",
+      "ja": "セーブしています。",
+      "zh_hans": "正在保存……",
+      "note": ""
+    },
+    {
+      "id": "50007",
+      "label": "msg_bgm",
+      "ja": "曲",
+      "zh_hans": "背景音乐",
+      "note": ""
+    },
+    {
+      "id": "50008",
+      "label": "msg_voice",
+      "ja": "ボイス",
+      "zh_hans": "语音",
+      "note": ""
+    },
+    {
+      "id": "50009",
+      "label": "msg_se",
+      "ja": "ゲーム効果音",
+      "zh_hans": "游戏音效",
+      "note": ""
+    },
+    {
+      "id": "50010",
+      "label": "msg_vision_pc",
+      "ja": "右ドラッグで移動",
+      "zh_hans": "按住鼠标右键拖动以移动画面",
+      "note": ""
+    },
+    {
+      "id": "50011",
+      "label": "msg_vision_sp",
+      "ja": "二本指タッチ＋スクロールで移動",
+      "zh_hans": "双指触摸并滑动以移动画面",
+      "note": ""
+    },
+    {
+      "id": "50012",
+      "label": "msg_vision2",
+      "ja": "画面表示設定",
+      "zh_hans": "画面显示设置",
+      "note": ""
+    },
+    {
+      "id": "50013",
+      "label": "msg_reset",
+      "ja": "初期設定に戻す",
+      "zh_hans": "恢复默认设置",
+      "note": ""
+    },
+    {
+      "id": "50014",
+      "label": "msg_manual",
+      "ja": "操作説明",
+      "zh_hans": "操作说明",
+      "note": ""
+    },
+    {
+      "id": "50015",
+      "label": "msg_menu",
+      "ja": "メニュー効果音",
+      "zh_hans": "菜单音效",
+      "note": ""
+    },
+    {
+      "id": "50016",
+      "label": "msg_query_exit",
+      "ja": "アプリを終了します。\tよろしいですか？",
+      "zh_hans": "即将退出游戏。\t确定要退出吗？",
+      "note": ""
+    },
+    {
+      "id": "50017",
+      "label": "msg_vision_pc1",
+      "ja": "拡大表示\t(端末にあわせる)",
+      "zh_hans": "放大显示\t（适应设备屏幕）",
+      "note": ""
+    },
+    {
+      "id": "50018",
+      "label": "msg_vision_pc2",
+      "ja": "固定表示\t(ゲーム画面にあわせる)",
+      "zh_hans": "固定显示\t（适应游戏画面）",
+      "note": ""
+    },
+    {
+      "id": "50019",
+      "label": "msg_master",
+      "ja": "マスターボリューム",
+      "zh_hans": "主音量",
+      "note": ""
+    },
+    {
+      "id": "50020",
+      "label": "msg_langsec",
+      "ja": "言語",
+      "zh_hans": "语言",
+      "note": ""
+    },
+    {
+      "id": "50021",
+      "label": "msg_autospeed",
+      "ja": "オート時テキスト表示速度",
+      "zh_hans": "自动播放时的文字显示速度",
+      "note": ""
+    },
+    {
+      "id": "50022",
+      "label": "msg_pagespeed",
+      "ja": "固定待機時間",
+      "zh_hans": "固定等待时间",
+      "note": ""
+    },
+    {
+      "id": "50023",
+      "label": "msg_full",
+      "ja": "フルスクリーン表示",
+      "zh_hans": "全屏显示",
+      "note": ""
+    },
+    {
+      "id": "50024",
+      "label": "msg_lang",
+      "ja": "言語切り替え",
+      "zh_hans": "切换语言",
+      "note": ""
+    },
+    {
+      "id": "50025",
+      "label": "msg_soundsec",
+      "ja": "音量",
+      "zh_hans": "音量",
+      "note": ""
+    },
+    {
+      "id": "50026",
+      "label": "msg_viewsec",
+      "ja": "画面",
+      "zh_hans": "画面",
+      "note": ""
+    },
+    {
+      "id": "50027",
+      "label": "msg_cvsec",
+      "ja": "キャラクターボイス切替",
+      "zh_hans": "角色语音开关",
+      "note": ""
+    },
+    {
+      "id": "50028",
+      "label": "msg_langat",
+      "ja": "自動",
+      "zh_hans": "自动",
+      "note": ""
+    },
+    {
+      "id": "50029",
+      "label": "msg_langja",
+      "ja": "日本語",
+      "zh_hans": "日本語",
+      "note": ""
+    },
+    {
+      "id": "50030",
+      "label": "msg_langen",
+      "ja": "英語",
+      "zh_hans": "English",
+      "note": ""
+    },
+    {
+      "id": "50031",
+      "label": "msg_textspeed",
+      "ja": "メッセージ長比例時間",
+      "zh_hans": "随文字长度增加的等待时间",
+      "note": ""
+    },
+    {
+      "id": "50032",
+      "label": "msg_sample",
+      "ja": "これはサンプルテキストです。\tこの文字数で、このような表示切り替え時間となります。",
+      "zh_hans": "这是一段示例文字。\t以此段文字的长度为例，翻页前的等待时间如下。",
+      "note": ""
+    },
+    {
+      "id": "50033",
+      "label": "msg_sample_s",
+      "ja": "サンプルテキストです。",
+      "zh_hans": "这是一段示例文字。",
+      "note": ""
+    },
+    {
+      "id": "50034",
+      "label": "msg_cvvol",
+      "ja": "ボイス音量",
+      "zh_hans": "语音音量",
+      "note": ""
+    },
+    {
+      "id": "50035",
+      "label": "msg_autoskipsec",
+      "ja": "オート再生・早送り設定",
+      "zh_hans": "自动播放与快进设置",
+      "note": ""
+    },
+    {
+      "id": "50036",
+      "label": "msg_skipstop",
+      "ja": "クリックで「早送り」を解除する",
+      "zh_hans": "点击时停止快进",
+      "note": ""
+    },
+    {
+      "id": "50037",
+      "label": "msg_branchstop",
+      "ja": "選択肢が表示された時「早送り」を解除する",
+      "zh_hans": "出现选项时停止快进",
+      "note": ""
+    },
+    {
+      "id": "50038",
+      "label": "msg_unreadskip",
+      "ja": "初めて閲覧するシーンでも「早送り」を継続する",
+      "zh_hans": "首次阅读的场景也继续快进",
+      "note": ""
+    },
+    {
+      "id": "50039",
+      "label": "msg_skipresume",
+      "ja": "未読メッセージで「早送り状態」を解除する",
+      "zh_hans": "遇到未读文字时退出快进状态",
+      "note": ""
+    },
+    {
+      "id": "50040",
+      "label": "msg_autostop",
+      "ja": "クリックで「オート再生」を解除する",
+      "zh_hans": "点击时停止自动播放",
+      "note": ""
+    },
+    {
+      "id": "50041",
+      "label": "msg_autonext",
+      "ja": "「オート再生中」にクリックしてページ送りをする",
+      "zh_hans": "自动播放时允许点击翻页",
+      "note": ""
+    },
+    {
+      "id": "50042",
+      "label": "msg_vostsec",
+      "ja": "ボイス停止条件",
+      "zh_hans": "语音停止条件",
+      "note": ""
+    },
+    {
+      "id": "50043",
+      "label": "msg_vost",
+      "ja": "入力によるボイスの停止モード",
+      "zh_hans": "操作时的语音停止方式",
+      "note": ""
+    },
+    {
+      "id": "50044",
+      "label": "msg_vostevery",
+      "ja": "常に停止",
+      "zh_hans": "总是停止",
+      "note": ""
+    },
+    {
+      "id": "50045",
+      "label": "msg_vostplay",
+      "ja": "ボイス再生時に停止",
+      "zh_hans": "播放下一段语音时停止",
+      "note": ""
+    },
+    {
+      "id": "50046",
+      "label": "msg_vostspk",
+      "ja": "同一話者ボイス\t再生時のみ停止",
+      "zh_hans": "仅在同一角色\t播放下一段语音时停止",
+      "note": ""
+    },
+    {
+      "id": "50047",
+      "label": "msg_systemsec",
+      "ja": "システム設定",
+      "zh_hans": "系统设置",
+      "note": ""
+    },
+    {
+      "id": "50048",
+      "label": "msg_hidecursor",
+      "ja": "一定時間操作がなければマウスカーソルを非表示にする",
+      "zh_hans": "一段时间未操作时隐藏鼠标指针",
+      "note": ""
+    },
+    {
+      "id": "50049",
+      "label": "msg_vorbidss",
+      "ja": "オートモード中スクリーンセーバーを起動させない",
+      "zh_hans": "自动播放时禁用屏幕保护程序",
+      "note": ""
+    },
+    {
+      "id": "50090",
+      "label": "msg_advance",
+      "ja": "高度な設定",
+      "zh_hans": "高级设置",
+      "note": ""
+    },
+    {
+      "id": "50091",
+      "label": "msg_cvdesc",
+      "ja": "アイコンを長押しするとボリュームを変更できます",
+      "zh_hans": "长按角色图标可调整音量",
+      "note": ""
+    },
+    {
+      "id": "50092",
+      "label": "msg_vostsecm",
+      "ja": "ボイス停止条件",
+      "zh_hans": "语音停止条件",
+      "note": ""
+    },
+    {
+      "id": "50093",
+      "label": "msg_low",
+      "ja": "低解像度モードで動作",
+      "zh_hans": "使用低分辨率模式",
+      "note": ""
+    },
+    {
+      "id": "50094",
+      "label": "msg_lowreso",
+      "ja": "低解像度モードで起動します。\tこの設定はオプション画面で\t変更できます。",
+      "zh_hans": "将以低分辨率模式启动。\t此设置可在选项画面中更改。",
+      "note": ""
+    },
+    {
+      "id": "50095",
+      "label": "msg_reboot",
+      "ja": "アプリケーションを再起動しますがよろしいですか？\t保存されていないデータ等は失われます。",
+      "zh_hans": "即将重新启动游戏。\t尚未保存的进度将会丢失。\t确定要重启吗？",
+      "note": ""
+    },
+    {
+      "id": "50096",
+      "label": "msg_reboot2",
+      "ja": "アプリケーションを再起動しますが\tよろしいですか？\t保存されていないデータ等は\t失われます。",
+      "zh_hans": "即将重新启动游戏。\t尚未保存的进度将会丢失。\t确定要重启吗？",
+      "note": ""
+    },
+    {
+      "id": "60001",
+      "label": "game/scr/2005年01月01日_01：北米航空宇宙防衛司令部現在.xml",
+      "ja": "北米航空宇宙防衛司令部現在",
+      "zh_hans": "北美航空航天防御司令部现况",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60002",
+      "label": "game/scr/2005年01月01日_02：オープニング.xml",
+      "ja": "オープニング",
+      "zh_hans": "开场",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60003",
+      "label": "game/scr/2005年12月27日_01：夜・響の部屋.xml",
+      "ja": "2005/12/27　謎の影",
+      "zh_hans": "2005/12/27　神秘的影子",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60004",
+      "label": "game/scr/2005年12月27日_02：夜・悠陽との謁見.xml",
+      "ja": "2005/12/27　謁見は夜陰の中で",
+      "zh_hans": "2005/12/27　夜色中的谒见",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60005",
+      "label": "game/scr/2005年12月29日_01：日中・国境線現在.xml",
+      "ja": "2005/12/29　国境線現在",
+      "zh_hans": "2005/12/29　国境线现况",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60006",
+      "label": "game/scr/2005年12月29日_02：同時刻・その頃のフランス軍.xml",
+      "ja": "2005/12/29　同時刻・フランス軍",
+      "zh_hans": "2005/12/29　同一时刻的法军",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60007",
+      "label": "game/scr/2005年12月29日_03：同時刻・斑鳩到着のお知らせ.xml",
+      "ja": "2005/12/29　真壁という男",
+      "zh_hans": "2005/12/29　名叫真壁的男人",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60008",
+      "label": "game/scr/2005年12月29日_04：夕方・帰投し千堂親子再会.xml",
+      "ja": "2005/12/29　千堂親子再会",
+      "zh_hans": "2005/12/29　千堂父女重逢",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60009",
+      "label": "game/scr/2005年12月29日_05：夜：酒場にて.xml",
+      "ja": "2005/12/29　酒場にて",
+      "zh_hans": "2005/12/29　酒馆内",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60010",
+      "label": "game/scr/2005年12月29日_06：深夜・柚香とエレン.xml",
+      "ja": "2005/12/29　深夜・柚香とエレン",
+      "zh_hans": "2005/12/29　深夜的柚香与艾伦",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60011",
+      "label": "game/scr/2005年12月29日_07：深夜：自室.xml",
+      "ja": "2005/12/29　深夜の響",
+      "zh_hans": "2005/12/29　深夜的响",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60012",
+      "label": "game/scr/2005年12月30日_01：朝・斑鳩と真壁.xml",
+      "ja": "2005/12/30　斑鳩と側近たち",
+      "zh_hans": "2005/12/30　斑鸠与随从们",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60013",
+      "label": "game/scr/2005年12月30日_02：朝・駒木と移動中.xml",
+      "ja": "2005/12/30　糸口は見えずとも",
+      "zh_hans": "2005/12/30　即使尚无线索",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60014",
+      "label": "game/scr/2005年12月30日_03：日中・駒木と千堂父.xml",
+      "ja": "2005/12/30　生み出す者と破壊する者",
+      "zh_hans": "2005/12/30　创造者与破坏者",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60015",
+      "label": "game/scr/2005年12月30日_04：日中・会議後.xml",
+      "ja": "2005/12/30　会議の後に",
+      "zh_hans": "2005/12/30　会议之后",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60016",
+      "label": "game/scr/2005年12月30日_05：夜・真壁と悠陽会談.xml",
+      "ja": "2005/12/30　真壁の掣肘",
+      "zh_hans": "2005/12/30　真壁的掣肘",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60017",
+      "label": "game/scr/2005年12月30日_06：夜・エレンと酒場1.xml",
+      "ja": "2005/12/30　酒場にて",
+      "zh_hans": "2005/12/30　酒馆内",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60018",
+      "label": "game/scr/2005年12月30日_07：夜・エレンと酒場2.xml",
+      "ja": "2005/12/30　互いの過去",
+      "zh_hans": "2005/12/30　彼此的过去",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60019",
+      "label": "game/scr/2005年12月31日_01：四カ国会議2日め.xml",
+      "ja": "2005/12/31　四カ国会議",
+      "zh_hans": "2005/12/31　四国会议",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60020",
+      "label": "game/scr/2005年12月31日_02：ブリーフィング.xml",
+      "ja": "2005/12/31　予兆",
+      "zh_hans": "2005/12/31　预兆",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60021",
+      "label": "game/scr/2005年12月31日_03：格納庫.xml",
+      "ja": "2005/12/31　格納庫にて",
+      "zh_hans": "2005/12/31　机库内",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60022",
+      "label": "game/scr/2005年12月31日_04：米軍格納庫.xml",
+      "ja": "2005/12/31　キーホルダー",
+      "zh_hans": "2005/12/31　钥匙扣",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60023",
+      "label": "game/scr/2005年12月31日_05：道中.xml",
+      "ja": "2005/12/31　戦地へ",
+      "zh_hans": "2005/12/31　前往战场",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60024",
+      "label": "game/scr/2005年12月31日_06：待ち受ける者.xml",
+      "ja": "2005/12/31　待ち受ける者",
+      "zh_hans": "2005/12/31　等候之人",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60025",
+      "label": "game/scr/2005年12月31日_07：沙霧.xml",
+      "ja": "2005/12/31　国を追われた者たち",
+      "zh_hans": "2005/12/31　被逐出故国的人们",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60026",
+      "label": "game/scr/2006年01月01日_01：北米航空宇宙防衛司令部攻防戦開始.xml",
+      "ja": "2006/1/1　北米航空宇宙防衛司令部攻防戦",
+      "zh_hans": "2006/1/1　北美航空航天防御司令部攻防战",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60027",
+      "label": "game/scr/2006年01月01日_02：シアトル混乱.xml",
+      "ja": "2006/1/1　シアトル混乱",
+      "zh_hans": "2006/1/1　西雅图的混乱",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60028",
+      "label": "game/scr/2006年01月01日_03：フランス歓喜.xml",
+      "ja": "2006/1/1　フランスの歓喜",
+      "zh_hans": "2006/1/1　法国的欢呼",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60029",
+      "label": "game/scr/2006年01月01日_04：悠陽と斑鳩.xml",
+      "ja": "2006/1/1　対峙",
+      "zh_hans": "2006/1/1　对峙",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60030",
+      "label": "game/scr/2006年01月01日_05：北米航空宇宙防衛司令部攻防戦1膠着.xml",
+      "ja": "2006/1/1　膠着",
+      "zh_hans": "2006/1/1　僵持",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60031",
+      "label": "game/scr/2006年01月01日_06：衛星軌道上.xml",
+      "ja": "2006/1/1　衛星軌道上",
+      "zh_hans": "2006/1/1　卫星轨道上",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60032",
+      "label": "game/scr/2006年01月01日_07：斯衛登場.xml",
+      "ja": "2006/1/1　黒の武御雷",
+      "zh_hans": "2006/1/1　黑色武御雷",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60033",
+      "label": "game/scr/2006年01月01日_08：フランス軍.xml",
+      "ja": "2006/1/1　灼熱の竜騎兵たち",
+      "zh_hans": "2006/1/1　灼热的龙骑兵们",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60034",
+      "label": "game/scr/2006年01月01日_09：斯衛と沙霧.xml",
+      "ja": "2006/1/1　怨嗟",
+      "zh_hans": "2006/1/1　怨恨",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60035",
+      "label": "game/scr/2006年01月01日_10：核の足元.xml",
+      "ja": "2006/1/1　地の底の光",
+      "zh_hans": "2006/1/1　地底的光",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60036",
+      "label": "game/scr/2006年01月01日_11：斯衛と帝国.xml",
+      "ja": "2006/1/1　慕情",
+      "zh_hans": "2006/1/1　慕情",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60037",
+      "label": "game/scr/2006年01月01日_12：北米航空宇宙防衛司令部攻防戦2.xml",
+      "ja": "2006/1/1　核投下",
+      "zh_hans": "2006/1/1　投下核弹",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60038",
+      "label": "game/scr/2006年01月01日_13：ベルナデット.xml",
+      "ja": "2006/1/1　あるフランス軍衛士の葛藤",
+      "zh_hans": "2006/1/1　一名法军卫士的挣扎",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60039",
+      "label": "game/scr/2006年01月01日_14：起爆前のOSP-1400.xml",
+      "ja": "2006/1/1　起爆前の――",
+      "zh_hans": "2006/1/1　引爆之前——",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60040",
+      "label": "game/scr/2006年01月01日_15：核爆発.xml",
+      "ja": "2006/1/1　炸裂",
+      "zh_hans": "2006/1/1　炸裂",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60041",
+      "label": "game/scr/2006年01月01日_16：起爆後のゲグラン.xml",
+      "ja": "2006/1/1　ただひとりの反逆",
+      "zh_hans": "2006/1/1　孤身一人的反叛",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60042",
+      "label": "game/scr/2006年01月01日_17：救助.xml",
+      "ja": "2006/1/1　救助",
+      "zh_hans": "2006/1/1　救助",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60043",
+      "label": "game/scr/2006年01月01日_18：斯衛.xml",
+      "ja": "2006/1/1　譲れぬ者たち",
+      "zh_hans": "2006/1/1　不肯退让的人们",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60044",
+      "label": "game/scr/2006年01月01日_19：救出２.xml",
+      "ja": "2006/1/1　柚香救出",
+      "zh_hans": "2006/1/1　救出柚香",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60045",
+      "label": "game/scr/2006年01月01日_20：北米航空宇宙防衛司令部崩壊.xml",
+      "ja": "2006/1/1　北米航空宇宙防衛司令部崩壊",
+      "zh_hans": "2006/1/1　北美航空航天防御司令部崩溃",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60046",
+      "label": "game/scr/2006年01月01日_21：シアトルで報告を聞く悠陽.xml",
+      "ja": "2006/1/1　報告",
+      "zh_hans": "2006/1/1　报告",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60047",
+      "label": "game/scr/2006年01月01日_22：沙霧たち.xml",
+      "ja": "2006/1/1　野犬たち",
+      "zh_hans": "2006/1/1　野犬们",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60048",
+      "label": "game/scr/2006年01月04日_01：孤児院に向かう【0729修正】.xml",
+      "ja": "2006/1/4　孤児院にて",
+      "zh_hans": "2006/1/4　孤儿院内",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60049",
+      "label": "game/scr/2006年01月04日_02：斑鳩.xml",
+      "ja": "2006/1/4　斑鳩と白銀",
+      "zh_hans": "2006/1/4　斑鸠与白银",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60050",
+      "label": "game/scr/2006年01月04日_03：医者【0729修正】.xml",
+      "ja": "2006/1/4　永遠なる音律",
+      "zh_hans": "2006/1/4　永恒的音律",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60051",
+      "label": "game/scr/2006年01月07日_01：格納庫.xml",
+      "ja": "2006/1/7　残務処理",
+      "zh_hans": "2006/1/7　处理余务",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60052",
+      "label": "game/scr/2006年01月07日_02：柚香入院.xml",
+      "ja": "2006/1/7　柚香の入院",
+      "zh_hans": "2006/1/7　柚香住院",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60053",
+      "label": "game/scr/2006年01月07日_03：柚香の部屋.xml",
+      "ja": "2006/1/7　秘め事",
+      "zh_hans": "2006/1/7　秘密",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60054",
+      "label": "game/scr/2006年01月07日_04：夜、エレンと.xml",
+      "ja": "2006/1/7　告白",
+      "zh_hans": "2006/1/7　告白",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60055",
+      "label": "game/scr/2006年01月09日_01：格納庫.xml",
+      "ja": "2006/1/9　楠本の日常",
+      "zh_hans": "2006/1/9　楠本的日常",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60056",
+      "label": "game/scr/2006年01月09日_02：斑鳩と柚香父.xml",
+      "ja": "2006/1/9　段取り",
+      "zh_hans": "2006/1/9　安排",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60057",
+      "label": "game/scr/2006年01月09日_03：呼び出し.xml",
+      "ja": "2006/1/9　ある日の呼び出し",
+      "zh_hans": "2006/1/9　某日的传唤",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60058",
+      "label": "game/scr/2006年01月09日_04：呼び出し続き.xml",
+      "ja": "2006/1/9　滴る雨",
+      "zh_hans": "2006/1/9　滴落的雨",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60059",
+      "label": "game/scr/2006年01月10日_01：響の夢.xml",
+      "ja": "2006/1/10　許しを求めて",
+      "zh_hans": "2006/1/10　寻求宽恕",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60060",
+      "label": "game/scr/2006年01月10日_02：駒木と響.xml",
+      "ja": "2006/1/10　駒木の語る沙霧",
+      "zh_hans": "2006/1/10　驹木口中的沙雾",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60061",
+      "label": "game/scr/2006年01月10日_03：柚香との会話【0730修正】.xml",
+      "ja": "2006/1/10　三人それぞれの秘密",
+      "zh_hans": "2006/1/10　三人各自的秘密",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60062",
+      "label": "game/scr/2006年01月10日_04：柚香の病室【0730修正】.xml",
+      "ja": "2006/1/10　柚香の病室にて",
+      "zh_hans": "2006/1/10　柚香的病房内",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60063",
+      "label": "game/scr/2006年01月10日_05：駒木回想　沙霧と.xml",
+      "ja": "2006/1/10　駒木咲代子の回想",
+      "zh_hans": "2006/1/10　驹木咲代子的回忆",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60064",
+      "label": "game/scr/2006年01月21日_01：JFKハイヴ攻略戦準備【0730修正】.xml",
+      "ja": "2006/1/21　JFKハイヴ攻略戦準備",
+      "zh_hans": "2006/1/21　JFK巢穴攻略战准备",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60065",
+      "label": "game/scr/2006年01月21日_02：真壁と響【0730修正】.xml",
+      "ja": "2006/1/21　値踏み",
+      "zh_hans": "2006/1/21　估量",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60066",
+      "label": "game/scr/2006年01月21日_03：真壁、白銀、まりも.xml",
+      "ja": "2006/1/21　真壁、白銀、神宮司",
+      "zh_hans": "2006/1/21　真壁、白银与神宫司",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60067",
+      "label": "game/scr/2006年01月21日_04：柚香と父【0730修正】.xml",
+      "ja": "2006/1/21　父と娘",
+      "zh_hans": "2006/1/21　父与女",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60068",
+      "label": "game/scr/2006年02月14日_01：訓練.xml",
+      "ja": "2006/2/14　訓練",
+      "zh_hans": "2006/2/14　训练",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60069",
+      "label": "game/scr/2006年02月14日_02：施設.xml",
+      "ja": "2006/2/14　車椅子の律子",
+      "zh_hans": "2006/2/14　轮椅上的律子",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60070",
+      "label": "game/scr/2006年02月14日_03：まりもの話【0730修正】.xml",
+      "ja": "2006/2/14　行方不明",
+      "zh_hans": "2006/2/14　下落不明",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60071",
+      "label": "game/scr/2006年02月14日_04：出征式【0730修正】.xml",
+      "ja": "2006/2/14　出征式",
+      "zh_hans": "2006/2/14　出征仪式",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60072",
+      "label": "game/scr/2006年02月15日_01：洋上の出来事【0730修正】.xml",
+      "ja": "2006/2/15　洋上にて",
+      "zh_hans": "2006/2/15　海上",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60073",
+      "label": "game/scr/2006年02月15日_02：作戦会議【0730修正】.xml",
+      "ja": "2006/2/15　作戦会議",
+      "zh_hans": "2006/2/15　作战会议",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60074",
+      "label": "game/scr/2006年02月17日_01：リリア.xml",
+      "ja": "2006/2/17　リリア、因縁の地へ",
+      "zh_hans": "2006/2/17　莉莉娅前往宿缘之地",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60075",
+      "label": "game/scr/2006年02月17日_02：エレンと響.xml",
+      "ja": "2006/2/17　想い",
+      "zh_hans": "2006/2/17　心意",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60076",
+      "label": "game/scr/2006年02月18日_01：JFK攻略開始.xml",
+      "ja": "2006/2/18　JFK攻略開始",
+      "zh_hans": "2006/2/18　JFK攻略开始",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60077",
+      "label": "game/scr/2006年02月18日_02：米軍戦術機部隊投入.xml",
+      "ja": "2006/2/18　米軍戦術機部隊投入",
+      "zh_hans": "2006/2/18　投入美军战术机部队",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60078",
+      "label": "game/scr/2006年02月18日_03：フェイズ２からフェイズ３へ.xml",
+      "ja": "2006/2/18　フェイズ２からフェイズ３へ",
+      "zh_hans": "2006/2/18　从第二阶段转入第三阶段",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60079",
+      "label": "game/scr/2006年02月18日_04：戦術機部隊撤退.xml",
+      "ja": "2006/2/18　戦術機部隊撤退",
+      "zh_hans": "2006/2/18　战术机部队撤退",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60080",
+      "label": "game/scr/2006年02月18日_05：核爆発.xml",
+      "ja": "2006/2/18　核の華",
+      "zh_hans": "2006/2/18　核之花",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60081",
+      "label": "game/scr/2006年02月18日_06：再攻撃.xml",
+      "ja": "2006/2/18　再攻撃",
+      "zh_hans": "2006/2/18　再次进攻",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60082",
+      "label": "game/scr/2006年02月18日_07：後方の人々.xml",
+      "ja": "2006/2/18　後方の人々",
+      "zh_hans": "2006/2/18　后方的人们",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60083",
+      "label": "game/scr/2006年02月18日_08：『門』入り口.xml",
+      "ja": "2006/2/18　『門』入り口",
+      "zh_hans": "2006/2/18　“门”的入口",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60084",
+      "label": "game/scr/2006年02月18日_09：日本帝国.xml",
+      "ja": "2006/2/18　帝国軍の戦い",
+      "zh_hans": "2006/2/18　帝国军的战斗",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60085",
+      "label": "game/scr/2006年02月18日_10：米軍突入部隊.xml",
+      "ja": "2006/2/18　米軍突入部隊",
+      "zh_hans": "2006/2/18　美军突入部队",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60086",
+      "label": "game/scr/2006年02月18日_11：その頃のシアトル.xml",
+      "ja": "2006/2/18　その頃のシアトル",
+      "zh_hans": "2006/2/18　此时的西雅图",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60087",
+      "label": "game/scr/2006年02月18日_12：地下茎.xml",
+      "ja": "2006/2/18　地下茎にて",
+      "zh_hans": "2006/2/18　地下茎内",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60088",
+      "label": "game/scr/2006年02月18日_13：フランス・カナダの死闘.xml",
+      "ja": "2006/2/18　フランス・カナダの死闘",
+      "zh_hans": "2006/2/18　法国与加拿大的死斗",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60089",
+      "label": "game/scr/2006年02月18日_14：CIC.xml",
+      "ja": "2006/2/18　CIC",
+      "zh_hans": "2006/2/18　CIC",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60090",
+      "label": "game/scr/2006年02月18日_15：後退するフランス部隊.xml",
+      "ja": "2006/2/18　後退するフランス部隊",
+      "zh_hans": "2006/2/18　撤退中的法军部队",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60091",
+      "label": "game/scr/2006年02月18日_16：救援.xml",
+      "ja": "2006/2/18　救援",
+      "zh_hans": "2006/2/18　救援",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60092",
+      "label": "game/scr/2006年02月18日_17：再編成.xml",
+      "ja": "2006/2/18　再編成",
+      "zh_hans": "2006/2/18　重新编组",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60093",
+      "label": "game/scr/2006年02月18日_18：帝国海軍.xml",
+      "ja": "2006/2/18　帝国海軍",
+      "zh_hans": "2006/2/18　帝国海军",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60094",
+      "label": "game/scr/2006年02月18日_19：追いつく.xml",
+      "ja": "2006/2/18　合流",
+      "zh_hans": "2006/2/18　会合",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60095",
+      "label": "game/scr/2006年02月18日_20：松風、駒木.xml",
+      "ja": "2006/2/18　松風と駒木",
+      "zh_hans": "2006/2/18　松风与驹木",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60096",
+      "label": "game/scr/2006年02月18日_21：JFK脳髄の間.xml",
+      "ja": "2006/2/18　かつて人だったモノ",
+      "zh_hans": "2006/2/18　曾经是人的东西",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60097",
+      "label": "game/scr/2006年02月18日_22：柚香脱出.xml",
+      "ja": "2006/2/18　柚香脱出",
+      "zh_hans": "2006/2/18　柚香脱出",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60098",
+      "label": "game/scr/2006年02月18日_23：特攻前.xml",
+      "ja": "2006/2/18　特攻前",
+      "zh_hans": "2006/2/18　特攻之前",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60099",
+      "label": "game/scr/2006年02月18日_24：反応炉区画での激戦.xml",
+      "ja": "2006/2/18　反応炉区画での激戦",
+      "zh_hans": "2006/2/18　反应炉区域的激战",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60100",
+      "label": "game/scr/2006年02月18日_25：勝負あり.xml",
+      "ja": "2006/2/18　JFKの決着",
+      "zh_hans": "2006/2/18　JFK的决战结果",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60101",
+      "label": "game/scr/2006年02月18日_26：斑鳩.xml",
+      "ja": "2006/2/18　斑鳩という男",
+      "zh_hans": "2006/2/18　名叫斑鸠的男人",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60102",
+      "label": "game/scr/2006年02月18日_27：リリア.xml",
+      "ja": "2006/2/18　リリア・シェルべリの呟き",
+      "zh_hans": "2006/2/18　莉莉娅·谢尔贝里的低语",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60103",
+      "label": "game/scr/2006年02月18日_28：JFKからの帰還.xml",
+      "ja": "2006/2/18　JFKからの帰還",
+      "zh_hans": "2006/2/18　从JFK归来",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    },
+    {
+      "id": "60104",
+      "label": "game/scr/2006年02月19日_01：白銀武.xml",
+      "ja": "2006/2/19　白銀武の記憶",
+      "zh_hans": "2006/2/19　白银武的记忆",
+      "note": "Translate displayed chapter title only; preserve script key and achievement field."
+    }
+  ]
+}

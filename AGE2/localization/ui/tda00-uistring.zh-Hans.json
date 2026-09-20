@@ -1,0 +1,498 @@
+{
+  "source": "TDA00 original assets/data/epk/uistring.epk",
+  "notes": "Match the original Japanese string before reuse in other episodes; selector order is applied separately. Keep achievement identifiers unchanged.",
+  "rows": [
+    {
+      "id": "1",
+      "label": "cap_back",
+      "ja": "戻る",
+      "zh_hans": "返回"
+    },
+    {
+      "id": "2",
+      "label": "cap_decide",
+      "ja": "決定",
+      "zh_hans": "确定"
+    },
+    {
+      "id": "3",
+      "label": "cap_cancel",
+      "ja": "キャンセル",
+      "zh_hans": "取消"
+    },
+    {
+      "id": "4",
+      "label": "cap_sort",
+      "ja": "並び替え",
+      "zh_hans": "排序"
+    },
+    {
+      "id": "20001",
+      "label": "ttl_mission",
+      "ja": "ミッション一覧（開発中）",
+      "zh_hans": "任务列表（开发中）"
+    },
+    {
+      "id": "20002",
+      "label": "ttl_mission_sub",
+      "ja": "内容の説明（仮）",
+      "zh_hans": "内容说明（暂定）"
+    },
+    {
+      "id": "20003",
+      "label": "ttl_equip",
+      "ja": "セットアップ（開発中）",
+      "zh_hans": "整备（开发中）"
+    },
+    {
+      "id": "20004",
+      "label": "ttl_equip_sub",
+      "ja": "内容の説明（仮）",
+      "zh_hans": "内容说明（暂定）"
+    },
+    {
+      "id": "50050",
+      "label": "msg_cv0",
+      "ja": "ウィルバート・コリンズ",
+      "zh_hans": "威尔伯特·柯林斯"
+    },
+    {
+      "id": "50051",
+      "label": "msg_cv1",
+      "ja": "リリア・シェルベリ",
+      "zh_hans": "莉莉娅·谢尔贝里"
+    },
+    {
+      "id": "50052",
+      "label": "msg_cv2",
+      "ja": "ダリル・マクマナス",
+      "zh_hans": "达里尔·麦克马纳斯"
+    },
+    {
+      "id": "50053",
+      "label": "msg_cv3",
+      "ja": "メルヴィナ・アードヴァニー",
+      "zh_hans": "梅尔维娜·阿德瓦尼"
+    },
+    {
+      "id": "50054",
+      "label": "msg_cv4",
+      "ja": "ジョージ・オールストン",
+      "zh_hans": "乔治·奥尔斯顿"
+    },
+    {
+      "id": "50055",
+      "label": "msg_cv5",
+      "ja": "その他",
+      "zh_hans": "其他"
+    },
+    {
+      "id": "60001",
+      "label": "game/scr/010_UAFプロローグ.xml",
+      "ja": "プロローグ",
+      "zh_hans": "序章"
+    },
+    {
+      "id": "60002",
+      "label": "game/scr/020_UAF_DAY91_01.xml",
+      "ja": "Day 91",
+      "zh_hans": "第 91 天"
+    },
+    {
+      "id": "60003",
+      "label": "game/scr/030_UAF_DAY93_01.xml",
+      "ja": "Day 93",
+      "zh_hans": "第 93 天"
+    },
+    {
+      "id": "60004",
+      "label": "game/scr/040_UAF_DAY94_01.xml",
+      "ja": "Day 94",
+      "zh_hans": "第 94 天"
+    },
+    {
+      "id": "60005",
+      "label": "game/scr/050_UAF_DAY95_01.xml",
+      "ja": "Day 95",
+      "zh_hans": "第 95 天"
+    },
+    {
+      "id": "60006",
+      "label": "game/scr/060_UAF_DAY96_01.xml",
+      "ja": "Day 96",
+      "zh_hans": "第 96 天"
+    },
+    {
+      "id": "60007",
+      "label": "game/scr/070_UAF_DAY97_01.xml",
+      "ja": "Day 97",
+      "zh_hans": "第 97 天"
+    },
+    {
+      "id": "60008",
+      "label": "game/scr/080_UAF_DAY98_01.xml",
+      "ja": "Day 98",
+      "zh_hans": "第 98 天"
+    },
+    {
+      "id": "60009",
+      "label": "game/scr/090_UAF_DAY99_01.xml",
+      "ja": "Day 99, Part I",
+      "zh_hans": "第 99 天（一）"
+    },
+    {
+      "id": "60010",
+      "label": "game/scr/090_UAF_DAY99_02.xml",
+      "ja": "Day 99, Part II",
+      "zh_hans": "第 99 天（二）"
+    },
+    {
+      "id": "60011",
+      "label": "game/scr/090_UAF_DAY99_03.xml",
+      "ja": "Day 99, Part III",
+      "zh_hans": "第 99 天（三）"
+    },
+    {
+      "id": "60012",
+      "label": "game/scr/100_UAF_DAY100_01.xml",
+      "ja": "Day 100",
+      "zh_hans": "第 100 天"
+    },
+    {
+      "id": "50001",
+      "label": "dlg_ord_mission",
+      "ja": "",
+      "zh_hans": ""
+    },
+    {
+      "id": "50002",
+      "label": "msg_go_title",
+      "ja": "タイトル画面に戻ります。\tよろしいですか？\t保存されていないデータ等は\t失われます。",
+      "zh_hans": "返回标题画面。\t尚未保存的进度将会丢失。\t确定要返回吗？"
+    },
+    {
+      "id": "50003",
+      "label": "msg_query_load",
+      "ja": "ロードしてゲームを再開します。\t現在のデータは保存されません。\tよろしいですか？",
+      "zh_hans": "读取存档并继续游戏。\t当前进度不会保存。\t确定要读取吗？"
+    },
+    {
+      "id": "50004",
+      "label": "msg_query_save",
+      "ja": "セーブデータを上書きします。 \tよろしいですか？",
+      "zh_hans": "即将覆盖原有存档。\t确定要保存吗？"
+    },
+    {
+      "id": "50005",
+      "label": "msg_now_load",
+      "ja": "ロードしています。",
+      "zh_hans": "正在读取……"
+    },
+    {
+      "id": "50006",
+      "label": "msg_now_save",
+      "ja": "セーブしています。",
+      "zh_hans": "正在保存……"
+    },
+    {
+      "id": "50007",
+      "label": "msg_bgm",
+      "ja": "曲",
+      "zh_hans": "背景音乐"
+    },
+    {
+      "id": "50008",
+      "label": "msg_voice",
+      "ja": "ボイス",
+      "zh_hans": "语音"
+    },
+    {
+      "id": "50009",
+      "label": "msg_se",
+      "ja": "ゲーム効果音",
+      "zh_hans": "游戏音效"
+    },
+    {
+      "id": "50010",
+      "label": "msg_vision_pc",
+      "ja": "右ドラッグで移動",
+      "zh_hans": "按住鼠标右键拖动以移动画面"
+    },
+    {
+      "id": "50011",
+      "label": "msg_vision_sp",
+      "ja": "二本指タッチ＋スクロールで移動",
+      "zh_hans": "双指触摸并滑动以移动画面"
+    },
+    {
+      "id": "50012",
+      "label": "msg_vision2",
+      "ja": "画面表示設定",
+      "zh_hans": "画面显示设置"
+    },
+    {
+      "id": "50013",
+      "label": "msg_reset",
+      "ja": "初期設定に戻す",
+      "zh_hans": "恢复默认设置"
+    },
+    {
+      "id": "50014",
+      "label": "msg_manual",
+      "ja": "操作説明",
+      "zh_hans": "操作说明"
+    },
+    {
+      "id": "50015",
+      "label": "msg_menu",
+      "ja": "メニュー効果音",
+      "zh_hans": "菜单音效"
+    },
+    {
+      "id": "50016",
+      "label": "msg_query_exit",
+      "ja": "アプリを終了します。\tよろしいですか？",
+      "zh_hans": "即将退出游戏。\t确定要退出吗？"
+    },
+    {
+      "id": "50017",
+      "label": "msg_vision_pc1",
+      "ja": "拡大表示\t(端末にあわせる)",
+      "zh_hans": "放大显示\t（适应设备屏幕）"
+    },
+    {
+      "id": "50018",
+      "label": "msg_vision_pc2",
+      "ja": "固定表示\t(ゲーム画面にあわせる)",
+      "zh_hans": "固定显示\t（适应游戏画面）"
+    },
+    {
+      "id": "50019",
+      "label": "msg_master",
+      "ja": "マスターボリューム",
+      "zh_hans": "主音量"
+    },
+    {
+      "id": "50020",
+      "label": "msg_langsec",
+      "ja": "言語",
+      "zh_hans": "语言"
+    },
+    {
+      "id": "50021",
+      "label": "msg_autospeed",
+      "ja": "オート時テキスト表示速度",
+      "zh_hans": "自动播放时的文字显示速度"
+    },
+    {
+      "id": "50022",
+      "label": "msg_pagespeed",
+      "ja": "固定待機時間",
+      "zh_hans": "固定等待时间"
+    },
+    {
+      "id": "50023",
+      "label": "msg_full",
+      "ja": "フルスクリーン表示",
+      "zh_hans": "全屏显示"
+    },
+    {
+      "id": "50024",
+      "label": "msg_lang",
+      "ja": "言語切り替え",
+      "zh_hans": "切换语言"
+    },
+    {
+      "id": "50025",
+      "label": "msg_soundsec",
+      "ja": "音量",
+      "zh_hans": "音量"
+    },
+    {
+      "id": "50026",
+      "label": "msg_viewsec",
+      "ja": "画面",
+      "zh_hans": "画面"
+    },
+    {
+      "id": "50027",
+      "label": "msg_cvsec",
+      "ja": "キャラクターボイス切替",
+      "zh_hans": "角色语音开关"
+    },
+    {
+      "id": "50028",
+      "label": "msg_langat",
+      "ja": "自動",
+      "zh_hans": "自动"
+    },
+    {
+      "id": "50029",
+      "label": "msg_langja",
+      "ja": "日本語",
+      "zh_hans": "日本語"
+    },
+    {
+      "id": "50030",
+      "label": "msg_langen",
+      "ja": "英語",
+      "zh_hans": "English"
+    },
+    {
+      "id": "50031",
+      "label": "msg_textspeed",
+      "ja": "メッセージ長比例時間",
+      "zh_hans": "随文字长度增加的等待时间"
+    },
+    {
+      "id": "50032",
+      "label": "msg_sample",
+      "ja": "これはサンプルテキストです。\tこの文字数で、このような表示切り替え時間となります。",
+      "zh_hans": "这是一段示例文字。\t以此段文字的长度为例，翻页前的等待时间如下。"
+    },
+    {
+      "id": "50033",
+      "label": "msg_sample_s",
+      "ja": "サンプルテキストです。",
+      "zh_hans": "这是一段示例文字。"
+    },
+    {
+      "id": "50034",
+      "label": "msg_cvvol",
+      "ja": "ボイス音量",
+      "zh_hans": "语音音量"
+    },
+    {
+      "id": "50035",
+      "label": "msg_autoskipsec",
+      "ja": "オート再生・早送り設定",
+      "zh_hans": "自动播放与快进设置"
+    },
+    {
+      "id": "50036",
+      "label": "msg_skipstop",
+      "ja": "クリックで「早送り」を解除する",
+      "zh_hans": "点击时停止快进"
+    },
+    {
+      "id": "50037",
+      "label": "msg_branchstop",
+      "ja": "選択肢が表示された時「早送り」を解除する",
+      "zh_hans": "出现选项时停止快进"
+    },
+    {
+      "id": "50038",
+      "label": "msg_unreadskip",
+      "ja": "初めて閲覧するシーンでも「早送り」を継続する",
+      "zh_hans": "首次阅读的场景也继续快进"
+    },
+    {
+      "id": "50039",
+      "label": "msg_skipresume",
+      "ja": "未読メッセージで「早送り状態」を解除する",
+      "zh_hans": "遇到未读文字时退出快进状态"
+    },
+    {
+      "id": "50040",
+      "label": "msg_autostop",
+      "ja": "クリックで「オート再生」を解除する",
+      "zh_hans": "点击时停止自动播放"
+    },
+    {
+      "id": "50041",
+      "label": "msg_autonext",
+      "ja": "「オート再生中」にクリックしてページ送りをする",
+      "zh_hans": "自动播放时允许点击翻页"
+    },
+    {
+      "id": "50042",
+      "label": "msg_vostsec",
+      "ja": "ボイス停止条件",
+      "zh_hans": "语音停止条件"
+    },
+    {
+      "id": "50043",
+      "label": "msg_vost",
+      "ja": "入力によるボイスの停止モード",
+      "zh_hans": "操作时的语音停止方式"
+    },
+    {
+      "id": "50044",
+      "label": "msg_vostevery",
+      "ja": "常に停止",
+      "zh_hans": "总是停止"
+    },
+    {
+      "id": "50045",
+      "label": "msg_vostplay",
+      "ja": "ボイス再生時に停止",
+      "zh_hans": "播放下一段语音时停止"
+    },
+    {
+      "id": "50046",
+      "label": "msg_vostspk",
+      "ja": "同一話者ボイス\t再生時のみ停止",
+      "zh_hans": "仅在同一角色\t播放下一段语音时停止"
+    },
+    {
+      "id": "50047",
+      "label": "msg_systemsec",
+      "ja": "システム設定",
+      "zh_hans": "系统设置"
+    },
+    {
+      "id": "50048",
+      "label": "msg_hidecursor",
+      "ja": "一定時間操作がなければマウスカーソルを非表示にする",
+      "zh_hans": "一段时间未操作时隐藏鼠标指针"
+    },
+    {
+      "id": "50049",
+      "label": "msg_vorbidss",
+      "ja": "オートモード中スクリーンセーバーを起動させない",
+      "zh_hans": "自动播放时禁用屏幕保护程序"
+    },
+    {
+      "id": "50090",
+      "label": "msg_advance",
+      "ja": "高度な設定",
+      "zh_hans": "高级设置"
+    },
+    {
+      "id": "50091",
+      "label": "msg_cvdesc",
+      "ja": "アイコンを長押しするとボリュームを変更できます",
+      "zh_hans": "长按角色图标可调整音量"
+    },
+    {
+      "id": "50092",
+      "label": "msg_vostsecm",
+      "ja": "ボイス停止条件",
+      "zh_hans": "语音停止条件"
+    },
+    {
+      "id": "50093",
+      "label": "msg_low",
+      "ja": "低解像度モードで動作",
+      "zh_hans": "使用低分辨率模式"
+    },
+    {
+      "id": "50094",
+      "label": "msg_lowreso",
+      "ja": "低解像度モードで起動します。\tこの設定はオプション画面で\t変更できます。",
+      "zh_hans": "将以低分辨率模式启动。\t此设置可在选项画面中更改。"
+    },
+    {
+      "id": "50095",
+      "label": "msg_reboot",
+      "ja": "アプリケーションを再起動しますがよろしいですか？\t保存されていないデータ等は失われます。",
+      "zh_hans": "即将重新启动游戏。\t尚未保存的进度将会丢失。\t确定要重启吗？"
+    },
+    {
+      "id": "50096",
+      "label": "msg_reboot2",
+      "ja": "アプリケーションを再起動しますが\tよろしいですか？\t保存されていないデータ等は\t失われます。",
+      "zh_hans": "即将重新启动游戏。\t尚未保存的进度将会丢失。\t确定要重启吗？"
+    }
+  ]
+}

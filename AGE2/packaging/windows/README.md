@@ -16,4 +16,8 @@ python AGE2/tools/runtime/build_installers.py --staging <五部候选包目录> 
 
 输入采用 `age2-cn-package-1` 清单和 `age2-exe-delta-1` 差分。构建需要 Windows 自带的 .NET Framework C# 编译器。`--inspect <报告路径>` 只展开包并检查安装界面／目录识别，不执行安装，保留展开目录供复核。
 
-当前产物标注“验收版”。安装程序通过不代表内容翻译、全部场景和语言切换均已验收；内容状态以五部修订记录为准。
+公开发布使用 `--release`，版本配置见 `../releases/2026-09-20.json`。该模式输出 `*-CN-BETA-<版本>-Setup.exe`，界面不再附加“验收版”。安装程序通过不代表内容翻译、全部场景和语言切换均已验收；内容状态以对应 Release 的验证范围为准。
+
+私有合法资源工作区的整理入口已公开为 `AGE2/tools/runtime/stage_packages.py --workspace <研究资源根目录> --versions AGE2/packaging/releases/2026-09-20.json`。它读取每部现有运行配置、候选资源和合法提取的原程序，在新的 staging 目录创建清单、程序差分及资源副本；公开仓库不包含原游戏资源或研究工作区。
+
+开场单页源模板见 `AGE2/tools/images/boot_notice_template.py`。用 Noto Sans SC 在 Chrome 的 1920×1080 视口渲染后，`package_boot_notice.py` 保持横屏文字像素不变，居中放入原生 1920×1440 画布；竖屏资源保持完整页面和原生画布尺寸。

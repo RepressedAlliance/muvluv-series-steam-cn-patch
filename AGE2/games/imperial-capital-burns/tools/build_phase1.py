@@ -786,7 +786,10 @@ def render_telop(
 
     canvas = Image.new("RGBA", canvas_size, (0, 0, 0, 0))
     draw = ImageDraw.Draw(canvas)
-    spacing = 4
+    from importlib.util import spec_from_file_location, module_from_spec
+    spec = spec_from_file_location('caption_layout', Path(__file__).resolve().parents[3] / 'tools/images/caption_layout.py')
+    layout_module = module_from_spec(spec)
+    spec.loader.exec_module(layout_module)
     stroke = 2
     # Raised captions share the screen with dialogue. Their English ink height
     # is also a viewport constraint; extra Chinese lines can clip at the top.
@@ -797,28 +800,16 @@ def render_telop(
         lines: list[str] = []
         copy = text.replace("|", "") if max_ink_height is not None else text
         for manual_line in copy.split("|"):
-            lines.extend(_wrap_line(draw, manual_line, font, canvas.width - 120))
-        rendered = "\n".join(lines)
-        bbox = draw.multiline_textbbox(
-            (0, 0), rendered, font=font, spacing=spacing, align="center", stroke_width=stroke
-        )
-        if max_ink_height is None or bbox[3] - bbox[1] <= max_ink_height:
+            lines.extend(_wrap_line(draw, manual_line.strip(), font, canvas.width - 120))
+        block, _ = layout_module.caption_block(lines, font_path, size, line_pitch=32,
+            scale=1, stroke=stroke, stroke_fill=(0,0,0,255))
+        if max_ink_height is None or block.height <= max_ink_height:
             break
     else:
         raise ValueError("raised telop cannot fit at the shared 24px size; revise its line breaks")
-    height = bbox[3] - bbox[1]
-    y = bottom_y - height - bbox[1]
-    draw.multiline_text(
-        (canvas.width // 2, y),
-        rendered,
-        font=font,
-        fill=(255, 255, 255, 255),
-        stroke_width=stroke,
-        stroke_fill=(0, 0, 0, 255),
-        spacing=spacing,
-        align="center",
-        anchor="ma",
-    )
+    if block.width>canvas.width or block.height>bottom_y:
+        raise ValueError('telop exceeds native canvas')
+    canvas.alpha_composite(block, ((canvas.width-block.width)//2, bottom_y-block.height))
     # Font advance widths include side bearings and trailing punctuation space.
     # Anchor the visible ink, not those metrics, to the engine's caption plane.
     ink_box = canvas.getchannel("A").getbbox()

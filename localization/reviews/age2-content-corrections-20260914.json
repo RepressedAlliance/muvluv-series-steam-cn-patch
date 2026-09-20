@@ -1,0 +1,226 @@
+{
+  "schema": "age2-content-corrections/v1",
+  "edits": [
+    {
+      "file": "AGE2/games/imperial-capital-burns/images/copy/telop.ja-zh-Hans.tsv",
+      "id": "40",
+      "changes": {
+        "zh_cn": {
+          "before": "这次一定让你见识我磨炼出的驾驶技术，|等着瞧吧！",
+          "after": "这次一定让你见识我磨炼出的双剑术，|等着瞧吧！"
+        }
+      },
+      "source_text_sha256": "7866A6A54EE1A5BF91233B98AE8B1C9A036124D0B5C285D557C854F8130E2C58"
+    },
+    {
+      "file": "AGE2/games/imperial-capital-burns/images/copy/telop.ja-zh-Hans.tsv",
+      "id": "64",
+      "changes": {
+        "speaker_jp": {
+          "before": "篁忠道",
+          "after": "田上忠道"
+        }
+      },
+      "source_text_sha256": "1417BBE624E03B5F3EFD9DC87113B41E54C90B35B7480D7E2BA1DD8B3019407C"
+    },
+    {
+      "file": "AGE2/games/imperial-capital-burns/images/copy/telop.ja-zh-Hans.tsv",
+      "id": "65",
+      "changes": {
+        "speaker_jp": {
+          "before": "篁忠道",
+          "after": "田上忠道"
+        },
+        "zh_cn": {
+          "before": "现在，我想和泉一起，|再走一遍那些承载回忆的地方。",
+          "after": "现在，我想和和泉一起，|再走一遍那些承载回忆的地方。"
+        }
+      },
+      "source_text_sha256": "85BD520688779AE970E9DC6FCC747DD47E2CDBC534A85060DBA5FB85E4879A9F"
+    },
+    {
+      "file": "AGE2/games/imperial-capital-burns/images/copy/telop.ja-zh-Hans.tsv",
+      "id": "66",
+      "changes": {
+        "speaker_jp": {
+          "before": "篁忠道",
+          "after": "田上忠道"
+        }
+      },
+      "source_text_sha256": "A096F7D68B743457A92BE2FF7FA31551667FCCA54F59B4D86FFFC6CAEB1C2B68"
+    },
+    {
+      "file": "AGE2/games/imperial-capital-burns/images/copy/telop.ja-zh-Hans.tsv",
+      "id": "67",
+      "changes": {
+        "speaker_jp": {
+          "before": "篁忠道",
+          "after": "田上忠道"
+        }
+      },
+      "source_text_sha256": "6EA9EED23BA2BBD20013E5DA14CFBF8492A07C94742B7AA9C97F55B41069ACF0"
+    },
+    {
+      "file": "AGE2/games/imperial-capital-burns/images/copy/telop.ja-zh-Hans.tsv",
+      "id": "68",
+      "changes": {
+        "speaker_jp": {
+          "before": "篁忠道",
+          "after": "田上忠道"
+        },
+        "zh_cn": {
+          "before": "当然，我作为斯卫卫士奋战的觉悟从未改变。|但我也真心希望，能明确自己作为“篁忠道”而战的理由。",
+          "after": "当然，我作为斯卫卫士奋战的觉悟从未改变。|但我也真心希望，能明确自己作为“田上忠道”而战的理由。"
+        }
+      },
+      "source_text_sha256": "33AEBC12F2BBBBAE2C5CF9A46F07457B52BFB5D579519A7119A61161D931265E"
+    },
+    {
+      "file": "AGE2/games/imperial-capital-burns/images/copy/telop.ja-zh-Hans.tsv",
+      "id": "69",
+      "changes": {
+        "speaker_jp": {
+          "before": "篁忠道",
+          "after": "田上忠道"
+        }
+      },
+      "source_text_sha256": "A065882C2745C3B2ECC1358B654301B5576F0DF409BB141A1EDC0373877C3D6B"
+    },
+    {
+      "file": "AGE2/games/imperial-capital-burns/images/copy/telop.ja-zh-Hans.tsv",
+      "id": "70",
+      "changes": {
+        "speaker_jp": {
+          "before": "篁忠道",
+          "after": "田上忠道"
+        }
+      },
+      "source_text_sha256": "B2B0A036802D11722E3BB2FEA56F0C110C9A5467544D758CD7D7B49C48553EE8"
+    },
+    {
+      "file": "AGE2/games/imperial-capital-burns/images/copy/telop.ja-zh-Hans.tsv",
+      "id": "71",
+      "changes": {
+        "speaker_jp": {
+          "before": "篁忠道",
+          "after": "田上忠道"
+        }
+      },
+      "source_text_sha256": "9458F158F8546806FBCDAE41687F9C93840957CE6710F6DA1CEAF3B9F959BD7B"
+    },
+    {
+      "file": "AGE2/games/imperial-capital-burns/images/copy/telop.ja-zh-Hans.tsv",
+      "id": "72",
+      "changes": {
+        "speaker_jp": {
+          "before": "篁忠道",
+          "after": "田上忠道"
+        }
+      },
+      "source_text_sha256": "1ECBD69F7E557852A8BE0E8489EBEEB942D79F2AA95B3BCB9AEADC2F190035F4"
+    },
+    {
+      "file": "AGE2/games/imperial-capital-burns/images/copy/telop.ja-zh-Hans.tsv",
+      "id": "73",
+      "changes": {
+        "speaker_jp": {
+          "before": "篁忠道",
+          "after": "田上忠道"
+        }
+      },
+      "source_text_sha256": "5C3D6435A8CBB0C45E7EA58123F3A2F95832BDF8E2BBD52544A3EEA6ADDBF335"
+    },
+    {
+      "file": "AGE2/games/imperial-capital-burns/images/copy/telop.ja-zh-Hans.tsv",
+      "id": "80",
+      "changes": {
+        "zh_cn": {
+          "before": "保密频道已开启。通告全舰。|所有炮门准备发射！",
+          "after": "开启保密频道，通告全舰。|所有炮门准备发射！所有炮门准备发射！"
+        }
+      },
+      "source_text_sha256": "530FFDC3BFF300446A9115E4C7C2B74ECED129679E46C14E5A68C0B69D85827D"
+    },
+    {
+      "file": "AGE2/games/imperial-capital-burns/images/copy/telop.ja-zh-Hans.tsv",
+      "id": "82",
+      "changes": {
+        "speaker_jp": {
+          "before": "篁忠道",
+          "after": "田上忠道"
+        }
+      },
+      "source_text_sha256": "5C3D6435A8CBB0C45E7EA58123F3A2F95832BDF8E2BBD52544A3EEA6ADDBF335"
+    },
+    {
+      "file": "AGE2/games/imperial-capital-burns/translations/main.ja-zh-Hans.csv",
+      "id": "game_t00064",
+      "changes": {
+        "cn_text": {
+          "before": "「哪有哪有，你每次约好见面都早到，家格硬塞给你的麻烦差事也从不抱怨。唉，我们家是外样真是太好了～」\\p",
+          "after": "「哪有哪有，你每次约好见面都早到，因为家格而被摊派的麻烦差事也从不抱怨。唉，我们家是外样真是太好了～」\\p"
+        }
+      },
+      "source_text_sha256": "F6246F4CCEE68A6EBFE844C2D0C83BB8B23AEEB29DE868E5AE27513432734444"
+    },
+    {
+      "file": "AGE2/games/tda03/translations/ja-zh-Hans.csv",
+      "id": "tda03_t01311",
+      "changes": {
+        "cn_text": {
+          "before": "只有这个时间有空。政威军监阁下出席会议期间，才是唯一能确保整块时间的时间。",
+          "after": "毕竟之前已经闹出过一次乱子了啊……。"
+        }
+      },
+      "source_text_sha256": "55E960D26FBE26FC0D8D2611F9CBB292DBAA426AE8201605221DF83F7DA76990"
+    },
+    {
+      "file": "AGE2/games/imperial-capital-burns/images/copy/telop.ja-zh-Hans.tsv",
+      "id": "10",
+      "changes": {
+        "zh_cn": {
+          "before": "这种被命名为“对人类敌对的异星起源种”的地外生命，|以适应火星、宇宙空间与月面的强韧生命力，|以及压倒性的数量粉碎人类抵抗，席卷了月球。",
+          "after": "这种被命名为“对人类敌对的异星起源种”的外星生命体，|凭借无惧火星、宇宙空间与月面恶劣环境的生命力和适应力，|更凭借压倒性的数量，击溃了仅靠轻武装抵抗的人类，席卷月球。"
+        }
+      },
+      "source_text_sha256": "0078FBFFEF511215ECC25B469B80A57B6952BBE0891B10FF5348C2B798D8FAFF"
+    },
+    {
+      "file": "AGE2/games/imperial-capital-burns/images/copy/telop.ja-zh-Hans.tsv",
+      "id": "32",
+      "changes": {
+        "zh_cn": {
+          "before": "下一个！I小队！到起始线！",
+          "after": "下一个！C小队！到起始线！"
+        }
+      },
+      "source_text_sha256": "FDD2D31FC840BB8BCAC8BCA0A3FB423A65CA166677D6F59036F0F39F290B9914"
+    },
+    {
+      "file": "AGE2/games/imperial-capital-burns/images/copy/telop.ja-zh-Hans.tsv",
+      "id": "75",
+      "changes": {
+        "zh_cn": {
+          "before": "专机整备，确认！|准备出击！",
+          "after": "各机整备人员，|准备出击！"
+        }
+      },
+      "source_text_sha256": "CCCC1F190E3D6510CDA5E0734FB09D7C957F6B867E1EFEBE30BBA282A8EFE898"
+    },
+    {
+      "file": "AGE2/games/imperial-capital-burns/images/copy/telop.ja-zh-Hans.tsv",
+      "id": "89",
+      "changes": {
+        "zh_cn": {
+          "before": "大、大概等我任官以后吧。|毕竟是这种世道，还得顾及两家的社会颜面……对吧。",
+          "after": "大、大概等我任官以后吧。|毕竟是这种世道，还得顾及斯卫的社会颜面……对吧。"
+        }
+      },
+      "source_text_sha256": "8BAA201E26823A181E75E400D90412D2FDA18772D74C06EAB5048D8959B2BBDE"
+    }
+  ],
+  "limitations": [
+    "Caption fixes use Japanese audio ASR and context, not written Japanese subtitles.",
+    "No installed game files were changed."
+  ]
+}

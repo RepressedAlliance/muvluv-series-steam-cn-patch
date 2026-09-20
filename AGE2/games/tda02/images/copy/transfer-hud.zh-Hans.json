@@ -1,0 +1,57 @@
+[
+  {
+    "game": "tda02",
+    "source_relative": "assets/data_spec/adv/game/chr/900_戦術機コクピットオブジェクト/テロップ類大縦半分_/テロップ類大縦半分_着座情報転送中.webp",
+    "source_sha256": "d2e1cdeef4cd037c1e046c57c45de525acd8d7cc4c722a368c5950050a355ab4",
+    "zh_cn": "乘员信息|传输中",
+    "source_jp": "着座情報|転送中",
+    "font_size": 80,
+    "horizontal_scale": 1.5,
+    "vertical_scales": [
+      1,
+      0.5
+    ],
+    "clear_boxes": [
+      [
+        45,
+        38,
+        622,
+        171
+      ]
+    ],
+    "placements": [
+      {
+        "text": "乘员信息",
+        "box": [
+          50,
+          40,
+          616,
+          117
+        ],
+        "ink_bbox": [
+          94,
+          40,
+          570,
+          117
+        ]
+      },
+      {
+        "text": "传输中",
+        "box": [
+          50,
+          119,
+          616,
+          168
+        ],
+        "ink_bbox": [
+          153,
+          124,
+          505,
+          162
+        ]
+      }
+    ],
+    "native_frame_and_english_preserved": true,
+    "runtime_review": "pending"
+  }
+]
