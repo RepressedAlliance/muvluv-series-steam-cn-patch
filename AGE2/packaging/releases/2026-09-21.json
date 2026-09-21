@@ -1,3 +1,7 @@
 {
-  "tda00": {"version": "BETA 0.2.1", "tag": "tda00-BETA-0.2.1", "title": "Muv-Luv TDA00 汉化补丁 BETA 0.2.1 · 一键与手动安装整合包"}
+  "tda00": {"version": "BETA 0.2.1", "tag": "tda00-BETA-0.2.1", "title": "Muv-Luv TDA00 汉化补丁 BETA 0.2.1"},
+  "tda01": {"version": "BETA 0.3.3", "tag": "tda01-BETA-0.3.3", "title": "Muv-Luv TDA01 汉化补丁 BETA 0.3.3"},
+  "tda02": {"version": "BETA 0.2.1", "tag": "tda02-BETA-0.2.1", "title": "Muv-Luv TDA02 汉化补丁 BETA 0.2.1"},
+  "tda03": {"version": "BETA 0.2.7", "tag": "tda03-BETA-0.2.7", "title": "Muv-Luv TDA03 汉化补丁 BETA 0.2.7"},
+  "tm": {"version": "BETA 0.2.1", "tag": "imperial-capital-burns-BETA-0.2.1", "title": "帝都燃烧篇 汉化补丁 BETA 0.2.1"}
 }
