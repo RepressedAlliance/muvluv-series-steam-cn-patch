@@ -2,21 +2,33 @@
 
 [返回首页](../../README.md) · [English](../en/player-guide.md) · [研究与制作入口](../research/README.md) · [提交 Bug](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/issues/new?template=bug-report.yml)
 
-## AGE2 BETA · TDA00 安装方式更新 2026-09-21
+## AGE2 BETA · 安装方式更新 2026-09-21
 
 | 游戏 | 版本 | 下载 |
 | --- | --- | --- |
-| TDA00 | **BETA 0.2.1** | [整合包 ZIP（一键／手动）](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/download/tda00-BETA-0.2.1/TDA00-CN-BETA-0.2.1-Complete.zip) · [发布说明](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/tag/tda00-BETA-0.2.1) |
-| TDA01 | **BETA 0.3.2** | [安装程序 EXE](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/download/tda01-BETA-0.3.2/tda01-CN-BETA-0.3.2-Setup.exe) · [发布说明](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/tag/tda01-BETA-0.3.2) |
-| TDA02 | **BETA 0.2.0** | [安装程序 EXE](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/download/tda02-BETA-0.2.0/tda02-CN-BETA-0.2.0-Setup.exe) · [发布说明](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/tag/tda02-BETA-0.2.0) |
-| TDA03 | **BETA 0.2.6** | [安装程序 EXE](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/download/tda03-BETA-0.2.6/tda03-CN-BETA-0.2.6-Setup.exe) · [发布说明](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/tag/tda03-BETA-0.2.6) |
-| 帝都燃烧篇 | **BETA 0.2.0** | [安装程序 EXE](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/download/imperial-capital-burns-BETA-0.2.0/tm-CN-BETA-0.2.0-Setup.exe) · [发布说明](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/tag/imperial-capital-burns-BETA-0.2.0) |
+| TDA00 | **BETA 0.2.1** | [下载汉化补丁](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/download/tda00-BETA-0.2.1/TDA00-CN-BETA-0.2.1-Complete.zip) · [发布说明](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/tag/tda00-BETA-0.2.1) |
+| TDA01 | **BETA 0.3.3** | [下载汉化补丁](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/download/tda01-BETA-0.3.3/TDA01-CN-BETA-0.3.3-Patch.zip) · [发布说明](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/tag/tda01-BETA-0.3.3) |
+| TDA02 | **BETA 0.2.1** | [下载汉化补丁](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/download/tda02-BETA-0.2.1/TDA02-CN-BETA-0.2.1-Patch.zip) · [发布说明](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/tag/tda02-BETA-0.2.1) |
+| TDA03 | **BETA 0.2.7** | [下载汉化补丁](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/download/tda03-BETA-0.2.7/TDA03-CN-BETA-0.2.7-Patch.zip) · [发布说明](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/tag/tda03-BETA-0.2.7) |
+| 帝都燃烧篇 | **BETA 0.2.1** | [下载汉化补丁](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/download/imperial-capital-burns-BETA-0.2.1/TM-CN-BETA-0.2.1-Patch.zip) · [发布说明](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/tag/imperial-capital-burns-BETA-0.2.1) |
 
-TDA00 BETA 0.2.1：解压 ZIP 后任选一键安装或手动复制。手动安装时，把 `game` 内五个文件复制到 TDA00 游戏目录（先备份原 EXE）；把整个 `root` 复制到 `%LOCALAPPDATA%\ancr\tda00\data`（旧 root 先改名保留，不动 user）。启动游戏后选择中文。不需要运行任何生成工具。汉化内容与 0.2.0 相同，已正常安装无需重装。
+五部作品都提供一键安装和手动复制。解压后只有四项：`安装说明.txt`、`root`、`game` 和安装器。
 
-Windows x64 Steam：退出游戏 → 运行对应 EXE → 安装 → 在游戏设置中选择中文。无需旧补丁。安装器保留旧资源和原程序，不改玩家存档。
+**一键安装：**退出游戏 → 运行安装器 → 选择本作目录 → 安装。
 
-恢复：先在游戏内切回英文或日文，再退出游戏，将对应 `ancr/<game>/data/root` 移到备份位置，保留 `data/user`；恢复游戏目录 `.age2-cn/original.exe` 为原 EXE 文件名，并移走本补丁的 `FridaGadget.dll`、`FridaGadget.config`、`age2-cn.js`、`COPYING-frida.txt`。各发布页附具体说明、SHA-256 和资源清单。
+**手动安装：**退出游戏并备份原 EXE，将 `game` 里的五个文件复制到本作游戏目录，同名覆盖；将整个 `root` 复制到下表位置。已有 `root` 先改名保留，**不要动 `user`**。无需运行生成工具。
+
+| 游戏 | root 放到这里 |
+| --- | --- |
+| TDA00 | `%LOCALAPPDATA%\ancr\tda00\data` |
+| TDA01 | `%LOCALAPPDATA%\ancr\tda01\data` |
+| TDA02 | `%LOCALAPPDATA%\ancr\tda02\data` |
+| TDA03 | `%LOCALAPPDATA%\ancr\tda03\data` |
+| 帝都燃烧 | `%LOCALAPPDATA%\ancr\tm\data` |
+
+安装后从 Steam 启动游戏，在设置里选择中文。本次汉化内容不变，已正常安装上一版无需重装。
+
+恢复原版：先切回英文或日文，再退出游戏。保留 `data/user`，将 `data/root` 和游戏目录中的 `FridaGadget.dll`、`FridaGadget.config`、`age2-cn.js`、`COPYING-frida.txt` 移到备份位置；恢复自行备份的原 EXE（安装器备份为 `.age2-cn/original.exe`），或用 Steam 验证恢复程序。Steam 验证不会移走 AppData 的补丁资源。
 
 旧 ZIP 的安装与恢复说明见[历史版本说明](historical-age2.md)，不适用于新版安装器。
 
@@ -28,8 +40,8 @@ Windows x64 Steam：退出游戏 → 运行对应 EXE → 安装 → 在游戏�
 
 | 游戏 | 版本 | 下载 |
 | --- | --- | --- |
-| Muv-Luv 光子之花 | **BETA 0.1.1** | [ZIP](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/download/pf-BETA-0.1.1/MuvLuv_PF_CN_Patch_BETA_0.1.1.zip) · [发布页](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/tag/pf-BETA-0.1.1) |
-| Muv-Luv 光子旋律 | **BETA 0.1.1** | [ZIP](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/download/pm-BETA-0.1.1/MuvLuv_PM_CN_Patch_BETA_0.1.1.zip) · [发布页](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/tag/pm-BETA-0.1.1) |
+| Muv-Luv 光子之花 | **BETA 0.1.1** | [下载汉化补丁](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/download/pf-BETA-0.1.1/MuvLuv_PF_CN_Patch_BETA_0.1.1.zip) · [发布页](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/tag/pf-BETA-0.1.1) |
+| Muv-Luv 光子旋律 | **BETA 0.1.1** | [下载汉化补丁](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/download/pm-BETA-0.1.1/MuvLuv_PM_CN_Patch_BETA_0.1.1.zip) · [发布页](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/tag/pm-BETA-0.1.1) |
 
 Steam 语言设为 **English（英语）**，等待下载完成并退出游戏；解压 ZIP，双击 EXE，点击“安装汉化”。无需安装旧版，也无需手动运行校验脚本。安装器自动定位游戏目录，未找到时选择对应文件夹。
 

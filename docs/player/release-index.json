@@ -307,20 +307,20 @@
     },
     {
       "game_id": "tda01",
-      "version": "BETA 0.3.2",
-      "release_tag": "tda01-BETA-0.3.2",
-      "asset_name": "tda01-CN-BETA-0.3.2-Setup.exe",
-      "asset_url": "https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/download/tda01-BETA-0.3.2/tda01-CN-BETA-0.3.2-Setup.exe",
-      "asset_bytes": 90075648,
-      "asset_sha256": "f75b840b511382c613ac2bcad537d3f76b3a916a5fd44befb7db34fabcaac388",
-      "source_commit": "4486b827d854b2199ff95f7415ae9ce2e5c181b1",
+      "version": "BETA 0.3.3",
+      "release_tag": "tda01-BETA-0.3.3",
+      "asset_name": "TDA01-CN-BETA-0.3.3-Patch.zip",
+      "asset_url": "https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/download/tda01-BETA-0.3.3/TDA01-CN-BETA-0.3.3-Patch.zip",
+      "asset_bytes": 185176906,
+      "asset_sha256": "231dfe85f7bad07b23d32ebe6dc294604ee5a7ef5799de3a6bf7e42219303465",
+      "source_commit": "7e4ec24003028440fcc49ed338f893aca6df06e4",
       "installer_target": "Steam game directory + %LOCALAPPDATA%\\ancr\\tda01\\data\\root",
       "overlay_root": "%LOCALAPPDATA%\\ancr\\tda01\\data\\root",
       "status": "BETA",
       "prerelease": true,
       "player_installable": true,
-      "checksum_url": "https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/download/tda01-BETA-0.3.2/tda01-SHA256SUMS.txt",
-      "manifest_url": "https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/download/tda01-BETA-0.3.2/tda01-release-manifest.json",
+      "checksum_url": "https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/download/tda01-BETA-0.3.3/tda01-SHA256SUMS.txt",
+      "manifest_url": "https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/download/tda01-BETA-0.3.3/tda01-release-manifest.json",
       "steam_input": {
         "appid": "1407090",
         "buildid": "7714198",
@@ -328,27 +328,27 @@
         "exe_sha256": "588779f6d3a9b8d6e175ef824e97817d3390f06e207c263f95c79c53915d79e5"
       },
       "known_limitations": [
-        "BETA: not a full-route playthrough",
-        "Windows x64 only; Steam Deck/Proton unverified",
-        "Installer gates the executable; recorded pack hash is reference evidence, not an installer-enforced pack gate"
+        "Windows x64 Steam only; Steam Deck/Proton unverified",
+        "Manual copy does not enforce the target executable version",
+        "No new live-game test for this packaging update; translation content unchanged from BETA 0.3.2"
       ]
     },
     {
       "game_id": "tda02",
-      "version": "BETA 0.2.0",
-      "release_tag": "tda02-BETA-0.2.0",
-      "asset_name": "tda02-CN-BETA-0.2.0-Setup.exe",
-      "asset_url": "https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/download/tda02-BETA-0.2.0/tda02-CN-BETA-0.2.0-Setup.exe",
-      "asset_bytes": 89756672,
-      "asset_sha256": "a7f973b1fe063ed93bdd39aa5354272f411872a2cdba9baf226058ca5293c84e",
-      "source_commit": "4486b827d854b2199ff95f7415ae9ce2e5c181b1",
+      "version": "BETA 0.2.1",
+      "release_tag": "tda02-BETA-0.2.1",
+      "asset_name": "TDA02-CN-BETA-0.2.1-Patch.zip",
+      "asset_url": "https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/download/tda02-BETA-0.2.1/TDA02-CN-BETA-0.2.1-Patch.zip",
+      "asset_bytes": 184505638,
+      "asset_sha256": "aecf9bb738a5e8ab8abd99f9dc4aa0936477d0b8b51b037b463cae5b4bce963f",
+      "source_commit": "7e4ec24003028440fcc49ed338f893aca6df06e4",
       "installer_target": "Steam game directory + %LOCALAPPDATA%\\ancr\\tda02\\data\\root",
       "overlay_root": "%LOCALAPPDATA%\\ancr\\tda02\\data\\root",
       "status": "BETA",
       "prerelease": true,
       "player_installable": true,
-      "checksum_url": "https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/download/tda02-BETA-0.2.0/tda02-SHA256SUMS.txt",
-      "manifest_url": "https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/download/tda02-BETA-0.2.0/tda02-release-manifest.json",
+      "checksum_url": "https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/download/tda02-BETA-0.2.1/tda02-SHA256SUMS.txt",
+      "manifest_url": "https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/download/tda02-BETA-0.2.1/tda02-release-manifest.json",
       "steam_input": {
         "appid": "1342410",
         "buildid": "7719569",
@@ -356,27 +356,27 @@
         "exe_sha256": "5c0275fd17e1218153af61d8019fd8424d0fa365f989ced41f78422da10ed697"
       },
       "known_limitations": [
-        "BETA: not a full-route playthrough",
-        "Windows x64 only; Steam Deck/Proton unverified",
-        "Installer gates the executable; recorded pack hash is reference evidence, not an installer-enforced pack gate"
+        "Windows x64 Steam only; Steam Deck/Proton unverified",
+        "Manual copy does not enforce the target executable version",
+        "No new live-game test for this packaging update; translation content unchanged from BETA 0.2.0"
       ]
     },
     {
       "game_id": "tda03",
-      "version": "BETA 0.2.6",
-      "release_tag": "tda03-BETA-0.2.6",
-      "asset_name": "tda03-CN-BETA-0.2.6-Setup.exe",
-      "asset_url": "https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/download/tda03-BETA-0.2.6/tda03-CN-BETA-0.2.6-Setup.exe",
-      "asset_bytes": 90535424,
-      "asset_sha256": "b4e533f4a7e11f6e9c69572143c069bcb82a3c180effc4a6f66fc1cd9aedc55d",
-      "source_commit": "4486b827d854b2199ff95f7415ae9ce2e5c181b1",
+      "version": "BETA 0.2.7",
+      "release_tag": "tda03-BETA-0.2.7",
+      "asset_name": "TDA03-CN-BETA-0.2.7-Patch.zip",
+      "asset_url": "https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/download/tda03-BETA-0.2.7/TDA03-CN-BETA-0.2.7-Patch.zip",
+      "asset_bytes": 186047261,
+      "asset_sha256": "387ff29f4f154fc7ff31100cd8e65036dccf0156a8db50ee6bac4167773f84e8",
+      "source_commit": "7e4ec24003028440fcc49ed338f893aca6df06e4",
       "installer_target": "Steam game directory + %LOCALAPPDATA%\\ancr\\tda03\\data\\root",
       "overlay_root": "%LOCALAPPDATA%\\ancr\\tda03\\data\\root",
       "status": "BETA",
       "prerelease": true,
       "player_installable": true,
-      "checksum_url": "https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/download/tda03-BETA-0.2.6/tda03-SHA256SUMS.txt",
-      "manifest_url": "https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/download/tda03-BETA-0.2.6/tda03-release-manifest.json",
+      "checksum_url": "https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/download/tda03-BETA-0.2.7/tda03-SHA256SUMS.txt",
+      "manifest_url": "https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/download/tda03-BETA-0.2.7/tda03-release-manifest.json",
       "steam_input": {
         "appid": "789830",
         "buildid": "7719701",
@@ -384,27 +384,27 @@
         "exe_sha256": "aa3fd9e0c383a4e7733a9d17e663d201183fcb8d2dc04906b6448ade83753374"
       },
       "known_limitations": [
-        "BETA: not a full-route playthrough",
-        "Windows x64 only; Steam Deck/Proton unverified",
-        "Installer gates the executable; recorded pack hash is reference evidence, not an installer-enforced pack gate"
+        "Windows x64 Steam only; Steam Deck/Proton unverified",
+        "Manual copy does not enforce the target executable version",
+        "No new live-game test for this packaging update; translation content unchanged from BETA 0.2.6"
       ]
     },
     {
       "game_id": "imperial-capital-burns",
-      "version": "BETA 0.2.0",
-      "release_tag": "imperial-capital-burns-BETA-0.2.0",
-      "asset_name": "tm-CN-BETA-0.2.0-Setup.exe",
-      "asset_url": "https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/download/imperial-capital-burns-BETA-0.2.0/tm-CN-BETA-0.2.0-Setup.exe",
-      "asset_bytes": 125877760,
-      "asset_sha256": "9e5008b28c0c58ff8b49777cd07516cd6e0d5fbd61941ca4ba16bc9df3abb540",
-      "source_commit": "4486b827d854b2199ff95f7415ae9ce2e5c181b1",
+      "version": "BETA 0.2.1",
+      "release_tag": "imperial-capital-burns-BETA-0.2.1",
+      "asset_name": "TM-CN-BETA-0.2.1-Patch.zip",
+      "asset_url": "https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/download/imperial-capital-burns-BETA-0.2.1/TM-CN-BETA-0.2.1-Patch.zip",
+      "asset_bytes": 255997846,
+      "asset_sha256": "2339159806c993ad7c4b184ae21482f0b98be5217421c2252c22299be97ca6d4",
+      "source_commit": "7e4ec24003028440fcc49ed338f893aca6df06e4",
       "installer_target": "Steam game directory + %LOCALAPPDATA%\\ancr\\tm\\data\\root",
       "overlay_root": "%LOCALAPPDATA%\\ancr\\tm\\data\\root",
       "status": "BETA",
       "prerelease": true,
       "player_installable": true,
-      "checksum_url": "https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/download/imperial-capital-burns-BETA-0.2.0/tm-SHA256SUMS.txt",
-      "manifest_url": "https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/download/imperial-capital-burns-BETA-0.2.0/tm-release-manifest.json",
+      "checksum_url": "https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/download/imperial-capital-burns-BETA-0.2.1/tm-SHA256SUMS.txt",
+      "manifest_url": "https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/download/imperial-capital-burns-BETA-0.2.1/tm-release-manifest.json",
       "steam_input": {
         "appid": "2630300",
         "buildid": "12696612",
@@ -412,9 +412,9 @@
         "exe_sha256": "a8b4338129f416025e7de219f32dc60807b41d8a2f21d3145dfb2a3872416e46"
       },
       "known_limitations": [
-        "BETA: not a full-route playthrough",
-        "Windows x64 only; Steam Deck/Proton unverified",
-        "Installer gates the executable; recorded pack hash is reference evidence, not an installer-enforced pack gate"
+        "Windows x64 Steam only; Steam Deck/Proton unverified",
+        "Manual copy does not enforce the target executable version",
+        "No new live-game test for this packaging update; translation content unchanged from BETA 0.2.0"
       ]
     }
   ],
