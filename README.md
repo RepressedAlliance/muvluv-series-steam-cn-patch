@@ -33,11 +33,11 @@ These are Chinese localization patches, not English patches or full games.
 
 ### 补丁下载
 
-请选择与你拥有的游戏完全对应的补丁。AGE2 下载表中的安装 EXE，PF／PM 下载补丁 ZIP；不要下载 GitHub 自动生成的 Source code ZIP。
+请选择与你拥有的游戏完全对应的补丁。TDA00 下载整合包 ZIP，其他 AGE2 下载安装 EXE，PF／PM 下载补丁 ZIP；不要下载 GitHub 自动生成的 Source code ZIP。
 
 | 游戏 | 当前公开版本 | 下载与说明 |
 | --- | --- | --- |
-| TDA00 | **BETA 0.2.0** | [安装程序 EXE](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/download/tda00-BETA-0.2.0/tda00-CN-BETA-0.2.0-Setup.exe) · [发布说明](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/tag/tda00-BETA-0.2.0) |
+| TDA00 | **BETA 0.2.1** | [整合包 ZIP（一键／手动）](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/download/tda00-BETA-0.2.1/TDA00-CN-BETA-0.2.1-Complete.zip) · [发布说明](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/tag/tda00-BETA-0.2.1) |
 | TDA01 | **BETA 0.3.2** | [安装程序 EXE](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/download/tda01-BETA-0.3.2/tda01-CN-BETA-0.3.2-Setup.exe) · [发布说明](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/tag/tda01-BETA-0.3.2) |
 | TDA02 | **BETA 0.2.0** | [安装程序 EXE](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/download/tda02-BETA-0.2.0/tda02-CN-BETA-0.2.0-Setup.exe) · [发布说明](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/tag/tda02-BETA-0.2.0) |
 | TDA03 | **BETA 0.2.6** | [安装程序 EXE](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/download/tda03-BETA-0.2.6/tda03-CN-BETA-0.2.6-Setup.exe) · [发布说明](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/tag/tda03-BETA-0.2.6) |
@@ -79,6 +79,8 @@ Steam 语言设为 **English（英语）**，等待下载完成并退出游戏�
 光子之花、光子旋律均不创建备份、不附卸载器。恢复原版时保留存档，通过 Steam 卸载、清除对应游戏目录的汉化残留，再重新下载；不要清空整个 Steam 目录。详见[玩家指南](docs/player/README.md)。
 
 ### AGE2 安装与恢复
+
+TDA00 BETA 0.2.1 整合包同时提供一键安装和手动复制，安装器无法运行时可按包内说明复制 `game` 与 `root`。汉化内容与 0.2.0 相同，已正常安装的玩家无需重装。
 
 完全退出游戏，运行上表对应的安装 EXE，确认目录并点击“安装汉化”。重新启动游戏后，在游戏设置中选择“中文”。无需预装旧补丁。
 
