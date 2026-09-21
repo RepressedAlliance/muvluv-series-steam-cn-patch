@@ -113,7 +113,7 @@ FridaGadget.dll、FridaGadget.config、age2-cn.js、COPYING-frida.txt。
 """
     (folder / '安装说明.txt').write_text(readme, encoding='utf-8-sig')
     expected['安装说明.txt'] = digest((folder / '安装说明.txt').read_bytes())
-    archive = args.output / (game.upper() + '-CN-' + m['version'].replace(' ', '-') + ('-Complete.zip' if args.installer else '-CopyOnly-Test.zip'))
+    archive = args.output / (game.upper() + '-CN-' + m['version'].replace(' ', '-') + ('-Patch.zip' if args.installer else '-CopyOnly-Test.zip'))
     with zipfile.ZipFile(archive, 'x', zipfile.ZIP_DEFLATED, compresslevel=6) as z:
         for name in expected:
             z.write(folder / name, name)
