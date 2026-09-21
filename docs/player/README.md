@@ -2,19 +2,21 @@
 
 [返回首页](../../README.md) · [English](../en/player-guide.md) · [研究与制作入口](../research/README.md) · [提交 Bug](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/issues/new?template=bug-report.yml)
 
-## AGE2 BETA · 2026-09-20
+## AGE2 BETA · TDA00 安装方式更新 2026-09-21
 
 | 游戏 | 版本 | 下载 |
 | --- | --- | --- |
-| TDA00 | **BETA 0.2.0** | [安装程序 EXE](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/download/tda00-BETA-0.2.0/tda00-CN-BETA-0.2.0-Setup.exe) · [发布说明](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/tag/tda00-BETA-0.2.0) |
+| TDA00 | **BETA 0.2.1** | [整合包 ZIP（一键／手动）](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/download/tda00-BETA-0.2.1/TDA00-CN-BETA-0.2.1-Complete.zip) · [发布说明](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/tag/tda00-BETA-0.2.1) |
 | TDA01 | **BETA 0.3.2** | [安装程序 EXE](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/download/tda01-BETA-0.3.2/tda01-CN-BETA-0.3.2-Setup.exe) · [发布说明](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/tag/tda01-BETA-0.3.2) |
 | TDA02 | **BETA 0.2.0** | [安装程序 EXE](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/download/tda02-BETA-0.2.0/tda02-CN-BETA-0.2.0-Setup.exe) · [发布说明](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/tag/tda02-BETA-0.2.0) |
 | TDA03 | **BETA 0.2.6** | [安装程序 EXE](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/download/tda03-BETA-0.2.6/tda03-CN-BETA-0.2.6-Setup.exe) · [发布说明](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/tag/tda03-BETA-0.2.6) |
 | 帝都燃烧篇 | **BETA 0.2.0** | [安装程序 EXE](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/download/imperial-capital-burns-BETA-0.2.0/tm-CN-BETA-0.2.0-Setup.exe) · [发布说明](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/tag/imperial-capital-burns-BETA-0.2.0) |
 
+TDA00 BETA 0.2.1：解压 ZIP 后任选一键安装或手动复制。手动安装时，把 `game` 内五个文件复制到 TDA00 游戏目录（先备份原 EXE）；把整个 `root` 复制到 `%LOCALAPPDATA%\ancr\tda00\data`（旧 root 先改名保留，不动 user）。启动游戏后选择中文。不需要运行任何生成工具。汉化内容与 0.2.0 相同，已正常安装无需重装。
+
 Windows x64 Steam：退出游戏 → 运行对应 EXE → 安装 → 在游戏设置中选择中文。无需旧补丁。安装器保留旧资源和原程序，不改玩家存档。
 
-恢复：退出游戏，将对应 `ancr/<game>/data/root` 移到备份位置，保留 `data/user`；恢复游戏目录 `.age2-cn/original.exe` 为原 EXE 文件名，并移走本补丁的 `FridaGadget.dll`、`FridaGadget.config`、`age2-cn.js`、`COPYING-frida.txt`。各发布页附具体说明、SHA-256 和资源清单。
+恢复：先在游戏内切回英文或日文，再退出游戏，将对应 `ancr/<game>/data/root` 移到备份位置，保留 `data/user`；恢复游戏目录 `.age2-cn/original.exe` 为原 EXE 文件名，并移走本补丁的 `FridaGadget.dll`、`FridaGadget.config`、`age2-cn.js`、`COPYING-frida.txt`。各发布页附具体说明、SHA-256 和资源清单。
 
 旧 ZIP 的安装与恢复说明见[历史版本说明](historical-age2.md)，不适用于新版安装器。
 

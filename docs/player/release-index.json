@@ -279,20 +279,20 @@
   "age2_player_packages": [
     {
       "game_id": "tda00",
-      "version": "BETA 0.2.0",
-      "release_tag": "tda00-BETA-0.2.0",
-      "asset_name": "tda00-CN-BETA-0.2.0-Setup.exe",
-      "asset_url": "https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/download/tda00-BETA-0.2.0/tda00-CN-BETA-0.2.0-Setup.exe",
-      "asset_bytes": 86909952,
-      "asset_sha256": "a8aade90eabe3017278e57e694480349b81f64ca544d8b3bc062fc0d40ed43f1",
-      "source_commit": "4486b827d854b2199ff95f7415ae9ce2e5c181b1",
+      "version": "BETA 0.2.1",
+      "release_tag": "tda00-BETA-0.2.1",
+      "asset_name": "TDA00-CN-BETA-0.2.1-Complete.zip",
+      "asset_url": "https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/download/tda00-BETA-0.2.1/TDA00-CN-BETA-0.2.1-Complete.zip",
+      "asset_bytes": 178866231,
+      "asset_sha256": "ab55573afad0a84c7576ac67fcfcac953d534b3c9190045ed8f66d4446610a32",
+      "source_commit": "ef1794ee58ac1976a147df22a557de1ec4c3caa6",
       "installer_target": "Steam game directory + %LOCALAPPDATA%\\ancr\\tda00\\data\\root",
       "overlay_root": "%LOCALAPPDATA%\\ancr\\tda00\\data\\root",
       "status": "BETA",
       "prerelease": true,
       "player_installable": true,
-      "checksum_url": "https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/download/tda00-BETA-0.2.0/tda00-SHA256SUMS.txt",
-      "manifest_url": "https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/download/tda00-BETA-0.2.0/tda00-release-manifest.json",
+      "checksum_url": "https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/download/tda00-BETA-0.2.1/tda00-SHA256SUMS.txt",
+      "manifest_url": "https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/download/tda00-BETA-0.2.1/tda00-release-manifest.json",
       "steam_input": {
         "appid": "1407100",
         "buildid": "7713868",
@@ -300,9 +300,9 @@
         "exe_sha256": "35c19eae2ca9497bf3aae975b990b65992e492ed9a2a39c65558342832a9dce5"
       },
       "known_limitations": [
-        "BETA: not a full-route playthrough",
-        "Windows x64 only; Steam Deck/Proton unverified",
-        "Installer gates the executable; recorded pack hash is reference evidence, not an installer-enforced pack gate"
+        "Windows x64 Steam only; Steam Deck/Proton unverified",
+        "Manual copy does not enforce the target executable version",
+        "Not a full-route playthrough; translation content unchanged from BETA 0.2.0"
       ]
     },
     {
@@ -418,5 +418,5 @@
       ]
     }
   ],
-  "age2_updated_date": "2026-09-20"
+  "age2_updated_date": "2026-09-21"
 }
