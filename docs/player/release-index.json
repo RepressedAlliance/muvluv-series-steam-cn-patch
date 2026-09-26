@@ -224,16 +224,16 @@
       "locale": "zh-Hans",
       "status": "published",
       "player_installable": true,
-      "version": "BETA 0.1.1",
+      "version": "BETA 0.1.2",
       "prerelease": false,
-      "build_id": "2026.09.14-r4",
-      "release_tag": "pf-BETA-0.1.1",
-      "asset_name": "MuvLuv_PF_CN_Patch_BETA_0.1.1.zip",
-      "asset_url": "https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/download/pf-BETA-0.1.1/MuvLuv_PF_CN_Patch_BETA_0.1.1.zip",
-      "asset_sha256": "BE7E3FB423C414CB5C6E03C3F4BA7EFADBB864C4D3FCE6213B1E6751243F7332",
-      "asset_bytes": 112876347,
-      "checksum_url": "https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/download/pf-BETA-0.1.1/MuvLuv_PF_CN_Patch_BETA_0.1.1_SHA256SUMS.txt",
-      "source_commit": "180af792265e2a710afb555b967b69c47ed6d58a",
+      "build_id": "2026.09.26-r5",
+      "release_tag": "pf-BETA-0.1.2",
+      "asset_name": "MuvLuv_PF_CN_Patch_BETA_0.1.2.zip",
+      "asset_url": "https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/download/pf-BETA-0.1.2/MuvLuv_PF_CN_Patch_BETA_0.1.2.zip",
+      "asset_sha256": "0B95B7C4891551E77A2AFB1C3AD865D2A1ED9A8008F548AB578405548C0C11C2",
+      "asset_bytes": 112876872,
+      "checksum_url": "https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/download/pf-BETA-0.1.2/MuvLuv_PF_CN_Patch_BETA_0.1.2_SHA256SUMS.txt",
+      "source_commit": "ebb0ba5ff27800b10b29ce8de54cd7596664ed2e",
       "installer_target": "<SteamLibrary>/steamapps/common/Muv-Luv photonflowers",
       "package_root": ".",
       "archive_entry_count": 2,
@@ -243,8 +243,11 @@
       "known_limitations": [
         "Windows Steam English route only",
         "No full-route exhaustive gameplay claim",
-        "No automatic rollback"
-      ]
+        "No automatic rollback",
+        "Intermittent English image fallback remains unresolved"
+      ],
+      "proofreading_credit": "柚子コショウ",
+      "manifest_url": "https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/download/pf-BETA-0.1.2/pf-release-manifest.json"
     },
     {
       "game_id": "pm",
@@ -253,16 +256,16 @@
       "locale": "zh-Hans",
       "status": "published",
       "player_installable": true,
-      "version": "BETA 0.1.1",
+      "version": "BETA 0.1.2",
       "prerelease": false,
-      "build_id": "2026.09.11-r4",
-      "release_tag": "pm-BETA-0.1.1",
-      "asset_name": "MuvLuv_PM_CN_Patch_BETA_0.1.1.zip",
-      "asset_url": "https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/download/pm-BETA-0.1.1/MuvLuv_PM_CN_Patch_BETA_0.1.1.zip",
-      "asset_sha256": "85D9D023494570ABC7025F10F924517706E706B722B86515C43AD5D34C5D9BAF",
-      "asset_bytes": 152585277,
-      "checksum_url": "https://github.com/imnotsureyi-sys/muvluv-series-steam-cn-patch/releases/download/pm-BETA-0.1.1/MuvLuv_PM_CN_Patch_BETA_0.1.1_SHA256SUMS.txt",
-      "source_commit": "12aa06a951e529b6596149330eb39faac1f069a1",
+      "build_id": "2026.09.26-r5",
+      "release_tag": "pm-BETA-0.1.2",
+      "asset_name": "MuvLuv_PM_CN_Patch_BETA_0.1.2.zip",
+      "asset_url": "https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/download/pm-BETA-0.1.2/MuvLuv_PM_CN_Patch_BETA_0.1.2.zip",
+      "asset_sha256": "BA430BEA497872073D532801CA43E21A105B15FE963E752E1D200896AE6FC67F",
+      "asset_bytes": 152585769,
+      "checksum_url": "https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/download/pm-BETA-0.1.2/MuvLuv_PM_CN_Patch_BETA_0.1.2_SHA256SUMS.txt",
+      "source_commit": "ebb0ba5ff27800b10b29ce8de54cd7596664ed2e",
       "installer_target": "<SteamLibrary>/steamapps/common/Muv-Luv photonmelodies",
       "package_root": ".",
       "archive_entry_count": 2,
@@ -272,8 +275,11 @@
       "known_limitations": [
         "Windows Steam English route only",
         "No full-route exhaustive gameplay claim",
-        "No automatic rollback"
-      ]
+        "No automatic rollback",
+        "Rebirth ending animation embedded English text remains untranslated"
+      ],
+      "proofreading_credit": "柚子コショウ",
+      "manifest_url": "https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/download/pm-BETA-0.1.2/pm-release-manifest.json"
     }
   ],
   "age2_player_packages": [
@@ -418,5 +424,6 @@
       ]
     }
   ],
-  "age2_updated_date": "2026-09-21"
+  "age2_updated_date": "2026-09-21",
+  "photon_updated_date": "2026-09-26"
 }
