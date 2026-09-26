@@ -9,6 +9,23 @@ from rUGP.tools.text.chapter_review import COLUMNS, cells, decoded, read_chapter
 
 
 class ChapterReviewTests(unittest.TestCase):
+    def historical_protected_bytes(self, root, relative):
+        """Reverse only the subsequent, explicitly recorded proofreading edits."""
+        raw = (root.parent / relative).read_bytes()
+        followup = json.loads((root / 'evidence/photon/text/paratranz-20260926.json').read_text(encoding='utf8'))
+        records = [r for r in followup['files'] if r['file'] == relative]
+        if not records:
+            return raw
+        self.assertEqual(len(records), 1)
+        record = records[0]
+        self.assertEqual(hashlib.sha256(raw).hexdigest(), record['after_sha256'])
+        for edit in reversed(record['edits']):
+            after, before = edit['after'].encode('utf8'), edit['before'].encode('utf8')
+            self.assertEqual(raw.count(after), 1)
+            raw = raw.replace(after, before, 1)
+        self.assertEqual(hashlib.sha256(raw).hexdigest(), record['before_sha256'])
+        return raw
+
     def test_historical_correction_chain_and_current_readonly_bindings(self):
         root = Path(__file__).resolve().parents[2] / "games"
         audit = json.loads((root.parent / "evidence/photon/text/terminology-20260908.json").read_text(encoding="utf-8"))
@@ -128,7 +145,7 @@ class ChapterReviewTests(unittest.TestCase):
         root = Path(__file__).resolve().parents[2]
         audit = json.loads((root / "evidence/photon/text/latin-decisions-20260909-round2.json").read_text(encoding="utf-8"))
         self.assertEqual(audit['approved_decisions'], [3,19,20,23,24,25,37,39,43,44,45,46,47,48,49,55,61,63,64,66])
-        self.assertEqual(hashlib.sha256((root.parent / audit['protected_file']).read_bytes()).hexdigest(), audit['protected_sha256'])
+        self.assertEqual(hashlib.sha256(self.historical_protected_bytes(root, audit['protected_file'])).hexdigest(), audit['protected_sha256'])
         for edit in audit['edits']:
             self.assertNotEqual(edit['file'], audit['protected_file'])
             self.assertNotEqual(edit['before'], edit['after'])
@@ -141,7 +158,7 @@ class ChapterReviewTests(unittest.TestCase):
         root = Path(__file__).resolve().parents[2]
         audit = json.loads((root / "evidence/photon/text/latin-decisions-20260909.json").read_text(encoding="utf-8"))
         protected = root.parent / audit["protected_file"]
-        self.assertEqual(hashlib.sha256(protected.read_bytes()).hexdigest(), audit["protected_sha256"])
+        self.assertEqual(hashlib.sha256(self.historical_protected_bytes(root, audit['protected_file'])).hexdigest(), audit["protected_sha256"])
         self.assertEqual(audit["approved_decisions"], [1, 2, 4, 13, 26, 35, 36, 38, 40, 41, 42])
         rules = {
             1: [(r"Mach 15", "15马赫")], 2: [(r"DELETE", "删除")],

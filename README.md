@@ -42,8 +42,8 @@ These are Chinese localization patches, not English patches or full games.
 | TDA02 | **BETA 0.2.1** | [下载汉化补丁](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/download/tda02-BETA-0.2.1/TDA02-CN-BETA-0.2.1-Patch.zip) · [发布说明](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/tag/tda02-BETA-0.2.1) |
 | TDA03 | **BETA 0.2.7** | [下载汉化补丁](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/download/tda03-BETA-0.2.7/TDA03-CN-BETA-0.2.7-Patch.zip) · [发布说明](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/tag/tda03-BETA-0.2.7) |
 | 帝都燃烧篇 | **BETA 0.2.1** | [下载汉化补丁](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/download/imperial-capital-burns-BETA-0.2.1/TM-CN-BETA-0.2.1-Patch.zip) · [发布说明](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/tag/imperial-capital-burns-BETA-0.2.1) |
-| 光子之花 | **BETA 0.1.1** | **[下载汉化补丁](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/download/pf-BETA-0.1.1/MuvLuv_PF_CN_Patch_BETA_0.1.1.zip)** · [发布说明](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/tag/pf-BETA-0.1.1) |
-| 光子旋律 | **BETA 0.1.1** | **[下载汉化补丁](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/download/pm-BETA-0.1.1/MuvLuv_PM_CN_Patch_BETA_0.1.1.zip)** · [发布说明](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/tag/pm-BETA-0.1.1) |
+| 光子之花 | **BETA 0.1.2** | **[下载汉化补丁](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/download/pf-BETA-0.1.2/MuvLuv_PF_CN_Patch_BETA_0.1.2.zip)** · [发布说明](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/tag/pf-BETA-0.1.2) |
+| 光子旋律 | **BETA 0.1.2** | **[下载汉化补丁](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/download/pm-BETA-0.1.2/MuvLuv_PM_CN_Patch_BETA_0.1.2.zip)** · [发布说明](https://github.com/RepressedAlliance/muvluv-series-steam-cn-patch/releases/tag/pm-BETA-0.1.2) |
 
 ### 作品名称与常用简称
 
@@ -78,6 +78,8 @@ Steam 语言设为 **English（英语）**，等待下载完成并退出游戏�
 
 光子之花、光子旋律均不创建备份、不附卸载器。恢复原版时保留存档，通过 Steam 卸载、清除对应游戏目录的汉化残留，再重新下载；不要清空整个 Steam 目录。详见[玩家指南](docs/player/README.md)。
 
+本次校对及反馈致谢：**柚子コショウ**。详见[两款 BETA 0.1.2 更新说明](docs/project/photon-beta012-proofreading.md)。
+
 ### AGE2 安装与恢复
 
 TDA00—03 与帝都燃烧均支持一键安装和手动复制。解压后包含 `安装说明.txt`、`root`、`game` 和安装器四项，任选一种方式安装；手动安装无需运行任何生成工具。启动游戏后，在设置中选择中文。
@@ -89,7 +91,7 @@ TDA00—03 与帝都燃烧均支持一键安装和手动复制。解压后包含
 光子之花／光子旋律的技术来源分类、上游版本、82 项技术职责与完整路线演变，详细请见 **[技术来源分类与完整蓝图](docs/research/photon/README.md)**。
 
 - **TDA00—03、帝都燃烧篇：**2026-09-20 BETA 更新已纳入本轮校对、术语和排版修正，采用独立中文槽与有版本检查的安装器；仍在持续实机验证。
-- **光子之花、光子旋律：**已正式公开发布 **BETA 0.1.1**，光子之花、光子旋律各有独立安装包。旧 Photon 图片研究资产仍不是游戏安装包。
+- **光子之花、光子旋律：**已正式公开发布 **BETA 0.1.2**，光子之花、光子旋律各有独立安装包。旧 Photon 图片研究资产仍不是游戏安装包。
 
 ### 问题反馈
 
