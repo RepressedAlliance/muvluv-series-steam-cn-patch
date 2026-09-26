@@ -1,0 +1,261 @@
+{
+  "date": "2026-09-26",
+  "credit": "柚子コショウ",
+  "scope": "PF 24 and PM 23 proofreading changes; PM wording implementation assisted by Codex",
+  "files": [
+    {
+      "file": "rUGP/games/photonflowers/translations/告白.csv",
+      "before_sha256": "53496898a414d979e94877212cd2c714ce1da5cf16f046856c1b52754a6265b3",
+      "after_sha256": "d867e6e2d49f33f1def854629c42966a9d820ff6e656c1e6771ab5f9929ad557",
+      "edits": [
+        {
+          "before": "pf:vm:photonflowers11.rio.002:1342639132:00031256:00074,cvm,【藤泽】「——哦哦！？不愧是理论课公主·缪拉加里子R！」<01>,[],layout_only,166b3cad70528aae1b4dbb51be8634019493b6f9f06c3796b5c785381d0f68c8,707556b62b51a2ab91fa9ef143d80a132d32969275a32e3830beec63f0273dc0\n",
+          "after": "pf:vm:photonflowers11.rio.002:1342639132:00031256:00074,cvm,【藤泽】「——哦哦！？不愧是理论课公主·三浦加里子R！」<01>,[],layout_only,166b3cad70528aae1b4dbb51be8634019493b6f9f06c3796b5c785381d0f68c8,707556b62b51a2ab91fa9ef143d80a132d32969275a32e3830beec63f0273dc0\n"
+        },
+        {
+          "before": "pf:vm:photonflowers11.rio.002:1342639132:00036076:00085,cvm,【藤泽】「大事不好——缪拉·加里子开始堕入黑暗面了！<0A>——这是系列后半段的剧情！！」<01>,[],layout_only,d134ef549f85469d7dc99a6c7d5d006cb493f41e5846188e290a67b6fee69202,2d548ce9d7ac06892999b5c1e7196d678fb4bd220047fa03cbd85f6656b2bf33\n",
+          "after": "pf:vm:photonflowers11.rio.002:1342639132:00036076:00085,cvm,【藤泽】「大事不好——三浦·加里子开始堕入黑暗面了！<0A>——这是系列后半段的剧情！！」<01>,[],layout_only,d134ef549f85469d7dc99a6c7d5d006cb493f41e5846188e290a67b6fee69202,2d548ce9d7ac06892999b5c1e7196d678fb4bd220047fa03cbd85f6656b2bf33\n"
+        }
+      ]
+    },
+    {
+      "file": "rUGP/games/photonflowers/translations/和小武在一起！.csv",
+      "before_sha256": "6f8df47e622c4b2f5d4220df461e9ab122f76db36930ccde3157b891c5ddcfd5",
+      "after_sha256": "acf89efe95c6a830dc61605fbba03db40d89f9ad3672472a17207e3b4f917198",
+      "edits": [
+        {
+          "before": "pf:vm:photonflowers11.rio:487283344:00004364:00018,cvm,【纯夏】「钻头牛奶～拳！！」<01>,[],historical_combined_review,6b066dd19cea88c0afc27e11524dc02f91b4b1fce58d1e57075fd10e22271ce0,6b453b5ad2fcaf71d78e85d8dc5b35b297bc19cf141a74d3de21ba59ca42ea58\n",
+          "after": "pf:vm:photonflowers11.rio:487283344:00004364:00018,cvm,【纯夏】「牛奶钻钻～拳！！」<01>,[],historical_combined_review,6b066dd19cea88c0afc27e11524dc02f91b4b1fce58d1e57075fd10e22271ce0,6b453b5ad2fcaf71d78e85d8dc5b35b297bc19cf141a74d3de21ba59ca42ea58\n"
+        }
+      ]
+    },
+    {
+      "file": "rUGP/games/photonflowers/translations/小武哥的尾巴.csv",
+      "before_sha256": "7f0a87bb450024a0d5e4e31f8890ecccd491d111ede5d940ab178a28cd34ff1a",
+      "after_sha256": "10c97a388f4efd87d5dca3f7d62a2679153a987d4a8967f99af618cb2cd54986",
+      "edits": [
+        {
+          "before": "pf:vm:photonflowers11.rio:487417908:00033540:00057,cvm,【声音】「喂～！小玉！还活着吗？」<01>,[],historical_combined_review,9b90685646f5e5b74c04a35c0da307b6691c3304f4a8fabfa468287fc9807c28,196b393f3879a9c4c0e1c475b27ce17387bf5ffc3a1ef07e951fa8a0cd3a57bb\n",
+          "after": "pf:vm:photonflowers11.rio:487417908:00033540:00057,cvm,【声音】「喂～！小珠！还活着吗？」<01>,[],historical_combined_review,9b90685646f5e5b74c04a35c0da307b6691c3304f4a8fabfa468287fc9807c28,196b393f3879a9c4c0e1c475b27ce17387bf5ffc3a1ef07e951fa8a0cd3a57bb\n"
+        },
+        {
+          "before": "pf:vm:photonflowers11.rio:487417908:00058572:00134,cvm,【武】「彩峰，你要负起责任把小玉带回教室。」<01>,[],historical_combined_review,8830fdcba82af2b2a6e66fd8a4431141bd7bddad340ecff2933f683a74b88edf,c540b94ea75bf84d30f5512be74c7350b0491043aeb47400bb2feff3f7850172\n",
+          "after": "pf:vm:photonflowers11.rio:487417908:00058572:00134,cvm,【武】「彩峰，你要负起责任把小珠带回教室。」<01>,[],historical_combined_review,8830fdcba82af2b2a6e66fd8a4431141bd7bddad340ecff2933f683a74b88edf,c540b94ea75bf84d30f5512be74c7350b0491043aeb47400bb2feff3f7850172\n"
+        },
+        {
+          "before": "pf:vm:photonflowers11.rio:487417908:00069840:00148,cvm,【武】「怎、怎么了，小玉！！」<01>,[],historical_combined_review,ba8a81271311d3c1e8b6997631735b5881160358a0daad6b8f51493c842745f6,e31daf771e13321a2e7f2958be5a80faad1cdcdd18029bd6beb49ed7370cd4cb\n",
+          "after": "pf:vm:photonflowers11.rio:487417908:00069840:00148,cvm,【武】「怎、怎么了，小珠！！」<01>,[],historical_combined_review,ba8a81271311d3c1e8b6997631735b5881160358a0daad6b8f51493c842745f6,e31daf771e13321a2e7f2958be5a80faad1cdcdd18029bd6beb49ed7370cd4cb\n"
+        },
+        {
+          "before": "pf:vm:photonflowers11.rio:487417908:00090932:00202,cvm,【武】「怎么了，小玉？肚子饿了吗？」<01>,[],historical_combined_review,6b4a949f2e4558d6c92a3dfa0790b76a729764f131e62c7b7a2744dd78b26dc8,c721b51d434de071a8d22b1118dcbd9134a45083fdad480db3e4d1be017523c1\n",
+          "after": "pf:vm:photonflowers11.rio:487417908:00090932:00202,cvm,【武】「怎么了，小珠？肚子饿了吗？」<01>,[],historical_combined_review,6b4a949f2e4558d6c92a3dfa0790b76a729764f131e62c7b7a2744dd78b26dc8,c721b51d434de071a8d22b1118dcbd9134a45083fdad480db3e4d1be017523c1\n"
+        },
+        {
+          "before": "pf:vm:photonflowers11.rio:487417908:00094284:00213,cvm,【武】「哇，小玉，你也太过分了吧。我要告诉老师。」<01>,[],historical_combined_review,697ead24c37b62cb8bc3b42a1b4f0c67f29b7ec3b1f84b008236408e922a46af,355204ce67b3d781f821a8f00eaddce10833b2a1051f08b09cb3b0bcbaf80a1b\n",
+          "after": "pf:vm:photonflowers11.rio:487417908:00094284:00213,cvm,【武】「哇，小珠，你也太过分了吧。我要告诉老师。」<01>,[],historical_combined_review,697ead24c37b62cb8bc3b42a1b4f0c67f29b7ec3b1f84b008236408e922a46af,355204ce67b3d781f821a8f00eaddce10833b2a1051f08b09cb3b0bcbaf80a1b\n"
+        },
+        {
+          "before": "pf:vm:photonflowers11.rio:487417908:00095836:00217,cvm,【武】「开玩笑的，开玩笑。<0A>小玉真是个老实的好孩子…………乖，乖。」<01>,[],historical_combined_review,9307f0b160004767ffa68a474dc51d5be5dc357771421b558ba99cc41091167b,1e1a8163958817033eb8db19ff10c515ce52236f48ef0453b424d96cafe6f303\n",
+          "after": "pf:vm:photonflowers11.rio:487417908:00095836:00217,cvm,【武】「开玩笑的，开玩笑。<0A>小珠真是个老实的好孩子…………乖，乖。」<01>,[],historical_combined_review,9307f0b160004767ffa68a474dc51d5be5dc357771421b558ba99cc41091167b,1e1a8163958817033eb8db19ff10c515ce52236f48ef0453b424d96cafe6f303\n"
+        },
+        {
+          "before": "pf:vm:photonflowers11.rio:487417908:00098760:00222,cvm,【武】「跟纯夏比起来真是天差地别。小玉是个好孩子～」<01>,[],historical_combined_review,f096a6076961bf8acb6ac2bcb554abbceecc1750695d52f3fd8b5cd3c66a0271,bc87a831b7c1850721e23c4ce11ced1273b8c544c47631baf287d467978e6fc6\n",
+          "after": "pf:vm:photonflowers11.rio:487417908:00098760:00222,cvm,【武】「跟纯夏比起来真是天差地别。小珠是个好孩子～」<01>,[],historical_combined_review,f096a6076961bf8acb6ac2bcb554abbceecc1750695d52f3fd8b5cd3c66a0271,bc87a831b7c1850721e23c4ce11ced1273b8c544c47631baf287d467978e6fc6\n"
+        },
+        {
+          "before": "pf:vm:photonflowers11.rio:487417908:00099420:00225,cvm,【武】「啊，对了。小玉，我还有一条多余的兔子尾巴。」<01>,[],historical_combined_review,53aca0870a1e0af4f13675bdace2a33b85e41775d9b31145040cba71a5e8ea4d,1d5f545c978ca7e9751c5295c517a05b4c5d1572764f03340daae65ca3a21889\n",
+          "after": "pf:vm:photonflowers11.rio:487417908:00099420:00225,cvm,【武】「啊，对了。小珠，我还有一条多余的兔子尾巴。」<01>,[],historical_combined_review,53aca0870a1e0af4f13675bdace2a33b85e41775d9b31145040cba71a5e8ea4d,1d5f545c978ca7e9751c5295c517a05b4c5d1572764f03340daae65ca3a21889\n"
+        },
+        {
+          "before": "pf:vm:photonflowers11.rio:487417908:00099776:00227,cvm,【武】「买猫尾巴时，套装里还带着一条兔子尾巴。<0A>不过嘛，我还是觉得小玉更适合猫尾巴。」<01>,[],historical_combined_review,f74e49b40a50e72d0be1b344e7d85dfc42c86155c860770b14b4206c2eed63ab,0654938e45123ef333a342b1c8173d8211502db0dc7c70bee8ff1a97d803ff89\n",
+          "after": "pf:vm:photonflowers11.rio:487417908:00099776:00227,cvm,【武】「买猫尾巴时，套装里还带着一条兔子尾巴。<0A>不过嘛，我还是觉得小珠更适合猫尾巴。」<01>,[],historical_combined_review,f74e49b40a50e72d0be1b344e7d85dfc42c86155c860770b14b4206c2eed63ab,0654938e45123ef333a342b1c8173d8211502db0dc7c70bee8ff1a97d803ff89\n"
+        },
+        {
+          "before": "pf:vm:photonflowers11.rio:487417908:00125820:00286,cvm,【武】「吵死了，纯夏！<0A>总之是在一个实在不能说的地方找到的！对吧，小玉？」<01>,[],historical_combined_review,6b746f671a8b2e11fe980a624fdac44d15596271889f7574b77bd46c84c3f42c,71c13b9c7cac39dc0690d5b4aee823d6f0c86a365f31c82f989754f41e48bec9\n",
+          "after": "pf:vm:photonflowers11.rio:487417908:00125820:00286,cvm,【武】「吵死了，纯夏！<0A>总之是在一个实在不能说的地方找到的！对吧，小珠？」<01>,[],historical_combined_review,6b746f671a8b2e11fe980a624fdac44d15596271889f7574b77bd46c84c3f42c,71c13b9c7cac39dc0690d5b4aee823d6f0c86a365f31c82f989754f41e48bec9\n"
+        },
+        {
+          "before": "pf:vm:photonflowers11.rio:487417908:00142944:00324,cvm,【武】「行了，班长也来吧！小玉，说服她！」<01>,[],historical_combined_review,2da527111404e893e402e17b8b480526c587d1d03c0180a70783c5ace52a4f30,09fa505f35e02be7a2c46be55a7bcd57f532c356db3d3aa1d32e538a63660abb\n",
+          "after": "pf:vm:photonflowers11.rio:487417908:00142944:00324,cvm,【武】「行了，班长也来吧！小珠，说服她！」<01>,[],historical_combined_review,2da527111404e893e402e17b8b480526c587d1d03c0180a70783c5ace52a4f30,09fa505f35e02be7a2c46be55a7bcd57f532c356db3d3aa1d32e538a63660abb\n"
+        },
+        {
+          "before": "pf:vm:photonflowers11.rio:487417908:00147100:00330,cvm,【武】「哦，小玉，那是什么？」<01>,[],historical_combined_review,51096d7fc8e33658eaa0f26e2302302fddabb9938d10dab074f7fb072b80bf49,f161a2685cdf96d0b22ae5910b3e6e6f42b5783f59865b330ede47c344fa392a\n",
+          "after": "pf:vm:photonflowers11.rio:487417908:00147100:00330,cvm,【武】「哦，小珠，那是什么？」<01>,[],historical_combined_review,51096d7fc8e33658eaa0f26e2302302fddabb9938d10dab074f7fb072b80bf49,f161a2685cdf96d0b22ae5910b3e6e6f42b5783f59865b330ede47c344fa392a\n"
+        },
+        {
+          "before": "pf:vm:photonflowers11.rio:487417908:00148928:00336,cvm,【武】「小玉，说服她！」<01>,[],historical_combined_review,eb5324f2a7710d89fba34d6b0fa687c6527e2f59957ad9632fcdf64a3a1865b1,60d2c6cd1c0d31969c8d7bc726d28f9ce98357b34b7f3446f536bbd323743a27\n",
+          "after": "pf:vm:photonflowers11.rio:487417908:00148928:00336,cvm,【武】「小珠，说服她！」<01>,[],historical_combined_review,eb5324f2a7710d89fba34d6b0fa687c6527e2f59957ad9632fcdf64a3a1865b1,60d2c6cd1c0d31969c8d7bc726d28f9ce98357b34b7f3446f536bbd323743a27\n"
+        },
+        {
+          "before": "pf:vm:photonflowers11.rio:487417908:00158484:00366,cvm,【武】「小玉～，怎么了～？」<01>,[],historical_combined_review,8b0592c74750febad058f11bf47bac048cad93d20164ef7f3d9d9d8946dbd163,20b42ae64055d9c1a731fb3c4a78a4418477fd01872cf6cce8fb474f3476a400\n",
+          "after": "pf:vm:photonflowers11.rio:487417908:00158484:00366,cvm,【武】「小珠～，怎么了～？」<01>,[],historical_combined_review,8b0592c74750febad058f11bf47bac048cad93d20164ef7f3d9d9d8946dbd163,20b42ae64055d9c1a731fb3c4a78a4418477fd01872cf6cce8fb474f3476a400\n"
+        },
+        {
+          "before": "pf:vm:photonflowers11.rio:487417908:00158752:00370,cvm,【武】「哇，小玉，口水，口水！！」<01>,[],historical_combined_review,78713f474d90d9c42ca62e771abc035876ba6bb288c9550d3c6b7ca2317c6b1b,3ded47722fabcdbdb078a2a3f667faf80a79e02e2a7beb3ac7dd53b6473ae557\n",
+          "after": "pf:vm:photonflowers11.rio:487417908:00158752:00370,cvm,【武】「哇，小珠，口水，口水！！」<01>,[],historical_combined_review,78713f474d90d9c42ca62e771abc035876ba6bb288c9550d3c6b7ca2317c6b1b,3ded47722fabcdbdb078a2a3f667faf80a79e02e2a7beb3ac7dd53b6473ae557\n"
+        }
+      ]
+    },
+    {
+      "file": "rUGP/games/photonflowers/translations/樱花盛开之前.csv",
+      "before_sha256": "b14b5e17598154868096f863a0a79b3789c91dee7a59153b036765c3818903d0",
+      "after_sha256": "7a87447d0ef3309b7dbdb5eeea08344d6629f00fc1743441541846d855ee927d",
+      "edits": [
+        {
+          "before": "pf:vm:photonflowers11.rio.002:630827184:00033872:00272,cvm,是指偶尔和班长、彩峰碰面这回事？<01>,[],layout_only,44888fd41a7240175854e2fa6645b6cad550db486d0d446712c51b89c3eae738,bd8a6822f6b2b0f6bfaea51297a1c82443f8c6f6de06168598325a0d6fda44b2\n",
+          "after": "pf:vm:photonflowers11.rio.002:630827184:00033872:00272,cvm,是指和班长、彩峰、小珠碰面这回事？<01>,[],layout_only,44888fd41a7240175854e2fa6645b6cad550db486d0d446712c51b89c3eae738,bd8a6822f6b2b0f6bfaea51297a1c82443f8c6f6de06168598325a0d6fda44b2\n"
+        },
+        {
+          "before": "pf:vm:photonflowers11.rio.002:1602830768:00012264:00105,cvm,一旦毕业，班长、尊人、彩峰、小玉、柏木……<0A>谁也不知道什么时候才能再见到大家。<01>,[],layout_only,539ab5274c174af5d4e0b8236eaa7889566b82978a589576a86af7e1f8e718e7,8c0aa1b527e4ad24868ef606f40a58f67af47752d480c2446f6b234c1d2113b6\n",
+          "after": "pf:vm:photonflowers11.rio.002:1602830768:00012264:00105,cvm,一旦毕业，班长、尊人、彩峰、小珠、柏木……<0A>谁也不知道什么时候才能再见到大家。<01>,[],layout_only,539ab5274c174af5d4e0b8236eaa7889566b82978a589576a86af7e1f8e718e7,8c0aa1b527e4ad24868ef606f40a58f67af47752d480c2446f6b234c1d2113b6\n"
+        },
+        {
+          "before": "pf:vm:photonflowers11.rio.002:1602830768:00110832:00641,cvm,再见了，小玉。再见了，彩峰。<01>,[],layout_only,2b2da3105e741e525b76fd94e88ec03544019f02d368f6c68d629c8eb22448d7,2aada7ba4cf1af758e53681f338cc03e5e0a877141f23597886784809370a138\n",
+          "after": "pf:vm:photonflowers11.rio.002:1602830768:00110832:00641,cvm,再见了，小珠。再见了，彩峰。<01>,[],layout_only,2b2da3105e741e525b76fd94e88ec03544019f02d368f6c68d629c8eb22448d7,2aada7ba4cf1af758e53681f338cc03e5e0a877141f23597886784809370a138\n"
+        }
+      ]
+    },
+    {
+      "file": "rUGP/games/photonflowers/translations/白银……在吃吗？.csv",
+      "before_sha256": "6d4c5ec671132e4936d41e8971192960deb69df3f902c95ea8c40f30ff4dabab",
+      "after_sha256": "921bfb2c914c5eb9425a54962e13aea3d57b17ae9ed8e885caabae398bb84b82",
+      "edits": [
+        {
+          "before": "pf:vm:photonflowers11.rio:487716956:00086200:00162,cvm,是和亲鸟走散了吗？<01>,[],historical_combined_review,184da861569714bfb0cc7f17b2aa664232e39990ed20db7a632ae6967e0fd207,0b9826f7cb9ab4df8d5a3df85d469531e1c67ed5778474dd9da33748ed866e4e\n",
+          "after": "pf:vm:photonflowers11.rio:487716956:00086200:00162,cvm,是和父母走散了吗？<01>,[],historical_combined_review,184da861569714bfb0cc7f17b2aa664232e39990ed20db7a632ae6967e0fd207,0b9826f7cb9ab4df8d5a3df85d469531e1c67ed5778474dd9da33748ed866e4e\n"
+        },
+        {
+          "before": "pf:vm:photonflowers11.rio:487716956:00125904:00231,cvm,亲鸟去哪儿了呢？也许再也见不到了……<01>,[],historical_combined_review,e8bb1b9b862ced7619cb40363ce7705de1402a4fb43144a214435d3ef9313bc9,ac28a79b54b94ad56c7f7ce53a1819270b28062c8067fcddd72222b7f6aef068\n",
+          "after": "pf:vm:photonflowers11.rio:487716956:00125904:00231,cvm,父母去哪儿了呢？也许再也见不到了……<01>,[],historical_combined_review,e8bb1b9b862ced7619cb40363ce7705de1402a4fb43144a214435d3ef9313bc9,ac28a79b54b94ad56c7f7ce53a1819270b28062c8067fcddd72222b7f6aef068\n"
+        },
+        {
+          "before": "pf:vm:photonflowers11.rio:487716956:00144380:00309,cvm,就算亲鸟不在身边，也得靠自己飞起来。<01>,[],historical_combined_review,76405ffb26d47d9f5001ec5b0190875cccacaefd22b20da8d49d7df752edbdca,b704d94c17d5e3847c8e2499b5ed42dcd3d050e8740eadbc788d28d94f69fcaf\n",
+          "after": "pf:vm:photonflowers11.rio:487716956:00144380:00309,cvm,就算父母不在身边，也得靠自己飞起来。<01>,[],historical_combined_review,76405ffb26d47d9f5001ec5b0190875cccacaefd22b20da8d49d7df752edbdca,b704d94c17d5e3847c8e2499b5ed42dcd3d050e8740eadbc788d28d94f69fcaf\n"
+        }
+      ]
+    },
+    {
+      "file": "rUGP/games/photonmelodies/translations/时空的欠片/02_白陵日常.csv",
+      "before_sha256": "498c738f7420a578663ce34e3e63a2b7b9f9ae58d31c2f617b8a204033c175ec",
+      "after_sha256": "a145013be63cb6371b338548cdac46168be954116005a2879c1c433c6cf20608",
+      "edits": [
+        {
+          "before": "pm:vm:photonmelodies11.rio.002:1544313288:00247912:00639,cvm,【沃肯】「三年级的白银吗……我记住了。」<01>,[],layout_only,3104ab8bc8c13d1871a11cd6c43319d710ceff0f0f9746e08ccadad4b2e09222,ef658b819cbdf2dbba3a9c2133f6a3027784d806a17a1b1fb30ddefe82425d11\n",
+          "after": "pm:vm:photonmelodies11.rio.002:1544313288:00247912:00639,cvm,【沃肯】「白银，三年级是吧……我记住了。」<01>,[],layout_only,3104ab8bc8c13d1871a11cd6c43319d710ceff0f0f9746e08ccadad4b2e09222,ef658b819cbdf2dbba3a9c2133f6a3027784d806a17a1b1fb30ddefe82425d11\n"
+        }
+      ]
+    },
+    {
+      "file": "rUGP/games/photonmelodies/translations/时空的欠片/03_日常与准备.csv",
+      "before_sha256": "c79898dade77d275258e6174332a4083f96cf3a475a88bf0c6f77ed1e875f2e6",
+      "after_sha256": "f955d23824d7bad39c2891b76d24cfd7f8c4988520d8155d2bd1d696e242bb69",
+      "edits": [
+        {
+          "before": "pm:vm:photonmelodies11.rio.003:839604068:00074440:00181,cvm,【沃肯】「――三年级的榊！提问要等得到许可后――」<01>,[],layout_only,30c0ea9a12e094d32194b48c9b14968948e4d01c63605d721b5d4cb7c715d282,0f982701c5687e9d761c31dccabc4cb3c40136826d3ad902d86577b7a91510e4\n",
+          "after": "pm:vm:photonmelodies11.rio.003:839604068:00074440:00181,cvm,【沃肯】「――三年级，榊！得到许可才能提问――」<01>,[],layout_only,30c0ea9a12e094d32194b48c9b14968948e4d01c63605d721b5d4cb7c715d282,0f982701c5687e9d761c31dccabc4cb3c40136826d3ad902d86577b7a91510e4\n"
+        },
+        {
+          "before": "pm:vm:photonmelodies11.rio.003:839604068:00171552:00563,cvm,【沃肯】「嗯，三年级的鉴吗。你能做什么？」<01>,[],layout_only,b4a0de0acfa7d465c650fa9f7021e76c9a6f19e1a6db498c7b4ed95a700f55d2,918da9089b983cd78a4d44b34b1360c1dc47820276fcb034fbdc27d5b46f15de\n",
+          "after": "pm:vm:photonmelodies11.rio.003:839604068:00171552:00563,cvm,【沃肯】「嗯，鉴，三年级是吧。你能做什么？」<01>,[],layout_only,b4a0de0acfa7d465c650fa9f7021e76c9a6f19e1a6db498c7b4ed95a700f55d2,918da9089b983cd78a4d44b34b1360c1dc47820276fcb034fbdc27d5b46f15de\n"
+        },
+        {
+          "before": "pm:vm:photonmelodies11.rio.003:839604068:00174136:00570,cvm,【沃肯】「你是……三年级的珠濑吧。你能做什么？」<01>,[],layout_only,770d342bcb33554c1e2ee9ded941582f15e549062e90a85e27ec54a80e7bc616,87d0ae266aafef7df5579cd03c66f3f20293f1fdf82a63fc73ba7075d7c9b0c2\n",
+          "after": "pm:vm:photonmelodies11.rio.003:839604068:00174136:00570,cvm,【沃肯】「你是……珠濑，三年级，对吧。你能做什么？」<01>,[],layout_only,770d342bcb33554c1e2ee9ded941582f15e549062e90a85e27ec54a80e7bc616,87d0ae266aafef7df5579cd03c66f3f20293f1fdf82a63fc73ba7075d7c9b0c2\n"
+        },
+        {
+          "before": "pm:vm:photonmelodies11.rio.003:839604068:00182736:00593,cvm,【沃肯】「你是……三年级的柏木，对吧」<01>,[],layout_only,2682e32a68abe635188ef9d509301fec72a2a6769758ab572621891720cf7b29,55b842e3324372f2955eabf5211f23bbf78bf59c486f44045bc5a7c8fbd4935e\n",
+          "after": "pm:vm:photonmelodies11.rio.003:839604068:00182736:00593,cvm,【沃肯】「你是……柏木，三年级，没记错吧？」<01>,[],layout_only,2682e32a68abe635188ef9d509301fec72a2a6769758ab572621891720cf7b29,55b842e3324372f2955eabf5211f23bbf78bf59c486f44045bc5a7c8fbd4935e\n"
+        },
+        {
+          "before": "pm:vm:photonmelodies11.rio.003:839604068:00196956:00649,cvm,【沃肯】「如果不想被人从背后击中，<0A>那就让自己拥有超过三年级的彩峰的能力」<01>,[],layout_only,f6f30ab08021c6be7d2c666d21597aec5a7a9a7a714551a525c24185921b8fd3,5a1c862ce3a84da2ee15883af2d51697c60ea55f0ada804fbca93ea1b5dacf64\npm:vm:photonmelodies11.rio.003:839604068:00197200:00650,cvm,【沃肯】「三年级的彩峰也是一样。若想瞄准三年级的榊，<0A>就努力让自己具备那份能力。别以为她会轻易把后背露给你」<01>,[],layout_only,8663e705b428e88d2f051995f7602b7b487996a8cc6a325483117cd28d2bae12,560f4b9890a7c0bb42ebd79db6a6534d85c50cf3b6bd1a5c62a95be472900d74\n",
+          "after": "pm:vm:photonmelodies11.rio.003:839604068:00196956:00649,cvm,【沃肯】「如果不想被人从背后击中，<0A>那就练得比三年级的彩峰更强」<01>,[],layout_only,f6f30ab08021c6be7d2c666d21597aec5a7a9a7a714551a525c24185921b8fd3,5a1c862ce3a84da2ee15883af2d51697c60ea55f0ada804fbca93ea1b5dacf64\npm:vm:photonmelodies11.rio.003:839604068:00197200:00650,cvm,【沃肯】「三年级，彩峰！你也一样。想瞄准三年级的榊，<0A>就努力练到能做到为止。别以为她会轻易把后背露给你」<01>,[],layout_only,8663e705b428e88d2f051995f7602b7b487996a8cc6a325483117cd28d2bae12,560f4b9890a7c0bb42ebd79db6a6534d85c50cf3b6bd1a5c62a95be472900d74\n"
+        },
+        {
+          "before": "pm:vm:photonmelodies11.rio.003:839604068:00199264:00656,cvm,【沃肯】「……三年级的鉴，你说自己对毅力有信心，是真的吗？」<01>,[],layout_only,a0326ed12b7b35db76f8a2b58338faab3de6007fed769d085c33d72f9d021346,af7c204595c3b5585eaef28dbd4eac5dfd84a58f7c961ce47f8e790ec5c41465\n",
+          "after": "pm:vm:photonmelodies11.rio.003:839604068:00199264:00656,cvm,【沃肯】「……三年级，鉴！你说自己对毅力有信心，是真的吗？」<01>,[],layout_only,a0326ed12b7b35db76f8a2b58338faab3de6007fed769d085c33d72f9d021346,af7c204595c3b5585eaef28dbd4eac5dfd84a58f7c961ce47f8e790ec5c41465\n"
+        },
+        {
+          "before": "pm:vm:photonmelodies11.rio.003:839604068:00202884:00664,cvm,【沃肯】「还有，三年级的白银！」<01>,[],layout_only,8e67b3f36daefb4cf387851c9b8f46fb1d9b73669ddc1a1957309f247b77e072,6015ae082717ca98ca6ea80f6e8d38c18a0b53d88e6d871d46630bc57237a27b\n",
+          "after": "pm:vm:photonmelodies11.rio.003:839604068:00202884:00664,cvm,【沃肯】「还有你，三年级的白银！」<01>,[],layout_only,8e67b3f36daefb4cf387851c9b8f46fb1d9b73669ddc1a1957309f247b77e072,6015ae082717ca98ca6ea80f6e8d38c18a0b53d88e6d871d46630bc57237a27b\n"
+        }
+      ]
+    },
+    {
+      "file": "rUGP/games/photonmelodies/translations/时空的欠片/04_小队集合.csv",
+      "before_sha256": "0801fae29950d488663823dbf1741fd52f853b0e1e5dbecb3ecb99eec5180aca",
+      "after_sha256": "57f6d52653770ee0b83b23c8d392f05f45b97d6b35a6ac4fe39991da3fad9aab",
+      "edits": [
+        {
+          "before": "pm:vm:photonmelodies11.rio.003:1272111780:00004560:00003,cvm,【沃肯】「怎么了，三年级的白银，有什么疑问吗？」<01>,[],layout_only,3a500f0d2479b830e559d46d1e0b21003618e222e9781cdb78b8ac53a25441c1,b2af329f9944f8705e1749c5bdd6f0e996bf31b45d35e1da1597148bdc24e138\n",
+          "after": "pm:vm:photonmelodies11.rio.003:1272111780:00004560:00003,cvm,【沃肯】「三年级，白银！怎么了，有什么疑问吗？」<01>,[],layout_only,3a500f0d2479b830e559d46d1e0b21003618e222e9781cdb78b8ac53a25441c1,b2af329f9944f8705e1749c5bdd6f0e996bf31b45d35e1da1597148bdc24e138\n"
+        },
+        {
+          "before": "pm:vm:photonmelodies11.rio.003:1272111780:00021108:00096,cvm,【沃肯】「——喂，三年级的白银！你到底有没有认真听！？」<01>,[],layout_only,190e74e245d178b8d81cde8c053ee8a1965e4fb0473ff8761f4d4189196962ad,0e549f8e5f3a1f878c3bc8051a53ac74cf44859720e0eb2ce39224ddf4050f74\n",
+          "after": "pm:vm:photonmelodies11.rio.003:1272111780:00021108:00096,cvm,【沃肯】「——喂，三年级，白银！你到底有没有认真听！？」<01>,[],layout_only,190e74e245d178b8d81cde8c053ee8a1965e4fb0473ff8761f4d4189196962ad,0e549f8e5f3a1f878c3bc8051a53ac74cf44859720e0eb2ce39224ddf4050f74\n"
+        },
+        {
+          "before": "pm:vm:photonmelodies11.rio.003:1272111780:00029064:00114,cvm,【沃肯】「——三年级的白银！！你在干什么！<0A>——快点过来拿！！」<01>,[],layout_only,1f7930660372b90afa952994cbbe47031b7b0b0bc648925627f8da6bf48d97f8,15611f9f7eacb3fbd5a5ccaedbc1cca52d7995e59748c80b0ba1bcf569a178e5\n",
+          "after": "pm:vm:photonmelodies11.rio.003:1272111780:00029064:00114,cvm,【沃肯】「——三年级，白银！！你在干什么！<0A>——快点过来拿！！」<01>,[],layout_only,1f7930660372b90afa952994cbbe47031b7b0b0bc648925627f8da6bf48d97f8,15611f9f7eacb3fbd5a5ccaedbc1cca52d7995e59748c80b0ba1bcf569a178e5\n"
+        },
+        {
+          "before": "pm:vm:photonmelodies11.rio.003:1272111780:00054780:00220,cvm,【沃肯】「三年级的白银……到前方 10 米处背对我们站好」<01>,[],layout_only,855c6b5be221a00ab449d92ca023123b5ef27ee7d089700a2899060398554be0,01e495df484ca823de73ab9311ebf88517185bb1d50b3772a594f16d18efd113\n",
+          "after": "pm:vm:photonmelodies11.rio.003:1272111780:00054780:00220,cvm,【沃肯】「三年级，白银……到前方 10 米处背对我们站好」<01>,[],layout_only,855c6b5be221a00ab449d92ca023123b5ef27ee7d089700a2899060398554be0,01e495df484ca823de73ab9311ebf88517185bb1d50b3772a594f16d18efd113\n"
+        },
+        {
+          "before": "pm:vm:photonmelodies11.rio.003:1272111780:00058728:00235,cvm,【沃肯】「三年级的白银，这是尊严问题」<01>,[],layout_only,df17f76a58c11346171238a33f89fde48b3be405bd1cdf7f587f5b3fa3c3a855,02c3e34250333d8690a2e485f1d2ea4438808e1bdf07f16a04bd71f2f1a59d14\n",
+          "after": "pm:vm:photonmelodies11.rio.003:1272111780:00058728:00235,cvm,【沃肯】「三年级，白银，这是尊严问题」<01>,[],layout_only,df17f76a58c11346171238a33f89fde48b3be405bd1cdf7f587f5b3fa3c3a855,02c3e34250333d8690a2e485f1d2ea4438808e1bdf07f16a04bd71f2f1a59d14\n"
+        },
+        {
+          "before": "pm:vm:photonmelodies11.rio.003:1272111780:00063036:00253,cvm,【沃肯】「三年级的白银，回答呢——」<01>,[],layout_only,3a361c3f2e5cce640ba3c35523642b272b9fb5f65c6a5315a3f0ad5fdc279b49,0e6cb455fdb1b6984b68baf9bf9a3b108db3f85228d699b262138e5536b1b678\n",
+          "after": "pm:vm:photonmelodies11.rio.003:1272111780:00063036:00253,cvm,【沃肯】「三年级，白银！怎么不回答——」<01>,[],layout_only,3a361c3f2e5cce640ba3c35523642b272b9fb5f65c6a5315a3f0ad5fdc279b49,0e6cb455fdb1b6984b68baf9bf9a3b108db3f85228d699b262138e5536b1b678\n"
+        },
+        {
+          "before": "pm:vm:photonmelodies11.rio.003:1272111780:00075536:00301,cvm,【沃肯】「那么就从小队里唯一的男性——三年级的白银开始。<0A>到前方 10 米处站好，把背朝向这边」<01>,[],layout_only,72f2137850383fa628596c9b334282b4a2022a5120ff55c272014293a927284a,69868ecec630b46dfbaed2375779aa61b572916fd7612c05b74235ef77863752\n",
+          "after": "pm:vm:photonmelodies11.rio.003:1272111780:00075536:00301,cvm,【沃肯】「那就从小队里唯一的男生——三年级的白银开始。<0A>到前方 10 米处站好，把背朝向这边」<01>,[],layout_only,72f2137850383fa628596c9b334282b4a2022a5120ff55c272014293a927284a,69868ecec630b46dfbaed2375779aa61b572916fd7612c05b74235ef77863752\n"
+        },
+        {
+          "before": "pm:vm:photonmelodies11.rio.003:1272111780:00076600:00305,cvm,【沃肯】「没有，刚才正好有下一班的班主任来跟我说话……。<0A>三年级的鉴，你，未经许可开枪了吗？」<01>,[],layout_only,687a8e32270b9ac370942a59765843caea2a8bcdf62a7881fd07a8a1652c8369,c24047c0526ef9c0c9e689f992ec2945f21cfb3c2d1e6d707845e5b113b7addb\n",
+          "after": "pm:vm:photonmelodies11.rio.003:1272111780:00076600:00305,cvm,【沃肯】「没有，刚才正好有下一班的班主任来跟我说话……。<0A>三年级，鉴！你未经许可就开枪了？」<01>,[],layout_only,687a8e32270b9ac370942a59765843caea2a8bcdf62a7881fd07a8a1652c8369,c24047c0526ef9c0c9e689f992ec2945f21cfb3c2d1e6d707845e5b113b7addb\n"
+        },
+        {
+          "before": "pm:vm:photonmelodies11.rio.003:1272111780:00082968:00319,cvm,【沃肯】「……三年级的白银……！！！」<01>,[],layout_only,841dacb51056814c53048f6728a8c7fd07c16c50e9a17804ac69b4ba3ed27206,e35cc0a9adbfd6a98b7fe1577a62aadb835eaf8feab22f28624031e5487b4069\n",
+          "after": "pm:vm:photonmelodies11.rio.003:1272111780:00082968:00319,cvm,【沃肯】「……三年级，白银……！！！」<01>,[],layout_only,841dacb51056814c53048f6728a8c7fd07c16c50e9a17804ac69b4ba3ed27206,e35cc0a9adbfd6a98b7fe1577a62aadb835eaf8feab22f28624031e5487b4069\n"
+        },
+        {
+          "before": "pm:vm:photonmelodies11.rio.003:1272111780:00124340:00462,cvm,【沃肯】「三年级的白银，那个地方作为训练设施有用吗！？」<01>,[],layout_only,8658e4cc68ff499644a8d70bcc8cb6915b0d4a00d87156561ce22a074c1f0501,39175a8e621823e5cdd7ff78a47d3fa34a83432ad5d3c32ec288939d644f372b\n",
+          "after": "pm:vm:photonmelodies11.rio.003:1272111780:00124340:00462,cvm,【沃肯】「三年级，白银！那个地方适合用来训练吗！？」<01>,[],layout_only,8658e4cc68ff499644a8d70bcc8cb6915b0d4a00d87156561ce22a074c1f0501,39175a8e621823e5cdd7ff78a47d3fa34a83432ad5d3c32ec288939d644f372b\n"
+        },
+        {
+          "before": "pm:vm:photonmelodies11.rio.003:1272111780:00147872:00527,cvm,【沃肯】「不用担心，三年级的柏木」<01>,[],layout_only,a9f9352791cfbe9f7e88b2eb50b1272810c7ca174204bf0ede11f9746d5bce82,6dfecdef880dfeb49b1e3824a289c14b9e6b5b3723fb036388af518403748d18\n",
+          "after": "pm:vm:photonmelodies11.rio.003:1272111780:00147872:00527,cvm,【沃肯】「三年级，柏木，不必担心」<01>,[],layout_only,a9f9352791cfbe9f7e88b2eb50b1272810c7ca174204bf0ede11f9746d5bce82,6dfecdef880dfeb49b1e3824a289c14b9e6b5b3723fb036388af518403748d18\n"
+        }
+      ]
+    },
+    {
+      "file": "rUGP/games/photonmelodies/translations/时空的欠片/06_通信与行动.csv",
+      "before_sha256": "7a8231f0a412d8e0386094dc3b396de290b1c5e025a1c9f2a8df95d16e522db5",
+      "after_sha256": "d154d8aff10da0abd3484c71ef5c668938c823dee5f2d85df59dc24f01a5d7de",
+      "edits": [
+        {
+          "before": "pm:vm:photonmelodies11.rio.003:1668688832:00147176:00421,cvm,【沃肯】「――只有你一个人吗？珠濑三年级生怎么了？」<01>,[],layout_only,14c3e1d949ac28d7c1dc93e82e20dfa0fa991dd9b2496b47c3b882008ecc8574,d31068f57910efe75215d0cb3d8d5dff7f6ea6ce3d93a41f1a309d60c4363058\n",
+          "after": "pm:vm:photonmelodies11.rio.003:1668688832:00147176:00421,cvm,【沃肯】「――只有你一个人吗？三年级的珠濑呢？」<01>,[],layout_only,14c3e1d949ac28d7c1dc93e82e20dfa0fa991dd9b2496b47c3b882008ecc8574,d31068f57910efe75215d0cb3d8d5dff7f6ea6ce3d93a41f1a309d60c4363058\n"
+        },
+        {
+          "before": "pm:vm:photonmelodies11.rio.003:1668688832:00151904:00429,cvm,【沃肯】「――好，白银三年级生，向我开枪。<0A>我明白你的计划了」<01>,[],layout_only,15373b4bb667d3241ebeb35d50077290ecd7d8b36cccd9fe52783570dca71081,6369754f7a12277c93be3d1fd0a8ab4d0ff3175e5e00cab03cff4c66acf04541\n",
+          "after": "pm:vm:photonmelodies11.rio.003:1668688832:00151904:00429,cvm,【沃肯】「――好，三年级，白银！向我开枪。<0A>我明白你的计划了」<01>,[],layout_only,15373b4bb667d3241ebeb35d50077290ecd7d8b36cccd9fe52783570dca71081,6369754f7a12277c93be3d1fd0a8ab4d0ff3175e5e00cab03cff4c66acf04541\n"
+        }
+      ]
+    },
+    {
+      "file": "rUGP/games/photonmelodies/translations/时空的欠片/08_住宿与安排.csv",
+      "before_sha256": "ae559f30424c52a56583858e38c38572e4882dc0e226cb51adf4c16f59a28a63",
+      "after_sha256": "42c401e08f21cd1fb214de12c72a3a4f87fa499b28ab1617e5b0d1615d3d0d11",
+      "edits": [
+        {
+          "before": "pm:vm:photonmelodies11.rio.003:1933169644:00034060:00169,cvm,他也不再在我们的名字后面加上“三年级”之类的称呼，<0A>至少看起来，他也对我们产生了几分亲近感。<01>,[],layout_only,3041aa373d89c769ae63b51416b810a1e8a5bf7710569a6c48903fe37d602015,47737c01d7178f213b1b87aa813a5ea8fd875b16119e16174ece5935e8b8acec\n",
+          "after": "pm:vm:photonmelodies11.rio.003:1933169644:00034060:00169,cvm,他称呼我们时，也不再带上“三年级”之类的字眼，<0A>至少看起来，他也对我们产生了几分亲近感。<01>,[],layout_only,3041aa373d89c769ae63b51416b810a1e8a5bf7710569a6c48903fe37d602015,47737c01d7178f213b1b87aa813a5ea8fd875b16119e16174ece5935e8b8acec\n"
+        }
+      ]
+    }
+  ]
+}
